@@ -1,0 +1,16 @@
+{
+        "default": {
+            "container-title": {},
+            "collection-title": {},
+            "institution-entire": {},
+            "institution-part": {},
+            "nickname": {},
+            "number": {},
+            "title": {},
+            "place": {},
+            "hereinafter": {},
+            "classic": {},
+            "container-phrase": {},
+            "title-phrase": {}
+        }
+}
