@@ -1,46 +1,57 @@
 [
-    {
-        "filename": "primary-international-bluebook.json", 
-        "name": "United Nations (primary sources, Bluebook style)"
-    }, 
-    {
-        "filename": "abbreviations-empty.json", 
-        "name": "Empty abbreviations list (install to remove abbreviations)"
-    }, 
-    {
-        "filename": "phrases-bluebook.json", 
-        "name": "Bluebook words and phrases (for hints)"
-    }, 
-    {
-        "filename": "phrases-empty.json", 
-        "name": "Empty Words and Phrases list (install to disable hints)"
-    }, 
-    {
-        "filename": "primary-commonwealth.json", 
-        "name": "Commonwealth jurisdictions (primary sources)"
-    }, 
-    {
-        "filename": "primary-international-commonwealth.json", 
-        "name": "United Nations (primary sources, Commonwealth styles)"
-    }, 
-    {
-        "filename": "primary-jurisdictions.json", 
-        "name": "Jurisdiction codes (all legal styles)"
-    }, 
-    {
-        "filename": "primary-us.json", 
-        "name": "United States (for primary sources)"
-    }, 
-    {
-        "filename": "secondary-america-bluebook.json", 
-        "name": "Secondary materials (North America, Bluebook styles)"
-    }, 
-    {
-        "filename": "secondary-oceania-commonwealth.json", 
-        "name": "Secondary materials (Oceania, Commonwealth styles)"
-    }, 
-    {
-        "filename": "secondary-science.json", 
-        "name": "Scientific journal abbreviations"
-    }
+  {
+    "filename": "primary-international-bluebook.json", 
+    "name": "United Nations (primary sources, Bluebook style)", 
+    "version": 1
+  }, 
+  {
+    "filename": "abbreviations-empty.json", 
+    "name": "Empty abbreviations list (install to remove abbreviations)", 
+    "version": 1
+  }, 
+  {
+    "filename": "phrases-bluebook.json", 
+    "name": "Bluebook words and phrases (for hints)", 
+    "version": 1
+  }, 
+  {
+    "filename": "phrases-empty.json", 
+    "name": "Empty Words and Phrases list (install to disable hints)", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-commonwealth.json", 
+    "name": "Commonwealth jurisdictions (primary sources)", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-international-commonwealth.json", 
+    "name": "United Nations (primary sources, Commonwealth styles)", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-jurisdictions.json", 
+    "name": "Jurisdiction codes (all legal styles)", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-us.json", 
+    "name": "United States (for primary sources)", 
+    "version": 1
+  }, 
+  {
+    "filename": "secondary-america-bluebook.json", 
+    "name": "Secondary materials (North America, Bluebook styles)", 
+    "version": 1
+  }, 
+  {
+    "filename": "secondary-oceania-commonwealth.json", 
+    "name": "Secondary materials (Oceania, Commonwealth styles)", 
+    "version": 1
+  }, 
+  {
+    "filename": "secondary-science.json", 
+    "name": "Scientific journal abbreviations", 
+    "version": 1
+  }
 ]

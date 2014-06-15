@@ -1,43 +1,47 @@
 {
-    "name":"United Nations (primary sources, Bluebook style)",
+  "filename": "primary-international-bluebook.json", 
+  "name": "United Nations (primary sources, Bluebook style)", 
+  "version": 1, 
+  "xdata": {
     "coe.int": {
-        "classic": {}, 
-        "collection-title": {}, 
-        "container-title": {
-            "Collection of Decisions": "Eur. Comm’n H.R. Col. Dec.", 
-            "Decisions and Reports": "Eur. Comm’n H.R. Dec. & Rep.", 
-            "Reports of Judgments and Decisions (Series A)": "Eur. Ct. H.R. (ser. A)"
-        }, 
-        "hereinafter": {}, 
-        "institution-entire": {
-            "European Court of Human Rights": "Eur. Ct. H.R."
-        }, 
-        "institution-part": {
-            "European Commission of Human Rights": "Eur. Comm'n H.R.", 
-            "European Court of Human Rights": "Eur. Ct. H.R."
-        }, 
-        "nickname": {}, 
-        "number": {}, 
-        "place": {}, 
-        "title": {}
+      "classic": {}, 
+      "collection-title": {}, 
+      "container-title": {
+        "Collection of Decisions": "Eur. Comm’n H.R. Col. Dec.", 
+        "Decisions and Reports": "Eur. Comm’n H.R. Dec. & Rep.", 
+        "Reports of Judgments and Decisions (Series A)": "Eur. Ct. H.R. (ser. A)"
+      }, 
+      "hereinafter": {}, 
+      "institution-entire": {
+        "European Court of Human Rights": "Eur. Ct. H.R."
+      }, 
+      "institution-part": {
+        "European Commission of Human Rights": "Eur. Comm'n H.R.", 
+        "European Court of Human Rights": "Eur. Ct. H.R."
+      }, 
+      "nickname": {}, 
+      "number": {}, 
+      "place": {}, 
+      "title": {}
     }, 
     "un.org": {
-        "classic": {}, 
-        "collection-title": {}, 
-        "container-title": {
-            "United Nations General Assembly Official Record": "U.N. GAOR"
-        }, 
-        "hereinafter": {}, 
-        "institution-entire": {}, 
-        "institution-part": {
-            "General Assembly": "G.A.", 
-            "High Court": "H.C."
-        }, 
-        "nickname": {}, 
-        "number": {}, 
-        "place": {}, 
-        "title": {
-            "Resolution": "Res."
-        }
+      "classic": {}, 
+      "collection-title": {}, 
+      "container-title": {
+        "United Nations General Assembly Official Record": "U.N. GAOR"
+      }, 
+      "hereinafter": {}, 
+      "institution-entire": {}, 
+      "institution-part": {
+        "General Assembly": "G.A.", 
+        "High Court": "H.C."
+      }, 
+      "nickname": {}, 
+      "number": {}, 
+      "place": {}, 
+      "title": {
+        "Resolution": "Res."
+      }
     }
+  }
 }

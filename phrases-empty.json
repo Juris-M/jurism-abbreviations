@@ -1,7 +1,11 @@
 {
-    "name":"Empty Words and Phrases list (install to disable hints)",
+  "filename": "phrases-empty.json", 
+  "name": "Empty Words and Phrases list (install to disable hints)", 
+  "version": 1, 
+  "xdata": {
     "default": {
-        "container-phrase": {}, 
-        "title-phrase": {}
+      "container-phrase": {}, 
+      "title-phrase": {}
     }
+  }
 }

@@ -1,17 +1,21 @@
 {
-    "name":"Empty abbreviations list (install to remove abbreviations)",
+  "filename": "abbreviations-empty.json", 
+  "name": "Empty abbreviations list (install to remove abbreviations)", 
+  "version": 1, 
+  "xdata": {
     "default": {
-        "classic": {}, 
-        "collection-title": {}, 
-        "container-phrase": {}, 
-        "container-title": {}, 
-        "hereinafter": {}, 
-        "institution-entire": {}, 
-        "institution-part": {}, 
-        "nickname": {}, 
-        "number": {}, 
-        "place": {}, 
-        "title": {}, 
-        "title-phrase": {}
+      "classic": {}, 
+      "collection-title": {}, 
+      "container-phrase": {}, 
+      "container-title": {}, 
+      "hereinafter": {}, 
+      "institution-entire": {}, 
+      "institution-part": {}, 
+      "nickname": {}, 
+      "number": {}, 
+      "place": {}, 
+      "title": {}, 
+      "title-phrase": {}
     }
+  }
 }
