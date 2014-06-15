@@ -1,6 +1,6 @@
 {
   "filename": "phrases-bluebook.json", 
-  "name": "Bluebook words and phrases (for hints)", 
+  "name": "Words and phrases: Bluebook (importing enables hints)", 
   "version": 1, 
   "xdata": {
     "default": {

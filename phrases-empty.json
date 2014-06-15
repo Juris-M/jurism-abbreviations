@@ -1,6 +1,6 @@
 {
   "filename": "phrases-empty.json", 
-  "name": "Empty Words and Phrases list (install to disable hints)", 
+  "name": "Words and phrases: EMPTY (importing disables hints)", 
   "version": 1, 
   "xdata": {
     "default": {

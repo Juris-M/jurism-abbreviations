@@ -1,32 +1,37 @@
 [
   {
-    "filename": "primary-international-bluebook.json", 
-    "name": "United Nations (primary sources, Bluebook style)", 
-    "version": 1
-  }, 
-  {
-    "filename": "abbreviations-empty.json", 
-    "name": "Empty abbreviations list (install to remove abbreviations)", 
-    "version": 1
-  }, 
-  {
-    "filename": "phrases-bluebook.json", 
-    "name": "Bluebook words and phrases (for hints)", 
-    "version": 1
-  }, 
-  {
-    "filename": "phrases-empty.json", 
-    "name": "Empty Words and Phrases list (install to disable hints)", 
-    "version": 1
-  }, 
-  {
     "filename": "primary-commonwealth.json", 
-    "name": "Commonwealth jurisdictions (primary sources)", 
+    "name": "Abbreviations: Primary legal sources for Commonwealth jurisdictions", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-us.json", 
+    "name": "Abbreviations: Primary legal sources for US jurisdictions", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-international-bluebook.json", 
+    "name": "Abbreviations: Primary legal sources with international scope (Bluebook styles)", 
     "version": 1
   }, 
   {
     "filename": "primary-international-commonwealth.json", 
-    "name": "United Nations (primary sources, Commonwealth styles)", 
+    "name": "Abbreviations: Primary legal sources with international scope (Commonwealth styles)", 
+    "version": 1
+  }, 
+  {
+    "filename": "secondary-science.json", 
+    "name": "Abbreviations: Scientific journals", 
+    "version": 1
+  }, 
+  {
+    "filename": "secondary-commonwealth-commonwealth.json", 
+    "name": "Abbreviations: Secondary materials for Commonwealth jurisdictions (Commonwealth styles)", 
+    "version": 1
+  }, 
+  {
+    "filename": "secondary-us-bluebook.json", 
+    "name": "Abbreviations: Secondary materials for the US (Bluebook styles)", 
     "version": 1
   }, 
   {
@@ -35,23 +40,18 @@
     "version": 1
   }, 
   {
-    "filename": "primary-us.json", 
-    "name": "United States (for primary sources)", 
+    "filename": "phrases-bluebook.json", 
+    "name": "Words and phrases: Bluebook (importing enables hints)", 
     "version": 1
   }, 
   {
-    "filename": "secondary-america-bluebook.json", 
-    "name": "Secondary materials (North America, Bluebook styles)", 
+    "filename": "abbreviations-empty.json", 
+    "name": "Abbreviations: EMPTY (importing with \"replace local list\" disables abbreviations)", 
     "version": 1
   }, 
   {
-    "filename": "secondary-oceania-commonwealth.json", 
-    "name": "Secondary materials (Oceania, Commonwealth styles)", 
-    "version": 1
-  }, 
-  {
-    "filename": "secondary-science.json", 
-    "name": "Scientific journal abbreviations", 
+    "filename": "phrases-empty.json", 
+    "name": "Words and phrases: EMPTY (importing disables hints)", 
     "version": 1
   }
 ]
