@@ -1,0 +1,7 @@
+{
+    "name":"Empty Words and Phrases list (install to disable hints)",
+    "default": {
+        "container-phrase": {}, 
+        "title-phrase": {}
+    }
+}

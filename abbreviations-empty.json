@@ -1,0 +1,17 @@
+{
+    "name":"Empty abbreviations list (install to remove abbreviations)",
+    "default": {
+        "classic": {}, 
+        "collection-title": {}, 
+        "container-phrase": {}, 
+        "container-title": {}, 
+        "hereinafter": {}, 
+        "institution-entire": {}, 
+        "institution-part": {}, 
+        "nickname": {}, 
+        "number": {}, 
+        "place": {}, 
+        "title": {}, 
+        "title-phrase": {}
+    }
+}
