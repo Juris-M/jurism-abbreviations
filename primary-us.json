@@ -163,7 +163,7 @@
       }, 
       "title-phrase": {}
     }, 
-    "us;ak": {
+    "us:ak": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -179,7 +179,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;al": {
+    "us:al": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -194,7 +194,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ar": {
+    "us:ar": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -209,7 +209,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;az": {
+    "us:az": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -224,7 +224,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ca": {
+    "us:ca": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -285,7 +285,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;co": {
+    "us:co": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -304,7 +304,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ct": {
+    "us:ct": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -323,7 +323,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;dc": {
+    "us:dc": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -339,7 +339,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;de": {
+    "us:de": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -355,54 +355,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;federal": {
-      "classic": {}, 
-      "collection-title": {}, 
-      "container-title": {}, 
-      "hereinafter": {}, 
-      "institution-entire": {}, 
-      "institution-part": {
-        "Bankruptcy Court": "Bankr.", 
-        "Congress": "Cong.", 
-        "Court of Appeals for the Eighth Circuit": "8th Cir.", 
-        "District Court": "!here>>>", 
-        "Eighth Circuit Court of Appeals": "8th Cir.", 
-        "Eleventh Circuit Court of Appeals": "11th Cir.", 
-        "Fifth Circuit Court of Appeals": "5th Cir.", 
-        "First Circuit Court of Appeals": "1st Cir.", 
-        "Fourth Circuit Court of Appeals": "4th Cir.", 
-        "House Committee on the Judiciary": "H. Comm. on the Judiciary", 
-        "House of Representatives": "H.R.", 
-        "Legislature": "Leg.", 
-        "Ninth Circuit Court of Appeals": "9th Cir.", 
-        "Second Circuit Court of Appeals": "2d Cir.", 
-        "Seventh Circuit Court of Appeals": "7th Cir.", 
-        "Sixth Circuit Court of Appeals": "6th Cir.", 
-        "Supreme Court": "Sup. Ct.", 
-        "Tenth Circuit Court of Appeals": "10th Cir.", 
-        "Third Circuit Court of Appeals": "3rd Cir.", 
-        "U.S. Congress": "Cong."
-      }, 
-      "nickname": {}, 
-      "number": {}, 
-      "place": {}, 
-      "title": {}
-    }, 
-    "us;federal;dc": {
-      "classic": {}, 
-      "collection-title": {}, 
-      "container-title": {
-        "District of Columbia Reports": "D.C."
-      }, 
-      "hereinafter": {}, 
-      "institution-entire": {}, 
-      "institution-part": {}, 
-      "nickname": {}, 
-      "number": {}, 
-      "place": {}, 
-      "title": {}
-    }, 
-    "us;fl": {
+    "us:fl": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -420,7 +373,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ga": {
+    "us:ga": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -435,7 +388,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;gu": {
+    "us:gu": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -450,7 +403,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;hi": {
+    "us:hi": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -468,7 +421,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ia": {
+    "us:ia": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -483,7 +436,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;id": {
+    "us:id": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -497,7 +450,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;il": {
+    "us:il": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -520,7 +473,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;in": {
+    "us:in": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -535,7 +488,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ks": {
+    "us:ks": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -554,7 +507,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ky": {
+    "us:ky": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -573,7 +526,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;la": {
+    "us:la": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -592,7 +545,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ma": {
+    "us:ma": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -611,7 +564,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;md": {
+    "us:md": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -626,7 +579,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;me": {
+    "us:me": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -640,7 +593,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;mi": {
+    "us:mi": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -656,7 +609,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;mn": {
+    "us:mn": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -670,7 +623,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;mo": {
+    "us:mo": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -685,7 +638,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ms": {
+    "us:ms": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -699,7 +652,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;mt": {
+    "us:mt": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -714,7 +667,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;nc": {
+    "us:nc": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -730,7 +683,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;nd": {
+    "us:nd": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -749,7 +702,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ne": {
+    "us:ne": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -764,7 +717,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;nh": {
+    "us:nh": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -778,7 +731,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;nj": {
+    "us:nj": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -799,7 +752,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;nm": {
+    "us:nm": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -813,7 +766,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;nv": {
+    "us:nv": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -828,7 +781,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ny": {
+    "us:ny": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -905,7 +858,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;oh": {
+    "us:oh": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -952,7 +905,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ok": {
+    "us:ok": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -968,7 +921,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;or": {
+    "us:or": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -984,7 +937,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;pa": {
+    "us:pa": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1007,7 +960,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;pr": {
+    "us:pr": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1026,7 +979,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ri": {
+    "us:ri": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1040,7 +993,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;sc": {
+    "us:sc": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1054,7 +1007,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;sd": {
+    "us:sd": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1068,7 +1021,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;tn": {
+    "us:tn": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1084,7 +1037,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;tx": {
+    "us:tx": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1109,7 +1062,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;ut": {
+    "us:ut": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1125,7 +1078,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;va": {
+    "us:va": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1141,7 +1094,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;vi": {
+    "us:vi": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1155,7 +1108,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;vt": {
+    "us:vt": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1169,7 +1122,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;wa": {
+    "us:wa": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1192,7 +1145,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;wi": {
+    "us:wi": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1211,7 +1164,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;wv": {
+    "us:wv": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
@@ -1225,7 +1178,7 @@
       "place": {}, 
       "title": {}
     }, 
-    "us;wy": {
+    "us:wy": {
       "classic": {}, 
       "collection-title": {}, 
       "container-title": {
