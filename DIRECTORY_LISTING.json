@@ -40,18 +40,8 @@
     "version": 2
   }, 
   {
-    "filename": "phrases-bluebook.json", 
-    "name": "Words and phrases: Bluebook (importing enables hints)", 
-    "version": 2
-  }, 
-  {
     "filename": "abbreviations-empty.json", 
     "name": "Abbreviations: EMPTY (importing with \"replace local list\" disables abbreviations)", 
-    "version": 1
-  }, 
-  {
-    "filename": "phrases-empty.json", 
-    "name": "Words and phrases: EMPTY (importing disables hints)", 
     "version": 1
   }
 ]
