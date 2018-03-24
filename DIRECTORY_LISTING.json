@@ -10,9 +10,9 @@
     "version": 3
   }, 
   {
-    "filename": "primary-us.json", 
+    "filename": "courts-us-federal.json", 
     "name": "Abbreviations: US federal courts", 
-    "version": 1
+    "version": 2
   }, 
   {
     "filename": "primary-commonwealth.json", 

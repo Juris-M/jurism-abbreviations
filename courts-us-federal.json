@@ -1,8 +1,13 @@
 {
   "filename": "courts-us-federal.json",
   "name": "Abbreviations: US federal courts",
-  "version": 1,
+  "version": 2,
   "xdata": {
+    "us": {
+      "institution-part": {
+        "supreme court": "!here>>>"
+      }
+    },
     "us:c0": {
       "institution-part": {
         "court of appeals": "!here>>>"
