@@ -1,13 +1,23 @@
 [
   {
-    "filename": "primary-commonwealth.json", 
-    "name": "Abbreviations: Primary legal sources for Commonwealth jurisdictions", 
-    "version": 2
+    "filename": "primary-jurisdictions.json", 
+    "name": "Abbreviations: Jurisdiction names (all legal styles)", 
+    "version": 3
   }, 
   {
     "filename": "primary-us.json", 
-    "name": "Abbreviations: Primary legal sources for US jurisdictions", 
+    "name": "Abbreviations: Reporter names for US jurisdictions", 
     "version": 3
+  }, 
+  {
+    "filename": "primary-us.json", 
+    "name": "Abbreviations: US federal courts", 
+    "version": 1
+  }, 
+  {
+    "filename": "primary-commonwealth.json", 
+    "name": "Abbreviations: Reporter names for Commonwealth jurisdictions", 
+    "version": 2
   }, 
   {
     "filename": "primary-international-bluebook.json", 
@@ -33,11 +43,6 @@
     "filename": "secondary-us-bluebook.json", 
     "name": "Abbreviations: Secondary materials for the US (Bluebook styles)", 
     "version": 2
-  }, 
-  {
-    "filename": "primary-jurisdictions.json", 
-    "name": "Jurisdiction codes (all legal styles)", 
-    "version": 3
   }, 
   {
     "filename": "abbreviations-empty.json", 
