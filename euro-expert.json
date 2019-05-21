@@ -227,7 +227,7 @@
       }
     },
     "pl:bialystok": {
-      "institution-part": "SA w Białymstoku"
+      "institution-part": "WSA w Białymstoku"
     },
     "pl:bialystok:bialystok": {
       "institution-part": "SO w Białymstoku"
@@ -323,7 +323,7 @@
       "institution-part": "SR w Suwałkach"
     },
     "pl:gdansk": {
-      "institution-part": "SA w Gdańsku"
+      "institution-part": "WSA w Gdańsku"
     },
     "pl:gdansk:bydgoszcz": {
       "institution-part": "SO w Bydgoszczy"
@@ -375,6 +375,9 @@
     },
     "pl:gdansk:gdansk": {
       "institution-part": "SO w Gdańsku"
+    },
+    "pl:gdansk:gdansk:gdansk": {
+      "institution-part": "SR w Gdańsku"
     },
     "pl:gdansk:gdansk:poludnie": {
       "institution-part": "SR Gdańsk-Południe w Gdańsku"
@@ -470,7 +473,7 @@
       "institution-part": "SR we Włocławku"
     },
     "pl:katowice": {
-      "institution-part": "SA w Katowicach"
+      "institution-part": "WSA w Katowicach"
     },
     "pl:katowice:bielsko.biala": {
       "institution-part": "SO w Bielsku-Białej"
@@ -572,7 +575,7 @@
       "institution-part": "SR w Tychach"
     },
     "pl:krakow": {
-      "institution-part": "SA w Krakowie"
+      "institution-part": "WSA w Krakowie"
     },
     "pl:krakow:kielce": {
       "institution-part": "SO w Kielcach"
@@ -686,7 +689,7 @@
       "institution-part": "SR w Tarnowie"
     },
     "pl:lublin": {
-      "institution-part": "SA w Lublinie"
+      "institution-part": "WSA w Lublinie"
     },
     "pl:lublin:lublin": {
       "institution-part": "SO w Lublinie"
@@ -791,7 +794,7 @@
       "institution-part": "SR w Zamościu"
     },
     "pl:lodz": {
-      "institution-part": "SA w Łodzi"
+      "institution-part": "WSA w Łodzi"
     },
     "pl:lodz:kalisz": {
       "institution-part": "SO w Kaliszu"
@@ -911,7 +914,7 @@
       "institution-part": "SR w Zduńskiej Woli"
     },
     "pl:poznan": {
-      "institution-part": "SA w Poznaniu"
+      "institution-part": "WSA w Poznaniu"
     },
     "pl:poznan:konin": {
       "institution-part": "SO w Koninie"
@@ -1019,7 +1022,7 @@
       "institution-part": "SR w Żarach"
     },
     "pl:rzeszow": {
-      "institution-part": "SA w Rzeszowie"
+      "institution-part": "WSA w Rzeszowie"
     },
     "pl:rzeszow:krosno": {
       "institution-part": "SO w Krośnie"
@@ -1094,7 +1097,7 @@
       "institution-part": "SR w Tarnobrzegu"
     },
     "pl:szczecin": {
-      "institution-part": "SA w Szczecinie"
+      "institution-part": "WSA w Szczecinie"
     },
     "pl:szczecin:gorzow.wielkopolski": {
       "institution-part": "SO w Gorzowie Wielkopolskim"
@@ -1175,7 +1178,7 @@
       "institution-part": "SR w Świnoujściu"
     },
     "pl:warsaw": {
-      "institution-part": "SA w Warszawie"
+      "institution-part": "WSA w Warszawie"
     },
     "pl:warsaw:warsaw": {
       "institution-part": "SO w Warszawie"
@@ -1226,7 +1229,7 @@
       "institution-part": "SR w Wołominie"
     },
     "pl:wroclaw": {
-      "institution-part": "SA we Wrocławiu"
+      "institution-part": "WSA we Wrocławiu"
     },
     "pl:wroclaw:jelenia.gora": {
       "institution-part": "SO w Jeleniej Górze"
@@ -1348,53 +1351,23 @@
     "pl:wroclaw:wroclaw:srodmiesci": {
       "institution-part": "SR dla Wrocławia-Śródmieścia we Wrocławiu"
     },
-    "pl:dolonslaskie": {
-      "institution-part": "WSA Dolnośląskie"
+    "pl:bydgoszcz": {
+      "institution-part": "WSA w Bydgoszczy"
     },
-    "pl:kujawsko.pomorskie": {
-      "institution-part": "WSA Kujawsko-Pomorskie"
+    "pl:gorzow.wielkopolski": {
+      "institution-part": "WSA w Gorzowie Wielkopolskim"
     },
-    "pl:lubelskie": {
-      "institution-part": "WSA Lubelskie"
+    "pl:opole": {
+      "institution-part": "WSA w Opolu"
     },
-    "pl:lubuskie": {
-      "institution-part": "WSA Lubuskie"
+    "pl:kielce": {
+      "institution-part": "WSA w Kielcach"
     },
-    "pl:lodzkie": {
-      "institution-part": "WSA Łódzkie"
+    "pl:olsztyn": {
+      "institution-part": "WSA w Olsztynie"
     },
-    "pl:malopolskie": {
-      "institution-part": "WSA Małopolskie"
-    },
-    "pl:mazowieckie": {
-      "institution-part": "WSA Mazowieckie"
-    },
-    "pl:opolskie": {
-      "institution-part": "WSA Opolskie"
-    },
-    "pl:podkarpackie": {
-      "institution-part": "WSA Podkarpackie"
-    },
-    "pl:podlaskie": {
-      "institution-part": "WSA Podlaskie"
-    },
-    "pl:pomorskie": {
-      "institution-part": "WSA Pomorskie"
-    },
-    "pl:slaskie": {
-      "institution-part": "WSA Śląskie"
-    },
-    "pl:swietokrzyskie": {
-      "institution-part": "WSA Świętokrzyskie"
-    },
-    "pl:warminsko.mazurskie": {
-      "institution-part": "WSA Warmińsko-mazurskie"
-    },
-    "pl:wielkopolskie": {
-      "institution-part": "WSA Wielkopolskie"
-    },
-    "pl:zachodniopomorskie": {
-      "institution-part": "WSA Zachodniopomorski"
+    "pl:gliwice": {
+      "institution-part": "WSA w Gliwicach"
     }
   }
 }
