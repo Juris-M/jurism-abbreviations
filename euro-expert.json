@@ -237,1148 +237,1910 @@
 			"pl": "PL"
 		}
     },
-    "pl:bialystok": {
-      "institution-part": "WSA w Białymstoku"
-    },
-    "pl:bialystok:bialystok": {
-      "institution-part": "SO w Białymstoku"
-    },
-    "pl:bialystok:bialystok:bialystok": {
-      "institution-part": "SR w Białymstoku"
-    },
-    "pl:bialystok:bialystok:bielsko.podlaski": {
-      "institution-part": "SR w Bielsku Podlaskim"
-    },
-    "pl:bialystok:bialystok:sokolka": {
-      "institution-part": "SR w Sokółce"
-    },
-    "pl:bialystok:lomza": {
-      "institution-part": "SO w Łomży"
-    },
-    "pl:bialystok:lomza:grajewo": {
-      "institution-part": "SR w Grajewie"
-    },
-    "pl:bialystok:lomza:lomza": {
-      "institution-part": "SR w Łomży"
-    },
-    "pl:bialystok:lomza:wysokie.mazowieckie": {
-      "institution-part": "SR w Wysokiem Mazowieckiem"
-    },
-    "pl:bialystok:lomza:zambrow": {
-      "institution-part": "SR w Zambrowie"
-    },
-    "pl:bialystok:olsztyn": {
-      "institution-part": "SO w Olsztynie"
-    },
-    "pl:bialystok:olsztyn:bartoszyce": {
-      "institution-part": "SR w Bartoszycach"
-    },
-    "pl:bialystok:olsztyn:biskupiec": {
-      "institution-part": "SR w Biskupcu"
-    },
-    "pl:bialystok:olsztyn:gizycko": {
-      "institution-part": "SR w Giżycku"
-    },
-    "pl:bialystok:olsztyn:ketrzyn": {
-      "institution-part": "SR w Kętrzynie"
-    },
-    "pl:bialystok:olsztyn:lidzbark.warminski": {
-      "institution-part": "SR w Lidzbarku Warmińskim"
-    },
-    "pl:bialystok:olsztyn:mragowo": {
-      "institution-part": "SR w Mrągowie"
-    },
-    "pl:bialystok:olsztyn:nidzica": {
-      "institution-part": "SR w Nidzicy"
-    },
-    "pl:bialystok:olsztyn:olsztyn": {
-      "institution-part": "SR w Olsztynie"
-    },
-    "pl:bialystok:olsztyn:pisz": {
-      "institution-part": "SR w Piszu"
-    },
-    "pl:bialystok:olsztyn:szczytno": {
-      "institution-part": "SR w Szczytnie"
-    },
-    "pl:bialystok:ostrolece": {
-      "institution-part": "SO w Ostrołęce"
-    },
-    "pl:bialystok:ostrolece:ostroleka": {
-      "institution-part": "SR w Ostrołęce"
-    },
-    "pl:bialystok:ostrolece:ostrow.mazowiecka": {
-      "institution-part": "SR w Ostrowi Mazowieckiej"
-    },
-    "pl:bialystok:ostrolece:przasnysz": {
-      "institution-part": "SR w Przasnyszu"
-    },
-    "pl:bialystok:ostrolece:pultusk": {
-      "institution-part": "SR w Pułtusku"
-    },
-    "pl:bialystok:ostrolece:wyszkow": {
-      "institution-part": "SR w Wyszkowie"
-    },
-    "pl:bialystok:suwalki": {
-      "institution-part": "SO w Suwałkach"
-    },
-    "pl:bialystok:suwalki:augustow": {
-      "institution-part": "SR w Augustowie"
-    },
-    "pl:bialystok:suwalki:elk": {
-      "institution-part": "SR w Ełku"
-    },
-    "pl:bialystok:suwalki:olecko": {
-      "institution-part": "SR w Olecku"
-    },
-    "pl:bialystok:suwalki:suwalki": {
-      "institution-part": "SR w Suwałkach"
-    },
-    "pl:gdansk": {
-      "institution-part": "WSA w Gdańsku"
-    },
-    "pl:gdansk:bydgoszcz": {
-      "institution-part": "SO w Bydgoszczy"
-    },
-    "pl:gdansk:bydgoszcz:bydgoszcz": {
-      "institution-part": "SR w Bydgoszczy"
-    },
-    "pl:gdansk:bydgoszcz:inowroclaw": {
-      "institution-part": "SR w Inowrocławiu"
-    },
-    "pl:gdansk:bydgoszcz:mogilno": {
-      "institution-part": "SR w Mogilnie"
-    },
-    "pl:gdansk:bydgoszcz:naklo.nad.notecia": {
-      "institution-part": "SR w Nakle nad Notecią"
-    },
-    "pl:gdansk:bydgoszcz:szubinie": {
-      "institution-part": "SR w Szubinie"
-    },
-    "pl:gdansk:bydgoszcz:swiecie": {
-      "institution-part": "SR w Świeciu"
-    },
-    "pl:gdansk:bydgoszcz:tucholi": {
-      "institution-part": "SR w Tucholi"
-    },
-    "pl:gdansk:bydgoszcz:zninie": {
-      "institution-part": "SR w Żninie"
-    },
-    "pl:gdansk:elblag": {
-      "institution-part": "SO w Elblągu"
-    },
-    "pl:gdansk:elblag:braniewo": {
-      "institution-part": "SR w Braniewie"
-    },
-    "pl:gdansk:elblag:dzialdowo": {
-      "institution-part": "SR w Działdowie"
-    },
-    "pl:gdansk:elblag:elblag": {
-      "institution-part": "SR w Elblągu"
-    },
-    "pl:gdansk:elblag:ilawa": {
-      "institution-part": "SR w Iławie"
-    },
-    "pl:gdansk:elblag:nowe.miasto.lubawskie": {
-      "institution-part": "SR w Nowym Mieście Lubawskim"
-    },
-    "pl:gdansk:elblag:ostroda": {
-      "institution-part": "SR w Ostródzie"
-    },
-    "pl:gdansk:gdansk": {
-      "institution-part": "SO w Gdańsku"
-    },
-    "pl:gdansk:gdansk:gdansk": {
-      "institution-part": "SR w Gdańsku"
-    },
-    "pl:gdansk:gdansk:poludnie": {
-      "institution-part": "SR Gdańsk-Południe w Gdańsku"
-    },
-    "pl:gdansk:gdansk:polnoc": {
-      "institution-part": "SR Gdańsk-Północ w Gdańsku"
-    },
-    "pl:gdansk:gdansk:gdynia": {
-      "institution-part": "SR w Gdyni"
-    },
-    "pl:gdansk:gdansk:kartuzy": {
-      "institution-part": "SR w Kartuzach"
-    },
-    "pl:gdansk:gdansk:koscierzyna": {
-      "institution-part": "SR w Kościerzynie"
-    },
-    "pl:gdansk:gdansk:kwidzyn": {
-      "institution-part": "SR w Kwidzynie"
-    },
-    "pl:gdansk:gdansk:malbork": {
-      "institution-part": "SR w Malborku"
-    },
-    "pl:gdansk:gdansk:sopot": {
-      "institution-part": "SR w Sopocie"
-    },
-    "pl:gdansk:gdansk:starogard.gdanski": {
-      "institution-part": "SR w Starogardzie Gdańskim"
-    },
-    "pl:gdansk:gdansk:tczew": {
-      "institution-part": "SR w Tczewie"
-    },
-    "pl:gdansk:gdansk:wejherowo": {
-      "institution-part": "SR w Wejherowie"
-    },
-    "pl:gdansk:slupsk": {
-      "institution-part": "SO w Słupsku"
-    },
-    "pl:gdansk:slupsk:bytow": {
-      "institution-part": "SR w Bytowie"
-    },
-    "pl:gdansk:slupsk:chojnice": {
-      "institution-part": "SR w Chojnicach"
-    },
-    "pl:gdansk:slupsk:czluchow": {
-      "institution-part": "SR w Człuchowie"
-    },
-    "pl:gdansk:slupsk:lebork": {
-      "institution-part": "SR w Lęborku"
-    },
-    "pl:gdansk:slupsk:miastko": {
-      "institution-part": "SR w Miastku"
-    },
-    "pl:gdansk:slupsk:slupsk": {
-      "institution-part": "SR w Słupsku"
-    },
-    "pl:gdansk:torun": {
-      "institution-part": "SO w Toruniu"
-    },
-    "pl:gdansk:torun:brodnica": {
-      "institution-part": "SR w Brodnicy"
-    },
-    "pl:gdansk:torun:chelmno": {
-      "institution-part": "SR w Chełmnie"
-    },
-    "pl:gdansk:torun:golub.dobrzyn": {
-      "institution-part": "SR w Golubiu-Dobrzyniu"
-    },
-    "pl:gdansk:torun:grudziadz": {
-      "institution-part": "SR w Grudziądzu"
-    },
-    "pl:gdansk:torun:torun": {
-      "institution-part": "SR w Toruniu"
-    },
-    "pl:gdansk:torun:wabrzezno": {
-      "institution-part": "SR w Wąbrzeźnie"
-    },
-    "pl:gdansk:wloclawek": {
-      "institution-part": "SO we Włocławku"
-    },
-    "pl:gdansk:wloclawek:aleksandrow.kujawski": {
-      "institution-part": "SR w Aleksandrowie Kujawskim"
-    },
-    "pl:gdansk:wloclawek:lipno": {
-      "institution-part": "SR w Lipnie"
-    },
-    "pl:gdansk:wloclawek:radziejow": {
-      "institution-part": "SR w Radziejowie"
-    },
-    "pl:gdansk:wloclawek:rypin": {
-      "institution-part": "SR w Rypinie"
-    },
-    "pl:gdansk:wloclawek:wloclawek": {
-      "institution-part": "SR we Włocławku"
-    },
-    "pl:katowice": {
-      "institution-part": "WSA w Katowicach"
-    },
-    "pl:katowice:bielsko.biala": {
-      "institution-part": "SO w Bielsku-Białej"
-    },
-    "pl:katowice:bielsko.biala:bielsko.biala": {
-      "institution-part": "SR w Bielsku-Białej"
-    },
-    "pl:katowice:bielsko.biala:cieszyn": {
-      "institution-part": "SR w Cieszynie"
-    },
-    "pl:katowice:bielsko.biala:zywiec": {
-      "institution-part": "SR w Żywcu"
-    },
-    "pl:katowice:czestochowa": {
-      "institution-part": "SO w Częstochowie"
-    },
-    "pl:katowice:czestochowa:czestochowa": {
-      "institution-part": "SR w Częstochowie"
-    },
-    "pl:katowice:czestochowa:lubliniec": {
-      "institution-part": "SR w Lublińcu"
-    },
-    "pl:katowice:czestochowa:myszkow": {
-      "institution-part": "SR w Myszkowie"
-    },
-    "pl:katowice:czestochowa:zawiercie": {
-      "institution-part": "SR w Zawierciu"
-    },
-    "pl:katowice:gliwice": {
-      "institution-part": "SO w Gliwicach"
-    },
-    "pl:katowice:gliwice:gliwice": {
-      "institution-part": "SR w Gliwicach"
-    },
-    "pl:katowice:gliwice:jastrzebie.zdroj": {
-      "institution-part": "SR w Jastrzębiu-Zdroju"
-    },
-    "pl:katowice:gliwice:raciborz": {
-      "institution-part": "SR w Raciborzu"
-    },
-    "pl:katowice:gliwice:ruda.slaska": {
-      "institution-part": "SR w Rudzie Śląskiej"
-    },
-    "pl:katowice:gliwice:rybnik": {
-      "institution-part": "SR w Rybniku"
-    },
-    "pl:katowice:gliwice:tarnowskie.gory": {
-      "institution-part": "SR w Tarnowskich Górach"
-    },
-    "pl:katowice:gliwice:wodzislaw.slaski": {
-      "institution-part": "SR w Wodzisławiu Śląskim"
-    },
-    "pl:katowice:gliwice:zabrze": {
-      "institution-part": "SR w Zabrzu"
-    },
-    "pl:katowice:gliwice:zory": {
-      "institution-part": "SR w Żorach"
-    },
-    "pl:katowice:katowice": {
-      "institution-part": "SO w Katowicach"
-    },
-    "pl:katowice:katowice:bedzin": {
-      "institution-part": "SR w Będzinie"
-    },
-    "pl:katowice:katowice:bytom": {
-      "institution-part": "SR w Bytomiu"
-    },
-    "pl:katowice:katowice:chorzow": {
-      "institution-part": "SR w Chorzowie"
-    },
-    "pl:katowice:katowice:dabrowa.gornicza": {
-      "institution-part": "SR w Dąbrowie Górniczej"
-    },
-    "pl:katowice:katowice:jaworzno": {
-      "institution-part": "SR w Jaworznie"
-    },
-    "pl:katowice:katowice:wschod.katowice": {
-      "institution-part": "SR Katowice-Wschód w Katowicach"
-    },
-    "pl:katowice:katowice:zachod.katowice": {
-      "institution-part": "SR Katowice-Zachód w Katowicach"
-    },
-    "pl:katowice:katowice:mikolow": {
-      "institution-part": "SR w Mikołowie"
-    },
-    "pl:katowice:katowice:myslowice": {
-      "institution-part": "SR w Mysłowicach"
-    },
-    "pl:katowice:katowice:pszczyna": {
-      "institution-part": "SR w Pszczynie"
-    },
-    "pl:katowice:katowice:siemianowice.slaskie": {
-      "institution-part": "SR w Siemianowicach Śląskich"
-    },
-    "pl:katowice:katowice:sosnowiec": {
-      "institution-part": "SR w Sosnowcu"
-    },
-    "pl:katowice:katowice:tychy": {
-      "institution-part": "SR w Tychach"
-    },
-    "pl:krakow": {
-      "institution-part": "WSA w Krakowie"
-    },
-    "pl:krakow:kielce": {
-      "institution-part": "SO w Kielcach"
-    },
-    "pl:krakow:kielce:busku.zdroj": {
-      "institution-part": "SR w Busku-Zdroju"
-    },
-    "pl:krakow:kielce:jedrzejow": {
-      "institution-part": "SR w Jędrzejowie"
-    },
-    "pl:krakow:kielce:kielce": {
-      "institution-part": "SR w Kielcach"
-    },
-    "pl:krakow:kielce:konskie": {
-      "institution-part": "SR w Końskich"
-    },
-    "pl:krakow:kielce:opatow": {
-      "institution-part": "SR w Opatowie"
-    },
-    "pl:krakow:kielce:ostrowiec.swietokrzyski": {
-      "institution-part": "SR w Ostrowcu Świętokrzyskim"
-    },
-    "pl:krakow:kielce:pinczow": {
-      "institution-part": "SR w Pińczowie"
-    },
-    "pl:krakow:kielce:sandomierz": {
-      "institution-part": "SR w Sandomierzu"
-    },
-    "pl:krakow:kielce:skarzysko.kamienna": {
-      "institution-part": "SR w Skarżysku-Kamiennej"
-    },
-    "pl:krakow:kielce:starachowice": {
-      "institution-part": "SR w Starachowicach"
-    },
-    "pl:krakow:kielce:staszow": {
-      "institution-part": "SR w Staszowie"
-    },
-    "pl:krakow:kielce:wloszczow": {
-      "institution-part": "SR we Włoszczowie"
-    },
-    "pl:krakow:krakow": {
-      "institution-part": "SO w Krakowie"
-    },
-    "pl:krakow:krakow:chrzanow": {
-      "institution-part": "SR w Chrzanowie"
-    },
-    "pl:krakow:krakow:krowodrza": {
-      "institution-part": "SR dla Krakowa-Krowodrzy w Krakowie"
-    },
-    "pl:krakow:krakow:nowa.huta": {
-      "institution-part": "SR dla Krakowa-Nowej Huty w Krakowie"
-    },
-    "pl:krakow:krakow:podgorze": {
-      "institution-part": "SR dla Krakowa-Podgórza w Krakowie"
-    },
-    "pl:krakow:krakow:srodmiescie": {
-      "institution-part": "SR dla Krakowa-Śródmieścia w Krakowie"
-    },
-    "pl:krakow:krakow:miechow": {
-      "institution-part": "SR w Miechowie"
-    },
-    "pl:krakow:krakow:myslenice": {
-      "institution-part": "SR w Myślenicach"
-    },
-    "pl:krakow:krakow:olkusz": {
-      "institution-part": "SR w Olkuszu"
-    },
-    "pl:krakow:krakow:oswiecim": {
-      "institution-part": "SR w Oświęcimiu"
-    },
-    "pl:krakow:krakow:sucha.beskidzka": {
-      "institution-part": "SR w Suchej Beskidzkiej"
-    },
-    "pl:krakow:krakow:wadowice": {
-      "institution-part": "SR w Wadowicach"
-    },
-    "pl:krakow:krakow:wieliczka": {
-      "institution-part": "SR w Wieliczce"
-    },
-    "pl:krakow:nowy.sacz": {
-      "institution-part": "SO w Nowym Sączu"
-    },
-    "pl:krakow:nowy.sacz:gorlice": {
-      "institution-part": "SR w Gorlicach"
-    },
-    "pl:krakow:nowy.sacz:limanowa": {
-      "institution-part": "SR w Limanowej"
-    },
-    "pl:krakow:nowy.sacz:nowy.sacz": {
-      "institution-part": "SR w Nowym Sączu"
-    },
-    "pl:krakow:nowy.sacz:nowy.targ": {
-      "institution-part": "SR w Nowym Targu"
-    },
-    "pl:krakow:nowy.sacz:zakopane": {
-      "institution-part": "SR w Zakopanem"
-    },
-    "pl:krakow:tarnow": {
-      "institution-part": "SO w Tarnowie"
-    },
-    "pl:krakow:tarnow:bochnia": {
-      "institution-part": "SR w Bochni"
-    },
-    "pl:krakow:tarnow:brzesko": {
-      "institution-part": "SR w Brzesku"
-    },
-    "pl:krakow:tarnow:dabrowa.tarnowska": {
-      "institution-part": "SR w Dąbrowie Tarnowskiej"
-    },
-    "pl:krakow:tarnow:tarnow": {
-      "institution-part": "SR w Tarnowie"
-    },
-    "pl:lublin": {
-      "institution-part": "WSA w Lublinie"
-    },
-    "pl:lublin:lublin": {
-      "institution-part": "SO w Lublinie"
-    },
-    "pl:lublin:lublin:biala.podlaska": {
-      "institution-part": "SR w Białej Podlaskiej"
-    },
-    "pl:lublin:lublin:chelm": {
-      "institution-part": "SR w Chełmie"
-    },
-    "pl:lublin:lublin:krasnik": {
-      "institution-part": "SR w Kraśniku"
-    },
-    "pl:lublin:lublin:lubartow": {
-      "institution-part": "SR w Lubartowie"
-    },
-    "pl:lublin:lublin:wschod.lublin": {
-      "institution-part": "SR Lublin-Wschód w Lublinie z siedzibą w Świdniku"
-    },
-    "pl:lublin:lublin:zachod.lublin": {
-      "institution-part": "SR Lublin-Zachód w Lublinie"
-    },
-    "pl:lublin:lublin:lukow": {
-      "institution-part": "SR w Łukowie"
-    },
-    "pl:lublin:lublin:opole.lubelskie": {
-      "institution-part": "SR w Opolu Lubelskim"
-    },
-    "pl:lublin:lublin:pulawy": {
-      "institution-part": "SR w Puławach"
-    },
-    "pl:lublin:lublin:radzyn.podlaski": {
-      "institution-part": "SR w Radzyniu Podlaskim"
-    },
-    "pl:lublin:lublin:ryki": {
-      "institution-part": "SR w Rykach"
-    },
-    "pl:lublin:lublin:wlodawa": {
-      "institution-part": "SR we Włodawie"
-    },
-    "pl:lublin:radom": {
-      "institution-part": "SO w Radomiu"
-    },
-    "pl:lublin:radom:grojec": {
-      "institution-part": "SR w Grójcu"
-    },
-    "pl:lublin:radom:kozienice": {
-      "institution-part": "SR w Kozienicach"
-    },
-    "pl:lublin:radom:lipsk": {
-      "institution-part": "SR w Lipsku"
-    },
-    "pl:lublin:radom:przysusze": {
-      "institution-part": "SR w Przysusze"
-    },
-    "pl:lublin:radom:radom": {
-      "institution-part": "SR w Radomiu"
-    },
-    "pl:lublin:radom:szydlowiec": {
-      "institution-part": "SR w Szydłowcu"
-    },
-    "pl:lublin:radom:zwolen": {
-      "institution-part": "SR w Zwoleniu"
-    },
-    "pl:lublin:siedlce": {
-      "institution-part": "SO w Siedlcach"
-    },
-    "pl:lublin:siedlce:garwolin": {
-      "institution-part": "SR w Garwolinie"
-    },
-    "pl:lublin:siedlce:minsk.mazowiecki": {
-      "institution-part": "SR w Mińsku Mazowieckim"
-    },
-    "pl:lublin:siedlce:siedlce": {
-      "institution-part": "SR w Siedlcach"
-    },
-    "pl:lublin:siedlce:sokolow.podlaski": {
-      "institution-part": "SR w Sokołowie Podlaskim"
-    },
-    "pl:lublin:siedlce:wegrow": {
-      "institution-part": "SR w Węgrowie"
-    },
-    "pl:lublin:zamosc": {
-      "institution-part": "SO w Zamościu"
-    },
-    "pl:lublin:zamosc:bilgoraju": {
-      "institution-part": "SR w Biłgoraju"
-    },
-    "pl:lublin:zamosc:hrubieszow": {
-      "institution-part": "SR w Hrubieszowie"
-    },
-    "pl:lublin:zamosc:janow.lubelski": {
-      "institution-part": "SR w Janowie Lubelskim"
-    },
-    "pl:lublin:zamosc:krasnystaw": {
-      "institution-part": "SR w Krasnymstawie"
-    },
-    "pl:lublin:zamosc:tomaszow.lubelski": {
-      "institution-part": "SR w Tomaszowie Lubelskim"
-    },
-    "pl:lublin:zamosc:zamosc": {
-      "institution-part": "SR w Zamościu"
-    },
-    "pl:lodz": {
-      "institution-part": "WSA w Łodzi"
-    },
-    "pl:lodz:kalisz": {
-      "institution-part": "SO w Kaliszu"
-    },
-    "pl:lodz:kalisz:jarocin": {
-      "institution-part": "SR w Jarocinie"
-    },
-    "pl:lodz:kalisz:kalisz": {
-      "institution-part": "SR w Kaliszu"
-    },
-    "pl:lodz:kalisz:kepno": {
-      "institution-part": "SR w Kępnie"
-    },
-    "pl:lodz:kalisz:krotoszyn": {
-      "institution-part": "SR w Krotoszynie"
-    },
-    "pl:lodz:kalisz:ostrow.wielkopolski": {
-      "institution-part": "SR w Ostrowie Wielkopolskim"
-    },
-    "pl:lodz:kalisz:ostrzeszow": {
-      "institution-part": "SR w Ostrzeszowie"
-    },
-    "pl:lodz:kalisz:pleszew": {
-      "institution-part": "SR w Pleszewie"
-    },
-    "pl:lodz:lodz": {
-      "institution-part": "SO w Łodzi"
-    },
-    "pl:lodz:lodz:brzeziny": {
-      "institution-part": "SR w Brzezinach"
-    },
-    "pl:lodz:lodz:kutno": {
-      "institution-part": "SR w Kutnie"
-    },
-    "pl:lodz:lodz:leczyca": {
-      "institution-part": "SR w Łęczycy"
-    },
-    "pl:lodz:lodz:srodmiescie": {
-      "institution-part": "SR dla Łodzi-Śródmieścia w Łodzi"
-    },
-    "pl:lodz:lodz:widzew": {
-      "institution-part": "SR dla Łodzi-Widzewa w Łodzi"
-    },
-    "pl:lodz:lodz:lowicz": {
-      "institution-part": "SR w Łowiczu"
-    },
-    "pl:lodz:lodz:pabianice": {
-      "institution-part": "SR w Pabianicach"
-    },
-    "pl:lodz:lodz:rawa.mazowiecka": {
-      "institution-part": "SR w Rawie Mazowieckiej"
-    },
-    "pl:lodz:lodz:skierniewice": {
-      "institution-part": "SR w Skierniewicach"
-    },
-    "pl:lodz:lodz:zgierz": {
-      "institution-part": "SR w Zgierzu"
-    },
-    "pl:lodz:piotrkow.trybunalski": {
-      "institution-part": "SO w Piotrkowie Trybunalskim"
-    },
-    "pl:lodz:piotrkow.trybunalski:belchatow": {
-      "institution-part": "SR w Bełchatowie"
-    },
-    "pl:lodz:piotrkow.trybunalski:opoczno": {
-      "institution-part": "SR w Opocznie"
-    },
-    "pl:lodz:piotrkow.trybunalski:piotrkow.trybunalski": {
-      "institution-part": "SR w Piotrkowie Trybunalskim"
-    },
-    "pl:lodz:piotrkow.trybunalski:radomsko": {
-      "institution-part": "SR w Radomsku"
-    },
-    "pl:lodz:piotrkow.trybunalski:tomaszow.mazowiecki": {
-      "institution-part": "SR w Tomaszowie Mazowieckim"
-    },
-    "pl:lodz:plock": {
-      "institution-part": "SO w Płocku"
-    },
-    "pl:lodz:plock:ciechanow": {
-      "institution-part": "SR w Ciechanowie"
-    },
-    "pl:lodz:plock:gostynin": {
-      "institution-part": "SR w Gostyninie"
-    },
-    "pl:lodz:plock:mlawa": {
-      "institution-part": "SR w Mławie"
-    },
-    "pl:lodz:plock:plock": {
-      "institution-part": "SR w Płocku"
-    },
-    "pl:lodz:plock:plonsk": {
-      "institution-part": "SR w Płońsku"
-    },
-    "pl:lodz:plock:sierpc": {
-      "institution-part": "SR w Sierpcu"
-    },
-    "pl:lodz:plock:sochaczew": {
-      "institution-part": "SR w Sochaczewie"
-    },
-    "pl:lodz:plock:zyrardow": {
-      "institution-part": "SR w Żyrardowie"
-    },
-    "pl:lodz:sieradz": {
-      "institution-part": "SO w Sieradzu"
-    },
-    "pl:lodz:sieradz:lask": {
-      "institution-part": "SR w Łasku"
-    },
-    "pl:lodz:sieradz:sieradz": {
-      "institution-part": "SR w Sieradzu"
-    },
-    "pl:lodz:sieradz:wielun": {
-      "institution-part": "SR w Wieluniu"
-    },
-    "pl:lodz:sieradz:zdunska.wola": {
-      "institution-part": "SR w Zduńskiej Woli"
-    },
-    "pl:poznan": {
-      "institution-part": "WSA w Poznaniu"
-    },
-    "pl:poznan:konin": {
-      "institution-part": "SO w Koninie"
-    },
-    "pl:poznan:konin:kole": {
-      "institution-part": "SR w Kole"
-    },
-    "pl:poznan:konin:konin": {
-      "institution-part": "SR w Koninie"
-    },
-    "pl:poznan:konin:slupcy": {
-      "institution-part": "SR w Słupcy"
-    },
-    "pl:poznan:konin:turku": {
-      "institution-part": "SR w Turku"
-    },
-    "pl:poznan:poznan": {
-      "institution-part": "SO w Poznaniu"
-    },
-    "pl:poznan:poznan:chodziez": {
-      "institution-part": "SR w Chodzieży"
-    },
-    "pl:poznan:poznan:gniezno": {
-      "institution-part": "SR w Gnieźnie"
-    },
-    "pl:poznan:poznan:gostyn": {
-      "institution-part": "SR w Gostyniu"
-    },
-    "pl:poznan:poznan:grodzisk.wielkopolski": {
-      "institution-part": "SR w Grodzisku Wielkopolskim"
-    },
-    "pl:poznan:poznan:koscian": {
-      "institution-part": "SR w Kościanie"
-    },
-    "pl:poznan:poznan:leszno": {
-      "institution-part": "SR w Lesznie"
-    },
-    "pl:poznan:poznan:nowy.tomysl": {
-      "institution-part": "SR w Nowym Tomyślu"
-    },
-    "pl:poznan:poznan:oborniki": {
-      "institution-part": "SR w Obornikach"
-    },
-    "pl:poznan:poznan:pile": {
-      "institution-part": "SR w Pile"
-    },
-    "pl:poznan:poznan:grunwald.jezyce": {
-      "institution-part": "SR Poznań-Grunwald i Jeżyce w Poznaniu"
-    },
-    "pl:poznan:poznan:nowe.miasto.wilda": {
-      "institution-part": "SR Poznań-Nowe Miasto i Wilda w Poznaniu"
-    },
-    "pl:poznan:poznan:stare.miasto": {
-      "institution-part": "SR Poznań-Stare Miasto w Poznaniu"
-    },
-    "pl:poznan:poznan:rawicz": {
-      "institution-part": "SR w Rawiczu"
-    },
-    "pl:poznan:poznan:szamotuly": {
-      "institution-part": "SR w Szamotułach"
-    },
-    "pl:poznan:poznan:srem": {
-      "institution-part": "SR w Śremie"
-    },
-    "pl:poznan:poznan:sroda.wielkopolska": {
-      "institution-part": "SR w Środzie Wielkopolskiej"
-    },
-    "pl:poznan:poznan:trzcianka": {
-      "institution-part": "SR w Trzciance"
-    },
-    "pl:poznan:poznan:wagrowiec": {
-      "institution-part": "SR w Wągrowcu"
-    },
-    "pl:poznan:poznan:wolsztyn": {
-      "institution-part": "SR w Wolsztynie"
-    },
-    "pl:poznan:poznan:wrzesnia": {
-      "institution-part": "SR we Wrześni"
-    },
-    "pl:poznan:poznan:zlotow": {
-      "institution-part": "SR w Złotowie"
-    },
-    "pl:poznan:zielona.gora": {
-      "institution-part": "SO w Zielonej Górze"
-    },
-    "pl:poznan:zielona.gora:krosno.odrzanskie": {
-      "institution-part": "SR w Krośnie Odrzańskim"
-    },
-    "pl:poznan:zielona.gora:nowa.sol": {
-      "institution-part": "SR w Nowej Soli"
-    },
-    "pl:poznan:zielona.gora:swiebodzin": {
-      "institution-part": "SR w Świebodzinie"
-    },
-    "pl:poznan:zielona.gora:wschowa": {
-      "institution-part": "SR we Wschowie"
-    },
-    "pl:poznan:zielona.gora:zielona.gora": {
-      "institution-part": "SR w Zielonej Górze"
-    },
-    "pl:poznan:zielona.gora:zagan": {
-      "institution-part": "SR w Żaganiu"
-    },
-    "pl:poznan:zielona.gora:zary": {
-      "institution-part": "SR w Żarach"
-    },
-    "pl:rzeszow": {
-      "institution-part": "WSA w Rzeszowie"
-    },
-    "pl:rzeszow:krosno": {
-      "institution-part": "SO w Krośnie"
-    },
-    "pl:rzeszow:krosno:brzozow": {
-      "institution-part": "SR w Brzozowie"
-    },
-    "pl:rzeszow:krosno:jaslo": {
-      "institution-part": "SR w Jaśle"
-    },
-    "pl:rzeszow:krosno:krosno": {
-      "institution-part": "SR w Krośnie"
-    },
-    "pl:rzeszow:krosno:lesko": {
-      "institution-part": "SR w Lesku"
-    },
-    "pl:rzeszow:krosno:sanok": {
-      "institution-part": "SR w Sanoku"
-    },
-    "pl:rzeszow:przemysl": {
-      "institution-part": "SO w Przemyślu"
-    },
-    "pl:rzeszow:przemysl:jaroslaw": {
-      "institution-part": "SR w Jarosławiu"
-    },
-    "pl:rzeszow:przemysl:lubaczow": {
-      "institution-part": "SR w Lubaczowie"
-    },
-    "pl:rzeszow:przemysl:przemysl": {
-      "institution-part": "SR w Przemyślu"
-    },
-    "pl:rzeszow:przemysl:przeworsk": {
-      "institution-part": "SR w Przeworsku"
-    },
-    "pl:rzeszow:rzeszow": {
-      "institution-part": "SO w Rzeszowie"
-    },
-    "pl:rzeszow:rzeszow:debica": {
-      "institution-part": "SR w Dębicy"
-    },
-    "pl:rzeszow:rzeszow:lezajsk": {
-      "institution-part": "SR w Leżajsku"
-    },
-    "pl:rzeszow:rzeszow:lancut": {
-      "institution-part": "SR w Łańcucie"
-    },
-    "pl:rzeszow:rzeszow:ropczyce": {
-      "institution-part": "SR w Ropczycach"
-    },
-    "pl:rzeszow:rzeszow:rzeszow": {
-      "institution-part": "SR w Rzeszowie"
-    },
-    "pl:rzeszow:rzeszow:strzyzow": {
-      "institution-part": "SR w Strzyżowie"
-    },
-    "pl:rzeszow:tarnobrzeg": {
-      "institution-part": "SO w Tarnobrzegu"
-    },
-    "pl:rzeszow:tarnobrzeg:kolbuszowa": {
-      "institution-part": "SR w Kolbuszowej"
-    },
-    "pl:rzeszow:tarnobrzeg:mielec": {
-      "institution-part": "SR w Mielcu"
-    },
-    "pl:rzeszow:tarnobrzeg:nisko": {
-      "institution-part": "SR w Nisku"
-    },
-    "pl:rzeszow:tarnobrzeg:stalowa.wola": {
-      "institution-part": "SR w Stalowej Woli"
-    },
-    "pl:rzeszow:tarnobrzeg:tarnobrzeg": {
-      "institution-part": "SR w Tarnobrzegu"
-    },
-    "pl:szczecin": {
-      "institution-part": "WSA w Szczecinie"
-    },
-    "pl:szczecin:gorzow.wielkopolski": {
-      "institution-part": "SO w Gorzowie Wielkopolskim"
-    },
-    "pl:szczecin:gorzow.wielkopolski:gorzow.wielkopolski": {
-      "institution-part": "SR w Gorzowie Wielkopolskim"
-    },
-    "pl:szczecin:gorzow.wielkopolski:miedzyrzecz": {
-      "institution-part": "SR w Międzyrzeczu"
-    },
-    "pl:szczecin:gorzow.wielkopolski:slubice": {
-      "institution-part": "SR w Słubicach"
-    },
-    "pl:szczecin:gorzow.wielkopolski:strzelce.krajenskie": {
-      "institution-part": "SR w Strzelcach Krajeńskich"
-    },
-    "pl:szczecin:gorzow.wielkopolski:sulecin": {
-      "institution-part": "SR w Sulęcinie"
-    },
-    "pl:szczecin:koszalin": {
-      "institution-part": "SO w Koszalinie"
-    },
-    "pl:szczecin:koszalin:bialogard": {
-      "institution-part": "SR w Białogardzie"
-    },
-    "pl:szczecin:koszalin:drawsko.pomorskie": {
-      "institution-part": "SR w Drawsku Pomorskim"
-    },
-    "pl:szczecin:koszalin:kolobrzeg": {
-      "institution-part": "SR w Kołobrzegu"
-    },
-    "pl:szczecin:koszalin:koszalin": {
-      "institution-part": "SR w Koszalinie"
-    },
-    "pl:szczecin:koszalin:slawno": {
-      "institution-part": "SR w Sławnie"
-    },
-    "pl:szczecin:koszalin:szczecinek": {
-      "institution-part": "SR w Szczecinku"
-    },
-    "pl:szczecin:koszalin:walcz": {
-      "institution-part": "SR w Wałczu"
-    },
-    "pl:szczecin:szczecin": {
-      "institution-part": "SO w Szczecinie"
-    },
-    "pl:szczecin:szczecin:choszczno": {
-      "institution-part": "SR w Choszcznie"
-    },
-    "pl:szczecin:szczecin:goleniow": {
-      "institution-part": "SR w Goleniowie"
-    },
-    "pl:szczecin:szczecin:gryfice": {
-      "institution-part": "SR w Gryficach"
-    },
-    "pl:szczecin:szczecin:gryfino": {
-      "institution-part": "SR w Gryfinie"
-    },
-    "pl:szczecin:szczecin:kamien.pomorski": {
-      "institution-part": "SR w Kamieniu Pomorskim"
-    },
-    "pl:szczecin:szczecin:lobzie": {
-      "institution-part": "SR w Łobzie"
-    },
-    "pl:szczecin:szczecin:mysliborz": {
-      "institution-part": "SR w Myśliborzu"
-    },
-    "pl:szczecin:szczecin:stargard": {
-      "institution-part": "SR w Stargardzie"
-    },
-    "pl:szczecin:szczecin:szczecin.centrum": {
-      "institution-part": "SR Szczecin-Centrum w Szczecinie"
-    },
-    "pl:szczecin:szczecin:prawobrzeze": {
-      "institution-part": "SR Szczecin-Prawobrzeże i Zachód w Szczecinie"
-    },
-    "pl:szczecin:szczecin:swinoujscie": {
-      "institution-part": "SR w Świnoujściu"
-    },
-    "pl:warsaw": {
-      "institution-part": "WSA w Warszawie"
-    },
-      "pl:warsaw:warsaw": {
-      "institution-part": "SO w Warszawie"
-    },
-    "pl:warsaw:warsaw:grodzisk.mazowiecki": {
-      "institution-part": "SR w Grodzisku Mazowieckim"
-    },
-    "pl:warsaw:warsaw:piaseczno": {
-      "institution-part": "SR w Piasecznie"
-    },
-    "pl:warsaw:warsaw:pruszkow": {
-      "institution-part": "SR w Pruszkowie"
-    },
-    "pl:warsaw:warsaw:mokotow": {
-      "institution-part": "SR dla Warszawy-Mokotowa w Warszawie"
-    },
-    "pl:warsaw:warsaw:miasta.stolecznego": {
-      "institution-part": "SR dla miasta stołecznego Warszawy w Warszawie"
-    },
-    "pl:warsaw:warsaw:srodmiescie": {
-      "institution-part": "SR dla Warszawy-Śródmieścia w Warszawie"
-    },
-    "pl:warsaw:warsaw:wola": {
-      "institution-part": "SR dla Warszawy-Woli w Warszawie"
-    },
-    "pl:warsaw:warsaw:zoliborz": {
-      "institution-part": "SR dla Warszawy-Żoliborza w Warszawie"
-    },
-    "pl:warsaw:praga": {
-      "institution-part": "SO Warszawa-Praga w Warszawie"
-    },
-    "pl:warsaw:praga:legionowo": {
-      "institution-part": "SR w Legionowie"
-    },
-    "pl:warsaw:praga:nowy.dwor.mazowiecki": {
-      "institution-part": "SR w Nowym Dworze Mazowieckim"
-    },
-    "pl:warsaw:praga:otwock": {
-      "institution-part": "SR w Otwocku"
-    },
-    "pl:warsaw:praga:praga.poludnie": {
-      "institution-part": "SR dla Warszawy Pragi-Południe w Warszawie"
-    },
-    "pl:warsaw:praga:praga.polnoc": {
-      "institution-part": "SR dla Warszawy Pragi-Północ w Warszawie"
-    },
-    "pl:warsaw:praga:wolomin": {
-      "institution-part": "SR w Wołominie"
-    },
-    "pl:wroclaw": {
-      "institution-part": "WSA we Wrocławiu"
-    },
-    "pl:wroclaw:jelenia.gora": {
-      "institution-part": "SO w Jeleniej Górze"
-    },
-    "pl:wroclaw:jelenia.gora:boleslawiec": {
-      "institution-part": "SR w Bolesławcu"
-    },
-    "pl:wroclaw:jelenia.gora:jelenia.gora": {
-      "institution-part": "SR w Jeleniej Górze"
-    },
-    "pl:wroclaw:jelenia.gora:kamienna.gora": {
-      "institution-part": "SR w Kamiennej Górze"
-    },
-    "pl:wroclaw:jelenia.gora:lubanie": {
-      "institution-part": "SR w Lubaniu"
-    },
-    "pl:wroclaw:jelenia.gora:lwowek.slaski": {
-      "institution-part": "SR w Lwówku Śląskim"
-    },
-    "pl:wroclaw:jelenia.gora:zgorzelec": {
-      "institution-part": "SR w Zgorzelcu"
-    },
-    "pl:wroclaw:legnica": {
-      "institution-part": "SO w Legnicy"
-    },
-    "pl:wroclaw:legnica:glogow": {
-      "institution-part": "SR w Głogowie"
-    },
-    "pl:wroclaw:legnica:jaworze": {
-      "institution-part": "SR w Jaworze"
-    },
-    "pl:wroclaw:legnica:legnica": {
-      "institution-part": "SR w Legnicy"
-    },
-    "pl:wroclaw:legnica:lubin": {
-      "institution-part": "SR w Lubinie"
-    },
-    "pl:wroclaw:legnica:zlotor": {
-      "institution-part": "SR w Złotoryi"
-    },
-    "pl:wroclaw:opole": {
-      "institution-part": "SO w Opolu"
-    },
-    "pl:wroclaw:opole:brzeg": {
-      "institution-part": "SR w Brzegu"
-    },
-    "pl:wroclaw:opole:glubczyce": {
-      "institution-part": "SR w Głubczycach"
-    },
-    "pl:wroclaw:opole:kedzierzyn.kozle": {
-      "institution-part": "SR w Kędzierzynie-Koźlu"
-    },
-    "pl:wroclaw:opole:kluczbork": {
-      "institution-part": "SR w Kluczborku"
-    },
-    "pl:wroclaw:opole:nysa": {
-      "institution-part": "SR w Nysie"
-    },
-    "pl:wroclaw:opole:olesno": {
-      "institution-part": "SR w Oleśnie"
-    },
-    "pl:wroclaw:opole:opole": {
-      "institution-part": "SR w Opolu"
-    },
-    "pl:wroclaw:opole:prudnik": {
-      "institution-part": "SR w Prudniku"
-    },
-    "pl:wroclaw:opole:strzelce.opolski": {
-      "institution-part": "SR w Strzelcach Opolskich"
-    },
-    "pl:wroclaw:swidnica": {
-      "institution-part": "SO w Świdnicy"
-    },
-    "pl:wroclaw:swidnica:dzierzoniow": {
-      "institution-part": "SR w Dzierżoniowie"
-    },
-    "pl:wroclaw:swidnica:klodzko": {
-      "institution-part": "SR w Kłodzku"
-    },
-    "pl:wroclaw:swidnica:swidnica": {
-      "institution-part": "SR w Świdnicy"
-    },
-    "pl:wroclaw:swidnica:walbrzych": {
-      "institution-part": "SR w Wałbrzychu"
-    },
-    "pl:wroclaw:swidnica:zabkowice.slaskie": {
-      "institution-part": "SR w Ząbkowicach Śląskich"
-    },
-    "pl:wroclaw:wroclaw": {
-      "institution-part": "SO we Wrocławiu"
-    },
-    "pl:wroclaw:wroclaw:milicz": {
-      "institution-part": "SR w Miliczu"
-    },
-    "pl:wroclaw:wroclaw:olesnica": {
-      "institution-part": "SR w Oleśnicy"
-    },
-    "pl:wroclaw:wroclaw:olawa": {
-      "institution-part": "SR w Oławie"
-    },
-    "pl:wroclaw:wroclaw:strzelin": {
-      "institution-part": "SR w Strzelinie"
-    },
-    "pl:wroclaw:wroclaw:sroda.slaska": {
-      "institution-part": "SR w Środzie Śląskiej"
-    },
-    "pl:wroclaw:wroclaw:trzebnica": {
-      "institution-part": "SR w Trzebnicy"
-    },
-    "pl:wroclaw:wroclaw:wolow": {
-      "institution-part": "SR w Wołowie"
-    },
-    "pl:wroclaw:wroclaw:fabryczna": {
-      "institution-part": "SR dla Wrocławia-Fabrycznej we Wrocławiu"
-    },
-    "pl:wroclaw:wroclaw:krzykow": {
-      "institution-part": "SR dla Wrocławia-Krzyków we Wrocławiu"
-    },
-    "pl:wroclaw:wroclaw:srodmiescie": {
-      "institution-part": "SR dla Wrocławia-Śródmieścia we Wrocławiu"
-    },
     "pl:bydgoszcz": {
-      "institution-part": "WSA w Bydgoszczy"
+		"institution-part": {
+			"wsa": "WSA w Bydgoszczy"
+		}
     },
     "pl:gorzow.wielkopolski": {
-      "institution-part": "WSA w Gorzowie Wielkopolskim"
+		"institution-part": {
+			"wsa": "WSA w Gorzowie Wielkopolskim"
+		}
     },
     "pl:opole": {
-      "institution-part": "WSA w Opolu"
+		"institution-part": {
+			"wsa": "WSA w Opolu"
+		}
     },
     "pl:kielce": {
-      "institution-part": "WSA w Kielcach"
+		"institution-part": {
+			"wsa": "WSA w Kielcach"
+		}
     },
     "pl:olsztyn": {
-      "institution-part": "WSA w Olsztynie"
+		"institution-part": {
+			"wsa": "WSA w Olsztynie"
+		}
     },
     "pl:gliwice": {
-      "institution-part": "WSA w Gliwicach"
+		"institution-part": {
+			"wsa": "WSA w Gliwicach"
+		}
+    },
+    "pl:bialystok": {
+		"institution-part": {
+			"wsa": "WSA w Białymstoku"
+		}
+    },
+    "pl:bialystok:bialystok": {
+		"institution-part": {
+			"so": "SO w Białymstoku"
+		}
+    },
+    "pl:bialystok:bialystok:bialystok": {
+		"institution-part": {
+			"sr": "SR w Białymstoku"
+		}
+    },
+    "pl:bialystok:bialystok:bielsko.podlaski": {
+		"institution-part": {
+			"sr": "SR w Bielsku Podlaskim"
+		}
+    },
+    "pl:bialystok:bialystok:sokolka": {
+		"institution-part": {
+			"sr": "SR w Sokółce"
+		}
+    },
+    "pl:bialystok:lomza": {
+		"institution-part": {
+			"so": "SO w Łomży"
+		}
+    },
+    "pl:bialystok:lomza:grajewo": {
+		"institution-part": {
+			"sr": "SR w Grajewie"
+		}
+    },
+    "pl:bialystok:lomza:lomza": {
+		"institution-part": {
+			"sr": "SR w Łomży"
+		}
+    },
+    "pl:bialystok:lomza:wysokie.mazowieckie": {
+		"institution-part": {
+			"sr": "SR w Wysokiem Mazowieckiem"
+		}
+    },
+    "pl:bialystok:lomza:zambrow": {
+		"institution-part": {
+			"sr": "SR w Zambrowie"
+		}
+    },
+    "pl:bialystok:olsztyn": {
+		"institution-part": {
+			"so": "SO w Olsztynie"
+		}
+    },
+    "pl:bialystok:olsztyn:bartoszyce": {
+		"institution-part": {
+			"sr": "SR w Bartoszycach"
+		}
+    },
+    "pl:bialystok:olsztyn:biskupiec": {
+		"institution-part": {
+			"sr": "SR w Biskupcu"
+		}
+    },
+    "pl:bialystok:olsztyn:gizycko": {
+		"institution-part": {
+			"sr": "SR w Giżycku"
+		}
+    },
+    "pl:bialystok:olsztyn:ketrzyn": {
+		"institution-part": {
+			"sr": "SR w Kętrzynie"
+		}
+    },
+    "pl:bialystok:olsztyn:lidzbark.warminski": {
+		"institution-part": {
+			"sr": "SR w Lidzbarku Warmińskim"
+		}
+    },
+    "pl:bialystok:olsztyn:mragowo": {
+		"institution-part": {
+			"sr": "SR w Mrągowie"
+		}
+    },
+    "pl:bialystok:olsztyn:nidzica": {
+		"institution-part": {
+			"sr": "SR w Nidzicy"
+		}
+    },
+    "pl:bialystok:olsztyn:olsztyn": {
+		"institution-part": {
+			"sr": "SR w Olsztynie"
+		}
+    },
+    "pl:bialystok:olsztyn:pisz": {
+		"institution-part": {
+			"sr": "SR w Piszu"
+		}
+    },
+    "pl:bialystok:olsztyn:szczytno": {
+		"institution-part": {
+			"sr": "SR w Szczytnie"
+		}
+    },
+    "pl:bialystok:ostrolece": {
+		"institution-part": {
+			"so": "SO w Ostrołęce"
+		}
+    },
+    "pl:bialystok:ostrolece:ostroleka": {
+		"institution-part": {
+			"sr": "SR w Ostrołęce"
+		}
+    },
+    "pl:bialystok:ostrolece:ostrow.mazowiecka": {
+		"institution-part": {
+			"sr": "SR w Ostrowi Mazowieckiej"
+		}
+    },
+    "pl:bialystok:ostrolece:przasnysz": {
+		"institution-part": {
+			"sr": "SR w Przasnyszu"
+		}
+    },
+    "pl:bialystok:ostrolece:pultusk": {
+		"institution-part": {
+			"sr": "SR w Pułtusku"
+		}
+    },
+    "pl:bialystok:ostrolece:wyszkow": {
+		"institution-part": {
+			"sr": "SR w Wyszkowie"
+		}
+    },
+    "pl:bialystok:suwalki": {
+		"institution-part": {
+			"so": "SO w Suwałkach"
+		}
+    },
+    "pl:bialystok:suwalki:augustow": {
+		"institution-part": {
+			"sr": "SR w Augustowie"
+		}
+    },
+    "pl:bialystok:suwalki:elk": {
+		"institution-part": {
+			"sr": "SR w Ełku"
+		}
+    },
+    "pl:bialystok:suwalki:olecko": {
+		"institution-part": {
+			"sr": "SR w Olecku"
+		}
+    },
+    "pl:bialystok:suwalki:suwalki": {
+		"institution-part": {
+			"sr": "SR w Suwałkach"
+		}
+    },
+    "pl:gdansk": {
+		"institution-part": {
+			"wsa": "WSA w Gdańsku"
+		}
+    },
+    "pl:gdansk:bydgoszcz": {
+		"institution-part": {
+			"so": "SO w Bydgoszczy"
+		}
+    },
+    "pl:gdansk:bydgoszcz:bydgoszcz": {
+		"institution-part": {
+			"sr": "SR w Bydgoszczy"
+		}
+    },
+    "pl:gdansk:bydgoszcz:inowroclaw": {
+		"institution-part": {
+			"sr": "SR w Inowrocławiu"
+		}
+    },
+    "pl:gdansk:bydgoszcz:mogilno": {
+		"institution-part": {
+			"sr": "SR w Mogilnie"
+		}
+    },
+    "pl:gdansk:bydgoszcz:naklo.nad.notecia": {
+		"institution-part": {
+			"sr": "SR w Nakle nad Notecią"
+		}
+    },
+    "pl:gdansk:bydgoszcz:szubinie": {
+		"institution-part": {
+			"sr": "SR w Szubinie"
+		}
+    },
+    "pl:gdansk:bydgoszcz:swiecie": {
+		"institution-part": {
+			"sr": "SR w Świeciu"
+		}
+    },
+    "pl:gdansk:bydgoszcz:tucholi": {
+		"institution-part": {
+			"sr": "SR w Tucholi"
+		}
+    },
+    "pl:gdansk:bydgoszcz:zninie": {
+		"institution-part": {
+			"sr": "SR w Żninie"
+		}
+    },
+    "pl:gdansk:elblag": {
+		"institution-part": {
+			"so": "SO w Elblągu"
+		}
+    },
+    "pl:gdansk:elblag:braniewo": {
+		"institution-part": {
+			"sr": "SR w Braniewie"
+		}
+    },
+    "pl:gdansk:elblag:dzialdowo": {
+		"institution-part": {
+			"sr": "SR w Działdowie"
+		}
+    },
+    "pl:gdansk:elblag:elblag": {
+		"institution-part": {
+			"sr": "SR w Elblągu"
+		}
+    },
+    "pl:gdansk:elblag:ilawa": {
+		"institution-part": {
+			"sr": "SR w Iławie"
+		}
+    },
+    "pl:gdansk:elblag:nowe.miasto.lubawskie": {
+		"institution-part": {
+			"sr": "SR w Nowym Mieście Lubawskim"
+		}
+    },
+    "pl:gdansk:elblag:ostroda": {
+		"institution-part": {
+			"sr": "SR w Ostródzie"
+		}
+    },
+    "pl:gdansk:gdansk": {
+		"institution-part": {
+			"so": "SO w Gdańsku"
+		}
+    },
+    "pl:gdansk:gdansk:gdansk": {
+		"institution-part": {
+			"sr": "SR w Gdańsku"
+		}
+    },
+    "pl:gdansk:gdansk:poludnie": {
+		"institution-part": {
+			"sr": "SR Gdańsk-Południe w Gdańsku"
+		}
+    },
+    "pl:gdansk:gdansk:polnoc": {
+		"institution-part": {
+			"sr": "SR Gdańsk-Północ w Gdańsku"
+		}
+    },
+    "pl:gdansk:gdansk:gdynia": {
+		"institution-part": {
+			"sr": "SR w Gdyni"
+		}
+    },
+    "pl:gdansk:gdansk:kartuzy": {
+		"institution-part": {
+			"sr": "SR w Kartuzach"
+		}
+    },
+    "pl:gdansk:gdansk:koscierzyna": {
+		"institution-part": {
+			"sr": "SR w Kościerzynie"
+		}
+    },
+    "pl:gdansk:gdansk:kwidzyn": {
+		"institution-part": {
+			"sr": "SR w Kwidzynie"
+		}
+    },
+    "pl:gdansk:gdansk:malbork": {
+		"institution-part": {
+			"sr": "SR w Malborku"
+		}
+    },
+    "pl:gdansk:gdansk:sopot": {
+		"institution-part": {
+			"sr": "SR w Sopocie"
+		}
+    },
+    "pl:gdansk:gdansk:starogard.gdanski": {
+		"institution-part": {
+			"sr": "SR w Starogardzie Gdańskim"
+		}
+    },
+    "pl:gdansk:gdansk:tczew": {
+		"institution-part": {
+			"sr": "SR w Tczewie"
+		}
+    },
+    "pl:gdansk:gdansk:wejherowo": {
+		"institution-part": {
+			"sr": "SR w Wejherowie"
+		}
+    },
+    "pl:gdansk:slupsk": {
+		"institution-part": {
+			"so": "SO w Słupsku"
+		}
+    },
+    "pl:gdansk:slupsk:bytow": {
+		"institution-part": {
+			"sr": "SR w Bytowie"
+		}
+    },
+    "pl:gdansk:slupsk:chojnice": {
+		"institution-part": {
+			"sr": "SR w Chojnicach"
+		}
+    },
+    "pl:gdansk:slupsk:czluchow": {
+		"institution-part": {
+			"sr": "SR w Człuchowie"
+		}
+    },
+    "pl:gdansk:slupsk:lebork": {
+		"institution-part": {
+			"sr": "SR w Lęborku"
+		}
+    },
+    "pl:gdansk:slupsk:miastko": {
+		"institution-part": {
+			"sr": "SR w Miastku"
+		}
+    },
+    "pl:gdansk:slupsk:slupsk": {
+		"institution-part": {
+			"sr": "SR w Słupsku"
+		}
+    },
+    "pl:gdansk:torun": {
+		"institution-part": {
+			"so": "SO w Toruniu"
+		}
+    },
+    "pl:gdansk:torun:brodnica": {
+		"institution-part": {
+			"sr": "SR w Brodnicy"
+		}
+    },
+    "pl:gdansk:torun:chelmno": {
+		"institution-part": {
+			"sr": "SR w Chełmnie"
+		}
+    },
+    "pl:gdansk:torun:golub.dobrzyn": {
+		"institution-part": {
+			"sr": "SR w Golubiu-Dobrzyniu"
+		}
+    },
+    "pl:gdansk:torun:grudziadz": {
+		"institution-part": {
+			"sr": "SR w Grudziądzu"
+		}
+    },
+    "pl:gdansk:torun:torun": {
+		"institution-part": {
+			"sr": "SR w Toruniu"
+		}
+    },
+    "pl:gdansk:torun:wabrzezno": {
+		"institution-part": {
+			"sr": "SR w Wąbrzeźnie"
+		}
+    },
+    "pl:gdansk:wloclawek": {
+		"institution-part": {
+			"so": "SO we Włocławku"
+		}
+    },
+    "pl:gdansk:wloclawek:aleksandrow.kujawski": {
+		"institution-part": {
+			"sr": "SR w Aleksandrowie Kujawskim"
+		}
+    },
+    "pl:gdansk:wloclawek:lipno": {
+		"institution-part": {
+			"sr": "SR w Lipnie"
+		}
+    },
+    "pl:gdansk:wloclawek:radziejow": {
+		"institution-part": {
+			"sr": "SR w Radziejowie"
+		}
+    },
+    "pl:gdansk:wloclawek:rypin": {
+		"institution-part": {
+			"sr": "SR w Rypinie"
+		}
+    },
+    "pl:gdansk:wloclawek:wloclawek": {
+		"institution-part": {
+			"sr": "SR we Włocławku"
+		}
+    },
+    "pl:katowice": {
+		"institution-part": {
+			"wsa": "WSA w Katowicach"
+		}
+    },
+    "pl:katowice:bielsko.biala": {
+		"institution-part": {
+			"so": "SO w Bielsku-Białej"
+		}
+    },
+    "pl:katowice:bielsko.biala:bielsko.biala": {
+		"institution-part": {
+			"sr": "SR w Bielsku-Białej"
+		}
+    },
+    "pl:katowice:bielsko.biala:cieszyn": {
+		"institution-part": {
+			"sr": "SR w Cieszynie"
+		}
+    },
+    "pl:katowice:bielsko.biala:zywiec": {
+		"institution-part": {
+			"sr": "SR w Żywcu"
+		}
+    },
+    "pl:katowice:czestochowa": {
+		"institution-part": {
+			"so": "SO w Częstochowie"
+		}
+    },
+    "pl:katowice:czestochowa:czestochowa": {
+		"institution-part": {
+			"sr": "SR w Częstochowie"
+		}
+    },
+    "pl:katowice:czestochowa:lubliniec": {
+		"institution-part": {
+			"sr": "SR w Lublińcu"
+		}
+    },
+    "pl:katowice:czestochowa:myszkow": {
+		"institution-part": {
+			"sr": "SR w Myszkowie"
+		}
+    },
+    "pl:katowice:czestochowa:zawiercie": {
+		"institution-part": {
+			"sr": "SR w Zawierciu"
+		}
+    },
+    "pl:katowice:gliwice": {
+		"institution-part": {
+			"so": "SO w Gliwicach"
+		}
+    },
+    "pl:katowice:gliwice:gliwice": {
+		"institution-part": {
+			"sr": "SR w Gliwicach"
+		}
+    },
+    "pl:katowice:gliwice:jastrzebie.zdroj": {
+		"institution-part": {
+			"sr": "SR w Jastrzębiu-Zdroju"
+		}
+    },
+    "pl:katowice:gliwice:raciborz": {
+		"institution-part": {
+			"sr": "SR w Raciborzu"
+		}
+    },
+    "pl:katowice:gliwice:ruda.slaska": {
+		"institution-part": {
+			"sr": "SR w Rudzie Śląskiej"
+		}
+    },
+    "pl:katowice:gliwice:rybnik": {
+		"institution-part": {
+			"sr": "SR w Rybniku"
+		}
+    },
+    "pl:katowice:gliwice:tarnowskie.gory": {
+		"institution-part": {
+			"sr": "SR w Tarnowskich Górach"
+		}
+    },
+    "pl:katowice:gliwice:wodzislaw.slaski": {
+		"institution-part": {
+			"sr": "SR w Wodzisławiu Śląskim"
+		}
+    },
+    "pl:katowice:gliwice:zabrze": {
+		"institution-part": {
+			"sr": "SR w Zabrzu"
+		}
+    },
+    "pl:katowice:gliwice:zory": {
+		"institution-part": {
+			"sr": "SR w Żorach"
+		}
+    },
+    "pl:katowice:katowice": {
+		"institution-part": {
+			"so": "SO w Katowicach"
+		}
+    },
+    "pl:katowice:katowice:bedzin": {
+		"institution-part": {
+			"sr": "SR w Będzinie"
+		}
+    },
+    "pl:katowice:katowice:bytom": {
+		"institution-part": {
+			"sr": "SR w Bytomiu"
+		}
+    },
+    "pl:katowice:katowice:chorzow": {
+		"institution-part": {
+			"sr": "SR w Chorzowie"
+		}
+    },
+    "pl:katowice:katowice:dabrowa.gornicza": {
+		"institution-part": {
+			"sr": "SR w Dąbrowie Górniczej"
+		}
+    },
+    "pl:katowice:katowice:jaworzno": {
+		"institution-part": {
+			"sr": "SR w Jaworznie"
+		}
+    },
+    "pl:katowice:katowice:wschod.katowice": {
+		"institution-part": {
+			"sr": "SR Katowice-Wschód w Katowicach"
+		}
+    },
+    "pl:katowice:katowice:zachod.katowice": {
+		"institution-part": {
+			"sr": "SR Katowice-Zachód w Katowicach"
+		}
+    },
+    "pl:katowice:katowice:mikolow": {
+		"institution-part": {
+			"sr": "SR w Mikołowie"
+		}
+    },
+    "pl:katowice:katowice:myslowice": {
+		"institution-part": {
+			"sr": "SR w Mysłowicach"
+		}
+    },
+    "pl:katowice:katowice:pszczyna": {
+		"institution-part": {
+			"sr": "SR w Pszczynie"
+		}
+    },
+    "pl:katowice:katowice:siemianowice.slaskie": {
+		"institution-part": {
+			"sr": "SR w Siemianowicach Śląskich"
+		}
+    },
+    "pl:katowice:katowice:sosnowiec": {
+		"institution-part": {
+			"sr": "SR w Sosnowcu"
+		}
+    },
+    "pl:katowice:katowice:tychy": {
+		"institution-part": {
+			"sr": "SR w Tychach"
+		}
+    },
+    "pl:krakow": {
+		"institution-part": {
+			"wsa": "WSA w Krakowie"
+		}
+    },
+    "pl:krakow:kielce": {
+		"institution-part": {
+			"so": "SO w Kielcach"
+		}
+    },
+    "pl:krakow:kielce:busku.zdroj": {
+		"institution-part": {
+			"sr": "SR w Busku-Zdroju"
+		}
+    },
+    "pl:krakow:kielce:jedrzejow": {
+		"institution-part": {
+			"sr": "SR w Jędrzejowie"
+		}
+    },
+    "pl:krakow:kielce:kielce": {
+		"institution-part": {
+			"sr": "SR w Kielcach"
+		}
+    },
+    "pl:krakow:kielce:konskie": {
+		"institution-part": {
+			"sr": "SR w Końskich"
+		}
+    },
+    "pl:krakow:kielce:opatow": {
+		"institution-part": {
+			"sr": "SR w Opatowie"
+		}
+    },
+    "pl:krakow:kielce:ostrowiec.swietokrzyski": {
+		"institution-part": {
+			"sr": "SR w Ostrowcu Świętokrzyskim"
+		}
+    },
+    "pl:krakow:kielce:pinczow": {
+		"institution-part": {
+			"sr": "SR w Pińczowie"
+		}
+    },
+    "pl:krakow:kielce:sandomierz": {
+		"institution-part": {
+			"sr": "SR w Sandomierzu"
+		}
+    },
+    "pl:krakow:kielce:skarzysko.kamienna": {
+		"institution-part": {
+			"sr": "SR w Skarżysku-Kamiennej"
+		}
+    },
+    "pl:krakow:kielce:starachowice": {
+		"institution-part": {
+			"sr": "SR w Starachowicach"
+		}
+    },
+    "pl:krakow:kielce:staszow": {
+		"institution-part": {
+			"sr": "SR w Staszowie"
+		}
+    },
+    "pl:krakow:kielce:wloszczow": {
+		"institution-part": {
+			"sr": "SR we Włoszczowie"
+		}
+    },
+    "pl:krakow:krakow": {
+		"institution-part": {
+			"so": "SO w Krakowie"
+		}
+    },
+    "pl:krakow:krakow:chrzanow": {
+		"institution-part": {
+			"sr": "SR w Chrzanowie"
+		}
+    },
+    "pl:krakow:krakow:krowodrza": {
+		"institution-part": {
+			"sr": "SR dla Krakowa-Krowodrzy w Krakowie"
+		}
+    },
+    "pl:krakow:krakow:nowa.huta": {
+		"institution-part": {
+			"sr": "SR dla Krakowa-Nowej Huty w Krakowie"
+		}
+    },
+    "pl:krakow:krakow:podgorze": {
+		"institution-part": {
+			"sr": "SR dla Krakowa-Podgórza w Krakowie"
+		}
+    },
+    "pl:krakow:krakow:srodmiescie": {
+		"institution-part": {
+			"sr": "SR dla Krakowa-Śródmieścia w Krakowie"
+		}
+    },
+    "pl:krakow:krakow:miechow": {
+		"institution-part": {
+			"sr": "SR w Miechowie"
+		}
+    },
+    "pl:krakow:krakow:myslenice": {
+		"institution-part": {
+			"sr": "SR w Myślenicach"
+		}
+    },
+    "pl:krakow:krakow:olkusz": {
+		"institution-part": {
+			"sr": "SR w Olkuszu"
+		}
+    },
+    "pl:krakow:krakow:oswiecim": {
+		"institution-part": {
+			"sr": "SR w Oświęcimiu"
+		}
+    },
+    "pl:krakow:krakow:sucha.beskidzka": {
+		"institution-part": {
+			"sr": "SR w Suchej Beskidzkiej"
+		}
+    },
+    "pl:krakow:krakow:wadowice": {
+		"institution-part": {
+			"sr": "SR w Wadowicach"
+		}
+    },
+    "pl:krakow:krakow:wieliczka": {
+		"institution-part": {
+			"sr": "SR w Wieliczce"
+		}
+    },
+    "pl:krakow:nowy.sacz": {
+		"institution-part": {
+			"so": "SO w Nowym Sączu"
+		}
+    },
+    "pl:krakow:nowy.sacz:gorlice": {
+		"institution-part": {
+			"sr": "SR w Gorlicach"
+		}
+    },
+    "pl:krakow:nowy.sacz:limanowa": {
+		"institution-part": {
+			"sr": "SR w Limanowej"
+		}
+    },
+    "pl:krakow:nowy.sacz:nowy.sacz": {
+		"institution-part": {
+			"sr": "SR w Nowym Sączu"
+		}
+    },
+    "pl:krakow:nowy.sacz:nowy.targ": {
+		"institution-part": {
+			"sr": "SR w Nowym Targu"
+		}
+    },
+    "pl:krakow:nowy.sacz:zakopane": {
+		"institution-part": {
+			"sr": "SR w Zakopanem"
+		}
+    },
+    "pl:krakow:tarnow": {
+		"institution-part": {
+			"so": "SO w Tarnowie"
+		}
+    },
+    "pl:krakow:tarnow:bochnia": {
+		"institution-part": {
+			"sr": "SR w Bochni"
+		}
+    },
+    "pl:krakow:tarnow:brzesko": {
+		"institution-part": {
+			"sr": "SR w Brzesku"
+		}
+    },
+    "pl:krakow:tarnow:dabrowa.tarnowska": {
+		"institution-part": {
+			"sr": "SR w Dąbrowie Tarnowskiej"
+		}
+    },
+    "pl:krakow:tarnow:tarnow": {
+		"institution-part": {
+			"sr": "SR w Tarnowie"
+		}
+    },
+    "pl:lublin": {
+		"institution-part": {
+			"wsa": "WSA w Lublinie"
+		}
+    },
+    "pl:lublin:lublin": {
+		"institution-part": {
+			"so": "SO w Lublinie"
+		}
+    },
+    "pl:lublin:lublin:biala.podlaska": {
+		"institution-part": {
+			"sr": "SR w Białej Podlaskiej"
+		}
+    },
+    "pl:lublin:lublin:chelm": {
+		"institution-part": {
+			"sr": "SR w Chełmie"
+		}
+    },
+    "pl:lublin:lublin:krasnik": {
+		"institution-part": {
+			"sr": "SR w Kraśniku"
+		}
+    },
+    "pl:lublin:lublin:lubartow": {
+		"institution-part": {
+			"sr": "SR w Lubartowie"
+		}
+    },
+    "pl:lublin:lublin:wschod.lublin": {
+		"institution-part": {
+			"sr": "SR Lublin-Wschód w Lublinie z siedzibą w Świdniku"
+		}
+    },
+    "pl:lublin:lublin:zachod.lublin": {
+		"institution-part": {
+			"sr": "SR Lublin-Zachód w Lublinie"
+		}
+    },
+    "pl:lublin:lublin:lukow": {
+		"institution-part": {
+			"sr": "SR w Łukowie"
+		}
+    },
+    "pl:lublin:lublin:opole.lubelskie": {
+		"institution-part": {
+			"sr": "SR w Opolu Lubelskim"
+		}
+    },
+    "pl:lublin:lublin:pulawy": {
+		"institution-part": {
+			"sr": "SR w Puławach"
+		}
+    },
+    "pl:lublin:lublin:radzyn.podlaski": {
+		"institution-part": {
+			"sr": "SR w Radzyniu Podlaskim"
+		}
+    },
+    "pl:lublin:lublin:ryki": {
+		"institution-part": {
+			"sr": "SR w Rykach"
+		}
+    },
+    "pl:lublin:lublin:wlodawa": {
+		"institution-part": {
+			"sr": "SR we Włodawie"
+		}
+    },
+    "pl:lublin:radom": {
+		"institution-part": {
+			"so": "SO w Radomiu"
+		}
+    },
+    "pl:lublin:radom:grojec": {
+		"institution-part": {
+			"sr": "SR w Grójcu"
+		}
+    },
+    "pl:lublin:radom:kozienice": {
+		"institution-part": {
+			"sr": "SR w Kozienicach"
+		}
+    },
+    "pl:lublin:radom:lipsk": {
+		"institution-part": {
+			"sr": "SR w Lipsku"
+		}
+    },
+    "pl:lublin:radom:przysusze": {
+		"institution-part": {
+			"sr": "SR w Przysusze"
+		}
+    },
+    "pl:lublin:radom:radom": {
+		"institution-part": {
+			"sr": "SR w Radomiu"
+		}
+    },
+    "pl:lublin:radom:szydlowiec": {
+		"institution-part": {
+			"sr": "SR w Szydłowcu"
+		}
+    },
+    "pl:lublin:radom:zwolen": {
+		"institution-part": {
+			"sr": "SR w Zwoleniu"
+		}
+    },
+    "pl:lublin:siedlce": {
+		"institution-part": {
+			"so": "SO w Siedlcach"
+		}
+    },
+    "pl:lublin:siedlce:garwolin": {
+		"institution-part": {
+			"sr": "SR w Garwolinie"
+		}
+    },
+    "pl:lublin:siedlce:minsk.mazowiecki": {
+		"institution-part": {
+			"sr": "SR w Mińsku Mazowieckim"
+		}
+    },
+    "pl:lublin:siedlce:siedlce": {
+		"institution-part": {
+			"sr": "SR w Siedlcach"
+		}
+    },
+    "pl:lublin:siedlce:sokolow.podlaski": {
+		"institution-part": {
+			"sr": "SR w Sokołowie Podlaskim"
+		}
+    },
+    "pl:lublin:siedlce:wegrow": {
+		"institution-part": {
+			"sr": "SR w Węgrowie"
+		}
+    },
+    "pl:lublin:zamosc": {
+		"institution-part": {
+			"so": "SO w Zamościu"
+		}
+    },
+    "pl:lublin:zamosc:bilgoraju": {
+		"institution-part": {
+			"sr": "SR w Biłgoraju"
+		}
+    },
+    "pl:lublin:zamosc:hrubieszow": {
+		"institution-part": {
+			"sr": "SR w Hrubieszowie"
+		}
+    },
+    "pl:lublin:zamosc:janow.lubelski": {
+		"institution-part": {
+			"sr": "SR w Janowie Lubelskim"
+		}
+    },
+    "pl:lublin:zamosc:krasnystaw": {
+		"institution-part": {
+			"sr": "SR w Krasnymstawie"
+		}
+    },
+    "pl:lublin:zamosc:tomaszow.lubelski": {
+		"institution-part": {
+			"sr": "SR w Tomaszowie Lubelskim"
+		}
+    },
+    "pl:lublin:zamosc:zamosc": {
+		"institution-part": {
+			"sr": "SR w Zamościu"
+		}
+    },
+    "pl:lodz": {
+		"institution-part": {
+			"wsa": "WSA w Łodzi"
+		}
+    },
+    "pl:lodz:kalisz": {
+		"institution-part": {
+			"so": "SO w Kaliszu"
+		}
+    },
+    "pl:lodz:kalisz:jarocin": {
+		"institution-part": {
+			"sr": "SR w Jarocinie"
+		}
+    },
+    "pl:lodz:kalisz:kalisz": {
+		"institution-part": {
+			"sr": "SR w Kaliszu"
+		}
+    },
+    "pl:lodz:kalisz:kepno": {
+		"institution-part": {
+			"sr": "SR w Kępnie"
+		}
+    },
+    "pl:lodz:kalisz:krotoszyn": {
+		"institution-part": {
+			"sr": "SR w Krotoszynie"
+		}
+    },
+    "pl:lodz:kalisz:ostrow.wielkopolski": {
+		"institution-part": {
+			"sr": "SR w Ostrowie Wielkopolskim"
+		}
+    },
+    "pl:lodz:kalisz:ostrzeszow": {
+		"institution-part": {
+			"sr": "SR w Ostrzeszowie"
+		}
+    },
+    "pl:lodz:kalisz:pleszew": {
+		"institution-part": {
+			"sr": "SR w Pleszewie"
+		}
+    },
+    "pl:lodz:lodz": {
+		"institution-part": {
+			"so": "SO w Łodzi"
+		}
+    },
+    "pl:lodz:lodz:brzeziny": {
+		"institution-part": {
+			"sr": "SR w Brzezinach"
+		}
+    },
+    "pl:lodz:lodz:kutno": {
+		"institution-part": {
+			"sr": "SR w Kutnie"
+		}
+    },
+    "pl:lodz:lodz:leczyca": {
+		"institution-part": {
+			"sr": "SR w Łęczycy"
+		}
+    },
+    "pl:lodz:lodz:srodmiescie": {
+		"institution-part": {
+			"sr": "SR dla Łodzi-Śródmieścia w Łodzi"
+		}
+    },
+    "pl:lodz:lodz:widzew": {
+		"institution-part": {
+			"sr": "SR dla Łodzi-Widzewa w Łodzi"
+		}
+    },
+    "pl:lodz:lodz:lowicz": {
+		"institution-part": {
+			"sr": "SR w Łowiczu"
+		}
+    },
+    "pl:lodz:lodz:pabianice": {
+		"institution-part": {
+			"sr": "SR w Pabianicach"
+		}
+    },
+    "pl:lodz:lodz:rawa.mazowiecka": {
+		"institution-part": {
+			"sr": "SR w Rawie Mazowieckiej"
+		}
+    },
+    "pl:lodz:lodz:skierniewice": {
+		"institution-part": {
+			"sr": "SR w Skierniewicach"
+		}
+    },
+    "pl:lodz:lodz:zgierz": {
+		"institution-part": {
+			"sr": "SR w Zgierzu"
+		}
+    },
+    "pl:lodz:piotrkow.trybunalski": {
+		"institution-part": {
+			"so": "SO w Piotrkowie Trybunalskim"
+		}
+    },
+    "pl:lodz:piotrkow.trybunalski:belchatow": {
+		"institution-part": {
+			"sr": "SR w Bełchatowie"
+		}
+    },
+    "pl:lodz:piotrkow.trybunalski:opoczno": {
+		"institution-part": {
+			"sr": "SR w Opocznie"
+		}
+    },
+    "pl:lodz:piotrkow.trybunalski:piotrkow.trybunalski": {
+		"institution-part": {
+			"sr": "SR w Piotrkowie Trybunalskim"
+		}
+    },
+    "pl:lodz:piotrkow.trybunalski:radomsko": {
+		"institution-part": {
+			"sr": "SR w Radomsku"
+		}
+    },
+    "pl:lodz:piotrkow.trybunalski:tomaszow.mazowiecki": {
+		"institution-part": {
+			"sr": "SR w Tomaszowie Mazowieckim"
+		}
+    },
+    "pl:lodz:plock": {
+		"institution-part": {
+			"so": "SO w Płocku"
+		}
+    },
+    "pl:lodz:plock:ciechanow": {
+		"institution-part": {
+			"sr": "SR w Ciechanowie"
+		}
+    },
+    "pl:lodz:plock:gostynin": {
+		"institution-part": {
+			"sr": "SR w Gostyninie"
+		}
+    },
+    "pl:lodz:plock:mlawa": {
+		"institution-part": {
+			"sr": "SR w Mławie"
+		}
+    },
+    "pl:lodz:plock:plock": {
+		"institution-part": {
+			"sr": "SR w Płocku"
+		}
+    },
+    "pl:lodz:plock:plonsk": {
+		"institution-part": {
+			"sr": "SR w Płońsku"
+		}
+    },
+    "pl:lodz:plock:sierpc": {
+		"institution-part": {
+			"sr": "SR w Sierpcu"
+		}
+    },
+    "pl:lodz:plock:sochaczew": {
+		"institution-part": {
+			"sr": "SR w Sochaczewie"
+		}
+    },
+    "pl:lodz:plock:zyrardow": {
+		"institution-part": {
+			"sr": "SR w Żyrardowie"
+		}
+    },
+    "pl:lodz:sieradz": {
+		"institution-part": {
+			"so": "SO w Sieradzu"
+		}
+    },
+    "pl:lodz:sieradz:lask": {
+		"institution-part": {
+			"sr": "SR w Łasku"
+		}
+    },
+    "pl:lodz:sieradz:sieradz": {
+		"institution-part": {
+			"sr": "SR w Sieradzu"
+		}
+    },
+    "pl:lodz:sieradz:wielun": {
+		"institution-part": {
+			"sr": "SR w Wieluniu"
+		}
+    },
+    "pl:lodz:sieradz:zdunska.wola": {
+		"institution-part": {
+			"sr": "SR w Zduńskiej Woli"
+		}
+    },
+    "pl:poznan": {
+		"institution-part": {
+			"wsa": "WSA w Poznaniu"
+		}
+    },
+    "pl:poznan:konin": {
+		"institution-part": {
+			"so": "SO w Koninie"
+		}
+    },
+    "pl:poznan:konin:kole": {
+		"institution-part": {
+			"sr": "SR w Kole"
+		}
+    },
+    "pl:poznan:konin:konin": {
+		"institution-part": {
+			"sr": "SR w Koninie"
+		}
+    },
+    "pl:poznan:konin:slupcy": {
+		"institution-part": {
+			"sr": "SR w Słupcy"
+		}
+    },
+    "pl:poznan:konin:turku": {
+		"institution-part": {
+			"sr": "SR w Turku"
+		}
+    },
+    "pl:poznan:poznan": {
+		"institution-part": {
+			"so": "SO w Poznaniu"
+		}
+    },
+    "pl:poznan:poznan:chodziez": {
+		"institution-part": {
+			"sr": "SR w Chodzieży"
+		}
+    },
+    "pl:poznan:poznan:gniezno": {
+		"institution-part": {
+			"sr": "SR w Gnieźnie"
+		}
+    },
+    "pl:poznan:poznan:gostyn": {
+		"institution-part": {
+			"sr": "SR w Gostyniu"
+		}
+    },
+    "pl:poznan:poznan:grodzisk.wielkopolski": {
+		"institution-part": {
+			"sr": "SR w Grodzisku Wielkopolskim"
+		}
+    },
+    "pl:poznan:poznan:koscian": {
+		"institution-part": {
+			"sr": "SR w Kościanie"
+		}
+    },
+    "pl:poznan:poznan:leszno": {
+		"institution-part": {
+			"sr": "SR w Lesznie"
+		}
+    },
+    "pl:poznan:poznan:nowy.tomysl": {
+		"institution-part": {
+			"sr": "SR w Nowym Tomyślu"
+		}
+    },
+    "pl:poznan:poznan:oborniki": {
+		"institution-part": {
+			"sr": "SR w Obornikach"
+		}
+    },
+    "pl:poznan:poznan:pile": {
+		"institution-part": {
+			"sr": "SR w Pile"
+		}
+    },
+    "pl:poznan:poznan:grunwald.jezyce": {
+		"institution-part": {
+			"sr": "SR Poznań-Grunwald i Jeżyce w Poznaniu"
+		}
+    },
+    "pl:poznan:poznan:nowe.miasto.wilda": {
+		"institution-part": {
+			"sr": "SR Poznań-Nowe Miasto i Wilda w Poznaniu"
+		}
+    },
+    "pl:poznan:poznan:stare.miasto": {
+		"institution-part": {
+			"sr": "SR Poznań-Stare Miasto w Poznaniu"
+		}
+    },
+    "pl:poznan:poznan:rawicz": {
+		"institution-part": {
+			"sr": "SR w Rawiczu"
+		}
+    },
+    "pl:poznan:poznan:szamotuly": {
+		"institution-part": {
+			"sr": "SR w Szamotułach"
+		}
+    },
+    "pl:poznan:poznan:srem": {
+		"institution-part": {
+			"sr": "SR w Śremie"
+		}
+    },
+    "pl:poznan:poznan:sroda.wielkopolska": {
+		"institution-part": {
+			"sr": "SR w Środzie Wielkopolskiej"
+		}
+    },
+    "pl:poznan:poznan:trzcianka": {
+		"institution-part": {
+			"sr": "SR w Trzciance"
+		}
+    },
+    "pl:poznan:poznan:wagrowiec": {
+		"institution-part": {
+			"sr": "SR w Wągrowcu"
+		}
+    },
+    "pl:poznan:poznan:wolsztyn": {
+		"institution-part": {
+			"sr": "SR w Wolsztynie"
+		}
+    },
+    "pl:poznan:poznan:wrzesnia": {
+		"institution-part": {
+			"sr": "SR we Wrześni"
+		}
+    },
+    "pl:poznan:poznan:zlotow": {
+		"institution-part": {
+			"sr": "SR w Złotowie"
+		}
+    },
+    "pl:poznan:zielona.gora": {
+		"institution-part": {
+			"so": "SO w Zielonej Górze"
+		}
+    },
+    "pl:poznan:zielona.gora:krosno.odrzanskie": {
+		"institution-part": {
+			"sr": "SR w Krośnie Odrzańskim"
+		}
+    },
+    "pl:poznan:zielona.gora:nowa.sol": {
+		"institution-part": {
+			"sr": "SR w Nowej Soli"
+		}
+    },
+    "pl:poznan:zielona.gora:swiebodzin": {
+		"institution-part": {
+			"sr": "SR w Świebodzinie"
+		}
+    },
+    "pl:poznan:zielona.gora:wschowa": {
+		"institution-part": {
+			"sr": "SR we Wschowie"
+		}
+    },
+    "pl:poznan:zielona.gora:zielona.gora": {
+		"institution-part": {
+			"sr": "SR w Zielonej Górze"
+		}
+    },
+    "pl:poznan:zielona.gora:zagan": {
+		"institution-part": {
+			"sr": "SR w Żaganiu"
+		}
+    },
+    "pl:poznan:zielona.gora:zary": {
+		"institution-part": {
+			"sr": "SR w Żarach"
+		}
+    },
+    "pl:rzeszow": {
+		"institution-part": {
+			"wsa": "WSA w Rzeszowie"
+		}
+    },
+    "pl:rzeszow:krosno": {
+		"institution-part": {
+			"so": "SO w Krośnie"
+		}
+    },
+    "pl:rzeszow:krosno:brzozow": {
+		"institution-part": {
+			"sr": "SR w Brzozowie"
+		}
+    },
+    "pl:rzeszow:krosno:jaslo": {
+		"institution-part": {
+			"sr": "SR w Jaśle"
+		}
+    },
+    "pl:rzeszow:krosno:krosno": {
+		"institution-part": {
+			"sr": "SR w Krośnie"
+		}
+    },
+    "pl:rzeszow:krosno:lesko": {
+		"institution-part": {
+			"sr": "SR w Lesku"
+		}
+    },
+    "pl:rzeszow:krosno:sanok": {
+		"institution-part": {
+			"sr": "SR w Sanoku"
+		}
+    },
+    "pl:rzeszow:przemysl": {
+		"institution-part": {
+			"so": "SO w Przemyślu"
+		}
+    },
+    "pl:rzeszow:przemysl:jaroslaw": {
+		"institution-part": {
+			"sr": "SR w Jarosławiu"
+		}
+    },
+    "pl:rzeszow:przemysl:lubaczow": {
+		"institution-part": {
+			"sr": "SR w Lubaczowie"
+		}
+    },
+    "pl:rzeszow:przemysl:przemysl": {
+		"institution-part": {
+			"sr": "SR w Przemyślu"
+		}
+    },
+    "pl:rzeszow:przemysl:przeworsk": {
+		"institution-part": {
+			"sr": "SR w Przeworsku"
+		}
+    },
+    "pl:rzeszow:rzeszow": {
+		"institution-part": {
+			"so": "SO w Rzeszowie"
+		}
+    },
+    "pl:rzeszow:rzeszow:debica": {
+		"institution-part": {
+			"sr": "SR w Dębicy"
+		}
+    },
+    "pl:rzeszow:rzeszow:lezajsk": {
+		"institution-part": {
+			"sr": "SR w Leżajsku"
+		}
+    },
+    "pl:rzeszow:rzeszow:lancut": {
+		"institution-part": {
+			"sr": "SR w Łańcucie"
+		}
+    },
+    "pl:rzeszow:rzeszow:ropczyce": {
+		"institution-part": {
+			"sr": "SR w Ropczycach"
+		}
+    },
+    "pl:rzeszow:rzeszow:rzeszow": {
+		"institution-part": {
+			"sr": "SR w Rzeszowie"
+		}
+    },
+    "pl:rzeszow:rzeszow:strzyzow": {
+		"institution-part": {
+			"sr": "SR w Strzyżowie"
+		}
+    },
+    "pl:rzeszow:tarnobrzeg": {
+		"institution-part": {
+			"so": "SO w Tarnobrzegu"
+		}
+    },
+    "pl:rzeszow:tarnobrzeg:kolbuszowa": {
+		"institution-part": {
+			"sr": "SR w Kolbuszowej"
+		}
+    },
+    "pl:rzeszow:tarnobrzeg:mielec": {
+		"institution-part": {
+			"sr": "SR w Mielcu"
+		}
+    },
+    "pl:rzeszow:tarnobrzeg:nisko": {
+		"institution-part": {
+			"sr": "SR w Nisku"
+		}
+    },
+    "pl:rzeszow:tarnobrzeg:stalowa.wola": {
+		"institution-part": {
+			"sr": "SR w Stalowej Woli"
+		}
+    },
+    "pl:rzeszow:tarnobrzeg:tarnobrzeg": {
+		"institution-part": {
+			"sr": "SR w Tarnobrzegu"
+		}
+    },
+    "pl:szczecin": {
+		"institution-part": {
+			"wsa": "WSA w Szczecinie"
+		}
+    },
+    "pl:szczecin:gorzow.wielkopolski": {
+		"institution-part": {
+			"so": "SO w Gorzowie Wielkopolskim"
+		}
+    },
+    "pl:szczecin:gorzow.wielkopolski:gorzow.wielkopolski": {
+		"institution-part": {
+			"sr": "SR w Gorzowie Wielkopolskim"
+		}
+    },
+    "pl:szczecin:gorzow.wielkopolski:miedzyrzecz": {
+		"institution-part": {
+			"sr": "SR w Międzyrzeczu"
+		}
+    },
+    "pl:szczecin:gorzow.wielkopolski:slubice": {
+		"institution-part": {
+			"sr": "SR w Słubicach"
+		}
+    },
+    "pl:szczecin:gorzow.wielkopolski:strzelce.krajenskie": {
+		"institution-part": {
+			"sr": "SR w Strzelcach Krajeńskich"
+		}
+    },
+    "pl:szczecin:gorzow.wielkopolski:sulecin": {
+		"institution-part": {
+			"sr": "SR w Sulęcinie"
+		}
+    },
+    "pl:szczecin:koszalin": {
+		"institution-part": {
+			"so": "SO w Koszalinie"
+		}
+    },
+    "pl:szczecin:koszalin:bialogard": {
+		"institution-part": {
+			"sr": "SR w Białogardzie"
+		}
+    },
+    "pl:szczecin:koszalin:drawsko.pomorskie": {
+		"institution-part": {
+			"sr": "SR w Drawsku Pomorskim"
+		}
+    },
+    "pl:szczecin:koszalin:kolobrzeg": {
+		"institution-part": {
+			"sr": "SR w Kołobrzegu"
+		}
+    },
+    "pl:szczecin:koszalin:koszalin": {
+		"institution-part": {
+			"sr": "SR w Koszalinie"
+		}
+    },
+    "pl:szczecin:koszalin:slawno": {
+		"institution-part": {
+			"sr": "SR w Sławnie"
+		}
+    },
+    "pl:szczecin:koszalin:szczecinek": {
+		"institution-part": {
+			"sr": "SR w Szczecinku"
+		}
+    },
+    "pl:szczecin:koszalin:walcz": {
+		"institution-part": {
+			"sr": "SR w Wałczu"
+		}
+    },
+    "pl:szczecin:szczecin": {
+		"institution-part": {
+			"so": "SO w Szczecinie"
+		}
+    },
+    "pl:szczecin:szczecin:choszczno": {
+		"institution-part": {
+			"sr": "SR w Choszcznie"
+		}
+    },
+    "pl:szczecin:szczecin:goleniow": {
+		"institution-part": {
+			"sr": "SR w Goleniowie"
+		}
+    },
+    "pl:szczecin:szczecin:gryfice": {
+		"institution-part": {
+			"sr": "SR w Gryficach"
+		}
+    },
+    "pl:szczecin:szczecin:gryfino": {
+		"institution-part": {
+			"sr": "SR w Gryfinie"
+		}
+    },
+    "pl:szczecin:szczecin:kamien.pomorski": {
+		"institution-part": {
+			"sr": "SR w Kamieniu Pomorskim"
+		}
+    },
+    "pl:szczecin:szczecin:lobzie": {
+		"institution-part": {
+			"sr": "SR w Łobzie"
+		}
+    },
+    "pl:szczecin:szczecin:mysliborz": {
+		"institution-part": {
+			"sr": "SR w Myśliborzu"
+		}
+    },
+    "pl:szczecin:szczecin:stargard": {
+		"institution-part": {
+			"sr": "SR w Stargardzie"
+		}
+    },
+    "pl:szczecin:szczecin:szczecin.centrum": {
+		"institution-part": {
+			"sr": "SR Szczecin-Centrum w Szczecinie"
+		}
+    },
+    "pl:szczecin:szczecin:prawobrzeze": {
+		"institution-part": {
+			"sr": "SR Szczecin-Prawobrzeże i Zachód w Szczecinie"
+		}
+    },
+    "pl:szczecin:szczecin:swinoujscie": {
+		"institution-part": {
+			"sr": "SR w Świnoujściu"
+		}
+    },
+    "pl:warsaw": {
+		"institution-part": {
+			"wsa": "WSA w Warszawie"
+		}
+    },
+      "pl:warsaw:warsaw": {
+		  "institution-part": {
+			  "so": "SO w Warszawie"
+		  }
+    },
+    "pl:warsaw:warsaw:grodzisk.mazowiecki": {
+		"institution-part": {
+			"sr": "SR w Grodzisku Mazowieckim"
+		}
+    },
+    "pl:warsaw:warsaw:piaseczno": {
+		"institution-part": {
+			"sr": "SR w Piasecznie"
+		}
+    },
+    "pl:warsaw:warsaw:pruszkow": {
+		"institution-part": {
+			"sr": "SR w Pruszkowie"
+		}
+    },
+    "pl:warsaw:warsaw:mokotow": {
+		"institution-part": {
+			"sr": "SR dla Warszawy-Mokotowa w Warszawie"
+		}
+    },
+    "pl:warsaw:warsaw:miasta.stolecznego": {
+		"institution-part": {
+			"sr": "SR dla miasta stołecznego Warszawy w Warszawie"
+		}
+    },
+    "pl:warsaw:warsaw:srodmiescie": {
+		"institution-part": {
+			"sr": "SR dla Warszawy-Śródmieścia w Warszawie"
+		}
+    },
+    "pl:warsaw:warsaw:wola": {
+		"institution-part": {
+			"sr": "SR dla Warszawy-Woli w Warszawie"
+		}
+    },
+    "pl:warsaw:warsaw:zoliborz": {
+		"institution-part": {
+			"sr": "SR dla Warszawy-Żoliborza w Warszawie"
+		}
+    },
+    "pl:warsaw:praga": {
+		"institution-part": {
+			"so": "SO Warszawa-Praga w Warszawie"
+		}
+    },
+    "pl:warsaw:praga:legionowo": {
+		"institution-part": {
+			"sr": "SR w Legionowie"
+		}
+    },
+    "pl:warsaw:praga:nowy.dwor.mazowiecki": {
+		"institution-part": {
+			"sr": "SR w Nowym Dworze Mazowieckim"
+		}
+    },
+    "pl:warsaw:praga:otwock": {
+		"institution-part": {
+			"sr": "SR w Otwocku"
+		}
+    },
+    "pl:warsaw:praga:praga.poludnie": {
+		"institution-part": {
+			"sr": "SR dla Warszawy Pragi-Południe w Warszawie"
+		}
+    },
+    "pl:warsaw:praga:praga.polnoc": {
+		"institution-part": {
+			"sr": "SR dla Warszawy Pragi-Północ w Warszawie"
+		}
+    },
+    "pl:warsaw:praga:wolomin": {
+		"institution-part": {
+			"sr": "SR w Wołominie"
+		}
+    },
+    "pl:wroclaw": {
+		"institution-part": {
+			"wsa": "WSA we Wrocławiu"
+		}
+    },
+    "pl:wroclaw:jelenia.gora": {
+		"institution-part": {
+			"so": "SO w Jeleniej Górze"
+		}
+    },
+    "pl:wroclaw:jelenia.gora:boleslawiec": {
+		"institution-part": {
+			"sr": "SR w Bolesławcu"
+		}
+    },
+    "pl:wroclaw:jelenia.gora:jelenia.gora": {
+		"institution-part": {
+			"sr": "SR w Jeleniej Górze"
+		}
+    },
+    "pl:wroclaw:jelenia.gora:kamienna.gora": {
+		"institution-part": {
+			"sr": "SR w Kamiennej Górze"
+		}
+    },
+    "pl:wroclaw:jelenia.gora:lubanie": {
+		"institution-part": {
+			"sr": "SR w Lubaniu"
+		}
+    },
+    "pl:wroclaw:jelenia.gora:lwowek.slaski": {
+		"institution-part": {
+			"sr": "SR w Lwówku Śląskim"
+		}
+    },
+    "pl:wroclaw:jelenia.gora:zgorzelec": {
+		"institution-part": {
+			"sr": "SR w Zgorzelcu"
+		}
+    },
+    "pl:wroclaw:legnica": {
+		"institution-part": {
+			"so": "SO w Legnicy"
+		}
+    },
+    "pl:wroclaw:legnica:glogow": {
+		"institution-part": {
+			"sr": "SR w Głogowie"
+		}
+    },
+    "pl:wroclaw:legnica:jaworze": {
+		"institution-part": {
+			"sr": "SR w Jaworze"
+		}
+    },
+    "pl:wroclaw:legnica:legnica": {
+		"institution-part": {
+			"sr": "SR w Legnicy"
+		}
+    },
+    "pl:wroclaw:legnica:lubin": {
+		"institution-part": {
+			"sr": "SR w Lubinie"
+		}
+    },
+    "pl:wroclaw:legnica:zlotor": {
+		"institution-part": {
+			"sr": "SR w Złotoryi"
+		}
+    },
+    "pl:wroclaw:opole": {
+		"institution-part": {
+			"so": "SO w Opolu"
+		}
+    },
+    "pl:wroclaw:opole:brzeg": {
+		"institution-part": {
+			"sr": "SR w Brzegu"
+		}
+    },
+    "pl:wroclaw:opole:glubczyce": {
+		"institution-part": {
+			"sr": "SR w Głubczycach"
+		}
+    },
+    "pl:wroclaw:opole:kedzierzyn.kozle": {
+		"institution-part": {
+			"sr": "SR w Kędzierzynie-Koźlu"
+		}
+    },
+    "pl:wroclaw:opole:kluczbork": {
+		"institution-part": {
+			"sr": "SR w Kluczborku"
+		}
+    },
+    "pl:wroclaw:opole:nysa": {
+		"institution-part": {
+			"sr": "SR w Nysie"
+		}
+    },
+    "pl:wroclaw:opole:olesno": {
+		"institution-part": {
+			"sr": "SR w Oleśnie"
+		}
+    },
+    "pl:wroclaw:opole:opole": {
+		"institution-part": {
+			"sr": "SR w Opolu"
+		}
+    },
+    "pl:wroclaw:opole:prudnik": {
+		"institution-part": {
+			"sr": "SR w Prudniku"
+		}
+    },
+    "pl:wroclaw:opole:strzelce.opolski": {
+		"institution-part": {
+			"sr": "SR w Strzelcach Opolskich"
+		}
+    },
+    "pl:wroclaw:swidnica": {
+		"institution-part": {
+			"so": "SO w Świdnicy"
+		}
+    },
+    "pl:wroclaw:swidnica:dzierzoniow": {
+		"institution-part": {
+			"sr": "SR w Dzierżoniowie"
+		}
+    },
+    "pl:wroclaw:swidnica:klodzko": {
+		"institution-part": {
+			"sr": "SR w Kłodzku"
+		}
+    },
+    "pl:wroclaw:swidnica:swidnica": {
+		"institution-part": {
+			"sr": "SR w Świdnicy"
+		}
+    },
+    "pl:wroclaw:swidnica:walbrzych": {
+		"institution-part": {
+			"sr": "SR w Wałbrzychu"
+		}
+    },
+    "pl:wroclaw:swidnica:zabkowice.slaskie": {
+		"institution-part": {
+			"sr": "SR w Ząbkowicach Śląskich"
+		}
+    },
+    "pl:wroclaw:wroclaw": {
+		"institution-part": {
+			"so": "SO we Wrocławiu"
+		}
+    },
+    "pl:wroclaw:wroclaw:milicz": {
+		"institution-part": {
+			"sr": "SR w Miliczu"
+		}
+    },
+    "pl:wroclaw:wroclaw:olesnica": {
+		"institution-part": {
+			"sr": "SR w Oleśnicy"
+		}
+    },
+    "pl:wroclaw:wroclaw:olawa": {
+		"institution-part": {
+			"sr": "SR w Oławie"
+		}
+    },
+    "pl:wroclaw:wroclaw:strzelin": {
+		"institution-part": {
+			"sr": "SR w Strzelinie"
+		}
+    },
+    "pl:wroclaw:wroclaw:sroda.slaska": {
+		"institution-part": {
+			"sr": "SR w Środzie Śląskiej"
+		}
+    },
+    "pl:wroclaw:wroclaw:trzebnica": {
+		"institution-part": {
+			"sr": "SR w Trzebnicy"
+		}
+    },
+    "pl:wroclaw:wroclaw:wolow": {
+		"institution-part": {
+			"sr": "SR w Wołowie"
+		}
+    },
+    "pl:wroclaw:wroclaw:fabryczna": {
+		"institution-part": {
+			"sr": "SR dla Wrocławia-Fabrycznej we Wrocławiu"
+		}
+    },
+    "pl:wroclaw:wroclaw:krzykow": {
+		"institution-part": {
+			"sr": "SR dla Wrocławia-Krzyków we Wrocławiu"
+		}
+    },
+    "pl:wroclaw:wroclaw:srodmiescie": {
+		"institution-part": {
+			"sr": "SR dla Wrocławia-Śródmieścia we Wrocławiu"
+		}
     }
   }
 }
