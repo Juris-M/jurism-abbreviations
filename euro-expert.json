@@ -226,6 +226,17 @@
         "ca": "CA Versailles"
       }
     },
+    "pl": {
+		"institution-part": {
+			"sn": "SN",
+			"nsa": "NSA",
+			"sokik": "SOKiK",
+			"tk": "TK"
+		},
+		"place": {
+			"pl": "PL"
+		}
+    },
     "pl:bialystok": {
       "institution-part": "WSA w Białymstoku"
     },
@@ -1180,7 +1191,7 @@
     "pl:warsaw": {
       "institution-part": "WSA w Warszawie"
     },
-    "pl:warsaw:warsaw": {
+      "pl:warsaw:warsaw": {
       "institution-part": "SO w Warszawie"
     },
     "pl:warsaw:warsaw:grodzisk.mazowiecki": {
