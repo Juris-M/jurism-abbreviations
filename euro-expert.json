@@ -269,7 +269,8 @@
     },
     "pl:bialystok": {
 		"institution-part": {
-			"wsa": "WSA w Białymstoku"
+			"wsa": "WSA w Białymstoku",
+			"sa": "SA w Białymstoku"
 		}
     },
     "pl:bialystok:bialystok": {
@@ -429,7 +430,8 @@
     },
     "pl:gdansk": {
 		"institution-part": {
-			"wsa": "WSA w Gdańsku"
+			"wsa": "WSA w Gdańsku",
+			"sa": "SA w Gdańsku"
 		}
     },
     "pl:gdansk:bydgoszcz": {
@@ -679,7 +681,8 @@
     },
     "pl:katowice": {
 		"institution-part": {
-			"wsa": "WSA w Katowicach"
+			"wsa": "WSA w Katowicach",
+			"sa": "SA w Katowicach"
 		}
     },
     "pl:katowice:bielsko.biala": {
@@ -849,7 +852,8 @@
     },
     "pl:krakow": {
 		"institution-part": {
-			"wsa": "WSA w Krakowie"
+			"wsa": "WSA w Krakowie",
+			"sa": "SA w Krakowie"
 		}
     },
     "pl:krakow:kielce": {
@@ -1039,7 +1043,8 @@
     },
     "pl:lublin": {
 		"institution-part": {
-			"wsa": "WSA w Lublinie"
+			"wsa": "WSA w Lublinie",
+			"sa": "SA w Lublinie"
 		}
     },
     "pl:lublin:lublin": {
@@ -1214,7 +1219,8 @@
     },
     "pl:lodz": {
 		"institution-part": {
-			"wsa": "WSA w Łodzi"
+			"wsa": "WSA w Łodzi",
+			"sa": "SA w Łodzi"
 		}
     },
     "pl:lodz:kalisz": {
@@ -1414,7 +1420,8 @@
     },
     "pl:poznan": {
 		"institution-part": {
-			"wsa": "WSA w Poznaniu"
+			"wsa": "WSA w Poznaniu",
+			"sa": "SA w Poznaniu"
 		}
     },
     "pl:poznan:konin": {
@@ -1594,7 +1601,8 @@
     },
     "pl:rzeszow": {
 		"institution-part": {
-			"wsa": "WSA w Rzeszowie"
+			"wsa": "WSA w Rzeszowie",
+			"sa": "SA w Rzeszowie"
 		}
     },
     "pl:rzeszow:krosno": {
@@ -1719,7 +1727,8 @@
     },
     "pl:szczecin": {
 		"institution-part": {
-			"wsa": "WSA w Szczecinie"
+			"wsa": "WSA w Szczecinie",
+			"sa": "SA w Szczecinie"
 		}
     },
     "pl:szczecin:gorzow.wielkopolski": {
@@ -1854,7 +1863,8 @@
     },
     "pl:warsaw": {
 		"institution-part": {
-			"wsa": "WSA w Warszawie"
+			"wsa": "WSA w Warszawie",
+			"sa": "SA w Warszawie"
 		}
     },
       "pl:warsaw:warsaw": {
@@ -1939,7 +1949,8 @@
     },
     "pl:wroclaw": {
 		"institution-part": {
-			"wsa": "WSA we Wrocławiu"
+			"wsa": "WSA we Wrocławiu",
+			"sa": "SA we Wrocławiu"
 		}
     },
     "pl:wroclaw:jelenia.gora": {
