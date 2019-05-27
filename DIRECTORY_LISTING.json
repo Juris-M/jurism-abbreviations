@@ -2,12 +2,14 @@
   {
     "filename": "euro-expert.json", 
     "name": "Abbreviations: Primary EU sources for the EURO-EXPERT project", 
-    "version": 1
+    "version": 1,
+    "jurisdictions": ["at", "pl", "fr"]
   }, 
   {
     "filename": "us-courts.json", 
     "name": "Abbreviations: Courts of the United States", 
-    "version": 2
+    "version": 2,
+    "jurisdictions": ["us"]
   }, 
   {
     "filename": "primary-commonwealth.json", 
