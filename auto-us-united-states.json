@@ -1,13 +1,8 @@
 {
-	"filename": "us-courts.json",
-	"name": "Abbreviations: Courts of the United States",
-	"version": 2,
+	"filename": "auto-us-united-states.json",
+	"name": "Abbreviations: United States legal",
+	"version": 1,
 	"xdata": {
-		"default": {
-			"place": {
-				"US": "U.S."
-			}
-		},
 		"us": {
 			"institution-part": {
 				"supreme.court": "U.S."

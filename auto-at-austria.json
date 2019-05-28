@@ -1,0 +1,34 @@
+{
+	"filename": "auto-at-austria.json",
+	"name": "Abbreviations: Austria legal",
+	"version": 1,
+	"xdata": {
+		"at": {
+			"classic": {},
+			"collection-title": {},
+			"container-title": {},
+			"hereinafter": {},
+			"institution-entire": {},
+			"institution-part": {
+				"ogh": "OGH",
+				"olg": "OLG",
+				"lg": "LG",
+				"bg": "BG",
+				"vfgh": "VfGH",
+				"vwgh": "VwGH",
+				"bfg": "BFG",
+				"bvwg": "BVwG",
+				"lvwgg": "LVwG",
+				"vgwg": "VwG",
+				"lgzrs": "LGZ",
+				"lgs": "LGS",
+				"hg": "HG",
+				"asg": "ASG"
+			},
+			"nickname": {},
+			"number": {},
+			"place": {},
+			"title": {}
+		}
+	}
+}

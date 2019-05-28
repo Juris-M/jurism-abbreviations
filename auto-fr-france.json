@@ -1,0 +1,200 @@
+{
+	"filename": "auto-fr-france.json",
+	"name": "Abbreviations: France legal",
+	"version": 1,
+	"xdata": {
+		"fr": {
+			"institution-part": {
+				"cass~plen": "Cass. ass. plén.",
+				"cass~crim": "Cass. crim.",
+				"cass~soc": "Cass. soc.",
+				"cass~civ1": "Cass. 1<sup>re</sup> civ.",
+				"cass~civ2": "Cass. 2<sup>e</sup> civ.",
+				"cass~civ3": "Cass. 3<sup>e</sup> civ.",
+				"cc": "Cons. const.",
+				"cnda": "CNDA",
+				"ce": "CE"
+			}
+		},
+		"fr:agen": {
+			"institution-part": {
+				"ca": "CA Agen"
+			}
+		},
+		"fr:aix.en.provence": {
+			"institution-part": {
+				"ca": "CA Aix-en-Provence"
+			}
+		},
+		"fr:amiens": {
+			"institution-part": {
+				"ca": "CA Amiens"
+			}
+		},
+		"fr:angers": {
+			"institution-part": {
+				"ca": "CA Angers"
+			}
+		},
+		"fr:basse.terre": {
+			"institution-part": {
+				"ca": "CA Basse-Terre"
+			}
+		},
+		"fr:bastia": {
+			"institution-part": {
+				"ca": "CA Bastia"
+			}
+		},
+		"fr:besancon": {
+			"institution-part": {
+				"ca": "CA Besançon"
+			}
+		},
+		"fr:bordeaux": {
+			"institution-part": {
+				"ca": "CA Bordeaux"
+			}
+		},
+		"fr:bourges": {
+			"institution-part": {
+				"ca": "CA Bourges"
+			}
+		},
+		"fr:caen": {
+			"institution-part": {
+				"ca": "CA Caen"
+			}
+		},
+		"fr:cayenne": {
+			"institution-part": {
+				"ca": "CA Cayenne"
+			}
+		},
+		"fr:chambery": {
+			"institution-part": {
+				"ca": "CA Chambéry"
+			}
+		},
+		"fr:colmar": {
+			"institution-part": {
+				"ca": "CA Colmar"
+			}
+		},
+		"fr:dijon": {
+			"institution-part": {
+				"ca": "CA Dijon"
+			}
+		},
+		"fr:douai": {
+			"institution-part": {
+				"ca": "CA Douai"
+			}
+		},
+		"fr:fort.france": {
+			"institution-part": {
+				"ca": "CA Fort-de-France"
+			}
+		},
+		"fr:grenoble": {
+			"institution-part": {
+				"ca": "CA Grenoble"
+			}
+		},
+		"fr:limoges": {
+			"institution-part": {
+				"ca": "CA Limoges"
+			}
+		},
+		"fr:lyon": {
+			"institution-part": {
+				"ca": "CA Lyon"
+			}
+		},
+		"fr:metz": {
+			"institution-part": {
+				"ca": "CA Metz"
+			}
+		},
+		"fr:montpellier": {
+			"institution-part": {
+				"ca": "CA Montpellier"
+			}
+		},
+		"fr:nancy": {
+			"institution-part": {
+				"ca": "CA Nancy"
+			}
+		},
+		"fr:nimes": {
+			"institution-part": {
+				"ca": "CA Nîmes"
+			}
+		},
+		"fr:noumea": {
+			"institution-part": {
+				"ca": "CA Nouméa"
+			}
+		},
+		"fr:orleans": {
+			"institution-part": {
+				"ca": "CA Orléans"
+			}
+		},
+		"fr:papeete": {
+			"institution-part": {
+				"ca": "CA Papeete"
+			}
+		},
+		"fr:paris": {
+			"institution-part": {
+				"ca": "CA Paris"
+			}
+		},
+		"fr:pau": {
+			"institution-part": {
+				"ca": "CA Pau"
+			}
+		},
+		"fr:poitiers": {
+			"institution-part": {
+				"ca": "CA Poitiers"
+			}
+		},
+		"fr:reims": {
+			"institution-part": {
+				"ca": "CA Reims"
+			}
+		},
+		"fr:rennes": {
+			"institution-part": {
+				"ca": "CA Rennes"
+			}
+		},
+		"fr:riom": {
+			"institution-part": {
+				"ca": "CA Riom"
+			}
+		},
+		"fr:rouen": {
+			"institution-part": {
+				"ca": "CA Rouen"
+			}
+		},
+		"fr:saint.denis": {
+			"institution-part": {
+				"ca": "CA Saint-Denis"
+			}
+		},
+		"fr:toulouse": {
+			"institution-part": {
+				"ca": "CA Toulouse"
+			}
+		},
+		"fr:versailles": {
+			"institution-part": {
+				"ca": "CA Versailles"
+			}
+		}
+	}
+}
