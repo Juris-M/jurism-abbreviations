@@ -1,0 +1,57 @@
+{
+  "filename": "auto-pl-czechia.json",
+  "name": "Abbreviations: Czechia legal",
+  "version": 1,
+  "xdata": {
+    "cz:olomouc": {
+      "institution-part": {
+        "hc": "Vrchní soud v Olomouci"
+      }
+    },
+    "cz:praha": {
+      "institution-part": {
+        "hc": "Vrchní soud v Praze"
+      }
+    },
+    "cz:olomouc:ostrava": {
+      "institution-part": {
+        "rc": "Krajský soud v Ostravě"
+      }
+    },
+    "cz:olomouc:brno": {
+      "institution-part": {
+        "rc": "Krajský soud v Brně"
+      }
+    },
+    "cz:praha:praha.mestsky": {
+      "institution-part": {
+        "mc": "Městský soud v Praze"
+      }
+    },
+    "cz:praha:praha": {
+      "institution-part": {
+        "rc": "Krajský soud v Praze"
+      }
+    },
+    "cz:praha:ceske.budejovice": {
+      "institution-part": {
+        "rc": "Krajský soud v Českých Budějovicích"
+      }
+    },
+    "cz:praha:hradec.kralove": {
+      "institution-part": {
+        "rc": "Krajský soud v Hradci Králové"
+      }
+    },
+    "cz:praha:plzen": {
+      "institution-part": {
+        "rc": "Krajský soud v Plzni"
+      }
+    },
+    "cz:praha:usti.nad.labem": {
+      "institution-part": {
+        "rc": "Krajský soud v Ústí nad Labem"
+      }
+    }
+  }
+}
