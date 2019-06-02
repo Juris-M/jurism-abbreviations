@@ -30,6 +30,12 @@
     "jurisdictions": ["us"]
   }, 
   {
+    "filename": "auto-un.int-united-nations.json", 
+    "name": "Abbreviations: United Nations legal", 
+    "version": 1,
+    "jurisdictions": ["un.int"]
+  }, 
+  {
     "filename": "country-codes.json", 
     "name": "Abbreviations: Country codes (ISO)", 
     "version": 1
