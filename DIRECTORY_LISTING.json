@@ -2,13 +2,13 @@
 	{
 		"filename": "auto-at-austria.json", 
 		"name": "Abbreviations: Austria legal", 
-		"version": 1,
+		"version": 2,
 		"jurisdiction": "at"
 	}, 
 	{
 		"filename": "auto-cz-czechia.json", 
 		"name": "Abbreviations: Czechia legal", 
-		"version": 1,
+		"version": 2,
 		"jurisdiction": "cz"
 	}, 
 	{
