@@ -1,10 +1,11 @@
 {
 	"filename": "auto-us-united-states.json",
 	"name": "Abbreviations: United States legal",
-	"version": 2,
+	"version": 4,
 	"xdata": {
 		"default": {
 			"place": {
+				"US": "U.S.",
 				"US:AK": "Alaska",
 				"US:AL": "Ala.",
 				"US:AR": "Ark.",
@@ -207,6 +208,13 @@
 		"us": {
 			"institution-part": {
 				"supreme.court": "U.S."
+			},
+			"container-title": {
+				"l ed": "!authority>>>L. Ed.",
+				"l ed 2d": "!authority>>>L. Ed. 2d",
+				"s ct": "!authority>>>S. Ct.",
+				"us": "!authority>>>U.S.",
+				"uslw": "!authority>>>U.S.L.W."
 			}
 		},
 		"us:ak": {

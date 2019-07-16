@@ -6,6 +6,16 @@
 		"jurisdiction": "at"
 	}, 
 	{
+		"filename": "auto-be-belgium.json", 
+		"name": "Abbreviations: Belgium legal", 
+		"version": 1,
+		"jurisdiction": "be",
+		"variants": {
+			"francais": 1
+		}
+		
+	}, 
+	{
 		"filename": "auto-cz-czechia.json", 
 		"name": "Abbreviations: Czechia legal", 
 		"version": 2,
@@ -26,7 +36,7 @@
 	{
 		"filename": "auto-us-united-states.json", 
 		"name": "Abbreviations: United States legal", 
-		"version": 2,
+		"version": 4,
 		"jurisdiction": "us"
 	}, 
 	{
@@ -44,6 +54,12 @@
 			"englished": 1
 		}
 		
+	}, 
+	{
+		"filename": "auto-ke-kenya.json", 
+		"name": "Abbreviations: Kenya legal", 
+		"version": 2,
+		"jurisdiction": "ke"
 	}, 
 	{
 		"filename": "country-codes.json", 
