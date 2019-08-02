@@ -74,7 +74,7 @@
         "BE:BRUSSEL:BRUSSEL:SINT.PIETERS.WOLUWE": "Sint-Pieters-Woluwe",
         "BE:BRUSSEL:BRUSSEL:UKKEL": "Ukkel",
         "BE:BRUSSEL:BRUSSEL:VORST": "Vorst",
-        "BE:BRUSSEL:VLAAMS.BRABANT": "Asse",
+        "BE:BRUSSEL:VLAAMS.BRABANT": "Flemish-Brabant",
         "BE:BRUSSEL:VLAAMS.BRABANT:ASSE": "Asse",
         "BE:BRUSSEL:VLAAMS.BRABANT:AARSCHOT": "Aarschot",
         "BE:BRUSSEL:VLAAMS.BRABANT:DIEST": "Diest",
@@ -97,7 +97,7 @@
         "BE:BRUSSEL:WAALS.BRABANT:EIGENBRAKEL": "Eigenbrakel",
         "BE:BRUSSEL:WAALS.BRABANT:TUBEKE": "Tubeke",
         "BE:GENT": "Ghent",
-        "BE:GENT:OOST.VLAANDEREN": "Ghent",
+        "BE:GENT:OOST.VLAANDEREN": "East Flanders",
         "BE:GENT:OOST.VLAANDEREN:AALST": "Aalst",
         "BE:GENT:OOST.VLAANDEREN:BEVEREN": "Beveren",
         "BE:GENT:OOST.VLAANDEREN:DENDERMONDE": "Dendermonde",
@@ -117,7 +117,7 @@
         "BE:GENT:OOST.VLAANDEREN:ZELZATE": "Zelzate",
         "BE:GENT:OOST.VLAANDEREN:ZOMERGEM": "Zomergem",
         "BE:GENT:OOST.VLAANDEREN:ZOTTEGEM.HERZELE": "Zottegem-Herzele",
-        "BE:GENT:WEST.VLAANDEREN": "Ghent",
+        "BE:GENT:WEST.VLAANDEREN": "West Flanders",
         "BE:GENT:WEST.VLAANDEREN:BRUGGE": "Brugge",
         "BE:GENT:WEST.VLAANDEREN:DIKSMUIDE": "Diksmuide",
         "BE:GENT:WEST.VLAANDEREN:IEPER": "Ieper",
@@ -159,7 +159,7 @@
         "BE:LUIK:LUXUMBURG:MARCHE.EN.FAMENNE.DURBUY": "Marche-en-Famenne-Durbuy",
         "BE:LUIK:LUXUMBURG:NEUFCHATEAU": "Neufchâteau",
         "BE:LUIK:LUXUMBURG:SAINT.HUBERT.BOUILLON.PALISEUL": "Saint-Hubert-Bouillon-Paliseul",
-        "BE:LUIK:LUXUMBURG:VIELSALM.LA ROCHE.EN.ARDENNE.HOUFFALIZE": "Vielsalm-La Roche en Ardenne-Houffalize",
+        "BE:LUIK:LUXUMBURG:VIELSALM.LA.ROCHE.EN.ARDENNE.HOUFFALIZE": "Vielsalm-La Roche en Ardenne-Houffalize",
         "BE:LUIK:LUXUMBURG:VIRTON.FLORENVILLE.ETALLE": "Virton-Florenville-Etalle",
         "BE:LUIK:NAMEN": "Namen",
         "BE:LUIK:NAMEN:ANDENNE": "Andenne",
@@ -626,7 +626,7 @@
     },
     "be:brussel:vlaams.brabant": {
       "institution-part": {
-        "coass": "Assisen Asse"
+        "coass": "Assisen Brabant flamand"
       }
     },
     "be:brussel:vlaams.brabant:asse": {
@@ -759,8 +759,8 @@
     },
     "be:gent:oost.vlaanderen": {
       "institution-part": {
-        "coass": "Assisen Gand",
-        "ca": "Court of Appeal Gand"
+        "coass": "Assisen Flandre-Orientale",
+        "ca": "Court of Appeal Flandre-Orientale"
       }
     },
     "be:gent:oost.vlaanderen:aalst": {
@@ -881,8 +881,8 @@
     },
     "be:gent:west.vlaanderen": {
       "institution-part": {
-        "coass": "Assisen Gand",
-        "ca": "Court of Appeal Gand"
+        "coass": "Assisen Flandre-Occidental",
+        "ca": "Court of Appeal Flandre-Occidental"
       }
     },
     "be:gent:west.vlaanderen:brugge": {
@@ -1180,7 +1180,7 @@
         "dc": "Vred. Saint-Hubert-Bouillon-Paliseul"
       }
     },
-    "be:luik:luxumburg:vielsalm.la roche.en.ardenne.houffalize": {
+    "be:luik:luxumburg:vielsalm.la.roche.en.ardenne.houffalize": {
       "institution-part": {
         "dc": "Vred. Vielsalm-La Roche en Ardenne-Houffalize"
       }
