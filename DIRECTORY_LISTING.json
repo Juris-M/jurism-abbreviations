@@ -1,12 +1,12 @@
 [
 	{
-		"filename": "auto-at-austria.json", 
+		"filename": "auto-at.json", 
 		"name": "Abbreviations: Austria legal", 
 		"version": 2,
 		"jurisdiction": "at"
 	}, 
 	{
-		"filename": "auto-be-belgium.json", 
+		"filename": "auto-be.json", 
 		"name": "Abbreviations: Belgium legal", 
 		"version": 1,
 		"jurisdiction": "be",
@@ -16,37 +16,37 @@
 		
 	}, 
 	{
-		"filename": "auto-cz-czechia.json", 
+		"filename": "auto-cz.json", 
 		"name": "Abbreviations: Czechia legal", 
 		"version": 2,
 		"jurisdiction": "cz"
 	}, 
 	{
-		"filename": "auto-fr-france.json", 
+		"filename": "auto-fr.json", 
 		"name": "Abbreviations: France legal", 
 		"version": 1,
 		"jurisdiction": "fr"
 	}, 
 	{
-		"filename": "auto-pl-poland.json", 
+		"filename": "auto-pl.json", 
 		"name": "Abbreviations: Poland legal", 
 		"version": 1,
 		"jurisdiction": "pl"
 	}, 
 	{
-		"filename": "auto-us-united-states.json", 
+		"filename": "auto-us.json", 
 		"name": "Abbreviations: United States legal", 
 		"version": 4,
 		"jurisdiction": "us"
 	}, 
 	{
-		"filename": "auto-un.int-united-nations.json", 
+		"filename": "auto-un.int.json", 
 		"name": "Abbreviations: United Nations legal", 
 		"version": 1,
 		"jurisdiction": "un.int"
 	}, 
 	{
-		"filename": "auto-jp-japan.json", 
+		"filename": "auto-jp.json", 
 		"name": "Abbreviations: Japan legal", 
 		"version": 1,
 		"jurisdiction": "jp",
@@ -56,7 +56,7 @@
 		
 	}, 
 	{
-		"filename": "auto-ke-kenya.json", 
+		"filename": "auto-ke.json", 
 		"name": "Abbreviations: Kenya legal", 
 		"version": 2,
 		"jurisdiction": "ke"

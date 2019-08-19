@@ -1,0 +1,244 @@
+{
+  "filename": "auto-fr.json",
+  "name": "France",
+  "version": "2019-08-19 06:21:44 UTC",
+  "xdata": {
+    "default": {
+      "place": {
+        "FR": "France",
+        "FR:AGEN": "Agen",
+        "FR:AIX.EN.PROVENCE": "Aix-en-Provence",
+        "FR:AMIENS": "Amiens",
+        "FR:ANGERS": "Angers",
+        "FR:BASSE.TERRE": "Basse-Terre",
+        "FR:BASTIA": "Bastia",
+        "FR:BESANCON": "Besançon",
+        "FR:BORDEAUX": "Bordeaux",
+        "FR:BOURGES": "Bourges",
+        "FR:CAEN": "Caen",
+        "FR:CAYENNE": "Cayenne",
+        "FR:CHAMBERY": "Chambéry",
+        "FR:COLMAR": "Colmar",
+        "FR:DIJON": "Dijon",
+        "FR:DOUAI": "Douai",
+        "FR:FORT.FRANCE": "Fort-de-France",
+        "FR:GRENOBLE": "Grenoble",
+        "FR:LIMOGES": "Limoges",
+        "FR:LYON": "Lyon",
+        "FR:METZ": "Metz",
+        "FR:MONTPELLIER": "Montpellier",
+        "FR:NANCY": "Nancy",
+        "FR:NIMES": "Nîmes",
+        "FR:NOUMEA": "Nouméa",
+        "FR:ORLEANS": "Orléans",
+        "FR:PAPEETE": "Papeete",
+        "FR:PARIS": "Paris",
+        "FR:PAU": "Pau",
+        "FR:POITIERS": "Poitiers",
+        "FR:REIMS": "Reims",
+        "FR:RENNES": "Rennes",
+        "FR:RIOM": "Riom",
+        "FR:ROUEN": "Rouen",
+        "FR:SAINT.DENIS": "Saint-Denis",
+        "FR:TOULOUSE": "Toulouse",
+        "FR:VERSAILLES": "Versailles"
+      }
+    },
+    "fr": {
+      "institution-part": {
+        "ca": "Cour d'appel",
+        "cass": "Cour de Cassation",
+        "cass~civ1": "Cour de Cassation|1re chambre civile",
+        "cass~civ2": "Cour de Cassation|2e chambre civile",
+        "cass~civ3": "Cour de Cassation|3e chambre civile",
+        "cass~crim": "Cour de Cassation|Chambre criminelle",
+        "cass~fin": "Cour de Cassation|Chambre commerciale, financière et économique",
+        "cass~plen": "Cour de Cassation|Assemblée plénière",
+        "cass~soc": "Cour de Cassation|Chambre sociale",
+        "cc": "Conseil Constitutionelle",
+        "ce": "Conseil d'Etat",
+        "cnda": "Cour National du Droit d'Asile"
+      }
+    },
+    "fr:agen": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:aix.en.provence": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:amiens": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:angers": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:basse.terre": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:bastia": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:besancon": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:bordeaux": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:bourges": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:caen": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:cayenne": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:chambery": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:colmar": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:dijon": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:douai": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:fort.france": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:grenoble": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:limoges": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:lyon": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:metz": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:montpellier": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:nancy": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:nimes": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:noumea": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:orleans": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:papeete": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:paris": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:pau": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:poitiers": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:reims": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:rennes": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:riom": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:rouen": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:saint.denis": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:toulouse": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    },
+    "fr:versailles": {
+      "institution-part": {
+        "ca": "Cour d'appel"
+      }
+    }
+  }
+}

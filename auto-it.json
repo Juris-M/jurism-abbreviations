@@ -1,0 +1,15 @@
+{
+  "filename": "auto-it.json",
+  "name": "Italy",
+  "version": "2019-08-19 06:21:44 UTC",
+  "xdata": {
+    "default": {
+      "place": {
+        "IT": "Italy"
+      }
+    },
+    "it": {
+      "institution-part": {}
+    }
+  }
+}

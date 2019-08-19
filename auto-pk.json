@@ -1,0 +1,15 @@
+{
+  "filename": "auto-pk.json",
+  "name": "Pakistan",
+  "version": "2019-08-19 06:21:44 UTC",
+  "xdata": {
+    "default": {
+      "place": {
+        "PK": "Pakistan"
+      }
+    },
+    "pk": {
+      "institution-part": {}
+    }
+  }
+}

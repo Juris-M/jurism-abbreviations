@@ -1,0 +1,193 @@
+{
+  "filename": "auto-fi.json",
+  "name": "Finland",
+  "version": "2019-08-19 06:21:44 UTC",
+  "xdata": {
+    "default": {
+      "place": {
+        "FI": "Finland",
+        "FI:AHVENANMAA": "Ahvenanmaa",
+        "FI:HAMEENLINNA": "Hämeenlinna",
+        "FI:HELSINKI": "Helsinki",
+        "FI:HELSINKI:HELSINKI": "Helsinki",
+        "FI:HELSINKI:ITA.UUDENMAA": "Itä-Uudenmaa",
+        "FI:HELSINKI:LANSI.UUDENMAA": "Länsi-Uudenmaa",
+        "FI:ITA.SUOMI": "Itä-Suomi",
+        "FI:ITA.SUOMI:ETELA.KARJALA": "Etelä-Karjala",
+        "FI:ITA.SUOMI:ETELA.SAVO": "Etelä-Savo",
+        "FI:ITA.SUOMI:KYMENLAAKSO": "Kymenlaakso",
+        "FI:ITA.SUOMI:PAIJAT.HAME": "Päijät-Häme",
+        "FI:ITA.SUOMI:POHJOIS.KARJALA": "Pohjois-Karjala",
+        "FI:ITA.SUOMI:POHJOIS.SAVO": "Pohjois-Savo",
+        "FI:POHJOIS.SUOMI": "Pohjois-Suomi",
+        "FI:ROVANIEMI": "Rovaniemi",
+        "FI:ROVANIEMI:KAINUU": "Kainuu",
+        "FI:ROVANIEMI:LAPIN": "Lapin",
+        "FI:ROVANIEMI:OULU": "Oulu",
+        "FI:TURKU": "Turku",
+        "FI:TURKU:AHVENANMAA": "Ahvenanmaa",
+        "FI:TURKU:KANTA.HAME": "Kanta-Häme",
+        "FI:TURKU:PIRKANMAA": "Pirkanmaa",
+        "FI:TURKU:VARSINAIS.SUOMI": "Varsinais-Suomi",
+        "FI:VAASA": "Vaasa",
+        "FI:VAASA:ETELA.POHJANMAA": "Etelä-Pohjanmaa",
+        "FI:VAASA:KESKI.SUOMI": "Keski-Suomi",
+        "FI:VAASA:POHJANMAA": "Pohjanmaa",
+        "FI:VAASA:SATAKUNNA": "Satakunna"
+      }
+    },
+    "fi": {
+      "institution-part": {
+        "ic": "Vakuutusoikeus",
+        "impeachment": "Valtakunnanoikeus",
+        "mc": "Markkinaoikeus",
+        "sac": "Korkein hallinto-oikeus",
+        "sc": "Korkein oikeus"
+      }
+    },
+    "fi:ahvenanmaa": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus"
+      }
+    },
+    "fi:hameenlinna": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus"
+      }
+    },
+    "fi:helsinki": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus",
+        "ca": "Hovioikeus"
+      }
+    },
+    "fi:helsinki:helsinki": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:helsinki:ita.uudenmaa": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:helsinki:lansi.uudenmaa": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:ita.suomi": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus",
+        "ca": "Hovioikeus"
+      }
+    },
+    "fi:ita.suomi:etela.karjala": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:ita.suomi:etela.savo": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:ita.suomi:kymenlaakso": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:ita.suomi:paijat.hame": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:ita.suomi:pohjois.karjala": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:ita.suomi:pohjois.savo": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:pohjois.suomi": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus"
+      }
+    },
+    "fi:rovaniemi": {
+      "institution-part": {
+        "ca": "Hovioikeus"
+      }
+    },
+    "fi:rovaniemi:kainuu": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:rovaniemi:lapin": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:rovaniemi:oulu": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:turku": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus",
+        "ca": "Hovioikeus"
+      }
+    },
+    "fi:turku:ahvenanmaa": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:turku:kanta.hame": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:turku:pirkanmaa": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:turku:varsinais.suomi": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:vaasa": {
+      "institution-part": {
+        "admin": "Hallinto-oikeus",
+        "ca": "Hovioikeus"
+      }
+    },
+    "fi:vaasa:etela.pohjanmaa": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:vaasa:keski.suomi": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:vaasa:pohjanmaa": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    },
+    "fi:vaasa:satakunna": {
+      "institution-part": {
+        "dc": "Käräjäoikeus"
+      }
+    }
+  }
+}
