@@ -1,7 +1,7 @@
 {
   "filename": "auto-gb.json",
   "name": "United Kingdom",
-  "version": "2019-08-19 06:21:44 UTC",
+  "version": "2019-08-23 09:55:46 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -43,6 +43,9 @@
         "ewhc.qb.mercantile": "High Court|Queen's Bench Division|Mercantile Court",
         "ewhc.qb.tcc": "High Court|Queen's Bench Division|Technology and Construction Court",
         "kb": "King's Bench"
+      },
+      "institution-entire": {
+        "ewca.civ": "EWCA"
       }
     },
     "gb:falkland.islands": {
