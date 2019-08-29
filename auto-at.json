@@ -1,7 +1,7 @@
 {
   "filename": "auto-at.json",
   "name": "Austria",
-  "version": "2019-08-19 06:21:43 UTC",
+  "version": "2019-08-29 02:33:35 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -152,726 +152,726 @@
     },
     "at": {
       "institution-part": {
-        "bfg": "Verwaltungsgericht Austria",
-        "bvwg": "Verwaltungsgericht Austria",
-        "ogh": "Verwaltungsgericht Austria",
-        "vfgh": "Verwaltungsgericht Austria",
-        "vwgh": "Verwaltungsgericht Austria"
+        "bfg": "Verwaltungsgericht",
+        "bvwg": "BvWG",
+        "ogh": "OGH",
+        "vfgh": "VfGH",
+        "vwgh": "VwGH"
       }
     },
     "at:burgenland": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Burgenland"
+        "lvwg": "LvWG Burgenland"
       }
     },
     "at:graz": {
       "institution-part": {
-        "olg": "Oberlandesgericht Graz"
+        "olg": "OLG Graz"
       }
     },
     "at:graz:graz": {
       "institution-part": {
-        "lgs": "Landesgericht für Strafsachen Graz",
-        "lgzrs": "Landesgericht für Zivilrechtssachen Graz"
+        "lgs": "LGS Graz",
+        "lgzrs": "LGZ Graz"
       }
     },
     "at:graz:graz:deutschlandsberg": {
       "institution-part": {
-        "bg": "Bezirksgericht Deutschlandsberg"
+        "bg": "BG Deutschlandsberg"
       }
     },
     "at:graz:graz:feldbach": {
       "institution-part": {
-        "bg": "Bezirksgericht Feldbach"
+        "bg": "BG Feldbach"
       }
     },
     "at:graz:graz:furstenfeld": {
       "institution-part": {
-        "bg": "Bezirksgericht Fürstenfeld"
+        "bg": "BG Fürstenfeld"
       }
     },
     "at:graz:graz:graz-ost": {
       "institution-part": {
-        "bg": "Bezirksgericht Graz-Ost"
+        "bg": "BG Graz-Ost"
       }
     },
     "at:graz:graz:graz-west": {
       "institution-part": {
-        "bg": "Bezirksgericht Graz-West"
+        "bg": "BG Graz-West"
       }
     },
     "at:graz:graz:leibnitz": {
       "institution-part": {
-        "bg": "Bezirksgericht Leibnitz"
+        "bg": "BG Leibnitz"
       }
     },
     "at:graz:graz:voitsberg": {
       "institution-part": {
-        "bg": "Bezirksgericht Voitsberg"
+        "bg": "BG Voitsberg"
       }
     },
     "at:graz:graz:weiz": {
       "institution-part": {
-        "bg": "Bezirksgericht Weiz"
+        "bg": "BG Weiz"
       }
     },
     "at:graz:klagenfurt": {
       "institution-part": {
-        "lg": "Landesgericht Klagenfurt"
+        "lg": "LG Klagenfurt"
       }
     },
     "at:graz:klagenfurt:bleiburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Bleiburg"
+        "bg": "BG Bleiburg"
       }
     },
     "at:graz:klagenfurt:eisenkappel": {
       "institution-part": {
-        "bg": "Bezirksgericht Eisenkappel"
+        "bg": "BG Eisenkappel"
       }
     },
     "at:graz:klagenfurt:feldkirchen": {
       "institution-part": {
-        "bg": "Bezirksgericht Feldkirchen"
+        "bg": "BG Feldkirchen"
       }
     },
     "at:graz:klagenfurt:ferlach": {
       "institution-part": {
-        "bg": "Bezirksgericht Ferlach"
+        "bg": "BG Ferlach"
       }
     },
     "at:graz:klagenfurt:hermagor": {
       "institution-part": {
-        "bg": "Bezirksgericht Hermagor"
+        "bg": "BG Hermagor"
       }
     },
     "at:graz:klagenfurt:klagenfurt": {
       "institution-part": {
-        "bg": "Bezirksgericht Klagenfurt"
+        "bg": "BG Klagenfurt"
       }
     },
     "at:graz:klagenfurt:sankt.veit.an.der.glan": {
       "institution-part": {
-        "bg": "Bezirksgericht Sankt Veit an der Glan"
+        "bg": "BG Sankt Veit an der Glan"
       }
     },
     "at:graz:klagenfurt:spittal.an.der.drau": {
       "institution-part": {
-        "bg": "Bezirksgericht Spittal an der Drau"
+        "bg": "BG Spittal an der Drau"
       }
     },
     "at:graz:klagenfurt:villach": {
       "institution-part": {
-        "bg": "Bezirksgericht Villach"
+        "bg": "BG Villach"
       }
     },
     "at:graz:klagenfurt:volkermarkt": {
       "institution-part": {
-        "bg": "Bezirksgericht Völkermarkt"
+        "bg": "BG Völkermarkt"
       }
     },
     "at:graz:klagenfurt:wolfsberg": {
       "institution-part": {
-        "bg": "Bezirksgericht Wolfsberg"
+        "bg": "BG Wolfsberg"
       }
     },
     "at:graz:leoben": {
       "institution-part": {
-        "lg": "Landesgericht Leoben"
+        "lg": "LG Leoben"
       }
     },
     "at:graz:leoben:bruck.an.der.mur": {
       "institution-part": {
-        "bg": "Bezirksgericht Bruck an der Mur"
+        "bg": "BG Bruck an der Mur"
       }
     },
     "at:graz:leoben:judenburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Judenburg"
+        "bg": "BG Judenburg"
       }
     },
     "at:graz:leoben:leoben": {
       "institution-part": {
-        "bg": "Bezirksgericht Leoben"
+        "bg": "BG Leoben"
       }
     },
     "at:graz:leoben:liezen": {
       "institution-part": {
-        "bg": "Bezirksgericht Liezen"
+        "bg": "BG Liezen"
       }
     },
     "at:graz:leoben:murau": {
       "institution-part": {
-        "bg": "Bezirksgericht Murau"
+        "bg": "BG Murau"
       }
     },
     "at:graz:leoben:murzzuschlag": {
       "institution-part": {
-        "bg": "Bezirksgericht Mürzzuschlag"
+        "bg": "BG Mürzzuschlag"
       }
     },
     "at:graz:leoben:schladming": {
       "institution-part": {
-        "bg": "Bezirksgericht Schladming"
+        "bg": "BG Schladming"
       }
     },
     "at:innsbruck": {
       "institution-part": {
-        "olg": "Oberlandesgericht Innsbruck"
+        "olg": "OLG Innsbruck"
       }
     },
     "at:innsbruck:feldkirch": {
       "institution-part": {
-        "lg": "Landesgericht Feldkirch"
+        "lg": "LG Feldkirch"
       }
     },
     "at:innsbruck:feldkirch:bezau": {
       "institution-part": {
-        "bg": "Bezirksgericht Bezau"
+        "bg": "BG Bezau"
       }
     },
     "at:innsbruck:feldkirch:bludenz": {
       "institution-part": {
-        "bg": "Bezirksgericht Bludenz"
+        "bg": "BG Bludenz"
       }
     },
     "at:innsbruck:feldkirch:bregenz": {
       "institution-part": {
-        "bg": "Bezirksgericht Bregenz"
+        "bg": "BG Bregenz"
       }
     },
     "at:innsbruck:feldkirch:dornbirn": {
       "institution-part": {
-        "bg": "Bezirksgericht Dornbirn"
+        "bg": "BG Dornbirn"
       }
     },
     "at:innsbruck:feldkirch:feldkirch": {
       "institution-part": {
-        "bg": "Bezirksgericht Feldkirch"
+        "bg": "BG Feldkirch"
       }
     },
     "at:innsbruck:innsbruck": {
       "institution-part": {
-        "lg": "Landesgericht Innsbruck"
+        "lg": "LG Innsbruck"
       }
     },
     "at:innsbruck:innsbruck:hall.in.tirol": {
       "institution-part": {
-        "bg": "Bezirksgericht Hall in Tirol"
+        "bg": "BG Hall in Tirol"
       }
     },
     "at:innsbruck:innsbruck:imst": {
       "institution-part": {
-        "bg": "Bezirksgericht Imst"
+        "bg": "BG Imst"
       }
     },
     "at:innsbruck:innsbruck:innsbruck": {
       "institution-part": {
-        "bg": "Bezirksgericht Innsbruck"
+        "bg": "BG Innsbruck"
       }
     },
     "at:innsbruck:innsbruck:kitzbuhel": {
       "institution-part": {
-        "bg": "Bezirksgericht Kitzbühel"
+        "bg": "BG Kitzbühel"
       }
     },
     "at:innsbruck:innsbruck:kufstein": {
       "institution-part": {
-        "bg": "Bezirksgericht Kufstein"
+        "bg": "BG Kufstein"
       }
     },
     "at:innsbruck:innsbruck:landeck": {
       "institution-part": {
-        "bg": "Bezirksgericht Landeck"
+        "bg": "BG Landeck"
       }
     },
     "at:innsbruck:innsbruck:lienz": {
       "institution-part": {
-        "bg": "Bezirksgericht Lienz"
+        "bg": "BG Lienz"
       }
     },
     "at:innsbruck:innsbruck:rattenberg": {
       "institution-part": {
-        "bg": "Bezirksgericht Rattenberg"
+        "bg": "BG Rattenberg"
       }
     },
     "at:innsbruck:innsbruck:reutte": {
       "institution-part": {
-        "bg": "Bezirksgericht Reutte"
+        "bg": "BG Reutte"
       }
     },
     "at:innsbruck:innsbruck:schwaz": {
       "institution-part": {
-        "bg": "Bezirksgericht Schwaz"
+        "bg": "BG Schwaz"
       }
     },
     "at:innsbruck:innsbruck:silz": {
       "institution-part": {
-        "bg": "Bezirksgericht Silz"
+        "bg": "BG Silz"
       }
     },
     "at:innsbruck:innsbruck:telfs": {
       "institution-part": {
-        "bg": "Bezirksgericht Telfs"
+        "bg": "BG Telfs"
       }
     },
     "at:innsbruck:innsbruck:zell.am.ziller": {
       "institution-part": {
-        "bg": "Bezirksgericht Zell am Ziller"
+        "bg": "BG Zell am Ziller"
       }
     },
     "at:karnten": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Kärnten"
+        "lvwg": "LvWG Kärnten"
       }
     },
     "at:linz": {
       "institution-part": {
-        "olg": "Oberlandesgericht Linz"
+        "olg": "OLG Linz"
       }
     },
     "at:linz:linz": {
       "institution-part": {
-        "lg": "Landesgericht Linz"
+        "lg": "LG Linz"
       }
     },
     "at:linz:linz:freistadt": {
       "institution-part": {
-        "bg": "Bezirksgericht Freistadt"
+        "bg": "BG Freistadt"
       }
     },
     "at:linz:linz:linz": {
       "institution-part": {
-        "bg": "Bezirksgericht Linz"
+        "bg": "BG Linz"
       }
     },
     "at:linz:linz:perg": {
       "institution-part": {
-        "bg": "Bezirksgericht Perg"
+        "bg": "BG Perg"
       }
     },
     "at:linz:linz:rohrbach": {
       "institution-part": {
-        "bg": "Bezirksgericht Rohrbach"
+        "bg": "BG Rohrbach"
       }
     },
     "at:linz:linz:traun": {
       "institution-part": {
-        "bg": "Bezirksgericht Traun"
+        "bg": "BG Traun"
       }
     },
     "at:linz:linz:urfahr": {
       "institution-part": {
-        "bg": "Bezirksgericht Urfahr"
+        "bg": "BG Urfahr"
       }
     },
     "at:linz:ried.im.innkreis": {
       "institution-part": {
-        "lg": "Landesgericht Ried im Innkreis"
+        "lg": "LG Ried im Innkreis"
       }
     },
     "at:linz:ried.im.innkreis:braunau.am.inn": {
       "institution-part": {
-        "bg": "Bezirksgericht Braunau am Inn"
+        "bg": "BG Braunau am Inn"
       }
     },
     "at:linz:ried.im.innkreis:mattighofen": {
       "institution-part": {
-        "bg": "Bezirksgericht Mattighofen"
+        "bg": "BG Mattighofen"
       }
     },
     "at:linz:ried.im.innkreis:ried.im.innkreis": {
       "institution-part": {
-        "bg": "Bezirksgericht Ried im Innkreis"
+        "bg": "BG Ried im Innkreis"
       }
     },
     "at:linz:ried.im.innkreis:scharding": {
       "institution-part": {
-        "bg": "Bezirksgericht Schärding"
+        "bg": "BG Schärding"
       }
     },
     "at:linz:salzburg": {
       "institution-part": {
-        "lg": "Landesgericht Salzburg"
+        "lg": "LG Salzburg"
       }
     },
     "at:linz:salzburg:hallein": {
       "institution-part": {
-        "bg": "Bezirksgericht Hallein"
+        "bg": "BG Hallein"
       }
     },
     "at:linz:salzburg:neumarkt.bei.salzburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Neumarkt bei Salzburg"
+        "bg": "BG Neumarkt bei Salzburg"
       }
     },
     "at:linz:salzburg:oberndorf": {
       "institution-part": {
-        "bg": "Bezirksgericht Oberndorf"
+        "bg": "BG Oberndorf"
       }
     },
     "at:linz:salzburg:salzburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Salzburg"
+        "bg": "BG Salzburg"
       }
     },
     "at:linz:salzburg:sankt.johann.im.pongau": {
       "institution-part": {
-        "bg": "Bezirksgericht Sankt Johann im Pongau"
+        "bg": "BG Sankt Johann im Pongau"
       }
     },
     "at:linz:salzburg:tamsweg": {
       "institution-part": {
-        "bg": "Bezirksgericht Tamsweg"
+        "bg": "BG Tamsweg"
       }
     },
     "at:linz:salzburg:thalgau": {
       "institution-part": {
-        "bg": "Bezirksgericht Thalgau"
+        "bg": "BG Thalgau"
       }
     },
     "at:linz:salzburg:zell.am.see": {
       "institution-part": {
-        "bg": "Bezirksgericht Zell am See"
+        "bg": "BG Zell am See"
       }
     },
     "at:linz:steyr": {
       "institution-part": {
-        "lg": "Landesgericht Steyr"
+        "lg": "LG Steyr"
       }
     },
     "at:linz:steyr:kirchdorf.an.der.krems": {
       "institution-part": {
-        "bg": "Bezirksgericht Kirchdorf an der Krems"
+        "bg": "BG Kirchdorf an der Krems"
       }
     },
     "at:linz:steyr:steyr": {
       "institution-part": {
-        "bg": "Bezirksgericht Steyr"
+        "bg": "BG Steyr"
       }
     },
     "at:linz:wels": {
       "institution-part": {
-        "lg": "Landesgericht Wels"
+        "lg": "LG Wels"
       }
     },
     "at:linz:wels:bad.ischl": {
       "institution-part": {
-        "bg": "Bezirksgericht Bad Ischl"
+        "bg": "BG Bad Ischl"
       }
     },
     "at:linz:wels:eferding": {
       "institution-part": {
-        "bg": "Bezirksgericht Eferding"
+        "bg": "BG Eferding"
       }
     },
     "at:linz:wels:gmunden": {
       "institution-part": {
-        "bg": "Bezirksgericht Gmunden"
+        "bg": "BG Gmunden"
       }
     },
     "at:linz:wels:grieskirchen": {
       "institution-part": {
-        "bg": "Bezirksgericht Grieskirchen"
+        "bg": "BG Grieskirchen"
       }
     },
     "at:linz:wels:vocklabruck": {
       "institution-part": {
-        "bg": "Bezirksgericht Vöcklabruck"
+        "bg": "BG Vöcklabruck"
       }
     },
     "at:linz:wels:wels": {
       "institution-part": {
-        "bg": "Bezirksgericht Wels"
+        "bg": "BG Wels"
       }
     },
     "at:niederosterreich": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Niederösterreich"
+        "lvwg": "LvWG Niederösterreich"
       }
     },
     "at:oberosterreich": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Oberösterreich"
+        "lvwg": "LvWG Oberösterreich"
       }
     },
     "at:salzburg": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Salzburg"
+        "lvwg": "LvWG Salzburg"
       }
     },
     "at:steiermark": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Steiermark"
+        "lvwg": "LvWG Steiermark"
       }
     },
     "at:tirol": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Tirol"
+        "lvwg": "LvWG Tirol"
       }
     },
     "at:vorarlberg": {
       "institution-part": {
-        "lvwg": "Landesverwaltungsgericht Vorarlberg"
+        "lvwg": "LvWG Vorarlberg"
       }
     },
     "at:wien": {
       "institution-part": {
-        "olg": "Oberlandesgericht Wien",
-        "vgwg": "Verwaltungsgericht Wien"
+        "olg": "OLG Wien",
+        "vgwg": "VGWG Wien"
       }
     },
     "at:wien:eisenstadt": {
       "institution-part": {
-        "lg": "Landesgericht Eisenstadt"
+        "lg": "LG Eisenstadt"
       }
     },
     "at:wien:eisenstadt:eisenstadt": {
       "institution-part": {
-        "bg": "Bezirksgericht Eisenstadt"
+        "bg": "BG Eisenstadt"
       }
     },
     "at:wien:eisenstadt:gussing": {
       "institution-part": {
-        "bg": "Bezirksgericht Güssing"
+        "bg": "BG Güssing"
       }
     },
     "at:wien:eisenstadt:mattersburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Mattersburg"
+        "bg": "BG Mattersburg"
       }
     },
     "at:wien:eisenstadt:neusiedl.am.see": {
       "institution-part": {
-        "bg": "Bezirksgericht Neusiedl am See"
+        "bg": "BG Neusiedl am See"
       }
     },
     "at:wien:eisenstadt:oberpullendorf": {
       "institution-part": {
-        "bg": "Bezirksgericht Oberpullendorf"
+        "bg": "BG Oberpullendorf"
       }
     },
     "at:wien:eisenstadt:oberwart": {
       "institution-part": {
-        "bg": "Bezirksgericht Oberwart"
+        "bg": "BG Oberwart"
       }
     },
     "at:wien:korneuburg": {
       "institution-part": {
-        "lg": "Landesgericht Korneuburg"
+        "lg": "LG Korneuburg"
       }
     },
     "at:wien:korneuburg:bruck.an.der.leitha": {
       "institution-part": {
-        "bg": "Bezirksgericht Bruck an der Leitha"
+        "bg": "BG Bruck an der Leitha"
       }
     },
     "at:wien:korneuburg:ganserndorf": {
       "institution-part": {
-        "bg": "Bezirksgericht Gänserndorf"
+        "bg": "BG Gänserndorf"
       }
     },
     "at:wien:korneuburg:hollabrunn": {
       "institution-part": {
-        "bg": "Bezirksgericht Hollabrunn"
+        "bg": "BG Hollabrunn"
       }
     },
     "at:wien:korneuburg:klosterneuburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Klosterneuburg"
+        "bg": "BG Klosterneuburg"
       }
     },
     "at:wien:korneuburg:korneuburg": {
       "institution-part": {
-        "bg": "Bezirksgericht Korneuburg"
+        "bg": "BG Korneuburg"
       }
     },
     "at:wien:korneuburg:mistelbach": {
       "institution-part": {
-        "bg": "Bezirksgericht Mistelbach"
+        "bg": "BG Mistelbach"
       }
     },
     "at:wien:korneuburg:schwechat": {
       "institution-part": {
-        "bg": "Bezirksgericht Schwechat"
+        "bg": "BG Schwechat"
       }
     },
     "at:wien:krems.an.der.donau": {
       "institution-part": {
-        "lg": "Landesgericht Krems an der Donau"
+        "lg": "LG Krems an der Donau"
       }
     },
     "at:wien:krems.an.der.donau:gmund.in.niederosterreich": {
       "institution-part": {
-        "bg": "Bezirksgericht Gmünd in Niederösterreich"
+        "bg": "BG Gmünd in Niederösterreich"
       }
     },
     "at:wien:krems.an.der.donau:horn": {
       "institution-part": {
-        "bg": "Bezirksgericht Horn"
+        "bg": "BG Horn"
       }
     },
     "at:wien:krems.an.der.donau:krems.an.der.donau": {
       "institution-part": {
-        "bg": "Bezirksgericht Krems an der Donau"
+        "bg": "BG Krems an der Donau"
       }
     },
     "at:wien:krems.an.der.donau:waidhofen.an.der.thaya": {
       "institution-part": {
-        "bg": "Bezirksgericht Waidhofen an der Thaya"
+        "bg": "BG Waidhofen an der Thaya"
       }
     },
     "at:wien:krems.an.der.donau:zwettl": {
       "institution-part": {
-        "bg": "Bezirksgericht Zwettl"
+        "bg": "BG Zwettl"
       }
     },
     "at:wien:st.polten": {
       "institution-part": {
-        "lg": "Landesgericht St. Pölten"
+        "lg": "LG St. Pölten"
       }
     },
     "at:wien:st.polten:amstetten": {
       "institution-part": {
-        "bg": "Bezirksgericht Amstetten"
+        "bg": "BG Amstetten"
       }
     },
     "at:wien:st.polten:haag": {
       "institution-part": {
-        "bg": "Bezirksgericht Haag"
+        "bg": "BG Haag"
       }
     },
     "at:wien:st.polten:lilienfeld": {
       "institution-part": {
-        "bg": "Bezirksgericht Lilienfeld"
+        "bg": "BG Lilienfeld"
       }
     },
     "at:wien:st.polten:melk": {
       "institution-part": {
-        "bg": "Bezirksgericht Melk"
+        "bg": "BG Melk"
       }
     },
     "at:wien:st.polten:neulengbach": {
       "institution-part": {
-        "bg": "Bezirksgericht Neulengbach"
+        "bg": "BG Neulengbach"
       }
     },
     "at:wien:st.polten:purkersdorf": {
       "institution-part": {
-        "bg": "Bezirksgericht Purkersdorf"
+        "bg": "BG Purkersdorf"
       }
     },
     "at:wien:st.polten:scheibbs": {
       "institution-part": {
-        "bg": "Bezirksgericht Scheibbs"
+        "bg": "BG Scheibbs"
       }
     },
     "at:wien:st.polten:st.polten": {
       "institution-part": {
-        "bg": "Bezirksgericht St. Pölten"
+        "bg": "BG St. Pölten"
       }
     },
     "at:wien:st.polten:tulln": {
       "institution-part": {
-        "bg": "Bezirksgericht Tulln"
+        "bg": "BG Tulln"
       }
     },
     "at:wien:st.polten:waidhofen.an.der.ybbs": {
       "institution-part": {
-        "bg": "Bezirksgericht Waidhofen an der Ybbs"
+        "bg": "BG Waidhofen an der Ybbs"
       }
     },
     "at:wien:wien": {
       "institution-part": {
-        "asg": "Arbeits- und Sozialgericht Wien",
-        "hg": "Handelsgericht Wien",
-        "lgs": "Landesgericht für Strafsachen Wien",
-        "lgzrs": "Landesgericht für Zivilrechtssachen Wien"
+        "asg": "ASG Wien",
+        "hg": "HG Wien",
+        "lgs": "LGS Wien",
+        "lgzrs": "LGZ Wien"
       }
     },
     "at:wien:wien:dobling": {
       "institution-part": {
-        "bg": "Bezirksgericht Döbling"
+        "bg": "BG Döbling"
       }
     },
     "at:wien:wien:donaustadt": {
       "institution-part": {
-        "bg": "Bezirksgericht Donaustadt"
+        "bg": "BG Donaustadt"
       }
     },
     "at:wien:wien:favoriten": {
       "institution-part": {
-        "bg": "Bezirksgericht Favoriten"
+        "bg": "BG Favoriten"
       }
     },
     "at:wien:wien:floridsdorf": {
       "institution-part": {
-        "bg": "Bezirksgericht Floridsdorf"
+        "bg": "BG Floridsdorf"
       }
     },
     "at:wien:wien:funfhaus": {
       "institution-part": {
-        "bg": "Bezirksgericht Fünfhaus"
+        "bg": "BG Fünfhaus"
       }
     },
     "at:wien:wien:hernals": {
       "institution-part": {
-        "bg": "Bezirksgericht Hernals"
+        "bg": "BG Hernals"
       }
     },
     "at:wien:wien:hietzing": {
       "institution-part": {
-        "bg": "Bezirksgericht Hietzing"
+        "bg": "BG Hietzing"
       }
     },
     "at:wien:wien:innere.stadt.wien": {
       "institution-part": {
-        "bg": "Bezirksgericht Innere Stadt Wien"
+        "bg": "BG Innere Stadt Wien"
       }
     },
     "at:wien:wien:josefstadt": {
       "institution-part": {
-        "bg": "Bezirksgericht Josefstadt"
+        "bg": "BG Josefstadt"
       }
     },
     "at:wien:wien:leopoldstadt": {
       "institution-part": {
-        "bg": "Bezirksgericht Leopoldstadt"
+        "bg": "BG Leopoldstadt"
       }
     },
     "at:wien:wien:liesing": {
       "institution-part": {
-        "bg": "Bezirksgericht Liesing"
+        "bg": "BG Liesing"
       }
     },
     "at:wien:wien:meidling": {
       "institution-part": {
-        "bg": "Bezirksgericht Meidling"
+        "bg": "BG Meidling"
       }
     },
     "at:wien:wiener.neustadt": {
       "institution-part": {
-        "lg": "Landesgericht Wiener Neustadt"
+        "lg": "LG Wiener Neustadt"
       }
     },
     "at:wien:wiener.neustadt:baden": {
       "institution-part": {
-        "bg": "Bezirksgericht Baden"
+        "bg": "BG Baden"
       }
     },
     "at:wien:wiener.neustadt:modling": {
       "institution-part": {
-        "bg": "Bezirksgericht Mödling"
+        "bg": "BG Mödling"
       }
     },
     "at:wien:wiener.neustadt:neunkirchen": {
       "institution-part": {
-        "bg": "Bezirksgericht Neunkirchen"
+        "bg": "BG Neunkirchen"
       }
     },
     "at:wien:wiener.neustadt:wiener.neustadt": {
       "institution-part": {
-        "bg": "Bezirksgericht Wiener Neustadt"
+        "bg": "BG Wiener Neustadt"
       }
     }
   }
