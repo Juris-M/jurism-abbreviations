@@ -1,15 +1,15 @@
 {
   "filename": "auto-fi.json",
   "name": "Finland",
-  "version": "2019-09-25 12:47:01 UTC",
+  "version": "2019-09-26 23:53:39 UTC",
   "xdata": {
     "default": {
       "place": {
         "FI": "Finland",
         "FI:AHVENANMAA": "Ahvenanmaan",
         "FI:HAMEENLINNA": "Hämeenlinnan",
-        "FI:HELSINKI": "Helsingen",
-        "FI:HELSINKI:HELSINKI": "Helsingen",
+        "FI:HELSINKI": "Helsingin",
+        "FI:HELSINKI:HELSINKI": "Helsingin",
         "FI:HELSINKI:ITA.UUSIMAA": "Itä-Uudenmaan",
         "FI:HELSINKI:VANTAA": "Vantaan",
         "FI:HELSINKI:HYVINKAA": "Hyvinkään",
@@ -33,7 +33,7 @@
         "FI:TURKU:KANTA.HAME": "Kanta-Hämeen",
         "FI:TURKU:PIRKANMAA": "Pirkanmaan",
         "FI:TURKU:VARSINAIS.SUOMI": "Varsinais-Suomen",
-        "FI:TURKU:AHVENANMAA": "Ahvenanmaa",
+        "FI:TURKU:AHVENANMAA": "Ahvenanmaan",
         "FI:POHJANMAA": "Vaasan",
         "FI:VAASA": "Vaasan",
         "FI:VAASA:ETELA.POHJANMAA": "Etelä-Pohjanmaan",
@@ -78,8 +78,8 @@
     },
     "fi:helsinki": {
       "institution-part": {
-        "hao": "Helsingen hallinto-oikeus",
-        "ho": "Helsingen hovioikeus"
+        "hao": "Helsingin hallinto-oikeus",
+        "ho": "Helsingin hovioikeus"
       },
       "institution-entire": {
         "hao": "HAO",
@@ -88,7 +88,7 @@
     },
     "fi:helsinki:helsinki": {
       "institution-part": {
-        "ko": "Helsingen käräjäoikeus"
+        "ko": "Helsingin käräjäoikeus"
       },
       "institution-entire": {
         "ko": "KO"
@@ -284,7 +284,7 @@
     },
     "fi:turku:ahvenanmaa": {
       "institution-part": {
-        "ko": "Ahvenanmaa käräjäoikeus"
+        "ko": "Ahvenanmaan käräjäoikeus"
       },
       "institution-entire": {
         "ko": "KO"
