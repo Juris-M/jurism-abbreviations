@@ -1,7 +1,7 @@
 {
   "filename": "auto-fr.json",
   "name": "France",
-  "version": "2019-08-19 06:21:44 UTC",
+  "version": "2019-11-04 08:52:44 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -46,7 +46,7 @@
     },
     "fr": {
       "institution-part": {
-        "ca": "Cour d'appel",
+        "ca": "CA France",
         "cass": "Cour de Cassation",
         "cass~civ1": "Cour de Cassation|1re chambre civile",
         "cass~civ2": "Cour de Cassation|2e chambre civile",
@@ -62,182 +62,182 @@
     },
     "fr:agen": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Agen"
       }
     },
     "fr:aix.en.provence": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Aix-en-Provence"
       }
     },
     "fr:amiens": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Amiens"
       }
     },
     "fr:angers": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Angers"
       }
     },
     "fr:basse.terre": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Basse-Terre"
       }
     },
     "fr:bastia": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Bastia"
       }
     },
     "fr:besancon": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Besançon"
       }
     },
     "fr:bordeaux": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Bordeaux"
       }
     },
     "fr:bourges": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Bourges"
       }
     },
     "fr:caen": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Caen"
       }
     },
     "fr:cayenne": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Cayenne"
       }
     },
     "fr:chambery": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Chambéry"
       }
     },
     "fr:colmar": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Colmar"
       }
     },
     "fr:dijon": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Dijon"
       }
     },
     "fr:douai": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Douai"
       }
     },
     "fr:fort.france": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Fort-de-France"
       }
     },
     "fr:grenoble": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Grenoble"
       }
     },
     "fr:limoges": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Limoges"
       }
     },
     "fr:lyon": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Lyon"
       }
     },
     "fr:metz": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Metz"
       }
     },
     "fr:montpellier": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Montpellier"
       }
     },
     "fr:nancy": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Nancy"
       }
     },
     "fr:nimes": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Nîmes"
       }
     },
     "fr:noumea": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Nouméa"
       }
     },
     "fr:orleans": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Orléans"
       }
     },
     "fr:papeete": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Papeete"
       }
     },
     "fr:paris": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Paris"
       }
     },
     "fr:pau": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Pau"
       }
     },
     "fr:poitiers": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Poitiers"
       }
     },
     "fr:reims": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Reims"
       }
     },
     "fr:rennes": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Rennes"
       }
     },
     "fr:riom": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Riom"
       }
     },
     "fr:rouen": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Rouen"
       }
     },
     "fr:saint.denis": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Saint-Denis"
       }
     },
     "fr:toulouse": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Toulouse"
       }
     },
     "fr:versailles": {
       "institution-part": {
-        "ca": "Cour d'appel"
+        "ca": "CA Versailles"
       }
     }
   }
