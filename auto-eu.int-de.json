@@ -1,5 +1,5 @@
 {
-  "filename": "auto-eu.int.json",
+  "filename": "auto-eu.int-de.json",
   "name": "European Union",
   "version": "2019-12-12 23:59:50 UTC",
   "xdata": {
@@ -12,13 +12,13 @@
     },
     "eu.int": {
       "institution-part": {
-        "ec": "European Commission"
+        "ec": "Kom"
       }
     },
     "eu.int:cjeu": {
       "institution-part": {
-        "ag": "Attorney General",
-        "ecj": "ECJ",
+        "ag": "GA",
+        "ecj": "EuGH",
         "ecj~chamber.1": "Cour de Justice|First Chamber",
         "ecj~chamber.2": "Cour de Justice|Second Chamber",
         "ecj~chamber.3": "Cour de Justice|Third Chamber",
@@ -28,8 +28,8 @@
         "ecj~chamber.7": "Cour de Justice|Seventh Chamber",
         "ecj~chamber.8": "Cour de Justice|Eighth Chamber",
         "ecj~chamber.9": "Cour de Justice|Ninth Chamber",
-        "egc": "EGC",
-        "cst": "European Union Civil Service Tribunal"
+        "egc": "EuG",
+        "cst": "EuGöD"
       }
     },
     "eu.int:encj": {

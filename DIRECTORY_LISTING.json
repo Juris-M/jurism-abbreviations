@@ -2,7 +2,7 @@
   {
     "filename": "auto-at.json",
     "name": "Abbreviations: Austria legal",
-    "version": "2019-08-29 02:33:35 UTC",
+    "version": "2019-12-12 23:38:40 UTC",
     "jurisdiction": "at"
   },
   {
@@ -139,5 +139,20 @@
     "name": "Abbreviations: Italy legal",
     "version": "2019-12-06 02:32:09 UTC",
     "jurisdiction": "it"
+  },
+  {
+    "filename": "auto-eu.int.json",
+    "name": "Abbreviations: European Union legal",
+    "version": "2019-12-12 23:59:50 UTC",
+    "jurisdiction": "eu.int",
+    "variants": {
+      "de": "2019-12-12 23:59:50 UTC"
+    }
+  },
+  {
+    "filename": "auto-vn.json",
+    "name": "Abbreviations: Vietnam legal",
+    "version": "2019-12-13 00:01:28 UTC",
+    "jurisdiction": "vn"
   }
 ]

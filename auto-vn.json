@@ -1,11 +1,11 @@
 {
   "filename": "auto-vn.json",
-  "name": "Viet Nam",
-  "version": "2019-08-19 06:21:44 UTC",
+  "name": "Vietnam",
+  "version": "2019-12-13 00:01:28 UTC",
   "xdata": {
     "default": {
       "place": {
-        "VN": "Viet Nam",
+        "VN": "Vietnam",
         "VN:AN.GIANG": "An Giang",
         "VN:AN.GIANG:AN.PHU": "An Phú",
         "VN:AN.GIANG:CHAU.DOC": "Châu Đốc",

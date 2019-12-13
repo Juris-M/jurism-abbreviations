@@ -1,7 +1,7 @@
 {
   "filename": "auto-at.json",
   "name": "Austria",
-  "version": "2019-08-29 02:33:35 UTC",
+  "version": "2019-12-12 23:38:40 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -152,8 +152,8 @@
     },
     "at": {
       "institution-part": {
-        "bfg": "Verwaltungsgericht",
-        "bvwg": "BvWG",
+        "bfg": "BFG",
+        "bvwg": "BVwG",
         "ogh": "OGH",
         "vfgh": "VfGH",
         "vwgh": "VwGH"
@@ -161,7 +161,7 @@
     },
     "at:burgenland": {
       "institution-part": {
-        "lvwg": "LvWG Burgenland"
+        "lvwg": "LVwG Burgenland"
       }
     },
     "at:graz": {
@@ -422,7 +422,7 @@
     },
     "at:karnten": {
       "institution-part": {
-        "lvwg": "LvWG Kärnten"
+        "lvwg": "LVwG Kärnten"
       }
     },
     "at:linz": {
@@ -587,38 +587,38 @@
     },
     "at:niederosterreich": {
       "institution-part": {
-        "lvwg": "LvWG Niederösterreich"
+        "lvwg": "LVwG Niederösterreich"
       }
     },
     "at:oberosterreich": {
       "institution-part": {
-        "lvwg": "LvWG Oberösterreich"
+        "lvwg": "LVwG Oberösterreich"
       }
     },
     "at:salzburg": {
       "institution-part": {
-        "lvwg": "LvWG Salzburg"
+        "lvwg": "LVwG Salzburg"
       }
     },
     "at:steiermark": {
       "institution-part": {
-        "lvwg": "LvWG Steiermark"
+        "lvwg": "LVwG Steiermark"
       }
     },
     "at:tirol": {
       "institution-part": {
-        "lvwg": "LvWG Tirol"
+        "lvwg": "LVwG Tirol"
       }
     },
     "at:vorarlberg": {
       "institution-part": {
-        "lvwg": "LvWG Vorarlberg"
+        "lvwg": "LVwG Vorarlberg"
       }
     },
     "at:wien": {
       "institution-part": {
         "olg": "OLG Wien",
-        "vgwg": "VGWG Wien"
+        "vgw": "VGW"
       }
     },
     "at:wien:eisenstadt": {
