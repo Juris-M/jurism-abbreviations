@@ -102,7 +102,7 @@
   {
     "filename": "secondary-us-bluebook.json",
     "name": "Abbreviations: Secondary materials for the US (Bluebook styles)",
-    "version": 1,
+    "version": 3,
     "jurisdictions": []
   },
   {
@@ -154,5 +154,11 @@
     "name": "Abbreviations: Vietnam legal",
     "version": "2019-12-13 00:01:28 UTC",
     "jurisdiction": "vn"
+  },
+  {
+    "filename": "auto-dk.json",
+    "name": "Abbreviations: Denmark legal",
+    "version": "2020-01-21 12:14:45 UTC",
+    "jurisdiction": "dk"
   }
 ]
