@@ -1,15 +1,290 @@
 {
   "filename": "auto-pt.json",
   "name": "Portugal",
-  "version": "2019-08-19 06:21:44 UTC",
+  "version": "2020-02-12 06:19:42 UTC",
   "xdata": {
     "default": {
       "place": {
-        "PT": "Portugal"
+        "PT": "Portugal",
+        "PT:LISBOA": "Lisboa",
+        "PT:LISBOA:LISBOA": "Lisboa",
+        "PT:LISBOA:LISBOA.NORTE": "Lisboa Norte",
+        "PT:LISBOA:LISBOA.OESTE": "Lisboa Oeste",
+        "PT:LISBOA:AÇORES": "Açores",
+        "PT:LISBOA:AÇORES:PONTA.DELGADA": "Ponta Delgada",
+        "PT:LISBOA:MADEIRA": "Madeira",
+        "PT:LISBOA:ALMADA": "Almada",
+        "PT:LISBOA:MADEIRA:FUNCHAL": "Funchal",
+        "PT:LISBOA:AÇORES.E.MADEIRA": "Açores e Madeira",
+        "PT:LISBOA:SINTRA": "Sintra",
+        "PT:EVORA": "Évora",
+        "PT:EVORA:EVORA": "Évora",
+        "PT:EVORA:BEJA": "Beja",
+        "PT:EVORA:FARO": "Faro",
+        "PT:EVORA:FARO:LOULE": "Loule",
+        "PT:EVORA:PORTALEGRE": "Portalegre",
+        "PT:EVORA:SANTARÉM": "Santarém",
+        "PT:EVORA:SETÚBAL": "Setúbal",
+        "PT:COIMBRA": "Coimbra",
+        "PT:COIMBRA:COIMBRA": "Coimbra",
+        "PT:COIMBRA:CASTELO.BRANCO": "Castelo Branco",
+        "PT:COIMBRA:GUARDA": "Guarda",
+        "PT:COIMBRA:LEIRIA": "Leiria",
+        "PT:COIMBRA:VISEU": "Viseu",
+        "PT:PORTO": "Porto",
+        "PT:PORTO:PORTO": "Porto",
+        "PT:PORTO:TRAS.OS.MONTES": " Trás-os-Montes",
+        "PT:PORTO:ENTRE.DOURO.E.MINHO": "Entre Douro e Minho",
+        "PT:PORTO:BEIRA": "Beira",
+        "PT:PORTO:AVEIRO": "Aveiro",
+        "PT:PORTO:PORTO.ESTE": "Porto Este",
+        "PT:PORTO:PENAFIEL": "Penafiel",
+        "PT:PORTO:LEIXÕES": "Leixões",
+        "PT:GUIMARÃES": "Guimarães",
+        "PT:GUIMARÃES:BRAGA": "Braga",
+        "PT:GUIMARÃES:BRAGANÇA": "Bragança",
+        "PT:GUIMARÃES:BRAGANÇA:MIRANDELA": "Mirandela",
+        "PT:GUIMARÃES:VIANA.DO.CASTELO": "Viana do Castelo",
+        "PT:GUIMARÃES:VILA.REAL": "Vila Real"
       }
     },
     "pt": {
-      "institution-part": {}
+      "institution-part": {
+        "constitucional": "Tribunal Constitucional",
+        "contas": "Tribunal de Contas",
+        "conflitos": "Tribunal de Conflitos",
+        "supremo.tribunal.de.justicia": "Supremo Tribunal de Justiça",
+        "supremo.administrativo": "Supremo Tribunal Administrativo",
+        "supremo.militar": "Supremo Tribunal Militar",
+        "paz": "Julgados de Paz",
+        "arbitrais": "Tribunal Arbitrais",
+        "eclesiasticos": "Tribunal Eclesiásticos",
+        "propriedade.intelectual": "Tribunal da Propriedade Intelectualo",
+        "concorrencia": "Tribunal da Concorrência"
+      }
+    },
+    "pt:lisboa": {
+      "institution-part": {
+        "relacao": "Tribunal da Relação",
+        "maritimo": "Tribunal Maritimo",
+        "penas": "Tribunal de Execução de Penas",
+        "central.administrativo.sul": "TCA Sul"
+      }
+    },
+    "pt:lisboa:lisboa": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.de.circulo": "Tribunal Administrativo de Círculo",
+        "tributario": "Tribunal Tributário"
+      }
+    },
+    "pt:lisboa:lisboa.norte": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:lisboa:lisboa.oeste": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:lisboa:açores": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:lisboa:açores:ponta.delgada": {
+      "institution-part": {
+        "administrativo.fiscal.sul": "Administrativo e Fiscal",
+        "maritimo": "Tribunal Maritimo"
+      }
+    },
+    "pt:lisboa:madeira": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:lisboa:almada": {
+      "institution-part": {
+        "administrativo.fiscal.sul": "Administrativo e Fiscal",
+        "tributario": "Tribunal Tributário"
+      }
+    },
+    "pt:lisboa:madeira:funchal": {
+      "institution-part": {
+        "administrativo.fiscal.sul": "Administrativo e Fiscal",
+        "maritimo": "Tribunal Maritimo"
+      }
+    },
+    "pt:lisboa:açores.e.madeira": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:lisboa:sintra": {
+      "institution-part": {
+        "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      }
+    },
+    "pt:evora": {
+      "institution-part": {
+        "relacao": "Tribunal da Relação",
+        "penas": "Tribunal de Execução de Penas"
+      }
+    },
+    "pt:evora:evora": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:evora:beja": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      }
+    },
+    "pt:evora:faro": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "maritimo": "Tribunal Maritimo"
+      }
+    },
+    "pt:evora:faro:loule": {
+      "institution-part": {
+        "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      }
+    },
+    "pt:evora:portalegre": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:evora:santarém": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:evora:setúbal": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:coimbra": {
+      "institution-part": {
+        "relacao": "Tribunal da Relação",
+        "penas": "Tribunal de Execução de Penas",
+        "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      }
+    },
+    "pt:coimbra:coimbra": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:coimbra:castelo.branco": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      }
+    },
+    "pt:coimbra:guarda": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:coimbra:leiria": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      }
+    },
+    "pt:coimbra:viseu": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.norte": "Administrativo e Fiscal"
+      }
+    },
+    "pt:porto": {
+      "institution-part": {
+        "relacao": "Tribunal da Relação",
+        "penas": "Tribunal de Execução de Penas",
+        "central.administrativo.norte": "TCA Norte"
+      }
+    },
+    "pt:porto:porto": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.norte": "Administrativo e Fiscal"
+      }
+    },
+    "pt:porto:tras.os.montes": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:porto:entre.douro.e.minho": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:porto:beira": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:porto:aveiro": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.norte": "Administrativo e Fiscal"
+      }
+    },
+    "pt:porto:porto.este": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:porto:penafiel": {
+      "institution-part": {
+        "administrativo.fiscal.norte": "Administrativo e Fiscal"
+      }
+    },
+    "pt:porto:leixões": {
+      "institution-part": {
+        "maritimo": "Tribunal Maritimo"
+      }
+    },
+    "pt:guimarães": {
+      "institution-part": {
+        "relacao": "Tribunal da Relação",
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:guimarães:braga": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.norte": "Administrativo e Fiscal"
+      }
+    },
+    "pt:guimarães:bragança": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:guimarães:bragança:mirandela": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca",
+        "administrativo.fiscal.norte": "Administrativo e Fiscal"
+      }
+    },
+    "pt:guimarães:viana.do.castelo": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
+    },
+    "pt:guimarães:vila.real": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
+      }
     }
   }
 }
