@@ -1,12 +1,12 @@
 {
   "filename": "auto-pt.json",
   "name": "Portugal",
-  "version": "2020-02-12 06:19:42 UTC",
+  "version": "2020-03-22 08:41:51 UTC",
   "xdata": {
     "default": {
       "place": {
         "PT": "Portugal",
-        "PT:LISBOA": "Lisboa",
+        "PT:LISBOA": "L",
         "PT:LISBOA:LISBOA": "Lisboa",
         "PT:LISBOA:LISBOA.NORTE": "Lisboa Norte",
         "PT:LISBOA:LISBOA.OESTE": "Lisboa Oeste",
@@ -17,7 +17,7 @@
         "PT:LISBOA:MADEIRA:FUNCHAL": "Funchal",
         "PT:LISBOA:AÇORES.E.MADEIRA": "Açores e Madeira",
         "PT:LISBOA:SINTRA": "Sintra",
-        "PT:EVORA": "Évora",
+        "PT:EVORA": "E",
         "PT:EVORA:EVORA": "Évora",
         "PT:EVORA:BEJA": "Beja",
         "PT:EVORA:FARO": "Faro",
@@ -25,13 +25,13 @@
         "PT:EVORA:PORTALEGRE": "Portalegre",
         "PT:EVORA:SANTARÉM": "Santarém",
         "PT:EVORA:SETÚBAL": "Setúbal",
-        "PT:COIMBRA": "Coimbra",
+        "PT:COIMBRA": "C",
         "PT:COIMBRA:COIMBRA": "Coimbra",
         "PT:COIMBRA:CASTELO.BRANCO": "Castelo Branco",
         "PT:COIMBRA:GUARDA": "Guarda",
         "PT:COIMBRA:LEIRIA": "Leiria",
         "PT:COIMBRA:VISEU": "Viseu",
-        "PT:PORTO": "Porto",
+        "PT:PORTO": "P",
         "PT:PORTO:PORTO": "Porto",
         "PT:PORTO:TRAS.OS.MONTES": " Trás-os-Montes",
         "PT:PORTO:ENTRE.DOURO.E.MINHO": "Entre Douro e Minho",
@@ -40,7 +40,7 @@
         "PT:PORTO:PORTO.ESTE": "Porto Este",
         "PT:PORTO:PENAFIEL": "Penafiel",
         "PT:PORTO:LEIXÕES": "Leixões",
-        "PT:GUIMARÃES": "Guimarães",
+        "PT:GUIMARÃES": "G",
         "PT:GUIMARÃES:BRAGA": "Braga",
         "PT:GUIMARÃES:BRAGANÇA": "Bragança",
         "PT:GUIMARÃES:BRAGANÇA:MIRANDELA": "Mirandela",
@@ -53,8 +53,8 @@
         "constitucional": "Tribunal Constitucional",
         "contas": "Tribunal de Contas",
         "conflitos": "Tribunal de Conflitos",
-        "supremo.tribunal.de.justicia": "Supremo Tribunal de Justiça",
-        "supremo.administrativo": "Supremo Tribunal Administrativo",
+        "supremo.tribunal.de.justicia": "STJ",
+        "supremo.administrativo": "STA",
         "supremo.militar": "Supremo Tribunal Militar",
         "paz": "Julgados de Paz",
         "arbitrais": "Tribunal Arbitrais",
@@ -65,10 +65,10 @@
     },
     "pt:lisboa": {
       "institution-part": {
-        "relacao": "Tribunal da Relação",
+        "relacao": "TRL",
         "maritimo": "Tribunal Maritimo",
         "penas": "Tribunal de Execução de Penas",
-        "central.administrativo.sul": "TCA Sul"
+        "central.administrativo.sul": "TCAS"
       }
     },
     "pt:lisboa:lisboa": {
@@ -128,7 +128,7 @@
     },
     "pt:evora": {
       "institution-part": {
-        "relacao": "Tribunal da Relação",
+        "relacao": "TRE",
         "penas": "Tribunal de Execução de Penas"
       }
     },
@@ -171,7 +171,7 @@
     },
     "pt:coimbra": {
       "institution-part": {
-        "relacao": "Tribunal da Relação",
+        "relacao": "TRC",
         "penas": "Tribunal de Execução de Penas",
         "administrativo.fiscal.sul": "Administrativo e Fiscal"
       }
@@ -206,9 +206,9 @@
     },
     "pt:porto": {
       "institution-part": {
-        "relacao": "Tribunal da Relação",
+        "relacao": "TRP",
         "penas": "Tribunal de Execução de Penas",
-        "central.administrativo.norte": "TCA Norte"
+        "central.administrativo.norte": "TCAN"
       }
     },
     "pt:porto:porto": {
@@ -255,7 +255,7 @@
     },
     "pt:guimarães": {
       "institution-part": {
-        "relacao": "Tribunal da Relação",
+        "relacao": "TRG",
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
