@@ -1,37 +1,37 @@
 {
   "filename": "auto-pt.json",
   "name": "Portugal",
-  "version": "2020-03-22 08:41:51 UTC",
+  "version": "2020-03-24 08:23:21 UTC",
   "xdata": {
     "default": {
       "place": {
         "PT": "Portugal",
-        "PT:LISBOA": "L",
+        "PT:LISBOA": "de Lisboa",
         "PT:LISBOA:LISBOA": "Lisboa",
         "PT:LISBOA:LISBOA.NORTE": "Lisboa Norte",
         "PT:LISBOA:LISBOA.OESTE": "Lisboa Oeste",
-        "PT:LISBOA:AÇORES": "Açores",
-        "PT:LISBOA:AÇORES:PONTA.DELGADA": "Ponta Delgada",
+        "PT:LISBOA:ACORES": "Açores",
+        "PT:LISBOA:ACORES:PONTA.DELGADA": "Ponta Delgada",
         "PT:LISBOA:MADEIRA": "Madeira",
         "PT:LISBOA:ALMADA": "Almada",
         "PT:LISBOA:MADEIRA:FUNCHAL": "Funchal",
-        "PT:LISBOA:AÇORES.E.MADEIRA": "Açores e Madeira",
+        "PT:LISBOA:ACORES.E.MADEIRA": "Açores e Madeira",
         "PT:LISBOA:SINTRA": "Sintra",
-        "PT:EVORA": "E",
+        "PT:EVORA": "de Évora",
         "PT:EVORA:EVORA": "Évora",
         "PT:EVORA:BEJA": "Beja",
         "PT:EVORA:FARO": "Faro",
         "PT:EVORA:FARO:LOULE": "Loule",
         "PT:EVORA:PORTALEGRE": "Portalegre",
-        "PT:EVORA:SANTARÉM": "Santarém",
-        "PT:EVORA:SETÚBAL": "Setúbal",
-        "PT:COIMBRA": "C",
+        "PT:EVORA:SANTAREM": "Santarém",
+        "PT:EVORA:SETUBAL": "Setúbal",
+        "PT:COIMBRA": "de Coimbra",
         "PT:COIMBRA:COIMBRA": "Coimbra",
         "PT:COIMBRA:CASTELO.BRANCO": "Castelo Branco",
         "PT:COIMBRA:GUARDA": "Guarda",
         "PT:COIMBRA:LEIRIA": "Leiria",
         "PT:COIMBRA:VISEU": "Viseu",
-        "PT:PORTO": "P",
+        "PT:PORTO": "do Porto",
         "PT:PORTO:PORTO": "Porto",
         "PT:PORTO:TRAS.OS.MONTES": " Trás-os-Montes",
         "PT:PORTO:ENTRE.DOURO.E.MINHO": "Entre Douro e Minho",
@@ -39,13 +39,13 @@
         "PT:PORTO:AVEIRO": "Aveiro",
         "PT:PORTO:PORTO.ESTE": "Porto Este",
         "PT:PORTO:PENAFIEL": "Penafiel",
-        "PT:PORTO:LEIXÕES": "Leixões",
-        "PT:GUIMARÃES": "G",
-        "PT:GUIMARÃES:BRAGA": "Braga",
-        "PT:GUIMARÃES:BRAGANÇA": "Bragança",
-        "PT:GUIMARÃES:BRAGANÇA:MIRANDELA": "Mirandela",
-        "PT:GUIMARÃES:VIANA.DO.CASTELO": "Viana do Castelo",
-        "PT:GUIMARÃES:VILA.REAL": "Vila Real"
+        "PT:PORTO:LEIXOES": "Leixões",
+        "PT:GUIMARAES": "de Guimarães",
+        "PT:GUIMARAES:BRAGA": "Braga",
+        "PT:GUIMARAES:BRAGANCA": "Bragança",
+        "PT:GUIMARAES:BRAGANCA:MIRANDELA": "Mirandela",
+        "PT:GUIMARAES:VIANA.DO.CASTELO": "Viana do Castelo",
+        "PT:GUIMARAES:VILA.REAL": "Vila Real"
       }
     },
     "pt": {
@@ -53,21 +53,29 @@
         "constitucional": "Tribunal Constitucional",
         "contas": "Tribunal de Contas",
         "conflitos": "Tribunal de Conflitos",
-        "supremo.tribunal.de.justicia": "STJ",
-        "supremo.administrativo": "STA",
+        "supremo.tribunal.de.justicia": "Supremo Tribunal de Justiça",
+        "supremo.administrativo": "Supremo Tribunal Administrativo",
         "supremo.militar": "Supremo Tribunal Militar",
         "paz": "Julgados de Paz",
         "arbitrais": "Tribunal Arbitrais",
         "eclesiasticos": "Tribunal Eclesiásticos",
         "propriedade.intelectual": "Tribunal da Propriedade Intelectualo",
         "concorrencia": "Tribunal da Concorrência"
+      },
+      "institution-entire": {
+        "supremo.tribunal.de.justicia": "STJ",
+        "supremo.administrativo": "STA"
       }
     },
     "pt:lisboa": {
       "institution-part": {
-        "relacao": "TRL",
+        "relacao": "Tribunal da Relação de Lisboa",
         "maritimo": "Tribunal Maritimo",
         "penas": "Tribunal de Execução de Penas",
+        "central.administrativo.sul": "TCA Sul"
+      },
+      "institution-entire": {
+        "relacao": "TRL",
         "central.administrativo.sul": "TCAS"
       }
     },
@@ -88,12 +96,12 @@
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
-    "pt:lisboa:açores": {
+    "pt:lisboa:acores": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
-    "pt:lisboa:açores:ponta.delgada": {
+    "pt:lisboa:acores:ponta.delgada": {
       "institution-part": {
         "administrativo.fiscal.sul": "Administrativo e Fiscal",
         "maritimo": "Tribunal Maritimo"
@@ -116,7 +124,7 @@
         "maritimo": "Tribunal Maritimo"
       }
     },
-    "pt:lisboa:açores.e.madeira": {
+    "pt:lisboa:acores.e.madeira": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
@@ -128,8 +136,11 @@
     },
     "pt:evora": {
       "institution-part": {
-        "relacao": "TRE",
+        "relacao": "Tribunal da Relação de Évora",
         "penas": "Tribunal de Execução de Penas"
+      },
+      "institution-entire": {
+        "relacao": "TRE"
       }
     },
     "pt:evora:evora": {
@@ -159,21 +170,24 @@
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
-    "pt:evora:santarém": {
+    "pt:evora:santarem": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
-    "pt:evora:setúbal": {
+    "pt:evora:setubal": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
     "pt:coimbra": {
       "institution-part": {
-        "relacao": "TRC",
+        "relacao": "Tribunal da Relação de Coimbra",
         "penas": "Tribunal de Execução de Penas",
         "administrativo.fiscal.sul": "Administrativo e Fiscal"
+      },
+      "institution-entire": {
+        "relacao": "TRC"
       }
     },
     "pt:coimbra:coimbra": {
@@ -206,8 +220,12 @@
     },
     "pt:porto": {
       "institution-part": {
-        "relacao": "TRP",
+        "relacao": "Tribunal da Relação do Porto",
         "penas": "Tribunal de Execução de Penas",
+        "central.administrativo.norte": "TCA Norte"
+      },
+      "institution-entire": {
+        "relacao": "TRP",
         "central.administrativo.norte": "TCAN"
       }
     },
@@ -248,40 +266,43 @@
         "administrativo.fiscal.norte": "Administrativo e Fiscal"
       }
     },
-    "pt:porto:leixões": {
+    "pt:porto:leixoes": {
       "institution-part": {
         "maritimo": "Tribunal Maritimo"
       }
     },
-    "pt:guimarães": {
+    "pt:guimaraes": {
       "institution-part": {
-        "relacao": "TRG",
+        "relacao": "Tribunal da Relação de Guimarães",
         "comarca": "Tribunal Judicial da Comarca"
+      },
+      "institution-entire": {
+        "relacao": "TRG"
       }
     },
-    "pt:guimarães:braga": {
+    "pt:guimaraes:braga": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
         "administrativo.fiscal.norte": "Administrativo e Fiscal"
       }
     },
-    "pt:guimarães:bragança": {
+    "pt:guimaraes:braganca": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
-    "pt:guimarães:bragança:mirandela": {
+    "pt:guimaraes:braganca:mirandela": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
         "administrativo.fiscal.norte": "Administrativo e Fiscal"
       }
     },
-    "pt:guimarães:viana.do.castelo": {
+    "pt:guimaraes:viana.do.castelo": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
     },
-    "pt:guimarães:vila.real": {
+    "pt:guimaraes:vila.real": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca"
       }
