@@ -184,5 +184,11 @@
     "name": "Abbreviations: Portugal legal",
     "version": "2020-03-24 08:23:21 UTC",
     "jurisdiction": "pt"
+  },
+  {
+    "filename": "auto-de.json",
+    "name": "Abbreviations: Germany legal",
+    "version": "2020-04-13 05:37:20 UTC",
+    "jurisdiction": "de"
   }
 ]
