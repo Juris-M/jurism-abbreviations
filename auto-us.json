@@ -208,11 +208,15 @@
         "US:WY": "Wyo."
       }
     },
-    "us": {
-      "institution-part": {
-        "supreme.court": "Supreme Court"
-      }
-    },
+      "us": {
+		  "institution-part": {
+			  "supreme.court": "Supreme Court"
+		  },
+          "container-title": {
+              "U.S.": "!authority>>>U.S.",
+              "S. Ct.": "!authority>>>S. Ct."
+          }
+      },
     "us:ak": {
       "institution-part": {
         "court.appeals": "Alaska Ct. App.",
