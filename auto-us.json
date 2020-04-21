@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2019-08-24 06:14:05 UTC",
+  "version": "2020-04-21 20:39:28 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -208,15 +208,15 @@
         "US:WY": "Wyo."
       }
     },
-      "us": {
-		  "institution-part": {
-			  "supreme.court": "Supreme Court"
-		  },
-          "container-title": {
-              "U.S.": "!authority>>>U.S.",
-              "S. Ct.": "!authority>>>S. Ct."
-          }
+    "us": {
+      "institution-part": {
+        "supreme.court": "Supreme Court"
       },
+      "container-title": {
+        "U.S.": "!authority>>>U.S.",
+        "S. Ct.": "!authority>>>S. Ct."
+      }
+    },
     "us:ak": {
       "institution-part": {
         "court.appeals": "Alaska Ct. App.",
@@ -539,7 +539,7 @@
     "us:c4": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 4th Cir.",
-        "court.appeals": "4th Cir. Ct. App."
+        "court.appeals": "4th Cir."
       }
     },
     "us:c4:md.d": {
@@ -624,7 +624,7 @@
     "us:c5": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 5th Cir.",
-        "court.appeals": "5th Cir. Ct. App."
+        "court.appeals": "5th Cir."
       }
     },
     "us:c5:la.d": {
@@ -704,7 +704,7 @@
     "us:c6": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 6th Cir.",
-        "court.appeals": "6th Cir. Ct. App."
+        "court.appeals": "6th Cir."
       }
     },
     "us:c6:ky.d": {
@@ -785,7 +785,7 @@
     "us:c7": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 7th Cir.",
-        "court.appeals": "7th Cir. Ct. App."
+        "court.appeals": "7th Cir."
       }
     },
     "us:c7:il.cd": {
@@ -853,7 +853,7 @@
     "us:c8": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 8th Cir.",
-        "court.appeals": "8th Cir. Ct. App."
+        "court.appeals": "8th Cir."
       }
     },
     "us:c8:ar.ed": {
@@ -939,7 +939,7 @@
     "us:c9": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 9th Cir.",
-        "court.appeals": "9th Cir. Ct. App."
+        "court.appeals": "9th Cir."
       }
     },
     "us:c9:ak.d": {
