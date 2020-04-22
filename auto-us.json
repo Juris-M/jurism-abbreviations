@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-22 08:47:04 UTC",
+  "version": "2020-04-22 11:18:06 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -210,17 +210,19 @@
     },
     "us": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "U.S."
       },
       "container-title": {
         "U.S.": "!authority>>>U.S.",
-        "S. Ct.": "!authority>>>S. Ct."
+        "S. Ct.": "!authority>>>S. Ct.",
+        "L. Ed.": "!authority>>>L. Ed.",
+        "L. Ed. 2d": "!authority>>>L. Ed. 2d"
       }
     },
     "us:ak": {
       "institution-part": {
         "court.appeals": "Alaska Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Alaska"
       }
     },
     "us:al": {
@@ -228,14 +230,14 @@
         "court.appeals": "Ala. Ct. App.",
         "court.civil.appeals": "Ala. Civ. App.",
         "court.criminal.appeals": "Ala. Crim. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Ala."
       }
     },
     "us:ar": {
       "institution-part": {
         "attorney.general": "Ark. Att'y Gen.",
         "court.appeals": "Ark. Ct. App.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "Ark.",
         "workers.compensation.commission": "Workers' Comp. Comm'n"
       }
     },
@@ -247,7 +249,7 @@
     "us:az": {
       "institution-part": {
         "court.appeals": "Ariz. Ct. App.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "Ariz.",
         "tax.court": "T.C."
       }
     },
@@ -1047,7 +1049,7 @@
         "appellate.division.superior.court": "Cal. App. Dep’t Super. Ct.",
         "attorney.general": "Cal. Att'y Gen.",
         "court.appeal": "Cal. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Cal."
       }
     },
     "us:ca.d": {
@@ -1060,7 +1062,7 @@
         "attorney.general": "Colo. Att'y Gen.",
         "court.appeals": "Colo. Ct. App.",
         "industrial.claim.appeals": "Colo. Indust. Cl. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Colo."
       }
     },
     "us:ct": {
@@ -1068,7 +1070,7 @@
         "appellate.court": "Conn. App. Ct.",
         "compensation.review.board": "Conn. Comp. Rev. Bd.",
         "superior.court": "Conn. Super. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Conn."
       }
     },
     "us:dc": {
@@ -1083,7 +1085,7 @@
         "court.judiciary": "Del. Ct. Jud.",
         "family.court": "Del. Fam. Ct.",
         "superior.court": "Del. Super. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Del."
       }
     },
     "us:de.d": {
@@ -1116,50 +1118,50 @@
       "institution-part": {
         "attorney.general": "Fla. Att'y Gen.",
         "district.court.appeal": "Fla. Dist. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Fla."
       }
     },
     "us:ga": {
       "institution-part": {
         "court.appeals": "Ga. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Ga."
       }
     },
     "us:gu": {
       "institution-part": {
         "small.claims.court": "Guam Small Cl. Ct.",
         "superior.court": "Guam Super. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Guam"
       }
     },
     "us:hi": {
       "institution-part": {
         "intermediate.court.appeals": "Haw. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Haw."
       }
     },
     "us:ia": {
       "institution-part": {
         "court.appeals": "Iowa Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Iowa"
       }
     },
     "us:id": {
       "institution-part": {
         "court.appeals": "Idaho Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Idaho"
       }
     },
     "us:il": {
       "institution-part": {
         "appellate.court": "Ill. App. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Ill."
       }
     },
     "us:in": {
       "institution-part": {
         "court.appeals": "Ind. Ct. App.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "Ind.",
         "tax.court": "T.C."
       }
     },
@@ -1167,21 +1169,21 @@
       "institution-part": {
         "attorney.general": "Kan. Att'y Gen.",
         "court.appeals": "Kan. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Kan."
       }
     },
     "us:ky": {
       "institution-part": {
         "court.appeals": "Ky. Ct. App.",
         "court.appeals.high": "Ky. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Ky."
       }
     },
     "us:la": {
       "institution-part": {
         "attorney.general": "La. Att'y Gen.",
         "court.appeal": "La. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "La."
       }
     },
     "us:ma": {
@@ -1209,21 +1211,21 @@
     "us:mi": {
       "institution-part": {
         "court.appeals": "Mich. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Mich."
       }
     },
     "us:mn": {
       "institution-part": {
         "attorney.general": "Minn. Att'y Gen.",
         "court.appeals": "Minn. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Minn."
       }
     },
     "us:mo": {
       "institution-part": {
         "attorney.general": "Mo. Att'y Gen.",
         "court.appeals": "Mo. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Mo."
       }
     },
     "us:mp": {
@@ -1232,19 +1234,19 @@
     "us:ms": {
       "institution-part": {
         "court.appeals": "N. Mar. Is. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "N. Mar. Is."
       }
     },
     "us:mt": {
       "institution-part": {
         "attorney.general": "Mont. Att'y Gen.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "Mont.",
         "tax.appeal.board": "Mont. Tax App. Bd."
       }
     },
     "us:navajo": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Navajo"
       }
     },
     "us:nc": {
@@ -1252,7 +1254,7 @@
         "court.appeals": "N.C. Ct. App.",
         "industrial.commission": "N.C. Ind. Comm.",
         "superior.court": "N.C. Super. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "N.C."
       }
     },
     "us:nc.d": {
@@ -1263,38 +1265,38 @@
     "us:nd": {
       "institution-part": {
         "court.appeals": "N.D. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "N.D."
       }
     },
     "us:ne": {
       "institution-part": {
         "attorney.general": "Neb. Att'y Gen.",
         "court.appeals": "Neb. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Neb."
       }
     },
     "us:nh": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "N.H."
       }
     },
     "us:nj": {
       "institution-part": {
         "court.chancery": "N.J. Ch.",
         "superior.court": "N.J. Super. Ct.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "N.J.",
         "tax.court": "T.C."
       }
     },
     "us:nm": {
       "institution-part": {
         "court.appeals": "N.M. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "N.M."
       }
     },
     "us:nv": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Nev."
       }
     },
     "us:ny": {
@@ -1304,7 +1306,7 @@
         "attorney.general": "N.Y. Att'y Gen.",
         "court.appeals": "N.Y. Ct. App.",
         "family.court": "N.Y. Fam. Ct.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "N.Y. Sup. Ct.",
         "surrogates.court": "N.Y. Sur. Ct."
       }
     },
@@ -1318,7 +1320,7 @@
       "institution-part": {
         "court.appeals": "Ohio Ct. App.",
         "court.claims": "Ct. Cl.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Ohio"
       }
     },
     "us:ok": {
@@ -1328,13 +1330,13 @@
         "court.criminal.appeals": "Okla. Crim. App.",
         "court.judiciary": "Okla. Ct. Jud.",
         "judicial.ethics.advisory.panel": "Okla. Jud. Ethics Adv. Panel",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Okla."
       }
     },
     "us:or": {
       "institution-part": {
         "court.appeals": "Or. Ct. App.",
-        "supreme.court": "Supreme Court",
+        "supreme.court": "Or.",
         "tax.court": "T.C."
       }
     },
@@ -1349,7 +1351,7 @@
         "court.judicial.discipline": "Pa. Ct. Jud. Disc.",
         "special.tribunal": "Spec. Trib.",
         "superior.court": "Pa. Super. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Pa."
       }
     },
     "us:pr": {
@@ -1358,18 +1360,18 @@
     "us:ri": {
       "institution-part": {
         "superior.court": "R.I. Super. Ct.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "R.I."
       }
     },
     "us:sc": {
       "institution-part": {
         "court.appeals": "S.C. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "S.C."
       }
     },
     "us:sd": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "S.D."
       }
     },
     "us:tn": {
@@ -1377,7 +1379,7 @@
         "court.appeals": "Tenn. Ct. App.",
         "court.criminal.appeals": "Tenn. Crim. App.",
         "superior.court.law.equity": "Tenn. Super. Ct. L. & Eq.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Tenn."
       }
     },
     "us:tn.d": {
@@ -1392,7 +1394,7 @@
         "court.criminal.appeals": "Tex. Crim. App.",
         "judicial.panel.multidistrict.litigation": "J.P.M.L.",
         "special.court.review": "Tex. Spec. Ct. Rev.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Tex."
       }
     },
     "us:tx.d": {
@@ -1403,13 +1405,13 @@
     "us:ut": {
       "institution-part": {
         "court.appeals": "Utah Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Utah"
       }
     },
     "us:va": {
       "institution-part": {
         "court.appeals": "Va. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Va."
       }
     },
     "us:vi": {
@@ -1417,31 +1419,31 @@
     },
     "us:vt": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Vt."
       }
     },
     "us:wa": {
       "institution-part": {
         "attorney.general": "Wash. Att'y Gen.",
         "court.appeals": "Wash. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Wash."
       }
     },
     "us:wi": {
       "institution-part": {
         "attorney.general": "Wis. Att'y Gen.",
         "court.appeals": "Wis. Ct. App.",
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Wis."
       }
     },
     "us:wv": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "W. Va."
       }
     },
     "us:wy": {
       "institution-part": {
-        "supreme.court": "Supreme Court"
+        "supreme.court": "Wyo."
       }
     }
   }
