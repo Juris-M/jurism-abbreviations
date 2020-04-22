@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-21 20:39:28 UTC",
+  "version": "2020-04-22 08:47:04 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -339,7 +339,7 @@
     "us:c11": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 11th Cir.",
-        "court.appeals": "11th Cir. Ct. App."
+        "court.appeals": "11th Cir."
       }
     },
     "us:c11:al.d": {
@@ -444,8 +444,8 @@
     },
     "us:c2": {
       "institution-part": {
-        "bankruptcy.appellate.panel": "B.A.P. 2nd Cir.",
-        "court.appeals": "2nd Cir. Ct. App."
+        "bankruptcy.appellate.panel": "B.A.P. 2d Cir.",
+        "court.appeals": "2d Cir."
       }
     },
     "us:c2:ct.d": {
@@ -492,7 +492,7 @@
     "us:c3": {
       "institution-part": {
         "bankruptcy.appellate.panel": "B.A.P. 3rd Cir.",
-        "court.appeals": "3rd Cir. Ct. App."
+        "court.appeals": "3rd Cir."
       }
     },
     "us:c3:de.d": {
