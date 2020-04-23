@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-22 11:18:06 UTC",
+  "version": "2020-04-23 03:48:48 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -217,6 +217,9 @@
         "S. Ct.": "!authority>>>S. Ct.",
         "L. Ed.": "!authority>>>L. Ed.",
         "L. Ed. 2d": "!authority>>>L. Ed. 2d"
+      },
+      "collection-title": {
+        "U.S. LEXIS": "!authority>>>U.S. LEXIS"
       }
     },
     "us:ak": {
@@ -1301,13 +1304,17 @@
     },
     "us:ny": {
       "institution-part": {
-        "appellate.division.supreme.court": "N.Y. App. Div.",
+        "appellate.division.supreme.court": "App. Div.",
         "appellate.term.supreme.court": "N.Y. App. Term.",
         "attorney.general": "N.Y. Att'y Gen.",
         "court.appeals": "N.Y. Ct. App.",
         "family.court": "N.Y. Fam. Ct.",
         "supreme.court": "N.Y. Sup. Ct.",
         "surrogates.court": "N.Y. Sur. Ct."
+      },
+      "container-title": {
+        "N.Y.": "!authority>>>N.Y.",
+        "N.Y.2d": "!authority>>>N.Y.2d"
       }
     },
     "us:ny:nyc": {
@@ -1420,6 +1427,9 @@
     "us:vt": {
       "institution-part": {
         "supreme.court": "Vt."
+      },
+      "container-title": {
+        "Vt.": "!authority>>>Vt."
       }
     },
     "us:wa": {
@@ -1427,6 +1437,9 @@
         "attorney.general": "Wash. Att'y Gen.",
         "court.appeals": "Wash. Ct. App.",
         "supreme.court": "Wash."
+      },
+      "container-title": {
+        "Wash. App.": "!authority>>>Wash. App."
       }
     },
     "us:wi": {
