@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-23 03:48:48 UTC",
+  "version": "2020-04-23 03:52:42 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1304,7 +1304,7 @@
     },
     "us:ny": {
       "institution-part": {
-        "appellate.division.supreme.court": "App. Div.",
+        "appellate.division.supreme.court": "N.Y. App. Div.",
         "appellate.term.supreme.court": "N.Y. App. Term.",
         "attorney.general": "N.Y. Att'y Gen.",
         "court.appeals": "N.Y. Ct. App.",
