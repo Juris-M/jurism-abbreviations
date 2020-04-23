@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-23 03:52:42 UTC",
+  "version": "2020-04-23 06:36:10 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1314,7 +1314,8 @@
       },
       "container-title": {
         "N.Y.": "!authority>>>N.Y.",
-        "N.Y.2d": "!authority>>>N.Y.2d"
+          "N.Y.2d": "!authority>>>N.Y.2d",
+        "N.Y.S.2d": "!authority:N.Y.>>>N.Y.2d"
       }
     },
     "us:ny:nyc": {
