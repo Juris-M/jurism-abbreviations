@@ -1053,7 +1053,10 @@
         "attorney.general": "Cal. Att'y Gen.",
         "court.appeal": "Cal. Ct. App.",
         "supreme.court": "Cal."
-      }
+      },
+        "container-title": {
+            "Cal. Rptr. 2d": "!authority:Cal.>>>Cal. Rptr. 2d"
+        }
     },
     "us:ca.d": {
       "institution-part": {
@@ -1315,7 +1318,7 @@
       "container-title": {
         "N.Y.": "!authority>>>N.Y.",
           "N.Y.2d": "!authority>>>N.Y.2d",
-        "N.Y.S.2d": "!authority:N.Y.>>>N.Y.2d"
+        "N.Y.S.2d": "!authority:N.Y.>>>N.Y.S.2d"
       }
     },
     "us:ny:nyc": {
