@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-23 06:36:10 UTC",
+  "version": "2020-04-26 01:54:48 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -496,8 +496,8 @@
     },
     "us:c3": {
       "institution-part": {
-        "bankruptcy.appellate.panel": "B.A.P. 3rd Cir.",
-        "court.appeals": "3rd Cir."
+        "bankruptcy.appellate.panel": "B.A.P. 3d Cir.",
+        "court.appeals": "3d Cir."
       }
     },
     "us:c3:de.d": {
@@ -1054,9 +1054,9 @@
         "court.appeal": "Cal. Ct. App.",
         "supreme.court": "Cal."
       },
-        "container-title": {
-            "Cal. Rptr. 2d": "!authority:Cal.>>>Cal. Rptr. 2d"
-        }
+      "container-title": {
+        "Cal. Rptr. 2d": "!authority:Cal.>>>Cal. Rptr. 2d"
+      }
     },
     "us:ca.d": {
       "institution-part": {
@@ -1162,6 +1162,11 @@
       "institution-part": {
         "appellate.court": "Ill. App. Ct.",
         "supreme.court": "Ill."
+      },
+      "container-title": {
+        "Ill. App.": "!authority>>>Ill. App.",
+        "Ill. App. 2d": "!authority>>>Ill. App. 2d",
+        "Ill. App. 3d": "!authority>>>Ill. App. 3d"
       }
     },
     "us:in": {
@@ -1317,7 +1322,7 @@
       },
       "container-title": {
         "N.Y.": "!authority>>>N.Y.",
-          "N.Y.2d": "!authority>>>N.Y.2d",
+        "N.Y.2d": "!authority>>>N.Y.2d",
         "N.Y.S.2d": "!authority:N.Y.>>>N.Y.S.2d"
       }
     },
