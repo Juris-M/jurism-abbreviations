@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-04-26 01:54:48 UTC",
+  "version": "2020-04-28 00:48:51 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1204,7 +1204,7 @@
         "department.industrial.accidents": "Mass. Dept. Indus. Accid.",
         "district.court": "Mass. Dist. Ct.",
         "superior.court": "Mass. Super. Ct.",
-        "supreme.judicial.court": "Supreme Judicial Court"
+        "supreme.judicial.court": "Mass."
       }
     },
     "us:md": {
