@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-05-17 22:11:07 UTC",
+  "version": "2020-05-17 23:49:32 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -221,9 +221,7 @@
         "U.S.": "!authority>>>U.S.",
         "S. Ct.": "!authority>>>S. Ct.",
         "L. Ed.": "!authority>>>L. Ed.",
-        "L. Ed. 2d": "!authority>>>L. Ed. 2d"
-      },
-      "collection-title": {
+        "L. Ed. 2d": "!authority>>>L. Ed. 2d",
         "U.S. LEXIS": "!authority>>>U.S. LEXIS"
       }
     },
@@ -1102,7 +1100,7 @@
         "supreme.court": "Conn."
       },
       "institution-entire": {
-        "appellate.court": "Conn. App.",
+        "appellate.court": "Conn.",
         "supreme.court": "Conn."
       }
     },
@@ -1208,17 +1206,55 @@
     },
     "us:il": {
       "institution-part": {
-        "appellate.court": "Ill. App. Ct.",
         "supreme.court": "Ill."
       },
       "institution-entire": {
-        "appellate.court": "IL App.",
         "supreme.court": "IL"
       },
       "container-title": {
         "Ill. App.": "!authority>>>Ill. App.",
         "Ill. App. 2d": "!authority>>>Ill. App. 2d",
         "Ill. App. 3d": "!authority>>>Ill. App. 3d"
+      }
+    },
+    "us:il:d1": {
+      "institution-part": {
+        "appellate.court": "First District App. Ct."
+      },
+      "institution-entire": {
+        "appellate.court": "IL App (1st)"
+      }
+    },
+    "us:il:d2": {
+      "institution-part": {
+        "appellate.court": "Secon District App. Ct."
+      },
+      "institution-entire": {
+        "appellate.court": "IL App (2d)"
+      }
+    },
+    "us:il:d3": {
+      "institution-part": {
+        "appellate.court": "Third District App. Ct."
+      },
+      "institution-entire": {
+        "appellate.court": "IL App (3d)"
+      }
+    },
+    "us:il:d4": {
+      "institution-part": {
+        "appellate.court": "Fourth District App. Ct."
+      },
+      "institution-entire": {
+        "appellate.court": "IL App (4th)"
+      }
+    },
+    "us:il:d5": {
+      "institution-part": {
+        "appellate.court": "Fifth District App. Ct."
+      },
+      "institution-entire": {
+        "appellate.court": "IL App (5th)"
       }
     },
     "us:in": {
