@@ -125,7 +125,7 @@
   {
     "filename": "auto-fi.json",
     "name": "Abbreviations: Finland legal",
-    "version": "2019-09-26 23:53:39 UTC",
+    "version": "2020-05-25 15:05:27 UTC",
     "jurisdiction": "fi"
   },
   {
@@ -143,10 +143,10 @@
   {
     "filename": "auto-eu.int.json",
     "name": "Abbreviations: European Union legal",
-    "version": "2019-12-12 23:59:50 UTC",
+    "version": "2020-05-21 21:39:39 UTC",
     "jurisdiction": "eu.int",
     "variants": {
-      "de": "2019-12-12 23:59:50 UTC"
+      "de": "2020-05-21 21:39:39 UTC"
     }
   },
   {
