@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-05-20 23:22:57 UTC",
+  "version": "2020-06-03 01:47:08 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1089,6 +1089,8 @@
         "supreme.court": "Colo."
       },
       "institution-entire": {
+        "court.appeals": "COA",
+        "-supreme.court": "CO",
         "supreme.court": "Colo."
       }
     },
