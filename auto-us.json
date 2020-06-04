@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-03 05:59:47 UTC",
+  "version": "2020-06-04 21:21:34 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1291,11 +1291,50 @@
     "us:la": {
       "institution-part": {
         "attorney.general": "La. Att'y Gen.",
-        "court.appeal": "La. Ct. App.",
         "supreme.court": "La."
       },
       "institution-entire": {
         "supreme.court": "La."
+      }
+    },
+    "us:la:c1": {
+      "institution-part": {
+        "court.appeal": "La. 1 Cir. Ct. App."
+      },
+      "institution-entire": {
+        "court.appeal": "La. App. 1 Cir."
+      }
+    },
+    "us:la:c2": {
+      "institution-part": {
+        "court.appeal": "La. 2 Cir. Ct. App."
+      },
+      "institution-entire": {
+        "court.appeal": "La. App. 2 Cir."
+      }
+    },
+    "us:la:c3": {
+      "institution-part": {
+        "court.appeal": "La. 3 Cir. Ct. App."
+      },
+      "institution-entire": {
+        "court.appeal": "La. App. 3 Cir."
+      }
+    },
+    "us:la:c4": {
+      "institution-part": {
+        "court.appeal": "La. 4 Cir. Ct. App."
+      },
+      "institution-entire": {
+        "court.appeal": "La. App. 4 Cir."
+      }
+    },
+    "us:la:c5": {
+      "institution-part": {
+        "court.appeal": "La. 5 Cir. Ct. App."
+      },
+      "institution-entire": {
+        "court.appeal": "La. App. 5 Cir."
       }
     },
     "us:ma": {
