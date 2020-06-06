@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-04 22:21:48 UTC",
+  "version": "2020-06-06 23:53:47 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1357,6 +1357,9 @@
     "us:me": {
       "institution-part": {
         "supreme.judicial.court": "Supreme Judicial Court"
+      },
+      "institution-entire": {
+        "supreme.judicial.court": "ME"
       }
     },
     "us:mi": {
@@ -1407,7 +1410,7 @@
         "tax.appeal.board": "Mont. Tax App. Bd."
       },
       "institution-entire": {
-        "supreme.court": "Mont."
+        "supreme.court": "MT"
       }
     },
     "us:navajo": {
@@ -1440,7 +1443,8 @@
         "supreme.court": "N.D."
       },
       "institution-entire": {
-        "supreme.court": "N.D."
+        "court.appeals": "ND App",
+        "supreme.court": "ND"
       }
     },
     "us:ne": {
@@ -1478,7 +1482,8 @@
         "supreme.court": "N.M."
       },
       "institution-entire": {
-        "supreme.court": "N.M."
+        "court.appeals": "NMCA",
+        "supreme.court": "NMSC"
       }
     },
     "us:nv": {
@@ -1516,12 +1521,108 @@
     },
     "us:oh": {
       "institution-part": {
-        "court.appeals": "Ohio Ct. App.",
         "court.claims": "Ct. Cl.",
         "supreme.court": "Ohio"
       },
       "institution-entire": {
+        "court.claims": "Ohio",
         "supreme.court": "Ohio"
+      }
+    },
+    "us:oh:d1": {
+      "institution-part": {
+        "court.appeals": "1st Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d2": {
+      "institution-part": {
+        "court.appeals": "2d Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d3": {
+      "institution-part": {
+        "court.appeals": "3d Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d4": {
+      "institution-part": {
+        "court.appeals": "4th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d5": {
+      "institution-part": {
+        "court.appeals": "5th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d6": {
+      "institution-part": {
+        "court.appeals": "6th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d7": {
+      "institution-part": {
+        "court.appeals": "7th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d8": {
+      "institution-part": {
+        "court.appeals": "8th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d9": {
+      "institution-part": {
+        "court.appeals": "9th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d10": {
+      "institution-part": {
+        "court.appeals": "10th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d11": {
+      "institution-part": {
+        "court.appeals": "11th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
+      }
+    },
+    "us:oh:d12": {
+      "institution-part": {
+        "court.appeals": "12th Dist."
+      },
+      "institution-entire": {
+        "court.appeals": "Ohio"
       }
     },
     "us:ok": {
@@ -1531,10 +1632,14 @@
         "court.criminal.appeals": "Okla. Crim. App.",
         "court.judiciary": "Okla. Ct. Jud.",
         "judicial.ethics.advisory.panel": "Okla. Jud. Ethics Adv. Panel",
-        "supreme.court": "Okla."
+        "supreme.court": "Okla.",
+        "court.appeals.indian.territory": "Okla. Ct. App. Ind. Terr."
       },
       "institution-entire": {
-        "supreme.court": "Okla."
+        "court.civil.appeals": "OK CIV APP",
+        "court.criminal.appeals": "OK CR",
+        "supreme.court": "OK",
+        "court.appeals.indian.territory": "IT"
       }
     },
     "us:or": {
@@ -1557,10 +1662,11 @@
         "commonwealth.court": "Pa. Commw. Ct.",
         "court.judicial.discipline": "Pa. Ct. Jud. Disc.",
         "special.tribunal": "Spec. Trib.",
-        "superior.court": "Pa. Super. Ct.",
-        "supreme.court": "Pa."
+        "superior.court": "Pa.",
+        "supreme.court": "Pa. Sup. Ct."
       },
       "institution-entire": {
+        "superior.court": "PA Super",
         "supreme.court": "Pa."
       }
     },
@@ -1633,7 +1739,8 @@
         "supreme.court": "Utah"
       },
       "institution-entire": {
-        "supreme.court": "Utah"
+        "court.appeals": "UT App",
+        "supreme.court": "UT"
       }
     },
     "us:va": {
@@ -1653,7 +1760,7 @@
         "supreme.court": "Vt."
       },
       "institution-entire": {
-        "supreme.court": "Vt."
+        "supreme.court": "VT"
       },
       "container-title": {
         "Vt.": "!authority>>>Vt."
@@ -1679,7 +1786,8 @@
         "supreme.court": "Wis."
       },
       "institution-entire": {
-        "supreme.court": "Wis."
+        "court.appeals": "WI App",
+        "supreme.court": "WI"
       }
     },
     "us:wv": {
@@ -1695,7 +1803,7 @@
         "supreme.court": "Wyo."
       },
       "institution-entire": {
-        "supreme.court": "Wyo."
+        "supreme.court": "WY"
       }
     }
   }
