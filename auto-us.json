@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-06 23:53:47 UTC",
+  "version": "2020-06-07 04:21:51 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1396,11 +1396,11 @@
     },
     "us:ms": {
       "institution-part": {
-        "court.appeals": "N. Mar. Is. Ct. App.",
-        "supreme.court": "N. Mar. Is."
+        "court.appeals": "Miss. Ct. App.",
+        "supreme.court": "Miss."
       },
       "institution-entire": {
-        "supreme.court": "N. Mar. Is."
+        "supreme.court": "Miss."
       }
     },
     "us:mt": {
