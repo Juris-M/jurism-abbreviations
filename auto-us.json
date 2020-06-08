@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-08 12:54:37 UTC",
+  "version": "2020-06-08 13:13:07 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -210,7 +210,7 @@
     },
     "us": {
       "institution-part": {
-        "supreme.court": "U.S.",
+        "supreme.court": "!here>>>",
         "cftc": "CFTC",
         "cfpb": "CFPB"
       },
@@ -1242,6 +1242,9 @@
     "us:la": {
       "institution-part": {
         "attorney.general": "La. Att'y Gen.",
+        "supreme.court": "La."
+      },
+      "institution-entire": {
         "supreme.court": "La."
       }
     },
