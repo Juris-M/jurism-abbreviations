@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-08 12:23:31 UTC",
+  "version": "2020-06-08 12:54:37 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -210,9 +210,9 @@
     },
     "us": {
       "institution-part": {
-        "supreme.court": "!here>>>",
-        "cftc": "!here>>CFTC",
-        "cfpb": "!here>>CFPB"
+        "supreme.court": "U.S.",
+        "cftc": "CFTC",
+        "cfpb": "CFPB"
       },
       "container-title": {
         "U.S.": "!authority>>>U.S.",
