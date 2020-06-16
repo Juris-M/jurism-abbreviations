@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-16 03:57:50 UTC",
+  "version": "2020-06-16 06:37:36 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1329,7 +1329,7 @@
     },
     "us:me": {
       "institution-part": {
-        "supreme.judicial.court": "Supreme Judicial Court"
+        "supreme.judicial.court": "Me."
       },
       "institution-entire": {
         "supreme.judicial.court": "ME"
