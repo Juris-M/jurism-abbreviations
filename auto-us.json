@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-16 06:37:36 UTC",
+  "version": "2020-06-16 06:55:35 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1476,6 +1476,11 @@
       "institution-entire": {
         "court.claims": "Ohio",
         "supreme.court": "Ohio"
+      },
+      "container-title": {
+        "Ohio St.": "!authority:Ohio>>>Ohio St.",
+        "Ohio St.2d": "!authority:Ohio>>>Ohio St.2d",
+        "Ohio St.3d": "!authority:Ohio>>>Ohio St.3d"
       }
     },
     "us:oh:d1": {
