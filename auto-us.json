@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-08 22:54:33 UTC",
+  "version": "2020-06-16 03:57:50 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -196,18 +196,18 @@
         "US:NY": "N.Y.",
         "US:NY:NYC": "N.Y.C.",
         "US:OH": "Ohio",
-        "US:OH:D1": "1st Dist.",
-        "US:OH:D2": "2d Dist.",
-        "US:OH:D3": "3d Dist.",
-        "US:OH:D4": "4th Dist.",
-        "US:OH:D5": "5th Dist.",
-        "US:OH:D6": "6th Dist.",
-        "US:OH:D7": "7th Dist.",
-        "US:OH:D8": "8th Dist.",
-        "US:OH:D9": "9th Dist.",
-        "US:OH:D10": "10th Dist.",
-        "US:OH:D11": "11th Dist.",
-        "US:OH:D12": "12th Dist.",
+        "US:OH:D1": "Ohio Ct. App. 1st Dist.",
+        "US:OH:D2": "Ohio Ct. App. 2d Dist.",
+        "US:OH:D3": "Ohio Ct. App. 3d Dist.",
+        "US:OH:D4": "Ohio Ct. App. 4th Dist.",
+        "US:OH:D5": "Ohio Ct. App. 5th Dist.",
+        "US:OH:D6": "Ohio Ct. App. 6th Dist.",
+        "US:OH:D7": "Ohio Ct. App. 7th Dist.",
+        "US:OH:D8": "Ohio Ct. App. 8th Dist.",
+        "US:OH:D9": "Ohio Ct. App. 9th Dist.",
+        "US:OH:D10": "Ohio Ct. App. 10th Dist.",
+        "US:OH:D11": "Ohio Ct. App. 11th Dist.",
+        "US:OH:D12": "Ohio Ct. App. 12th Dist.",
         "US:OK": "Okla.",
         "US:OR": "Or.",
         "US:ORLEANS.D": "Orleans",
@@ -1480,98 +1480,98 @@
     },
     "us:oh:d1": {
       "institution-part": {
-        "court.appeals": "1st Dist."
+        "court.appeals": "Ohio Ct. App. 1st Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d2": {
       "institution-part": {
-        "court.appeals": "2d Dist."
+        "court.appeals": "Ohio Ct. App. 2d Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d3": {
       "institution-part": {
-        "court.appeals": "3d Dist."
+        "court.appeals": "Ohio Ct. App. 3d Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d4": {
       "institution-part": {
-        "court.appeals": "4th Dist."
+        "court.appeals": "Ohio Ct. App. 4th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d5": {
       "institution-part": {
-        "court.appeals": "5th Dist."
+        "court.appeals": "Ohio Ct. App. 5th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d6": {
       "institution-part": {
-        "court.appeals": "6th Dist."
+        "court.appeals": "Ohio Ct. App. 6th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d7": {
       "institution-part": {
-        "court.appeals": "7th Dist."
+        "court.appeals": "Ohio Ct. App. 7th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d8": {
       "institution-part": {
-        "court.appeals": "8th Dist."
+        "court.appeals": "Ohio Ct. App. 8th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d9": {
       "institution-part": {
-        "court.appeals": "9th Dist."
+        "court.appeals": "Ohio Ct. App. 9th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d10": {
       "institution-part": {
-        "court.appeals": "10th Dist."
+        "court.appeals": "Ohio Ct. App. 10th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d11": {
       "institution-part": {
-        "court.appeals": "11th Dist."
+        "court.appeals": "Ohio Ct. App. 11th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:oh:d12": {
       "institution-part": {
-        "court.appeals": "12th Dist."
+        "court.appeals": "Ohio Ct. App. 12th Dist."
       },
       "institution-entire": {
-        "court.appeals": "Ohio"
+        "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
       }
     },
     "us:ok": {
