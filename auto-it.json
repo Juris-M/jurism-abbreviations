@@ -1,11 +1,31 @@
 {
   "filename": "auto-it.json",
   "name": "Italy",
-  "version": "2020-06-27 05:27:45 UTC",
+  "version": "2020-07-03 01:11:41 UTC",
   "xdata": {
     "default": {
       "place": {
         "IT": "Italy",
+        "IT:ABRUZZO": "Abruzzo",
+        "IT:BASILICATA": "Basilicata",
+        "IT:CALABRIA": "Calabria",
+        "IT:CAMPANIA": "Campania",
+        "IT:EMILIA.ROMAGNA": "Emilia-Romagna",
+        "IT:FRIULI.VENEZIA.GIULIA": "Friuli-Venezia Giulia",
+        "IT:LAZIO": "Lazio",
+        "IT:LIGURIA": "Liguria",
+        "IT:LOMBARDIA": "Lombardia",
+        "IT:MARCHE": "Marche",
+        "IT:MOLISE": "Molise",
+        "IT:PIEMONTE": "Piemonte",
+        "IT:PUGLIA": "Puglia",
+        "IT:SARDEGNA": "Sardegna",
+        "IT:SICILIA": "Sicilia",
+        "IT:TOSCANA": "Toscana",
+        "IT:TRENTION.ATO.ADIGE": "Trentino-Alto Adige",
+        "IT:UMBRIA": "Umbria",
+        "IT:VALLE.D.AOSTA": "Valle d'Aosta",
+        "IT:VENETO": "Veneto",
         "IT:ANCONA": "Ancona",
         "IT:ANCONA:ANCONA": "Ancona",
         "IT:ANCONA:ASCOLI.PICENO": "Ascoli Piceno",
@@ -182,6 +202,106 @@
         "csdc": "Corte Suprema di Cassazione",
         "cs": "Consiglio di Stato",
         "cc": "Corte Costituzionale"
+      }
+    },
+    "it:abruzzo": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Abruzzo"
+      }
+    },
+    "it:basilicata": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Basilicata"
+      }
+    },
+    "it:calabria": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Calabria"
+      }
+    },
+    "it:campania": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Campania"
+      }
+    },
+    "it:emilia.romagna": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Emilia-Romagna"
+      }
+    },
+    "it:friuli.venezia.giulia": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Friuli-Venezia Giulia"
+      }
+    },
+    "it:lazio": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Lazio"
+      }
+    },
+    "it:liguria": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Liguria"
+      }
+    },
+    "it:lombardia": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Lombardia"
+      }
+    },
+    "it:marche": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Marche"
+      }
+    },
+    "it:molise": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Molise"
+      }
+    },
+    "it:piemonte": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Piemonte"
+      }
+    },
+    "it:puglia": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Puglia"
+      }
+    },
+    "it:sardegna": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Sardegna"
+      }
+    },
+    "it:sicilia": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Sicilia"
+      }
+    },
+    "it:toscana": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Toscana"
+      }
+    },
+    "it:trention.ato.adige": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Trentino-Alto Adige"
+      }
+    },
+    "it:umbria": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Umbria"
+      }
+    },
+    "it:valle.d.aosta": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Valle d'Aosta"
+      }
+    },
+    "it:veneto": {
+      "institution-part": {
+        "tar": "Tribunale Administrativo Regionale di Veneto"
       }
     },
     "it:ancona": {
