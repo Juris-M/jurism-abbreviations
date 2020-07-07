@@ -60,35 +60,6 @@
     "jurisdiction": "ke"
   },
   {
-    "filename": "country-codes.json",
-    "name": "Abbreviations: Country codes (ISO)",
-    "version": 1
-  },
-  {
-    "filename": "primary-commonwealth.json",
-    "name": "Abbreviations: Primary legal sources for Commonwealth jurisdictions",
-    "version": 1,
-    "jurisdictions": []
-  },
-  {
-    "filename": "primary-us.json",
-    "name": "Abbreviations: Primary legal sources for US jurisdictions",
-    "version": 2,
-    "jurisdictions": []
-  },
-  {
-    "filename": "primary-international-bluebook.json",
-    "name": "Abbreviations: Primary legal sources with international scope (Bluebook styles)",
-    "version": 1,
-    "jurisdictions": []
-  },
-  {
-    "filename": "primary-international-commonwealth.json",
-    "name": "Abbreviations: Primary legal sources with international scope (Commonwealth styles)",
-    "version": 1,
-    "jurisdictions": []
-  },
-  {
     "filename": "secondary-science.json",
     "name": "Abbreviations: Scientific journals",
     "version": 1
@@ -103,12 +74,6 @@
     "filename": "secondary-us-bluebook.json",
     "name": "Abbreviations: Secondary materials for the US (Bluebook styles)",
     "version": 3,
-    "jurisdictions": []
-  },
-  {
-    "filename": "primary-jurisdictions.json",
-    "name": "Jurisdiction codes (all legal styles)",
-    "version": 2,
     "jurisdictions": []
   },
   {
