@@ -1,11 +1,11 @@
 {
   "filename": "auto-es.json",
-  "name": "España",
-  "version": "2020-07-09 12:05:44 UTC",
+  "name": "Spain",
+  "version": "2020-07-10 09:39:36 UTC",
   "xdata": {
     "default": {
       "place": {
-        "ES": "España",
+        "ES": "Spain",
         "ES:ANDALUCIA": "Andalucía, Ceuta y Melilla",
         "ES:ANDALUCIA:ALMERIA": "Almería",
         "ES:ANDALUCIA:ALMERIA:ALMERIA": "Almería",
