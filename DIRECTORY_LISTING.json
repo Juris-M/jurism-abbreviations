@@ -2,7 +2,7 @@
   {
     "filename": "auto-at.json",
     "name": "Abbreviations: Austria legal",
-    "version": "2019-12-12 23:38:40 UTC",
+    "version": "2020-08-17 00:41:51 UTC",
     "jurisdiction": "at"
   },
   {
@@ -108,10 +108,10 @@
   {
     "filename": "auto-eu.int.json",
     "name": "Abbreviations: European Union legal",
-    "version": "2020-05-21 21:39:39 UTC",
+    "version": "2020-08-17 00:43:00 UTC",
     "jurisdiction": "eu.int",
     "variants": {
-      "de": "2020-05-21 21:39:39 UTC"
+      "de": "2020-08-17 00:43:00 UTC"
     }
   },
   {

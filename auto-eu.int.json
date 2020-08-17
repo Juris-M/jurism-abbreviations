@@ -1,12 +1,12 @@
 {
   "filename": "auto-eu.int.json",
   "name": "European Union",
-  "version": "2020-05-21 21:39:39 UTC",
+  "version": "2020-08-17 00:43:00 UTC",
   "xdata": {
     "default": {
       "place": {
         "EU.INT": "European Union",
-        "EU.INT:CJEU": "Court of Justice of the European Union",
+        "EU.INT:CJEU": "Court of Justice",
         "EU.INT:ENCJ": "European Network of Councils for the Judiciary"
       }
     },
@@ -18,7 +18,7 @@
     "eu.int:cjeu": {
       "institution-part": {
         "ag": "Attorney General",
-        "ecj": "Court of Justice",
+        "ecj": "ECJ",
         "ecj~chamber.1": "Court of Justice First Chamber",
         "ecj~chamber.2": "Court of Justice Second Chamber",
         "ecj~chamber.3": "Court of Justice Third Chamber",
