@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-06-16 06:55:35 UTC",
+  "version": "2020-09-07 08:44:28 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -232,7 +232,7 @@
     },
     "us": {
       "institution-part": {
-        "supreme.court": "!here>>>",
+        "supreme.court": "U.S.",
         "cftc": "CFTC",
         "cfpb": "CFPB"
       },
@@ -1691,9 +1691,6 @@
         "court.appeals": "Va. Ct. App.",
         "supreme.court": "Va."
       }
-    },
-    "us:vi": {
-      "institution-part": {}
     },
     "us:vt": {
       "institution-part": {
