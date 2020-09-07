@@ -1,33 +1,21 @@
 {
-  "filename": "auto-ca.json",
+  "filename": "auto-ca-fr.json",
   "name": "Canada",
   "version": "2020-09-07 21:01:29 UTC",
   "xdata": {
     "default": {
       "place": {
-        "CA": "C",
-        "CA:AB": "Alta",
-        "CA:BC": "BC",
-        "CA:MB": "Man",
-        "CA:NB": "NB",
-        "CA:NL": "NL",
-        "CA:NS": "NS",
-        "CA:NT": "NWT",
-        "CA:NU": "NU",
-        "CA:ON": "Ont",
-        "CA:PE": "PEI",
-        "CA:QC": "Qc",
-        "CA:SK": "Sask",
-        "CA:YK": "Y"
+        "CA:NB": "N-B",
+        "CA:NT": "TN-O"
       }
     },
     "ca": {
       "institution-part": {
-        "supreme.court": "SCC",
-        "federal.court": "FC",
-        "federal.court.appeal": "FCA",
-        "tax.court": "TCC",
-        "court.martial.appeal.court": "CMAC"
+        "supreme.court": "CSC",
+        "federal.court": "CF",
+        "federal.court.appeal": "CAF",
+        "tax.court": "CCI",
+        "court.martial.appeal.court": "CAMC"
       }
     },
     "ca:ab": {
@@ -68,9 +56,9 @@
     },
     "ca:nb": {
       "institution-part": {
-        "court.appeal": "NBCA",
-        "court.queens.bench": "NBQB",
-        "provincial.court": "NBPC"
+        "court.appeal": "N-BCA",
+        "court.queens.bench": "N-BQB",
+        "provincial.court": "N-BPC"
       },
       "institution-entire": {
         "court.appeal": "NBCA",
@@ -104,9 +92,9 @@
     },
     "ca:nt": {
       "institution-part": {
-        "court.appeal": "NWTCA",
-        "supreme.court.prov": "NWTSC",
-        "territorial.court": "NWTTC"
+        "court.appeal": "TN-OCA",
+        "supreme.court.prov": "TN-OSC",
+        "territorial.court": "TN-OTC"
       },
       "institution-entire": {
         "court.appeal": "NWTCA",

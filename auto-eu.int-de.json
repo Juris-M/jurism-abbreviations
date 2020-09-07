@@ -1,14 +1,10 @@
 {
   "filename": "auto-eu.int-de.json",
   "name": "European Union",
-  "version": "2020-08-17 00:43:00 UTC",
+  "version": "2020-09-07 21:01:30 UTC",
   "xdata": {
     "default": {
-      "place": {
-        "EU.INT": "European Union",
-        "EU.INT:CJEU": "Court of Justice",
-        "EU.INT:ENCJ": "European Network of Councils for the Judiciary"
-      }
+      "place": {}
     },
     "eu.int": {
       "institution-part": {
@@ -31,9 +27,6 @@
         "egc": "EuG",
         "cst": "EuGöD"
       }
-    },
-    "eu.int:encj": {
-      "institution-part": {}
     }
   }
 }
