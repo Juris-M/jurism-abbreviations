@@ -265,7 +265,10 @@
     "filename": "auto-coe.int.json",
     "name": "Abbreviations: Council of Europe legal",
     "version": "2019-08-19 06:21:44 UTC",
-    "jurisdiction": "coe.int"
+    "jurisdiction": "coe.int",
+    "variants": {
+      "de": "2020-09-30 20:18:22 UTC"
+    }
   },
   {
     "filename": "auto-comesa.int.json",
@@ -414,10 +417,10 @@
   {
     "filename": "auto-eu.int.json",
     "name": "Abbreviations: European Union legal",
-    "version": "2020-09-07 21:01:30 UTC",
+    "version": "2020-09-30 20:18:29 UTC",
     "jurisdiction": "eu.int",
     "variants": {
-      "de": "2020-09-07 21:01:30 UTC"
+      "de": "2020-09-30 20:18:29 UTC"
     }
   },
   {
@@ -559,7 +562,10 @@
     "filename": "auto-icc.int.json",
     "name": "Abbreviations: International Criminal Court legal",
     "version": "2019-08-19 06:21:44 UTC",
-    "jurisdiction": "icc.int"
+    "jurisdiction": "icc.int",
+    "variants": {
+      "de": "2020-09-30 20:18:36 UTC"
+    }
   },
   {
     "filename": "auto-id.json",
@@ -1270,7 +1276,10 @@
     "filename": "auto-un.int.json",
     "name": "Abbreviations: United Nations legal",
     "version": "2019-08-19 06:21:44 UTC",
-    "jurisdiction": "un.int"
+    "jurisdiction": "un.int",
+    "variants": {
+      "de": "2020-09-30 20:18:42 UTC"
+    }
   },
   {
     "filename": "auto-us.json",
