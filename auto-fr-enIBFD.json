@@ -1,5 +1,5 @@
 {
-  "filename": "auto-fr.json",
+  "filename": "auto-fr-enIBFD.json",
   "name": "France",
   "version": "2020-10-12 01:32:11 UTC",
   "xdata": {
@@ -62,7 +62,7 @@
     },
     "fr": {
       "institution-part": {
-        "cass": "Cass.",
+        "cass": "Court of Cassation",
         "cass~civ.1": "France civ. 1re",
         "cass~civ.2": "France civ. 2e",
         "cass~civ.3": "civ. 2e",
@@ -71,14 +71,14 @@
         "cass~soc": "soc.",
         "cass~plen": "Ass. plen.",
         "cc": "Conseil constitutionnel",
-        "ce": "Conseil d'État",
+        "ce": "Supreme Administrative Court",
         "ce~reunies": "France Ch. réunies",
         "ce~sect": "France Sect.",
         "ce~ass": "France Ass.",
         "cnda": "C.N.D.A.",
         "ca": "C.A. France",
         "tsa": "T.S.A.",
-        "caa": "C.A.A. France"
+        "caa": "Administrative Court of Appeals France"
       }
     },
     "fr:agen": {
@@ -94,7 +94,7 @@
     "fr:amiens": {
       "institution-part": {
         "ca": "C.A. Amiens",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Amiens"
       }
     },
     "fr:angers": {
@@ -105,26 +105,26 @@
     "fr:basse.terre": {
       "institution-part": {
         "ca": "C.A. Basse-Terre",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Basse-Terre"
       }
     },
     "fr:bastia": {
       "institution-part": {
         "ca": "C.A. Bastia",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Bastia"
       }
     },
     "fr:besancon": {
       "institution-part": {
         "ca": "C.A. Besançon",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Besançon"
       }
     },
     "fr:bordeaux": {
       "institution-part": {
         "ca": "C.A. Bordeaux",
-        "caa": "C.A.A. Bordeaux",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Bordeaux",
+        "ta": "Administrative Tribunal Bordeaux"
       }
     },
     "fr:bourges": {
@@ -135,23 +135,23 @@
     "fr:caen": {
       "institution-part": {
         "ca": "C.A. Caen",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Caen"
       }
     },
     "fr:cayenne": {
       "institution-part": {
         "ca": "C.A. Cayenne",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Cayenne"
       }
     },
     "fr:cergy.pontoise": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Cergy-Pontoise"
       }
     },
     "fr:chalons.champagne": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Châlons-en-Champagne"
       }
     },
     "fr:chambery": {
@@ -161,7 +161,7 @@
     },
     "fr:clermont.ferrand": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Clermont-Ferrand"
       }
     },
     "fr:colmar": {
@@ -172,53 +172,53 @@
     "fr:dijon": {
       "institution-part": {
         "ca": "C.A. Dijon",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Dijon"
       }
     },
     "fr:douai": {
       "institution-part": {
         "ca": "C.A. Douai",
-        "caa": "C.A.A. Douai"
+        "caa": "Administrative Court of Appeals Douai"
       }
     },
     "fr:fort.france": {
       "institution-part": {
         "ca": "C.A. Fort-de-France",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Fort-de-France"
       }
     },
     "fr:grenoble": {
       "institution-part": {
         "ca": "C.A. Grenoble",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Grenoble"
       }
     },
     "fr:lille": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Lille"
       }
     },
     "fr:limoges": {
       "institution-part": {
         "ca": "C.A. Limoges",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Limoges"
       }
     },
     "fr:lyon": {
       "institution-part": {
         "ca": "C.A. Lyon",
-        "caa": "C.A.A. Lyon",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Lyon",
+        "ta": "Administrative Tribunal Lyon"
       }
     },
     "fr:mamoudzou": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Mamoudzou"
       }
     },
     "fr:mata.utu": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Mata-Utu"
       }
     },
     "fr:metz": {
@@ -228,85 +228,85 @@
     },
     "fr:marseille": {
       "institution-part": {
-        "caa": "C.A.A. Marseille",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Marseille",
+        "ta": "Administrative Tribunal Marseille"
       }
     },
     "fr:melun": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Melun"
       }
     },
     "fr:montpellier": {
       "institution-part": {
         "ca": "C.A. Montpellier",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Montpellier"
       }
     },
     "fr:montreuil": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Montreuil"
       }
     },
     "fr:nancy": {
       "institution-part": {
         "ca": "C.A. Nancy",
-        "caa": "C.A.A. Nancy",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Nancy",
+        "ta": "Administrative Tribunal Nancy"
       }
     },
     "fr:nantes": {
       "institution-part": {
-        "caa": "C.A.A. Nantes",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Nantes",
+        "ta": "Administrative Tribunal Nantes"
       }
     },
     "fr:nice": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Nice"
       }
     },
     "fr:nimes": {
       "institution-part": {
         "ca": "C.A. Nîmes",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Nîmes"
       }
     },
     "fr:noumea": {
       "institution-part": {
         "ca": "C.A. Nouméa",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Nouméa"
       }
     },
     "fr:orleans": {
       "institution-part": {
         "ca": "C.A. Orléans",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Orléans"
       }
     },
     "fr:papeete": {
       "institution-part": {
         "ca": "C.A. Papeete",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Papeete"
       }
     },
     "fr:paris": {
       "institution-part": {
         "ca": "C.A. Paris",
-        "caa": "C.A.A. Paris",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Paris",
+        "ta": "Administrative Tribunal Paris"
       }
     },
     "fr:pau": {
       "institution-part": {
         "ca": "C.A. Pau",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Pau"
       }
     },
     "fr:poitiers": {
       "institution-part": {
         "ca": "C.A. Poitiers",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Poitiers"
       }
     },
     "fr:reims": {
@@ -317,7 +317,7 @@
     "fr:rennes": {
       "institution-part": {
         "ca": "C.A. Rennes",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Rennes"
       }
     },
     "fr:riom": {
@@ -328,52 +328,52 @@
     "fr:rouen": {
       "institution-part": {
         "ca": "C.A. Rouen",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Rouen"
       }
     },
     "fr:saint.barthelemy": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Saint-Barthélemy"
       }
     },
     "fr:saint.denis": {
       "institution-part": {
         "ca": "C.A. Saint-Denis",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Saint-Denis"
       }
     },
     "fr:saint.martin": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Saint-Martin"
       }
     },
     "fr:saint.pierre.et.miquelon": {
       "institution-part": {
-        "ta": "TA %",
+        "ta": "Administrative Tribunal Saint-Pierre-et-Miquelon",
         "tsa": "T.S.A."
       }
     },
     "fr:strasbourg": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Strasbourg"
       }
     },
     "fr:toulon": {
       "institution-part": {
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Toulon"
       }
     },
     "fr:toulouse": {
       "institution-part": {
         "ca": "C.A. Toulouse",
-        "ta": "TA %"
+        "ta": "Administrative Tribunal Toulouse"
       }
     },
     "fr:versailles": {
       "institution-part": {
         "ca": "C.A. Versailles",
-        "caa": "C.A.A. Versailles",
-        "ta": "TA %"
+        "caa": "Administrative Court of Appeals Versailles",
+        "ta": "Administrative Tribunal Versailles"
       }
     }
   }

@@ -1,0 +1,228 @@
+{
+  "filename": "auto-dk-enIBFD.json",
+  "name": "Denmark",
+  "version": "2020-10-12 01:32:11 UTC",
+  "xdata": {
+    "default": {
+      "place": {
+        "DK": "Denmark",
+        "DK:COPENHAGEN": "Copenhagen",
+        "DK:COPENHAGEN:BORNHOLM": "Bornholm",
+        "DK:COPENHAGEN:COPENHAGEN": "Copenhagen",
+        "DK:COPENHAGEN:ELSINORE": "Elsinore",
+        "DK:COPENHAGEN:FREDERIKSBERG": "Frederiksberg",
+        "DK:COPENHAGEN:GLOSTRUP": "Glostrup",
+        "DK:COPENHAGEN:HILLEROD": "Hillerød",
+        "DK:COPENHAGEN:HOLBAEK": "Holbæk",
+        "DK:COPENHAGEN:LYNGBY": "Lyngby",
+        "DK:COPENHAGEN:NYKOBING.FALSTER": "Nykøbing Falster",
+        "DK:COPENHAGEN:ODENSE": "Odense",
+        "DK:COPENHAGEN:ROSKILDE": "Roskilde",
+        "DK:COPENHAGEN:SVENDBORG": "Svendborg",
+        "DK:COPENHAGEN:TORSHAVEN": "Tórshaven",
+        "DK:NUUK": "Nuuk",
+        "DK:NUUK:KUJALLEQ": "Kujalleq",
+        "DK:NUUK:QAASUITSOQ": "Qaasuitsoq",
+        "DK:NUUK:QEQQA": "Qeqqa",
+        "DK:NUUK:SERMERSOOQ": "Sermersooq",
+        "DK:VIBORG": "Viborg",
+        "DK:VIBORG:AALBORG": "Aalborg",
+        "DK:VIBORG:AARHUS": "Aarhus",
+        "DK:VIBORG:GRENAA": "Grenaa",
+        "DK:VIBORG:HADERSLEV": "Haderslev",
+        "DK:VIBORG:HERNING": "Herning",
+        "DK:VIBORG:HJORRING": "Hjørring",
+        "DK:VIBORG:HOBRO": "Hobro",
+        "DK:VIBORG:HOLSTEBRO": "Holstebro",
+        "DK:VIBORG:HORSENS": "Horsens",
+        "DK:VIBORG:RANDERS": "Randers",
+        "DK:VIBORG:SONDERBORG": "Sønderborg",
+        "DK:VIBORG:THISTED": "Thisted",
+        "DK:VIBORG:TONDER": "Tønder",
+        "DK:VIBORG:VIBORG": "Viborg"
+      }
+    },
+    "dk": {
+      "institution-part": {
+        "lrc": "Tinglysningsretten",
+        "mcc": "Sø- og Handelsretten",
+        "sc": "Supreme Court",
+        "om": "Ombudsmanden",
+        "neab": "Natur-og Miljøklagenævnet",
+        "tc": "National Tax Tribunal"
+      }
+    },
+    "dk:copenhagen": {
+      "institution-part": {
+        "ehc": "High Court of Eastern Denmark",
+        "mcc": "Sø- og Handelsretten"
+      }
+    },
+    "dk:copenhagen:bornholm": {
+      "institution-part": {
+        "dc": "District Court Bornholm"
+      }
+    },
+    "dk:copenhagen:copenhagen": {
+      "institution-part": {
+        "dc": "District Court Copenhagen"
+      }
+    },
+    "dk:copenhagen:elsinore": {
+      "institution-part": {
+        "dc": "District Court Elsinore"
+      }
+    },
+    "dk:copenhagen:frederiksberg": {
+      "institution-part": {
+        "dc": "District Court Frederiksberg"
+      }
+    },
+    "dk:copenhagen:glostrup": {
+      "institution-part": {
+        "dc": "District Court Glostrup"
+      }
+    },
+    "dk:copenhagen:hillerod": {
+      "institution-part": {
+        "dc": "District Court Hillerød"
+      }
+    },
+    "dk:copenhagen:holbaek": {
+      "institution-part": {
+        "dc": "District Court Holbæk"
+      }
+    },
+    "dk:copenhagen:lyngby": {
+      "institution-part": {
+        "dc": "District Court Lyngby"
+      }
+    },
+    "dk:copenhagen:nykobing.falster": {
+      "institution-part": {
+        "dc": "District Court Nykøbing Falster"
+      }
+    },
+    "dk:copenhagen:odense": {
+      "institution-part": {
+        "dc": "District Court Odense"
+      }
+    },
+    "dk:copenhagen:roskilde": {
+      "institution-part": {
+        "dc": "District Court Roskilde"
+      }
+    },
+    "dk:copenhagen:svendborg": {
+      "institution-part": {
+        "dc": "District Court Svendborg"
+      }
+    },
+    "dk:copenhagen:torshaven": {
+      "institution-part": {
+        "dc": "District Court Tórshaven"
+      }
+    },
+    "dk:nuuk": {
+      "institution-part": {
+        "dc": "District Court Nuuk",
+        "ghc": "Grønlands Landsret"
+      }
+    },
+    "dk:nuuk:kujalleq": {
+      "institution-part": {
+        "cc": "Kredsret"
+      }
+    },
+    "dk:nuuk:qaasuitsoq": {
+      "institution-part": {
+        "cc": "Kredsret"
+      }
+    },
+    "dk:nuuk:qeqqa": {
+      "institution-part": {
+        "cc": "Kredsret"
+      }
+    },
+    "dk:nuuk:sermersooq": {
+      "institution-part": {
+        "cc": "Kredsret"
+      }
+    },
+    "dk:viborg": {
+      "institution-part": {
+        "whc": "High Court of Western Denmark"
+      }
+    },
+    "dk:viborg:aalborg": {
+      "institution-part": {
+        "dc": "District Court Aalborg"
+      }
+    },
+    "dk:viborg:aarhus": {
+      "institution-part": {
+        "dc": "District Court Aarhus"
+      }
+    },
+    "dk:viborg:grenaa": {
+      "institution-part": {
+        "dc": "District Court Grenaa"
+      }
+    },
+    "dk:viborg:haderslev": {
+      "institution-part": {
+        "dc": "District Court Haderslev"
+      }
+    },
+    "dk:viborg:herning": {
+      "institution-part": {
+        "dc": "District Court Herning"
+      }
+    },
+    "dk:viborg:hjorring": {
+      "institution-part": {
+        "dc": "District Court Hjørring"
+      }
+    },
+    "dk:viborg:hobro": {
+      "institution-part": {
+        "lrc": "Tinglysningsretten"
+      }
+    },
+    "dk:viborg:holstebro": {
+      "institution-part": {
+        "dc": "District Court Holstebro"
+      }
+    },
+    "dk:viborg:horsens": {
+      "institution-part": {
+        "dc": "District Court Horsens"
+      }
+    },
+    "dk:viborg:randers": {
+      "institution-part": {
+        "dc": "District Court Randers"
+      }
+    },
+    "dk:viborg:sonderborg": {
+      "institution-part": {
+        "dc": "District Court Sønderborg"
+      }
+    },
+    "dk:viborg:thisted": {
+      "institution-part": {
+        "dc": "District Court Thisted"
+      }
+    },
+    "dk:viborg:tonder": {
+      "institution-part": {
+        "dc": "District Court Tønder"
+      }
+    },
+    "dk:viborg:viborg": {
+      "institution-part": {
+        "dc": "District Court Viborg"
+      }
+    }
+  }
+}
