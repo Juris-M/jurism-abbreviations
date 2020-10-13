@@ -1,21 +1,22 @@
 {
   "filename": "auto-ca-fr.json",
   "name": "Canada",
-  "version": "2020-10-11 21:55:54 UTC",
+  "version": "2020-10-13 10:17:58 UTC",
   "xdata": {
     "default": {
       "place": {
+        "CA": "Can",
         "CA:AB": "Alta",
-        "CA:BC": "Colombie-Britannique",
+        "CA:BC": "BC",
         "CA:MB": "Man",
         "CA:NB": "N-B",
-        "CA:NL": "Terre-Neuve-et-Labrador",
-        "CA:NS": "Nouvelle-Écosse",
+        "CA:NL": "NL",
+        "CA:NS": "NS",
         "CA:NT": "TN-O",
         "CA:NU": "NU",
         "CA:ON": "Ont",
-        "CA:PE": "Île-du-Prince-Édouard",
-        "CA:QC": "Québec",
+        "CA:PE": "PEI",
+        "CA:QC": "Qc",
         "CA:SK": "Sask",
         "CA:YK": "Y"
       }
