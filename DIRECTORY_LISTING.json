@@ -56,19 +56,19 @@
   {
     "filename": "auto-arb.cls.json",
     "name": "Abbreviations: Arbitrations legal",
-    "version": "2019-08-19 06:21:43 UTC",
+    "version": "2020-10-14 12:42:52 UTC",
     "jurisdiction": "arb.cls",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:10 UTC"
+      "enIBFD": "2020-10-14 12:42:52 UTC"
     }
   },
   {
     "filename": "auto-at.json",
     "name": "Abbreviations: Austria legal",
-    "version": "2020-08-17 00:41:51 UTC",
+    "version": "2020-10-14 12:42:52 UTC",
     "jurisdiction": "at",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:10 UTC"
+      "enIBFD": "2020-10-14 12:42:52 UTC"
     }
   },
   {
@@ -110,11 +110,11 @@
   {
     "filename": "auto-be.json",
     "name": "Abbreviations: België legal",
-    "version": "2019-08-19 06:21:43 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "be",
     "variants": {
       "belgium": 1,
-      "francais": "2020-09-07 21:01:29 UTC"
+      "francais": "2020-10-14 12:42:53 UTC"
     }
   },
   {
@@ -198,10 +198,10 @@
   {
     "filename": "auto-ca.json",
     "name": "Abbreviations: Canada legal",
-    "version": "2020-10-11 21:55:54 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "ca",
     "variants": {
-      "fr": "2020-10-13 10:17:58 UTC"
+      "fr": "2020-10-14 12:42:53 UTC"
     }
   },
   {
@@ -270,10 +270,10 @@
   {
     "filename": "auto-coe.int.json",
     "name": "Abbreviations: Council of Europe legal",
-    "version": "2019-08-19 06:21:44 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "coe.int",
     "variants": {
-      "de": "2020-09-30 20:18:22 UTC"
+      "de": "2020-10-14 12:42:53 UTC"
     }
   },
   {
@@ -309,19 +309,19 @@
   {
     "filename": "auto-cy.json",
     "name": "Abbreviations: Cyprus legal",
-    "version": "2019-08-19 06:21:44 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "cy",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:53 UTC"
     }
   },
   {
     "filename": "auto-cz.json",
     "name": "Abbreviations: Czechia legal",
-    "version": "2019-08-19 06:21:44 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "cz",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:53 UTC"
     }
   },
   {
@@ -333,10 +333,10 @@
   {
     "filename": "auto-de.json",
     "name": "Abbreviations: Germany legal",
-    "version": "2020-09-07 21:01:30 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "de",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:53 UTC"
     }
   },
   {
@@ -348,10 +348,10 @@
   {
     "filename": "auto-dk.json",
     "name": "Abbreviations: Denmark legal",
-    "version": "2020-01-21 12:14:45 UTC",
+    "version": "2020-10-14 12:42:53 UTC",
     "jurisdiction": "dk",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:53 UTC"
     }
   },
   {
@@ -423,10 +423,10 @@
   {
     "filename": "auto-es.json",
     "name": "Abbreviations: Spain legal",
-    "version": "2020-07-12 23:46:30 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "es",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:54 UTC"
     }
   },
   {
@@ -438,19 +438,19 @@
   {
     "filename": "auto-eu.int.json",
     "name": "Abbreviations: European Union legal",
-    "version": "2020-09-30 20:18:29 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "eu.int",
     "variants": {
-      "de": "2020-09-30 20:18:29 UTC"
+      "de": "2020-10-14 12:42:54 UTC"
     }
   },
   {
     "filename": "auto-fi.json",
     "name": "Abbreviations: Finland legal",
-    "version": "2020-05-25 15:05:27 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "fi",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:54 UTC"
     }
   },
   {
@@ -468,10 +468,10 @@
   {
     "filename": "auto-fr.json",
     "name": "Abbreviations: France legal",
-    "version": "2020-10-12 01:32:11 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "fr",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:54 UTC"
     }
   },
   {
@@ -528,10 +528,10 @@
   {
     "filename": "auto-gr.json",
     "name": "Abbreviations: Greece legal",
-    "version": "2019-08-19 06:21:44 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "gr",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:54 UTC"
     }
   },
   {
@@ -591,10 +591,10 @@
   {
     "filename": "auto-icc.int.json",
     "name": "Abbreviations: International Criminal Court legal",
-    "version": "2019-08-19 06:21:44 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "icc.int",
     "variants": {
-      "de": "2020-09-30 20:18:36 UTC"
+      "de": "2020-10-14 12:42:54 UTC"
     }
   },
   {
@@ -648,10 +648,10 @@
   {
     "filename": "auto-it.json",
     "name": "Abbreviations: Italy legal",
-    "version": "2020-10-12 01:32:11 UTC",
+    "version": "2020-10-14 12:42:54 UTC",
     "jurisdiction": "it",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:54 UTC"
     }
   },
   {
@@ -674,11 +674,11 @@
   },
   {
     "filename": "auto-jp.json",
-    "name": "Abbreviations: REPLACE_ME legal",
-    "version": "REPLACE_ME",
+    "name": "Abbreviations: Japan legal",
+    "version": "2020-10-14 12:42:55 UTC",
     "jurisdiction": "jp",
     "variants": {
-      "englished": "REPLACE_ME"
+      "englished": "2020-10-14 12:42:55 UTC"
     }
   },
   {
@@ -966,10 +966,10 @@
   {
     "filename": "auto-nl.json",
     "name": "Abbreviations: Netherlands legal",
-    "version": "2020-09-14 03:02:03 UTC",
+    "version": "2020-10-14 12:42:55 UTC",
     "jurisdiction": "nl",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:55 UTC"
     }
   },
   {
@@ -1047,10 +1047,10 @@
   {
     "filename": "auto-pl.json",
     "name": "Abbreviations: Poland legal",
-    "version": "2019-08-19 20:56:12 UTC",
+    "version": "2020-10-14 12:42:55 UTC",
     "jurisdiction": "pl",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:55 UTC"
     }
   },
   {
@@ -1062,10 +1062,10 @@
   {
     "filename": "auto-pt.json",
     "name": "Abbreviations: Portugal legal",
-    "version": "2020-03-24 08:23:21 UTC",
+    "version": "2020-10-14 12:42:55 UTC",
     "jurisdiction": "pt",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:55 UTC"
     }
   },
   {
@@ -1143,10 +1143,10 @@
   {
     "filename": "auto-se.json",
     "name": "Abbreviations: Sweden legal",
-    "version": "2020-02-12 06:12:22 UTC",
+    "version": "2020-10-14 12:42:55 UTC",
     "jurisdiction": "se",
     "variants": {
-      "enIBFD": "2020-10-12 01:32:11 UTC"
+      "enIBFD": "2020-10-14 12:42:55 UTC"
     }
   },
   {
@@ -1320,10 +1320,10 @@
   {
     "filename": "auto-un.int.json",
     "name": "Abbreviations: United Nations legal",
-    "version": "2019-08-19 06:21:44 UTC",
+    "version": "2020-10-14 12:42:55 UTC",
     "jurisdiction": "un.int",
     "variants": {
-      "de": "2020-09-30 20:18:42 UTC"
+      "de": "2020-10-14 12:42:55 UTC"
     }
   },
   {
