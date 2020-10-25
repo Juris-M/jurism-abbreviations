@@ -1,5 +1,21 @@
 [
   {
+    "filename": "abbreviations-empty.json",
+    "name": "Abbreviations: EMPTY (importing with \"replace local list\" disables abbreviations)"
+  },
+  {
+    "filename": "secondary-commonwealth-commonwealth.json",
+    "name": "Abbreviations: Secondary materials for Commonwealth jurisdictions (Commonwealth styles)"
+  },
+  {
+    "filename": "secondary-science.json",
+    "name": "Abbreviations: Scientific journals"
+  },
+  {
+    "filename": "secondary-us-bluebook.json",
+    "name": "Abbreviations: Secondary materials for the US (Bluebook styles)"
+  },
+  {
     "filename": "auto-ad.json",
     "name": "Abbreviations: Andorra legal",
     "version": "2020-09-07 21:01:29 UTC",
@@ -483,7 +499,7 @@
   {
     "filename": "auto-gb.json",
     "name": "Abbreviations: United Kingdom legal",
-    "version": "2020-09-07 21:01:30 UTC",
+    "version": "2020-10-25 08:41:33 UTC",
     "jurisdiction": "gb"
   },
   {
