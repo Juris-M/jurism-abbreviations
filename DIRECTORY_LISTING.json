@@ -84,7 +84,7 @@
     "version": "2020-10-15 22:01:45 UTC",
     "jurisdiction": "at",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:45 UTC"
+      "enIBFD": "2020-10-30 01:03:26 UTC"
     }
   },
   {
@@ -328,7 +328,7 @@
     "version": "2020-10-15 22:01:46 UTC",
     "jurisdiction": "cy",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:46 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -337,7 +337,7 @@
     "version": "2020-10-15 22:01:46 UTC",
     "jurisdiction": "cz",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:46 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -352,7 +352,7 @@
     "version": "2020-10-19 02:43:43 UTC",
     "jurisdiction": "de",
     "variants": {
-      "enIBFD": "2020-10-19 02:43:43 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -367,7 +367,7 @@
     "version": "2020-10-15 22:01:46 UTC",
     "jurisdiction": "dk",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:46 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -439,10 +439,10 @@
   {
     "filename": "auto-es.json",
     "name": "Abbreviations: Spain legal",
-    "version": "2020-10-15 22:01:46 UTC",
+    "version": "2020-10-30 01:03:27 UTC",
     "jurisdiction": "es",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:46 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -466,7 +466,7 @@
     "version": "2020-10-15 22:01:47 UTC",
     "jurisdiction": "fi",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:47 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -484,10 +484,10 @@
   {
     "filename": "auto-fr.json",
     "name": "Abbreviations: France legal",
-    "version": "2020-10-15 22:01:47 UTC",
+    "version": "2020-10-30 01:03:27 UTC",
     "jurisdiction": "fr",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:47 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -547,7 +547,7 @@
     "version": "2020-10-15 22:01:47 UTC",
     "jurisdiction": "gr",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:47 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -667,7 +667,7 @@
     "version": "2020-10-15 22:01:47 UTC",
     "jurisdiction": "it",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:47 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -985,7 +985,7 @@
     "version": "2020-10-15 22:01:48 UTC",
     "jurisdiction": "nl",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:48 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -1016,7 +1016,10 @@
     "filename": "auto-nz.json",
     "name": "Abbreviations: New Zealand legal",
     "version": "2019-08-19 06:21:44 UTC",
-    "jurisdiction": "nz"
+    "jurisdiction": "nz",
+    "variants": {
+      "enIBFD": "2020-10-30 01:03:27 UTC"
+    }
   },
   {
     "filename": "auto-oas.int.json",
@@ -1066,7 +1069,7 @@
     "version": "2020-10-15 22:01:48 UTC",
     "jurisdiction": "pl",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:48 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -1081,7 +1084,7 @@
     "version": "2020-10-15 22:01:48 UTC",
     "jurisdiction": "pt",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:48 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {
@@ -1159,10 +1162,10 @@
   {
     "filename": "auto-se.json",
     "name": "Abbreviations: Sweden legal",
-    "version": "2020-10-15 22:01:48 UTC",
+    "version": "2020-10-30 01:03:27 UTC",
     "jurisdiction": "se",
     "variants": {
-      "enIBFD": "2020-10-15 22:01:48 UTC"
+      "enIBFD": "2020-10-30 01:03:27 UTC"
     }
   },
   {

@@ -1,7 +1,7 @@
 {
   "filename": "auto-cz-enIBFD.json",
   "name": "Czechia",
-  "version": "2020-10-15 22:01:46 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -113,24 +113,24 @@
     },
     "cz": {
       "institution-part": {
-        "ns": "Supreme Court",
-        "nss": "Supreme Administrative Court",
-        "us": "Constitutional Court"
+        "ns": "NS [Supreme Court]",
+        "nss": "NSS [Supreme Administrative Court]",
+        "us": "US [Constitutional Court]"
       }
     },
     "cz:brno": {
       "institution-part": {
-        "ks": "Regional Court v Brně"
+        "ks": "KS v Brně [Regional Court]"
       }
     },
     "cz:ceske.budejovice": {
       "institution-part": {
-        "ks": "Regional Court v Českých Budějovicích"
+        "ks": "KS v Českých Budějovicích [Regional Court]"
       }
     },
     "cz:hradec.kralove": {
       "institution-part": {
-        "ks": "Regional Court v Hradci Králové"
+        "ks": "KS v Hradci Králové [Regional Court]"
       }
     },
     "cz:olomouc": {
@@ -140,7 +140,7 @@
     },
     "cz:olomouc:brno": {
       "institution-part": {
-        "ks": "Regional Court v Brně"
+        "ks": "KS v Brně [Regional Court]"
       }
     },
     "cz:olomouc:brno:blansko": {
@@ -215,7 +215,7 @@
     },
     "cz:olomouc:ostrava": {
       "institution-part": {
-        "ks": "Regional Court v Ostravě"
+        "ks": "KS v Ostravě [Regional Court]"
       }
     },
     "cz:olomouc:ostrava:bruntal": {
@@ -275,17 +275,17 @@
     },
     "cz:ostrava": {
       "institution-part": {
-        "ks": "Regional Court v Ostravě"
+        "ks": "KS v Ostravě [Regional Court]"
       }
     },
     "cz:plzen": {
       "institution-part": {
-        "ks": "Regional Court v Plzni"
+        "ks": "KS v Plzni [Regional Court]"
       }
     },
     "cz:praha": {
       "institution-part": {
-        "ks": "Regional Court v Praze",
+        "ks": "KS v Praze [Regional Court]",
         "vs": "Vrchní soud v Praze"
       }
     },
@@ -296,7 +296,7 @@
     },
     "cz:praha:ceske.budejovice": {
       "institution-part": {
-        "ks": "Regional Court v Českých Budějovicích"
+        "ks": "KS v Českých Budějovicích [Regional Court]"
       }
     },
     "cz:praha:ceske.budejovice:ceske.budejovice": {
@@ -341,7 +341,7 @@
     },
     "cz:praha:hradec.kralove": {
       "institution-part": {
-        "ks": "Regional Court v Hradci Králové"
+        "ks": "KS v Hradci Králové [Regional Court]"
       }
     },
     "cz:praha:hradec.kralove:chrudim": {
@@ -401,7 +401,7 @@
     },
     "cz:praha:plzen": {
       "institution-part": {
-        "ks": "Regional Court v Plzni"
+        "ks": "KS v Plzni [Regional Court]"
       }
     },
     "cz:praha:plzen:cheb": {
@@ -456,7 +456,7 @@
     },
     "cz:praha:praha": {
       "institution-part": {
-        "ks": "Regional Court v Praze"
+        "ks": "KS v Praze [Regional Court]"
       }
     },
     "cz:praha:praha.mestsky": {
@@ -576,7 +576,7 @@
     },
     "cz:praha:usti.nad.labem": {
       "institution-part": {
-        "ks": "Regional Court v Ústí nad Labem"
+        "ks": "KS v Ústí nad Labem [Regional Court]"
       }
     },
     "cz:praha:usti.nad.labem:ceska.lipa": {
@@ -631,7 +631,7 @@
     },
     "cz:usti.nad.labem": {
       "institution-part": {
-        "ks": "Regional Court v Ústí nad Labem"
+        "ks": "KS v Ústí nad Labem [Regional Court]"
       }
     }
   }

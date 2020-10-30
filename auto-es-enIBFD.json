@@ -1,7 +1,7 @@
 {
   "filename": "auto-es-enIBFD.json",
   "name": "Spain",
-  "version": "2020-10-15 22:01:46 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -505,21 +505,23 @@
     },
     "es": {
       "institution-part": {
-        "ts": "Supreme Court",
+        "ts": "TS [Supreme Court]",
         "rmc": "Registro Mercantil Central",
         "dgrn": "Dirección General de los Registros y del Notariado",
-        "tc": "Tribunal Constitucional"
+        "tc": "Tribunal Constitucional",
+        "teac": "TEAC [Central Economic-Administrative Court]"
       },
       "institution-entire": {
         "ts": "TS",
         "rmc": "RMC",
         "dgrn": "DGRN",
-        "tc": "TC"
+        "tc": "TC",
+        "teac": "TEAC"
       }
     },
     "es:andalucia": {
       "institution-part": {
-        "tsj": "High Court of Justice Andalucía"
+        "tsj": "TSJ Andalucía [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Andalucía"
@@ -527,7 +529,7 @@
     },
     "es:andalucia:almeria": {
       "institution-part": {
-        "ap": "Provincial Court Almería"
+        "ap": "AP Almería [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Almería"
@@ -601,7 +603,7 @@
     },
     "es:andalucia:cadiz": {
       "institution-part": {
-        "ap": "Provincial Court Cádiz"
+        "ap": "AP Cádiz [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Cádiz"
@@ -713,7 +715,7 @@
     },
     "es:andalucia:cordoba": {
       "institution-part": {
-        "ap": "Provincial Court Córdoba"
+        "ap": "AP Córdoba [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Córdoba"
@@ -819,7 +821,7 @@
     },
     "es:andalucia:granada": {
       "institution-part": {
-        "ap": "Provincial Court Granada"
+        "ap": "AP Granada [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Granada"
@@ -901,7 +903,7 @@
     },
     "es:andalucia:huelva": {
       "institution-part": {
-        "ap": "Provincial Court Huelva"
+        "ap": "AP Huelva [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Huelva"
@@ -957,7 +959,7 @@
     },
     "es:andalucia:jaen": {
       "institution-part": {
-        "ap": "Provincial Court Jaén"
+        "ap": "AP Jaén [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Jaén"
@@ -1045,7 +1047,7 @@
     },
     "es:andalucia:malaga": {
       "institution-part": {
-        "ap": "Provincial Court Málaga"
+        "ap": "AP Málaga [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Málaga"
@@ -1143,7 +1145,7 @@
     },
     "es:andalucia:sevilla": {
       "institution-part": {
-        "ap": "Provincial Court Sevilla"
+        "ap": "AP Sevilla [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Sevilla"
@@ -1281,7 +1283,7 @@
     },
     "es:zaragoza": {
       "institution-part": {
-        "tsj": "High Court of Justice Zaragoza"
+        "tsj": "TSJ Zaragoza [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Zaragoza"
@@ -1289,7 +1291,7 @@
     },
     "es:zaragoza:huesca": {
       "institution-part": {
-        "ap": "Provincial Court Huesca"
+        "ap": "AP Huesca [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Huesca"
@@ -1345,7 +1347,7 @@
     },
     "es:zaragoza:teruel": {
       "institution-part": {
-        "ap": "Provincial Court Teruel"
+        "ap": "AP Teruel [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Teruel"
@@ -1377,7 +1379,7 @@
     },
     "es:zaragoza:zaragoza": {
       "institution-part": {
-        "ap": "Provincial Court Zaragoza"
+        "ap": "AP Zaragoza [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Zaragoza"
@@ -1443,7 +1445,7 @@
     },
     "es:asturias": {
       "institution-part": {
-        "tsj": "High Court of Justice Principado de Asturias"
+        "tsj": "TSJ Principado de Asturias [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Principado de Asturias"
@@ -1451,7 +1453,7 @@
     },
     "es:asturias:oviedo": {
       "institution-part": {
-        "ap": "Provincial Court Oviedo"
+        "ap": "AP Oviedo [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Oviedo"
@@ -1605,7 +1607,7 @@
     },
     "es:islas.baleares": {
       "institution-part": {
-        "tsj": "High Court of Justice Islas Baleares"
+        "tsj": "TSJ Islas Baleares [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Islas Baleares"
@@ -1613,7 +1615,7 @@
     },
     "es:islas.baleares:palma.mallorca": {
       "institution-part": {
-        "ap": "Provincial Court Palma de Mallorca"
+        "ap": "AP Palma de Mallorca [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Palma de Mallorca"
@@ -1671,7 +1673,7 @@
     },
     "es:canarias": {
       "institution-part": {
-        "tsj": "High Court of Justice Canarias"
+        "tsj": "TSJ Canarias [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Canarias"
@@ -1679,7 +1681,7 @@
     },
     "es:canarias:palmas": {
       "institution-part": {
-        "ap": "Provincial Court Las Palmas"
+        "ap": "AP Las Palmas [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Las Palmas"
@@ -1753,7 +1755,7 @@
     },
     "es:canarias:santa.cruz.tenerife": {
       "institution-part": {
-        "ap": "Provincial Court Santa Cruz de Tenerife"
+        "ap": "AP Santa Cruz de Tenerife [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Santa Cruz de Tenerife"
@@ -1851,7 +1853,7 @@
     },
     "es:cantabria": {
       "institution-part": {
-        "tsj": "High Court of Justice Cantabria"
+        "tsj": "TSJ Cantabria [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Cantabria"
@@ -1859,7 +1861,7 @@
     },
     "es:cantabria:santander": {
       "institution-part": {
-        "ap": "Provincial Court Santander"
+        "ap": "AP Santander [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Santander"
@@ -1933,7 +1935,7 @@
     },
     "es:castilla.y.leon": {
       "institution-part": {
-        "tsj": "High Court of Justice Castilla y León"
+        "tsj": "TSJ Castilla y León [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Castilla y León"
@@ -1941,7 +1943,7 @@
     },
     "es:castilla.y.leon:avila": {
       "institution-part": {
-        "ap": "Provincial Court Ávila"
+        "ap": "AP Ávila [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Ávila"
@@ -1973,7 +1975,7 @@
     },
     "es:castilla.y.leon:burgos": {
       "institution-part": {
-        "ap": "Provincial Court Burgos"
+        "ap": "AP Burgos [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Burgos"
@@ -2039,7 +2041,7 @@
     },
     "es:castilla.y.leon:leon": {
       "institution-part": {
-        "ap": "Provincial Court León"
+        "ap": "AP León [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP León"
@@ -2103,7 +2105,7 @@
     },
     "es:castilla.y.leon:palencia": {
       "institution-part": {
-        "ap": "Provincial Court Palencia"
+        "ap": "AP Palencia [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Palencia"
@@ -2135,7 +2137,7 @@
     },
     "es:castilla.y.leon:salamanca": {
       "institution-part": {
-        "ap": "Provincial Court Salamanca"
+        "ap": "AP Salamanca [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Salamanca"
@@ -2183,7 +2185,7 @@
     },
     "es:castilla.y.leon:segovia": {
       "institution-part": {
-        "ap": "Provincial Court Segovia"
+        "ap": "AP Segovia [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Segovia"
@@ -2223,7 +2225,7 @@
     },
     "es:castilla.y.leon:soria": {
       "institution-part": {
-        "ap": "Provincial Court Soria"
+        "ap": "AP Soria [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Soria"
@@ -2255,7 +2257,7 @@
     },
     "es:castilla.y.leon:valladolid": {
       "institution-part": {
-        "ap": "Provincial Court Valladolid"
+        "ap": "AP Valladolid [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Valladolid"
@@ -2289,7 +2291,7 @@
     },
     "es:castilla.y.leon:zamora": {
       "institution-part": {
-        "ap": "Provincial Court Zamora"
+        "ap": "AP Zamora [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Zamora"
@@ -2337,7 +2339,7 @@
     },
     "es:castilla.la.mancha": {
       "institution-part": {
-        "tsj": "High Court of Justice Castilla-La Mancha"
+        "tsj": "TSJ Castilla-La Mancha [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Castilla-La Mancha"
@@ -2345,7 +2347,7 @@
     },
     "es:castilla.la.mancha:albacete": {
       "institution-part": {
-        "ap": "Provincial Court Albacete"
+        "ap": "AP Albacete [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Albacete"
@@ -2409,7 +2411,7 @@
     },
     "es:castilla.la.mancha:ciudad.real": {
       "institution-part": {
-        "ap": "Provincial Court Ciudad Real"
+        "ap": "AP Ciudad Real [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Ciudad Real"
@@ -2497,7 +2499,7 @@
     },
     "es:castilla.la.mancha:cuenca": {
       "institution-part": {
-        "ap": "Provincial Court Cuenca"
+        "ap": "AP Cuenca [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Cuenca"
@@ -2537,7 +2539,7 @@
     },
     "es:castilla.la.mancha:guadalaraja": {
       "institution-part": {
-        "ap": "Provincial Court Guadalaraja"
+        "ap": "AP Guadalaraja [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Guadalaraja"
@@ -2569,7 +2571,7 @@
     },
     "es:castilla.la.mancha:toledo": {
       "institution-part": {
-        "ap": "Provincial Court Toledo"
+        "ap": "AP Toledo [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Toledo"
@@ -2633,7 +2635,7 @@
     },
     "es:cataluna": {
       "institution-part": {
-        "tsj": "High Court of Justice Cataluña"
+        "tsj": "TSJ Cataluña [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Cataluña"
@@ -2641,7 +2643,7 @@
     },
     "es:cataluna:barcelona": {
       "institution-part": {
-        "ap": "Provincial Court Barcelona"
+        "ap": "AP Barcelona [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Barcelona"
@@ -2851,7 +2853,7 @@
     },
     "es:cataluna:girona": {
       "institution-part": {
-        "ap": "Provincial Court Girona"
+        "ap": "AP Girona [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Girona"
@@ -2933,7 +2935,7 @@
     },
     "es:cataluna:lleida": {
       "institution-part": {
-        "ap": "Provincial Court Lleida"
+        "ap": "AP Lleida [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Lleida"
@@ -2997,7 +2999,7 @@
     },
     "es:cataluna:tarragona": {
       "institution-part": {
-        "ap": "Provincial Court Tarragona"
+        "ap": "AP Tarragona [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Tarragona"
@@ -3071,7 +3073,7 @@
     },
     "es:valencia": {
       "institution-part": {
-        "tsj": "High Court of Justice Comunidad Valenciana"
+        "tsj": "TSJ Comunidad Valenciana [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Comunidad Valenciana"
@@ -3079,7 +3081,7 @@
     },
     "es:valencia:alicante": {
       "institution-part": {
-        "ap": "Provincial Court Alicante"
+        "ap": "AP Alicante [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Alicante"
@@ -3193,7 +3195,7 @@
     },
     "es:valencia:castellon": {
       "institution-part": {
-        "ap": "Provincial Court Castellón"
+        "ap": "AP Castellón [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Castellón"
@@ -3243,7 +3245,7 @@
     },
     "es:valencia:valencia": {
       "institution-part": {
-        "ap": "Provincial Court Valencia"
+        "ap": "AP Valencia [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Valencia"
@@ -3397,7 +3399,7 @@
     },
     "es:extremadura": {
       "institution-part": {
-        "tsj": "High Court of Justice Extremadura"
+        "tsj": "TSJ Extremadura [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Extremadura"
@@ -3405,7 +3407,7 @@
     },
     "es:extremadura:badajoz": {
       "institution-part": {
-        "ap": "Provincial Court Badajoz"
+        "ap": "AP Badajoz [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Badajoz"
@@ -3527,7 +3529,7 @@
     },
     "es:extremadura:caceres": {
       "institution-part": {
-        "ap": "Provincial Court Cáceres"
+        "ap": "AP Cáceres [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Cáceres"
@@ -3591,7 +3593,7 @@
     },
     "es:galicia": {
       "institution-part": {
-        "tsj": "High Court of Justice Galicia"
+        "tsj": "TSJ Galicia [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Galicia"
@@ -3599,7 +3601,7 @@
     },
     "es:galicia:coruna": {
       "institution-part": {
-        "ap": "Provincial Court A Coruña"
+        "ap": "AP A Coruña [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP A Coruña"
@@ -3721,7 +3723,7 @@
     },
     "es:galicia:lugo": {
       "institution-part": {
-        "ap": "Provincial Court Lugo"
+        "ap": "AP Lugo [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Lugo"
@@ -3801,7 +3803,7 @@
     },
     "es:galicia:ourense": {
       "institution-part": {
-        "ap": "Provincial Court Ourense"
+        "ap": "AP Ourense [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Ourense"
@@ -3881,7 +3883,7 @@
     },
     "es:galicia:pontevedra": {
       "institution-part": {
-        "ap": "Provincial Court Pontevedra"
+        "ap": "AP Pontevedra [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Pontevedra"
@@ -3997,7 +3999,7 @@
     },
     "es:madrid": {
       "institution-part": {
-        "tsj": "High Court of Justice Madrid"
+        "tsj": "TSJ Madrid [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Madrid"
@@ -4005,7 +4007,7 @@
     },
     "es:madrid:madrid": {
       "institution-part": {
-        "ap": "Provincial Court Madrid"
+        "ap": "AP Madrid [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Madrid"
@@ -4183,7 +4185,7 @@
     },
     "es:murcia": {
       "institution-part": {
-        "tsj": "High Court of Justice Murcia"
+        "tsj": "TSJ Murcia [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Murcia"
@@ -4191,7 +4193,7 @@
     },
     "es:murcia:murcia": {
       "institution-part": {
-        "ap": "Provincial Court Murcia"
+        "ap": "AP Murcia [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Murcia"
@@ -4289,7 +4291,7 @@
     },
     "es:navarra": {
       "institution-part": {
-        "tsj": "High Court of Justice Navarra"
+        "tsj": "TSJ Navarra [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ Navarra"
@@ -4297,7 +4299,7 @@
     },
     "es:navarra:pamplona": {
       "institution-part": {
-        "ap": "Provincial Court Pamplona"
+        "ap": "AP Pamplona [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Pamplona"
@@ -4347,7 +4349,7 @@
     },
     "es:pais.vasco": {
       "institution-part": {
-        "tsj": "High Court of Justice País Vasco"
+        "tsj": "TSJ País Vasco [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ País Vasco"
@@ -4355,7 +4357,7 @@
     },
     "es:pais.vasco:araba.alava": {
       "institution-part": {
-        "ap": "Provincial Court Vitoria Gasteiz"
+        "ap": "AP Vitoria Gasteiz [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Vitoria Gasteiz"
@@ -4379,7 +4381,7 @@
     },
     "es:pais.vasco:bizkaia": {
       "institution-part": {
-        "ap": "Provincial Court Bilbao"
+        "ap": "AP Bilbao [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Bilbao"
@@ -4437,7 +4439,7 @@
     },
     "es:pais.vasco:gipuzkoa": {
       "institution-part": {
-        "ap": "Provincial Court San Sebastián"
+        "ap": "AP San Sebastián [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP San Sebastián"
@@ -4495,7 +4497,7 @@
     },
     "es:rioja": {
       "institution-part": {
-        "tsj": "High Court of Justice La Rioja"
+        "tsj": "TSJ La Rioja [High Court of Justice]"
       },
       "institution-entire": {
         "tsj": "TSJ La Rioja"
@@ -4503,7 +4505,7 @@
     },
     "es:rioja:logrono": {
       "institution-part": {
-        "ap": "Provincial Court Logroño"
+        "ap": "AP Logroño [Provincial Court]"
       },
       "institution-entire": {
         "ap": "AP Logroño"

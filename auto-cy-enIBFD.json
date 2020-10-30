@@ -1,7 +1,7 @@
 {
   "filename": "auto-cy-enIBFD.json",
   "name": "Cyprus",
-  "version": "2020-10-15 22:01:46 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -23,23 +23,23 @@
         "afc": "Δευτεροβάθμιο Οικογενειακό Δικαστήριο",
         "fcrg": "Οικογενειακά Δικαστήρια θρησκευτικών ομάδων",
         "mc": "Στρατιωτικό Δικαστήριο",
-        "sc": "Supreme Court"
+        "sc": "SC [Supreme Court]"
       }
     },
     "cy:famagusta": {
       "institution-part": {
-        "dc": "District Court Αμμοχώστου"
+        "dc": "DC Αμμοχώστου [District Court]"
       }
     },
     "cy:kyrenia": {
       "institution-part": {
-        "dc": "District Court Κερύνειας"
+        "dc": "DC Κερύνειας [District Court]"
       }
     },
     "cy:larnaca": {
       "institution-part": {
         "assize": "Κακουργιοδικεία",
-        "dc": "District Court Λάρνακας",
+        "dc": "DC Λάρνακας [District Court]",
         "lc": "Δικαστήριο Εργατικών Διάφορων",
         "rcc": "Δικαστήριο Εργατικών Διάφορων"
       }
@@ -52,7 +52,7 @@
     "cy:limassol": {
       "institution-part": {
         "assize": "Κακουργιοδικεία",
-        "dc": "District Court Λεμεσού",
+        "dc": "DC Λεμεσού [District Court]",
         "lc": "Δικαστήριο Εργατικών Διάφορων",
         "rcc": "Δικαστήριο Εργατικών Διάφορων"
       }
@@ -65,7 +65,7 @@
     "cy:nicosia": {
       "institution-part": {
         "assize": "Κακουργιοδικεία",
-        "dc": "District Court Λευκωσίας",
+        "dc": "DC Λευκωσίας [District Court]",
         "lc": "Δικαστήριο Εργατικών Διάφορων",
         "rcc": "Δικαστήριο Εργατικών Διάφορων"
       }
@@ -78,7 +78,7 @@
     "cy:paphos": {
       "institution-part": {
         "assize": "Κακουργιοδικεία",
-        "dc": "District Court Πάφου",
+        "dc": "DC Πάφου [District Court]",
         "rcc": "Δικαστήριο Εργατικών Διάφορων"
       }
     }

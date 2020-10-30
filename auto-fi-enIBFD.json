@@ -1,7 +1,7 @@
 {
   "filename": "auto-fi-enIBFD.json",
   "name": "Finland",
-  "version": "2020-10-15 22:01:47 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -49,7 +49,7 @@
         "tt": "Työtuomioisuin",
         "impeachment": "Valtakunnanoikeus",
         "mao": "Markkinaoikeus",
-        "kho": "Supreme Administrative Court",
+        "kho": "KHO [Supreme Administrative Court]",
         "kko": "Korkein oikeus"
       },
       "institution-entire": {
@@ -62,7 +62,7 @@
     },
     "fi:ahvenanmaa": {
       "institution-part": {
-        "hao": "Ahvenanmaan Regional Administrative Court"
+        "hao": "HAO Ahvenanmaan [Regional Administrative Court]"
       },
       "institution-entire": {
         "hao": "HAO"
@@ -70,7 +70,7 @@
     },
     "fi:hameenlinna": {
       "institution-part": {
-        "hao": "Hämeenlinnan Regional Administrative Court"
+        "hao": "HAO Hämeenlinnan [Regional Administrative Court]"
       },
       "institution-entire": {
         "hao": "HAO"
@@ -78,7 +78,7 @@
     },
     "fi:helsinki": {
       "institution-part": {
-        "hao": "Helsingin Regional Administrative Court",
+        "hao": "HAO Helsingin [Regional Administrative Court]",
         "ho": "Helsingin hovioikeus"
       },
       "institution-entire": {
@@ -136,7 +136,7 @@
     },
     "fi:ita.suomi": {
       "institution-part": {
-        "hao": "Itä-Suomen Regional Administrative Court",
+        "hao": "HAO Itä-Suomen [Regional Administrative Court]",
         "ho": "Itä-Suomen hovioikeus"
       },
       "institution-entire": {
@@ -194,7 +194,7 @@
     },
     "fi:pohjois.suomi": {
       "institution-part": {
-        "hao": "Pohjois-Suomen Regional Administrative Court"
+        "hao": "HAO Pohjois-Suomen [Regional Administrative Court]"
       },
       "institution-entire": {
         "hao": "HAO"
@@ -250,7 +250,7 @@
     },
     "fi:turku": {
       "institution-part": {
-        "hao": "Turun Regional Administrative Court",
+        "hao": "HAO Turun [Regional Administrative Court]",
         "ho": "Turun hovioikeus"
       },
       "institution-entire": {
@@ -292,7 +292,7 @@
     },
     "fi:pohjanmaa": {
       "institution-part": {
-        "hao": "Vaasan Regional Administrative Court"
+        "hao": "HAO Vaasan [Regional Administrative Court]"
       },
       "institution-entire": {
         "hao": "HAO"

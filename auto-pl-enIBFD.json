@@ -1,7 +1,7 @@
 {
   "filename": "auto-pl-enIBFD.json",
   "name": "Poland",
-  "version": "2020-10-15 22:01:48 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -391,7 +391,7 @@
     },
     "pl": {
       "institution-part": {
-        "nsa": "Supreme Administrative Court",
+        "nsa": "NSA [Supreme Administrative Court]",
         "sn": "Sąd Najwyższy",
         "sokik": "Sąd Ochrony Konkurencji i Konsumentów",
         "tk": "Trybunał Konstytucyjny"
@@ -400,7 +400,7 @@
     "pl:bialystok": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Białymstoku",
-        "wsa": "Regional Administrative Court w Białymstoku"
+        "wsa": "WSA w Białymstoku [Regional Administrative Court]"
       }
     },
     "pl:bialystok:bialystok": {
@@ -560,13 +560,13 @@
     },
     "pl:bydgoszcz": {
       "institution-part": {
-        "wsa": "Regional Administrative Court w Bydgoszczy"
+        "wsa": "WSA w Bydgoszczy [Regional Administrative Court]"
       }
     },
     "pl:gdansk": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Gdańsku",
-        "wsa": "Regional Administrative Court w Gdańsku"
+        "wsa": "WSA w Gdańsku [Regional Administrative Court]"
       }
     },
     "pl:gdansk:bydgoszcz": {
@@ -816,18 +816,18 @@
     },
     "pl:gliwice": {
       "institution-part": {
-        "wsa": "Regional Administrative Court w Gliwicach"
+        "wsa": "WSA w Gliwicach [Regional Administrative Court]"
       }
     },
     "pl:gorzow.wielkopolski": {
       "institution-part": {
-        "wsa": "Regional Administrative Court w Gorzowie Wielkopolskim"
+        "wsa": "WSA w Gorzowie Wielkopolskim [Regional Administrative Court]"
       }
     },
     "pl:katowice": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Katowicach",
-        "wsa": "Regional Administrative Court w Katowicach"
+        "wsa": "WSA w Katowicach [Regional Administrative Court]"
       }
     },
     "pl:katowice:bielsko.biala": {
@@ -997,13 +997,13 @@
     },
     "pl:kielce": {
       "institution-part": {
-        "wsa": "Regional Administrative Court w Kielcach"
+        "wsa": "WSA w Kielcach [Regional Administrative Court]"
       }
     },
     "pl:krakow": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Krakowie",
-        "wsa": "Regional Administrative Court w Krakowie"
+        "wsa": "WSA w Krakowie [Regional Administrative Court]"
       }
     },
     "pl:krakow:kielce": {
@@ -1194,7 +1194,7 @@
     "pl:lodz": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Łodzi",
-        "wsa": "Regional Administrative Court w Łodzi"
+        "wsa": "WSA w Łodzi [Regional Administrative Court]"
       }
     },
     "pl:lodz:kalisz": {
@@ -1395,7 +1395,7 @@
     "pl:lublin": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Lublinie",
-        "wsa": "Regional Administrative Court w Lublinie"
+        "wsa": "WSA w Lublinie [Regional Administrative Court]"
       }
     },
     "pl:lublin:lublin": {
@@ -1570,18 +1570,18 @@
     },
     "pl:olsztyn": {
       "institution-part": {
-        "wsa": "Regional Administrative Court w Olsztynie"
+        "wsa": "WSA w Olsztynie [Regional Administrative Court]"
       }
     },
     "pl:opole": {
       "institution-part": {
-        "wsa": "Regional Administrative Court w Opolu"
+        "wsa": "WSA w Opolu [Regional Administrative Court]"
       }
     },
     "pl:poznan": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Poznaniu",
-        "wsa": "Regional Administrative Court w Poznaniu"
+        "wsa": "WSA w Poznaniu [Regional Administrative Court]"
       }
     },
     "pl:poznan:konin": {
@@ -1762,7 +1762,7 @@
     "pl:rzeszow": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Rzeszowie",
-        "wsa": "Regional Administrative Court w Rzeszowie"
+        "wsa": "WSA w Rzeszowie [Regional Administrative Court]"
       }
     },
     "pl:rzeszow:krosno": {
@@ -1888,7 +1888,7 @@
     "pl:szczecin": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Szczecinie",
-        "wsa": "Regional Administrative Court w Szczecinie"
+        "wsa": "WSA w Szczecinie [Regional Administrative Court]"
       }
     },
     "pl:szczecin:gorzow.wielkopolski": {
@@ -2024,7 +2024,7 @@
     "pl:warsaw": {
       "institution-part": {
         "sa": "Sąd Apelacyjny w Warszawie",
-        "wsa": "Regional Administrative Court w Warszawie"
+        "wsa": "WSA w Warszawie [Regional Administrative Court]"
       }
     },
     "pl:warsaw:praga": {
@@ -2110,7 +2110,7 @@
     "pl:wroclaw": {
       "institution-part": {
         "sa": "Sąd Apelacyjny we Wrocławiu",
-        "wsa": "Regional Administrative Court we Wrocławiu"
+        "wsa": "WSA we Wrocławiu [Regional Administrative Court]"
       }
     },
     "pl:wroclaw:jelenia.gora": {

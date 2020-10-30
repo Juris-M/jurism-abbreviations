@@ -1,7 +1,7 @@
 {
   "filename": "auto-pt-enIBFD.json",
   "name": "Portugal",
-  "version": "2020-10-15 22:01:48 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -54,7 +54,7 @@
         "contas": "Tribunal de Contas",
         "conflitos": "Tribunal de Conflitos",
         "supremo.tribunal.de.justicia": "Supremo Tribunal de Justiça",
-        "supremo.administrativo": "Supreme Administrative Court",
+        "supremo.administrativo": "STA [Supreme Administrative Court]",
         "supremo.militar": "Supremo Tribunal Militar",
         "paz": "Julgados de Paz",
         "arbitrais": "Tribunal Arbitrais",
@@ -72,7 +72,7 @@
         "relacao": "Tribunal da Relação de Lisboa",
         "maritimo": "Tribunal Maritimo",
         "penas": "Tribunal de Execução de Penas",
-        "central.administrativo.sul": "Central Administrative Courts – South"
+        "central.administrativo.sul": "TCA de Lisboa [Central Administrative Courts – South]"
       },
       "institution-entire": {
         "relacao": "TRL",
@@ -103,7 +103,7 @@
     },
     "pt:lisboa:acores:ponta.delgada": {
       "institution-part": {
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Ponta Delgada",
+        "administrativo.fiscal.sul": "TAF Ponta Delgada [Administrative Court of First Instance]",
         "maritimo": "Tribunal Maritimo"
       }
     },
@@ -114,13 +114,13 @@
     },
     "pt:lisboa:almada": {
       "institution-part": {
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Almada",
+        "administrativo.fiscal.sul": "TAF Almada [Administrative Court of First Instance]",
         "tributario": "Tribunal Tributário"
       }
     },
     "pt:lisboa:madeira:funchal": {
       "institution-part": {
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Funchal",
+        "administrativo.fiscal.sul": "TAF Funchal [Administrative Court of First Instance]",
         "maritimo": "Tribunal Maritimo"
       }
     },
@@ -131,7 +131,7 @@
     },
     "pt:lisboa:sintra": {
       "institution-part": {
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Sintra"
+        "administrativo.fiscal.sul": "TAF Sintra [Administrative Court of First Instance]"
       }
     },
     "pt:evora": {
@@ -151,7 +151,7 @@
     "pt:evora:beja": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Beja"
+        "administrativo.fiscal.sul": "TAF Beja [Administrative Court of First Instance]"
       }
     },
     "pt:evora:faro": {
@@ -162,7 +162,7 @@
     },
     "pt:evora:faro:loule": {
       "institution-part": {
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Loule"
+        "administrativo.fiscal.sul": "TAF Loule [Administrative Court of First Instance]"
       }
     },
     "pt:evora:portalegre": {
@@ -184,7 +184,7 @@
       "institution-part": {
         "relacao": "Tribunal da Relação de Coimbra",
         "penas": "Tribunal de Execução de Penas",
-        "administrativo.fiscal.sul": "Administrative Court of First Instance de Coimbra"
+        "administrativo.fiscal.sul": "TAF de Coimbra [Administrative Court of First Instance]"
       },
       "institution-entire": {
         "relacao": "TRC"
@@ -198,7 +198,7 @@
     "pt:coimbra:castelo.branco": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Castelo Branco"
+        "administrativo.fiscal.sul": "TAF Castelo Branco [Administrative Court of First Instance]"
       }
     },
     "pt:coimbra:guarda": {
@@ -209,20 +209,20 @@
     "pt:coimbra:leiria": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.sul": "Administrative Court of First Instance Leiria"
+        "administrativo.fiscal.sul": "TAF Leiria [Administrative Court of First Instance]"
       }
     },
     "pt:coimbra:viseu": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.norte": "Administrative Court of First Instance Viseu"
+        "administrativo.fiscal.norte": "TAF Viseu [Administrative Court of First Instance]"
       }
     },
     "pt:porto": {
       "institution-part": {
         "relacao": "Tribunal da Relação do Porto",
         "penas": "Tribunal de Execução de Penas",
-        "central.administrativo.norte": "Central Administrative Courts – North"
+        "central.administrativo.norte": "TCA do Porto [Central Administrative Courts – North]"
       },
       "institution-entire": {
         "relacao": "TRP",
@@ -232,7 +232,7 @@
     "pt:porto:porto": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.norte": "Administrative Court of First Instance Porto"
+        "administrativo.fiscal.norte": "TAF Porto [Administrative Court of First Instance]"
       }
     },
     "pt:porto:tras.os.montes": {
@@ -253,7 +253,7 @@
     "pt:porto:aveiro": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.norte": "Administrative Court of First Instance Aveiro"
+        "administrativo.fiscal.norte": "TAF Aveiro [Administrative Court of First Instance]"
       }
     },
     "pt:porto:porto.este": {
@@ -263,7 +263,7 @@
     },
     "pt:porto:penafiel": {
       "institution-part": {
-        "administrativo.fiscal.norte": "Administrative Court of First Instance Penafiel"
+        "administrativo.fiscal.norte": "TAF Penafiel [Administrative Court of First Instance]"
       }
     },
     "pt:porto:leixoes": {
@@ -283,7 +283,7 @@
     "pt:guimaraes:braga": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.norte": "Administrative Court of First Instance Braga"
+        "administrativo.fiscal.norte": "TAF Braga [Administrative Court of First Instance]"
       }
     },
     "pt:guimaraes:braganca": {
@@ -294,7 +294,7 @@
     "pt:guimaraes:braganca:mirandela": {
       "institution-part": {
         "comarca": "Tribunal Judicial da Comarca",
-        "administrativo.fiscal.norte": "Administrative Court of First Instance Mirandela"
+        "administrativo.fiscal.norte": "TAF Mirandela [Administrative Court of First Instance]"
       }
     },
     "pt:guimaraes:viana.do.castelo": {

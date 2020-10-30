@@ -1,7 +1,7 @@
 {
   "filename": "auto-it-enIBFD.json",
   "name": "Italy",
-  "version": "2020-10-15 22:01:47 UTC",
+  "version": "2020-10-30 01:03:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -199,10 +199,10 @@
     },
     "it": {
       "institution-part": {
-        "csdc": "Supreme Court",
+        "csdc": " Cass. [Supreme Court]",
         "cs": "Consiglio di Stato",
-        "cc": "Constitutional Court",
-        "ctc": "Central Tax Court"
+        "cc": "C. Cost. [Constitutional Court]",
+        "ctc": "CTC [Central Tax Court]"
       }
     },
     "it:abruzzo": {
