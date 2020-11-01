@@ -1,7 +1,7 @@
 {
   "filename": "auto-gb.json",
   "name": "United Kingdom",
-  "version": "2020-10-25 08:41:33 UTC",
+  "version": "2020-11-01 09:32:50 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -80,7 +80,8 @@
         "house.of.lords": "House of Lords",
         "privy.council": "Privy Council",
         "supreme.court": "UKSC",
-        "uksiac": "UKSIAC"
+        "uksiac": "UKSIAC",
+        "ukut.iac": "UKUT|IAC"
       }
     },
     "gb:england.and.wales": {
