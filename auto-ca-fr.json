@@ -1,7 +1,7 @@
 {
   "filename": "auto-ca-fr.json",
   "name": "Canada",
-  "version": "2020-10-15 22:01:46 UTC",
+  "version": "2020-11-27 02:47:36 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -184,7 +184,7 @@
         "tribunal.professions": "QCTP",
         "quebec.admin.tribunal": "TAQ",
         "human.rights.tribunal": "TDP",
-        "municipal.courts": "QCCCM"
+        "municipal.courts": "QCCM"
       }
     },
     "ca:sk": {
