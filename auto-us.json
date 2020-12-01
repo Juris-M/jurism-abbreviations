@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-09-07 08:44:28 UTC",
+  "version": "2020-12-01 10:46:28 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1653,7 +1653,13 @@
         "court.appeals": "Tenn. Ct. App.",
         "court.criminal.appeals": "Tenn. Crim. App.",
         "superior.court.law.equity": "Tenn. Super. Ct. L. & Eq.",
-        "supreme.court": "Tenn."
+        "supreme.court": "Tenn.",
+        "cwcc": "Tenn. Ct. Work. Comp. Cl.",
+        "wcab": "Tenn. Work. Comp. App. Bd."
+      },
+      "institution-entire": {
+        "cwcc": "TN WC",
+        "wcab": "TN WC App."
       }
     },
     "us:tn.d": {
