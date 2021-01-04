@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2020-12-06 12:17:39 UTC",
+  "version": "2021-01-03 01:17:27 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -1197,12 +1197,13 @@
       "container-title": {
         "Ill. App.": "!authority>>>Ill. App.",
         "Ill. App. 2d": "!authority>>>Ill. App. 2d",
-        "Ill. App. 3d": "!authority>>>Ill. App. 3d"
+        "Ill. App. 3d": "!authority>>>Ill. App. 3d",
+        "Ill. Dec.": "!authority:Ill.>>>Ill. Dec."
       }
     },
     "us:il:d1": {
       "institution-part": {
-        "appellate.court": "First District App. Ct."
+        "appellate.court": "Ill. App. Ct."
       },
       "institution-entire": {
         "appellate.court": "IL App (1st)"
@@ -1210,7 +1211,7 @@
     },
     "us:il:d2": {
       "institution-part": {
-        "appellate.court": "Second District App. Ct."
+        "appellate.court": "Ill. App. Ct."
       },
       "institution-entire": {
         "appellate.court": "Il App (2d)"
@@ -1218,7 +1219,7 @@
     },
     "us:il:d3": {
       "institution-part": {
-        "appellate.court": "Third District App. Ct."
+        "appellate.court": "Ill. App. Ct."
       },
       "institution-entire": {
         "appellate.court": "IL App (3d)"
@@ -1226,7 +1227,7 @@
     },
     "us:il:d4": {
       "institution-part": {
-        "appellate.court": "Fourth District App. Ct."
+        "appellate.court": "Ill. App. Ct."
       },
       "institution-entire": {
         "appellate.court": "IL App (4th)"
@@ -1234,7 +1235,7 @@
     },
     "us:il:d5": {
       "institution-part": {
-        "appellate.court": "Fifth District App. Ct."
+        "appellate.court": "Ill. App. Ct."
       },
       "institution-entire": {
         "appellate.court": "IL App (5th)"
@@ -1613,8 +1614,8 @@
         "commonwealth.court": "Pa. Commw. Ct.",
         "court.judicial.discipline": "Pa. Ct. Jud. Disc.",
         "special.tribunal": "Spec. Trib.",
-        "superior.court": "Pa.",
-        "supreme.court": "Pa. Sup. Ct."
+        "superior.court": "Pa. Super. Ct.",
+        "supreme.court": "Pa."
       },
       "institution-entire": {
         "superior.court": "PA Super"
