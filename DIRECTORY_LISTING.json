@@ -439,10 +439,11 @@
   {
     "filename": "auto-es.json",
     "name": "Abbreviations: Spain legal",
-    "version": "2020-10-30 01:03:27 UTC",
+    "version": "2021-01-25 11:17:57 UTC",
     "jurisdiction": "es",
     "variants": {
-      "enIBFD": "2020-10-30 01:03:27 UTC"
+      "en": "2021-01-25 11:17:57 UTC",
+      "enIBFD": "2021-01-25 11:17:57 UTC"
     }
   },
   {
@@ -1461,8 +1462,11 @@
   },
   {
     "filename": "auto-zz.json",
-    "name": "Abbreviations: Atlantis legal",
-    "version": "2019-08-19 12:16:29 UTC",
-    "jurisdiction": "zz"
+    "name": "Abbreviations: Laputa legal",
+    "version": "2021-01-16 08:00:47 UTC",
+    "jurisdiction": "zz",
+    "variants": {
+      "fr": "2021-01-16 06:56:20 UTC"
+    }
   }
 ]

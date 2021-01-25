@@ -1,7 +1,7 @@
 {
   "filename": "auto-es-enIBFD.json",
   "name": "Spain",
-  "version": "2020-10-30 01:03:27 UTC",
+  "version": "2021-01-25 11:17:57 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -142,12 +142,11 @@
         "ES:ASTURIAS:OVIEDO:VALDES": "Valdés",
         "ES:ISLAS.BALEARES": "Islas Baleares",
         "ES:ISLAS.BALEARES:PALMA.MALLORCA": "Palma de Mallorca",
-        "ES:ISLAS.BALEARES:PALMA.MALLORCA:PALMA.MALLORCA": "Palma de Mallorca",
-        "ES:ISLAS.BALEARES:PALMA.MALLORCA:EIVISSA": "Eivissa",
-        "ES:ISLAS.BALEARES:PALMA.MALLORCA:CIUTADELLA.MENORCA": "Ciutadella de Menorca",
-        "ES:ISLAS.BALEARES:PALMA.MALLORCA:INCA": "Inca",
-        "ES:ISLAS.BALEARES:PALMA.MALLORCA:MANACOR": "Manacor",
-        "ES:ISLAS.BALEARES:PALMA.MALLORCA:MAO.MAHON": "Maó-Mahón",
+        "ES:ISLAS.BALEARES:EIVISSA": "Eivissa",
+        "ES:ISLAS.BALEARES:CIUTADELLA.MENORCA": "Ciutadella de Menorca",
+        "ES:ISLAS.BALEARES:INCA": "Inca",
+        "ES:ISLAS.BALEARES:MANACOR": "Manacor",
+        "ES:ISLAS.BALEARES:MAO.MAHON": "Maó-Mahón",
         "ES:CANARIAS": "Canarias",
         "ES:CANARIAS:PALMAS": "Las Palmas",
         "ES:CANARIAS:PALMAS:PALMAS": "Las Palmas",
@@ -509,14 +508,18 @@
         "rmc": "Registro Mercantil Central",
         "dgrn": "Dirección General de los Registros y del Notariado",
         "tc": "Tribunal Constitucional",
-        "teac": "TEAC [Central Economic-Administrative Court]"
+        "teac": "TEAC [Central Economic-Administrative Court]",
+        "an": "AN [National Court]",
+        "tmc": "Tribunal Militar Central"
       },
       "institution-entire": {
         "ts": "TS",
         "rmc": "RMC",
         "dgrn": "DGRN",
         "tc": "TC",
-        "teac": "TEAC"
+        "teac": "TEAC",
+        "an": "AN",
+        "tmc": "TMC"
       }
     },
     "es:andalucia": {
@@ -1607,21 +1610,15 @@
     },
     "es:islas.baleares": {
       "institution-part": {
-        "tsj": "TSJ Islas Baleares [High Court of Justice]"
+        "tsj": "TSJ Islas Baleares [High Court of Justice]",
+        "ap": "AP Islas Baleares [Provincial Court]"
       },
       "institution-entire": {
-        "tsj": "TSJ Islas Baleares"
+        "tsj": "TSJ Islas Baleares",
+        "ap": "AP Islas Baleares"
       }
     },
     "es:islas.baleares:palma.mallorca": {
-      "institution-part": {
-        "ap": "AP Palma de Mallorca [Provincial Court]"
-      },
-      "institution-entire": {
-        "ap": "AP Palma de Mallorca"
-      }
-    },
-    "es:islas.baleares:palma.mallorca:palma.mallorca": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Palma de Mallorca",
         "jpi": "Juzgado de 1ª Instancia de Palma de Mallorca"
@@ -1631,7 +1628,7 @@
         "jpi": "JPI Palma de Mallorca"
       }
     },
-    "es:islas.baleares:palma.mallorca:eivissa": {
+    "es:islas.baleares:eivissa": {
       "institution-part": {
         "jpi": "Juzgado de 1ª Instancia de Eivissa"
       },
@@ -1639,7 +1636,7 @@
         "jpi": "JPI Eivissa"
       }
     },
-    "es:islas.baleares:palma.mallorca:ciutadella.menorca": {
+    "es:islas.baleares:ciutadella.menorca": {
       "institution-part": {
         "jpi": "Juzgado de 1ª Instancia de Ciutadella de Menorca"
       },
@@ -1647,7 +1644,7 @@
         "jpi": "JPI Ciutadella de Menorca"
       }
     },
-    "es:islas.baleares:palma.mallorca:inca": {
+    "es:islas.baleares:inca": {
       "institution-part": {
         "jpi": "Juzgado de 1ª Instancia de Inca"
       },
@@ -1655,7 +1652,7 @@
         "jpi": "JPI Inca"
       }
     },
-    "es:islas.baleares:palma.mallorca:manacor": {
+    "es:islas.baleares:manacor": {
       "institution-part": {
         "jpi": "Juzgado de 1ª Instancia de Manacor"
       },
@@ -1663,7 +1660,7 @@
         "jpi": "JPI Manacor"
       }
     },
-    "es:islas.baleares:palma.mallorca:mao.mahon": {
+    "es:islas.baleares:mao.mahon": {
       "institution-part": {
         "jpi": "Juzgado de 1ª Instancia de Maó-Mahón"
       },
