@@ -1,7 +1,7 @@
 {
   "filename": "auto-de-enIBFD.json",
   "name": "Germany",
-  "version": "2020-10-30 01:03:27 UTC",
+  "version": "2021-01-27 04:48:22 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -737,17 +737,18 @@
         "DE:RHEINLAND.PFALZ:ZWEIBRUCKEN:ZWEIBRUCKEN:LANDSTUHL": "Landstuhl",
         "DE:RHEINLAND.PFALZ:ZWEIBRUCKEN:ZWEIBRUCKEN:PIRMASENS": "Pirmasens",
         "DE:RHEINLAND.PFALZ:ZWEIBRUCKEN:ZWEIBRUCKEN:ZWEIBRUCKEN": "Zweibrücken",
-        "DE:SAARLAND": "Saarbrücken",
-        "DE:SAARLAND:HOMBURG": "Homburg",
-        "DE:SAARLAND:INGBERT": "Ingbert",
-        "DE:SAARLAND:LEBACH": "Lebach",
-        "DE:SAARLAND:MERZIG": "Merzig",
-        "DE:SAARLAND:NEUNKIRCHEN": "Neunkirchen",
-        "DE:SAARLAND:OTTWEILER": "Ottweiler",
+        "DE:SAARLAND": "Saarland",
         "DE:SAARLAND:SAARBRUCKEN": "Saarbrücken",
-        "DE:SAARLAND:SAARLOUIS": "Saarlouis",
-        "DE:SAARLAND:VOLKLINGEN": "Völklingen",
-        "DE:SAARLAND:WENDEL": "Wendel",
+        "DE:SAARLAND:SAARBRUCKEN:HOMBURG": "Homburg",
+        "DE:SAARLAND:SAARBRUCKEN:INGBERT": "Ingbert",
+        "DE:SAARLAND:SAARBRUCKEN:LEBACH": "Lebach",
+        "DE:SAARLAND:SAARBRUCKEN:MERZIG": "Merzig",
+        "DE:SAARLAND:SAARBRUCKEN:NEUNKIRCHEN": "Neunkirchen",
+        "DE:SAARLAND:SAARBRUCKEN:OTTWEILER": "Ottweiler",
+        "DE:SAARLAND:SAARBRUCKEN:SAARBRUCKEN": "Saarbrücken",
+        "DE:SAARLAND:SAARBRUCKEN:SAARLOUIS": "Saarlouis",
+        "DE:SAARLAND:SAARBRUCKEN:VOLKLINGEN": "Völklingen",
+        "DE:SAARLAND:SAARBRUCKEN:WENDEL": "Wendel",
         "DE:SACHSEN": "Sachsen",
         "DE:SACHSEN.ANHALT": "Sachsen-Anhalt",
         "DE:SACHSEN.ANHALT:DESSAU.ROSSLAU": "Dessau-Roßlau",
@@ -879,9 +880,10 @@
     },
     "de": {
       "institution-part": {
-        "bag": "Bundesarbeitsgericht",
+        "bag": "BAGE",
+        "bdig": "Bundesdisziplinargericht",
         "bfh": "BFH [Federal Tax Court]",
-        "bgh": "Bundesgerichtshof",
+        "bgh": "BGH [Federal Court of Justice]",
         "bgh~zs1": "Bundesgerichtshof|Zivilsenate I",
         "bgh~zs2": "Bundesgerichtshof|Zivilsenate II",
         "bgh~zs3": "Bundesgerichtshof|Zivilsenate III",
@@ -897,12 +899,12 @@
         "bgh~ss1": "Bundesgerichtshof|Strafsenate 1",
         "bgh~ss2": "Bundesgerichtshof|Strafsenate 2",
         "bgh~ss3": "Bundesgerichtshof|Strafsenate 3",
-        "bpatg": "Bundespatentgericht",
-        "bsg": "Bundessozialgericht",
-        "bverfg": "Bundesverfassungsgericht",
+        "bpatg": "BPatGE",
+        "bsg": "BSGE",
+        "bverfg": "BVerfG [Federal Constitutional Court]",
         "bverfg~1": "Bundesverfassungsgericht|Erster Senat",
         "bverfg~2": "Bundesverfassungsgericht|Zweiter Senat",
-        "bverwg": "Bundesverwaltungsgericht",
+        "bverwg": "BVerwGE",
         "bverwg~1": "Bundesverwaltungsgericht|1. Revisionssenat",
         "bverwg~2": "Bundesverwaltungsgericht|2. Revisionssenat",
         "bverwg~3": "Bundesverwaltungsgericht|3. Revisionssenat",
@@ -919,6 +921,7 @@
       },
       "institution-entire": {
         "bag": "BAG",
+        "bdig": "BDiG",
         "bfh": "BFH",
         "bgh": "BGH",
         "bgh~zs1": "I ",
@@ -955,6 +958,19 @@
         "gms-ogb": "GmS-OGB",
         "trdg.nord": "TDG Nord",
         "trdg.sud": "TDG Süd"
+      },
+      "container-title": {
+        "BAGE": "#1!authority>>>BAGE",
+        "BFHE": "#1!authority>>>BFHE",
+        "BGHZ": "#1!authority>>>BGHZ",
+        "BGHSt": "#1!authority>>>BGHSt",
+        "BPatGE": "#1!authority>>>BPatGE",
+        "BSGE": "#1!authority>>>BSGE",
+        "BVerfGE": "#1!authority>>>BVerfGE",
+        "BVerwGE": "#1!authority>>>BVerwGE",
+        "AP": "#2>>>AP",
+        "Buchholz": "#2>>>Buchholz",
+        "LM": "#2>>>LM"
       }
     },
     "de:baden.wurttemberg": {
@@ -962,6 +978,7 @@
         "fg": "FG Baden-Württemberg [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lsg": "Landessozialgericht",
+        "stgh": "Staatsgerichtshof",
         "verfgh": "Verfassungsgerichtshof",
         "vgh": "Verwaltungsgerichtshof"
       },
@@ -969,8 +986,9 @@
         "fg": "FG Baden-Württemberg",
         "lag": "LAG Baden-Württemberg",
         "lsg": "LSG Baden-Württemberg",
+        "stgh": "StGH Baden-Württemberg",
         "verfgh": "VerfGH Baden-Württemberg",
-        "vgh": "VGH Baden-Württemberg"
+        "vgh": "VGH Mannheim"
       }
     },
     "de:baden.wurttemberg:freiburg": {
@@ -2096,7 +2114,7 @@
         "bayoblg": "BayObLG",
         "lsg": "LSG Bayern",
         "verfgh": "VerfGH Bayern",
-        "vgh": "VGH Bayern"
+        "vgh": "VGH München"
       }
     },
     "de:bayern:ansbach": {
@@ -2858,7 +2876,7 @@
       },
       "institution-entire": {
         "arbg": "ArbG Nürnberg",
-        "lg": "LG Nürnberg"
+        "lg": "LG Nürnberg-Fürth"
       }
     },
     "de:bayern:nurnberg:nurnberg:erlangen": {
@@ -3013,13 +3031,21 @@
     },
     "de:berlin": {
       "institution-part": {
+        "fg": "FG Berlin [Tax Court]",
         "kg": "Kammergericht",
+        "lag": "Landesarbeitsgericht",
         "lg": "Landgericht",
+        "lsg": "Landessozialgericht",
+        "ovg": "Oberverwaltungsgericht",
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
+        "fg": "FG Berlin",
         "kg": "KG",
+        "lag": "LAG Berlin",
         "lg": "LG Berlin",
+        "lsg": "LSG Berlin",
+        "ovg": "OVG Berlin",
         "verfgh": "VerfGH Berlin"
       }
     },
@@ -3201,11 +3227,19 @@
     },
     "de:brandenburg": {
       "institution-part": {
+        "fg": "FG Brandenburg [Tax Court]",
+        "lag": "Landesarbeitsgericht",
+        "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
+        "ovg": "Oberverwaltungsgericht",
         "verfg": "Verfassungsgericht"
       },
       "institution-entire": {
+        "fg": "FG Brandenburg",
+        "lag": "LAG Brandenburg",
+        "lsg": "LSG Brandenburg",
         "olg": "OLG Brandenburg",
+        "ovg": "OVG Frankfurt (Oder)",
         "verfg": "VerfG Brandenburg"
       }
     },
@@ -3439,6 +3473,7 @@
         "fg": "FG Bremen [Tax Court]",
         "lag": "Landesarbeitsgericht",
         "lg": "Landgericht",
+        "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
         "ovg": "Oberverwaltungsgericht",
         "stgh": "Staatsgerichtshof",
@@ -3449,6 +3484,7 @@
         "fg": "FG Bremen",
         "lag": "LAG Bremen",
         "lg": "LG Bremen",
+        "lsg": "LSG Bremen",
         "olg": "OLG Bremen",
         "ovg": "OVG Bremen",
         "stgh": "StGH Bremen",
@@ -3582,9 +3618,9 @@
         "fg": "FG Hessen",
         "lag": "LAG Hessen",
         "lsg": "LSG Hessen",
-        "olg": "OLG Hessen",
+        "olg": "OLG Frankfurt a. M.",
         "stgh": "StGH Hessen",
-        "vgh": "VGH Hessen"
+        "vgh": "VGH Kassel"
       }
     },
     "de:hessen:darmstadt": {
@@ -3697,10 +3733,10 @@
         "vg": "Verwaltungsgericht"
       },
       "institution-entire": {
-        "arbg": "ArbG Frankfurt am Main",
-        "lg": "LG Frankfurt am Main",
-        "sg": "SG Frankfurt am Main",
-        "vg": "VG Frankfurt am Main"
+        "arbg": "ArbG Frankfurt a. M.",
+        "lg": "LG Frankfurt a. M.",
+        "sg": "SG Frankfurt a. M.",
+        "vg": "VG Frankfurt a. M."
       }
     },
     "de:hessen:frankfurt.am.main:bad.homburg": {
@@ -4045,8 +4081,8 @@
         "lag": "LAG Mecklenburg-Vorpommern",
         "lsg": "LSG Mecklenburg-Vorpommern",
         "lverfg": "LVerfG Mecklenburg-Vorpommern",
-        "olg": "OLG Mecklenburg-Vorpommern",
-        "ovg": "OVG Mecklenburg-Vorpommern"
+        "olg": "OLG Rostock",
+        "ovg": "OVG Greifswald"
       }
     },
     "de:mecklenburg.vorpommern:greifswald": {
@@ -4189,13 +4225,15 @@
       "institution-part": {
         "fg": "FG Niedersachsen [Tax Court]",
         "lag": "Landesarbeitsgericht",
+        "lsg": "Landessozialgericht",
         "ovg": "Oberverwaltungsgericht",
         "stgh": "Staatsgerichtshof"
       },
       "institution-entire": {
         "fg": "FG Niedersachsen",
         "lag": "LAG Niedersachsen",
-        "ovg": "OVG Niedersachsen",
+        "lsg": "LSG Niedersachsen",
+        "ovg": "OVG Lüneburg",
         "stgh": "StGH Niedersachsen"
       }
     },
@@ -5155,7 +5193,7 @@
       },
       "institution-entire": {
         "lsg": "LSG Nordrhein-Westfalen",
-        "ovg": "OVG Nordrhein-Westfalen",
+        "ovg": "OVG Münster",
         "verfgh": "VerfGH Nordrhein-Westfalen"
       }
     },
@@ -6607,7 +6645,7 @@
         "fg": "FG Rheinland-Pfalz",
         "lag": "LAG Rheinland-Pfalz",
         "lsg": "LSG Rheinland-Pfalz",
-        "ovg": "OVG Rheinland-Pfalz",
+        "ovg": "OVG Koblenz",
         "verfgh": "VerfGH Rheinland-Pfalz"
       }
     },
@@ -7123,31 +7161,37 @@
     },
     "de:saarland": {
       "institution-part": {
-        "arbg": "Arbeitsgericht",
-        "fg": "FG Saarbrücken [Tax Court]",
+        "fg": "FG Saarland [Tax Court]",
         "lag": "Landesarbeitsgericht",
-        "lg": "Landgericht",
         "lsg": "Landessozialgericht",
         "olg": "Oberlandesgericht",
         "ovg": "Oberverwaltungsgericht",
+        "verfgh": "Verfassungsgerichtshof"
+      },
+      "institution-entire": {
+        "fg": "FG Saarland",
+        "lag": "LAG Saarland",
+        "lsg": "LSG Saarland",
+        "olg": "OLG Saarbrücken",
+        "ovg": "OVG Saarlouis",
+        "verfgh": "VerfGH Saarland"
+      }
+    },
+    "de:saarland:saarbrucken": {
+      "institution-part": {
+        "arbg": "Arbeitsgericht",
+        "lg": "Landgericht",
         "sg": "Sozialgericht",
-        "verfgh": "Verfassungsgerichtshof",
         "vg": "Verwaltungsgericht"
       },
       "institution-entire": {
         "arbg": "ArbG Saarbrücken",
-        "fg": "FG Saarbrücken",
-        "lag": "LAG Saarbrücken",
         "lg": "LG Saarbrücken",
-        "lsg": "LSG Saarbrücken",
-        "olg": "OLG Saarbrücken",
-        "ovg": "OVG Saarbrücken",
         "sg": "SG Saarbrücken",
-        "verfgh": "VerfGH Saarbrücken",
         "vg": "VG Saarbrücken"
       }
     },
-    "de:saarland:homburg": {
+    "de:saarland:saarbrucken:homburg": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7155,7 +7199,7 @@
         "ag": "AG Homburg"
       }
     },
-    "de:saarland:ingbert": {
+    "de:saarland:saarbrucken:ingbert": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7163,7 +7207,7 @@
         "ag": "AG Ingbert"
       }
     },
-    "de:saarland:lebach": {
+    "de:saarland:saarbrucken:lebach": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7171,7 +7215,7 @@
         "ag": "AG Lebach"
       }
     },
-    "de:saarland:merzig": {
+    "de:saarland:saarbrucken:merzig": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7179,7 +7223,7 @@
         "ag": "AG Merzig"
       }
     },
-    "de:saarland:neunkirchen": {
+    "de:saarland:saarbrucken:neunkirchen": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7187,7 +7231,7 @@
         "ag": "AG Neunkirchen"
       }
     },
-    "de:saarland:ottweiler": {
+    "de:saarland:saarbrucken:ottweiler": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7195,7 +7239,7 @@
         "ag": "AG Ottweiler"
       }
     },
-    "de:saarland:saarbrucken": {
+    "de:saarland:saarbrucken:saarbrucken": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7203,7 +7247,7 @@
         "ag": "AG Saarbrücken"
       }
     },
-    "de:saarland:saarlouis": {
+    "de:saarland:saarbrucken:saarlouis": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7211,7 +7255,7 @@
         "ag": "AG Saarlouis"
       }
     },
-    "de:saarland:volklingen": {
+    "de:saarland:saarbrucken:volklingen": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7219,7 +7263,7 @@
         "ag": "AG Völklingen"
       }
     },
-    "de:saarland:wendel": {
+    "de:saarland:saarbrucken:wendel": {
       "institution-part": {
         "ag": "Amtsgericht"
       },
@@ -7240,8 +7284,8 @@
         "fg": "FG Sachsen",
         "lag": "LAG Sachsen",
         "lsg": "LSG Sachsen",
-        "olg": "OLG Sachsen",
-        "ovg": "OVG Sachsen",
+        "olg": "OLG Dresden",
+        "ovg": "OVG Bautzen",
         "verfgh": "VerfGH Sachsen"
       }
     },
@@ -7259,8 +7303,8 @@
         "lag": "LAG Sachsen-Anhalt",
         "lsg": "LSG Sachsen-Anhalt",
         "lverfg": "LVerfG Sachsen-Anhalt",
-        "olg": "OLG Sachsen-Anhalt",
-        "ovg": "OVG Sachsen-Anhalt"
+        "olg": "OLG Naumburg",
+        "ovg": "OVG Magdeburg"
       }
     },
     "de:sachsen.anhalt:dessau.rosslau": {
@@ -7795,8 +7839,8 @@
         "lag": "LAG Schleswig-Holstein",
         "lsg": "LSG Schleswig-Holstein",
         "lverfg": "LVerfG Schleswig-Holstein",
-        "olg": "OLG Schleswig-Holstein",
-        "ovg": "OVG Schleswig-Holstein"
+        "olg": "OLG Schleswig",
+        "ovg": "OVG Schleswig"
       }
     },
     "de:schleswig.holstein:elmshorn": {
@@ -8058,8 +8102,8 @@
         "fg": "FG Thüringen",
         "lag": "LAG Thüringen",
         "lsg": "LSG Thüringen",
-        "olg": "OLG Thüringen",
-        "ovg": "OVG Thüringen",
+        "olg": "OLG Jena",
+        "ovg": "OVG Weimar",
         "verfgh": "VerfGH Thüringen"
       }
     },

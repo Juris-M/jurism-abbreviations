@@ -1,20 +1,20 @@
 {
-  "filename": "auto-zz.json",
+  "filename": "auto-zz-fr.json",
   "name": "Laputa",
   "version": "2021-01-27 04:48:22 UTC",
   "xdata": {
     "default": {
       "place": {
-        "ZZ": "Lap.",
+        "ZZ": "Láp.",
         "ZZ:ATL": "Atl."
       }
     },
     "zz": {
       "institution-part": {
-        "sc": "Sup. Ct."
+        "sc": "Cour sup."
       },
       "institution-entire": {
-        "sc": "SC"
+        "sc": "CS"
       },
       "container-title": {
         "Laputa Reports": "!authority>>>Lap. Rep."
@@ -22,7 +22,7 @@
     },
     "zz:atl": {
       "institution-part": {
-        "ca": "Atl. Ct. App."
+        "ca": "Cour d'app. Atlantienne"
       },
       "institution-entire": {
         "ca": "ATLCA"

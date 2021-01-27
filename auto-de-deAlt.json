@@ -1,12 +1,11 @@
 {
-  "filename": "auto-de.json",
+  "filename": "auto-de-deAlt.json",
   "name": "Germany",
   "version": "2021-01-27 04:48:22 UTC",
   "xdata": {
     "default": {
       "place": {
         "DE": "Germany",
-        "DE:BADEN.WURTTEMBERG": "Baden-Württemberg",
         "DE:BADEN.WURTTEMBERG:FREIBURG": "Freiburg",
         "DE:BADEN.WURTTEMBERG:HEILBRONN": "Heilbronn",
         "DE:BADEN.WURTTEMBERG:KARLSRUHE": "Karlsruhe",
@@ -254,8 +253,6 @@
         "DE:BAYERN:NURNBERG:WURZBURG": "Würzburg",
         "DE:BAYERN:REGENSBURG": "Regensburg",
         "DE:BAYERN:WURZBURG": "Würzburg",
-        "DE:BERLIN": "Berlin",
-        "DE:BERLIN.BRANDENBURG": "Berlin-Brandenburg",
         "DE:BERLIN.BRANDENBURG:BERLIN": "Berlin",
         "DE:BERLIN.BRANDENBURG:BRANDENBURG": "Brandenburg",
         "DE:BERLIN.BRANDENBURG:COTTBUS": "Cottbus",
@@ -274,7 +271,6 @@
         "DE:BERLIN:TEMPELHOF.KREUZBERG": "Tempelhof-Kreuzberg",
         "DE:BERLIN:TIERGARTEN": "Tiergarten",
         "DE:BERLIN:WEDDING": "Wedding",
-        "DE:BRANDENBURG": "Brandenburg",
         "DE:BRANDENBURG:COTTBUS": "Cottbus",
         "DE:BRANDENBURG:COTTBUS:BAD.LIEBENWERDA": "Bad Liebenwerda",
         "DE:BRANDENBURG:COTTBUS:COTTBUS": "Cottbus",
@@ -303,11 +299,9 @@
         "DE:BRANDENBURG:POTSDAM:POTSDAM": "Potsdam",
         "DE:BRANDENBURG:POTSDAM:RATHENOW": "Rathenow",
         "DE:BRANDENBURG:POTSDAM:ZOSSEN": "Zossen",
-        "DE:BREMEN": "Bremen",
         "DE:BREMEN:BREMEN": "Bremen",
         "DE:BREMEN:BREMEN.BLUMENTHAL": "Bremen Blumenthal",
         "DE:BREMEN:BREMERHAVEN": "Bremerhaven",
-        "DE:HAMBURG": "Hamburg",
         "DE:HAMBURG:HAMBURG": "Hamburg",
         "DE:HAMBURG:HAMBURG.ALTONA": "Hamburg-Altona",
         "DE:HAMBURG:HAMBURG.BARMBEK": "Hamburg Barmbek",
@@ -316,7 +310,6 @@
         "DE:HAMBURG:HAMBURG.HARBURG": "Hamburg-Harburg",
         "DE:HAMBURG:HAMBURG.ST.GEORG": "Hamburg-St Georg",
         "DE:HAMBURG:HAMBURG.WANDSBEK": "Hamburg-Wandsbek",
-        "DE:HESSEN": "Hessen",
         "DE:HESSEN:DARMSTADT": "Darmstadt",
         "DE:HESSEN:DARMSTADT:BENSHEIM": "Bensheim",
         "DE:HESSEN:DARMSTADT:DARMSTADT": "Darmstadt",
@@ -368,7 +361,6 @@
         "DE:HESSEN:WIESBADEN:IDSTEIN": "Idstein",
         "DE:HESSEN:WIESBADEN:RUDESHEIM.AM.RHEIN": "Rüdesheim am Rhein",
         "DE:HESSEN:WIESBADEN:WIESBADEN": "Wiesbaden",
-        "DE:MECKLENBURG.VORPOMMERN": "Mecklenburg-Vorpommern",
         "DE:MECKLENBURG.VORPOMMERN:GREIFSWALD": "Greifswald",
         "DE:MECKLENBURG.VORPOMMERN:NEUBRANDENBURG": "Neubrandenburg",
         "DE:MECKLENBURG.VORPOMMERN:NEUBRANDENBURG:NEUBRANDENBURG": "Neubrandenburg",
@@ -384,8 +376,6 @@
         "DE:MECKLENBURG.VORPOMMERN:STRALSUND": "Stralsund",
         "DE:MECKLENBURG.VORPOMMERN:STRALSUND:GREIFSWALD": "Greifswald",
         "DE:MECKLENBURG.VORPOMMERN:STRALSUND:STRALSUND": "Stralsund",
-        "DE:NIEDERSACHSEN": "Niedersachsen",
-        "DE:NIEDERSACHSEN.BREMEN": "Niedersachsen-Bremen",
         "DE:NIEDERSACHSEN.BREMEN:AURICH": "Aurich",
         "DE:NIEDERSACHSEN.BREMEN:BRAUNSCHWEIG": "Braunschweig",
         "DE:NIEDERSACHSEN.BREMEN:BREMEN": "Bremen",
@@ -501,7 +491,6 @@
         "DE:NIEDERSACHSEN:STADE": "Stade",
         "DE:NIEDERSACHSEN:VERDEN": "Verden",
         "DE:NIEDERSACHSEN:WILHELMSHAVEN": "Wilhelmshaven",
-        "DE:NORDRHEIN.WESTFALEN": "Nordrhein-Westfalen",
         "DE:NORDRHEIN.WESTFALEN:AACHEN": "Aachen",
         "DE:NORDRHEIN.WESTFALEN:ARNSBERG": "Arnsberg",
         "DE:NORDRHEIN.WESTFALEN:DETMOLD": "Detmold",
@@ -674,7 +663,6 @@
         "DE:NORDRHEIN.WESTFALEN:KOLN:SIEGBURG": "Siegburg",
         "DE:NORDRHEIN.WESTFALEN:MINDEN": "Minden",
         "DE:NORDRHEIN.WESTFALEN:MUNSTER": "Münster",
-        "DE:RHEINLAND.PFALZ": "Rheinland-Pfalz",
         "DE:RHEINLAND.PFALZ:KAISERSLAUTERN": "Kaiserslautern",
         "DE:RHEINLAND.PFALZ:KOBLENZ": "Koblenz",
         "DE:RHEINLAND.PFALZ:KOBLENZ:BAD.KREUZNACH": "Bad Kreuznach",
@@ -737,7 +725,6 @@
         "DE:RHEINLAND.PFALZ:ZWEIBRUCKEN:ZWEIBRUCKEN:LANDSTUHL": "Landstuhl",
         "DE:RHEINLAND.PFALZ:ZWEIBRUCKEN:ZWEIBRUCKEN:PIRMASENS": "Pirmasens",
         "DE:RHEINLAND.PFALZ:ZWEIBRUCKEN:ZWEIBRUCKEN:ZWEIBRUCKEN": "Zweibrücken",
-        "DE:SAARLAND": "Saarland",
         "DE:SAARLAND:SAARBRUCKEN": "Saarbrücken",
         "DE:SAARLAND:SAARBRUCKEN:HOMBURG": "Homburg",
         "DE:SAARLAND:SAARBRUCKEN:INGBERT": "Ingbert",
@@ -749,8 +736,6 @@
         "DE:SAARLAND:SAARBRUCKEN:SAARLOUIS": "Saarlouis",
         "DE:SAARLAND:SAARBRUCKEN:VOLKLINGEN": "Völklingen",
         "DE:SAARLAND:SAARBRUCKEN:WENDEL": "Wendel",
-        "DE:SACHSEN": "Sachsen",
-        "DE:SACHSEN.ANHALT": "Sachsen-Anhalt",
         "DE:SACHSEN.ANHALT:DESSAU.ROSSLAU": "Dessau-Roßlau",
         "DE:SACHSEN.ANHALT:DESSAU.ROSSLAU:BITTERFELD.WOLFEN": "Bitterfeld-Wolfen",
         "DE:SACHSEN.ANHALT:DESSAU.ROSSLAU:DESSAU.ROSSLAU": "Dessau-Roßlau",
@@ -811,7 +796,6 @@
         "DE:SACHSEN:ZWICKAU:HOHENSTEIN.ERNSTTHAL": "Hohenstein-Ernstthal",
         "DE:SACHSEN:ZWICKAU:PLAUEN": "Plauen",
         "DE:SACHSEN:ZWICKAU:ZWICKAU": "Zwickau",
-        "DE:SCHLESWIG.HOLSTEIN": "Schleswig-Holstein",
         "DE:SCHLESWIG.HOLSTEIN:ELMSHORN": "Elmshorn",
         "DE:SCHLESWIG.HOLSTEIN:FLENSBURG": "Flensburg",
         "DE:SCHLESWIG.HOLSTEIN:FLENSBURG:FLENSBURG": "Flensburg",
@@ -983,12 +967,12 @@
         "vgh": "Verwaltungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Baden-Württemberg",
-        "lag": "LAG Baden-Württemberg",
-        "lsg": "LSG Baden-Württemberg",
-        "stgh": "StGH Baden-Württemberg",
-        "verfgh": "VerfGH Baden-Württemberg",
-        "vgh": "VGH Mannheim"
+        "fg": "FG BW",
+        "lag": "LAG BW",
+        "lsg": "LSG BW",
+        "stgh": "StGH BW",
+        "verfgh": "VerfGH BW",
+        "vgh": "VGH BW"
       }
     },
     "de:baden.wurttemberg:freiburg": {
@@ -2112,9 +2096,9 @@
       },
       "institution-entire": {
         "bayoblg": "BayObLG",
-        "lsg": "LSG Bayern",
-        "verfgh": "VerfGH Bayern",
-        "vgh": "VGH München"
+        "lsg": "BayLSG",
+        "verfgh": "BayVerfGH",
+        "vgh": "BayVGH"
       }
     },
     "de:bayern:ansbach": {
@@ -3040,13 +3024,13 @@
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Berlin",
+        "fg": "FG Bln",
         "kg": "KG",
-        "lag": "LAG Berlin",
-        "lg": "LG Berlin",
-        "lsg": "LSG Berlin",
-        "ovg": "OVG Berlin",
-        "verfgh": "VerfGH Berlin"
+        "lag": "LAG Bln",
+        "lg": "LG Bln",
+        "lsg": "LSG Bln",
+        "ovg": "OVG Bln",
+        "verfgh": "VerfGH Bln"
       }
     },
     "de:berlin.brandenburg": {
@@ -3057,10 +3041,10 @@
         "ovg": "Oberverwaltungsgericht"
       },
       "institution-entire": {
-        "fg": "FG Berlin-Brandenburg",
-        "lag": "LAG Berlin-Brandenburg",
-        "lsg": "LSG Berlin-Brandenburg",
-        "ovg": "OVG Berlin-Brandenburg"
+        "fg": "FG Bln-Bbg",
+        "lag": "LAG Bln-Bbg",
+        "lsg": "LSG Bln-Bbg",
+        "ovg": "OVG Bln-Bbg"
       }
     },
     "de:berlin.brandenburg:berlin": {
@@ -3235,12 +3219,12 @@
         "verfg": "Verfassungsgericht"
       },
       "institution-entire": {
-        "fg": "FG Brandenburg",
-        "lag": "LAG Brandenburg",
-        "lsg": "LSG Brandenburg",
-        "olg": "OLG Brandenburg",
-        "ovg": "OVG Frankfurt (Oder)",
-        "verfg": "VerfG Brandenburg"
+        "fg": "FG Bbg",
+        "lag": "LAG Bbg",
+        "lsg": "LSG Bbg",
+        "olg": "OLG Bbg",
+        "ovg": "OVG Bbg",
+        "verfg": "VerfG Bbg"
       }
     },
     "de:brandenburg:cottbus": {
@@ -3480,15 +3464,15 @@
         "vg": "Verwaltungsgericht"
       },
       "institution-entire": {
-        "arbg": "ArbG Bremen",
-        "fg": "FG Bremen",
-        "lag": "LAG Bremen",
-        "lg": "LG Bremen",
-        "lsg": "LSG Bremen",
-        "olg": "OLG Bremen",
-        "ovg": "OVG Bremen",
-        "stgh": "StGH Bremen",
-        "vg": "VG Bremen"
+        "arbg": "ArbG Brem",
+        "fg": "FG Brem",
+        "lag": "LAG Brem",
+        "lg": "LG Brem",
+        "lsg": "LSG Brem",
+        "olg": "OLG Brem",
+        "ovg": "OVG Brem",
+        "stgh": "StGH Brem",
+        "vg": "VG Brem"
       }
     },
     "de:bremen:bremen": {
@@ -3529,16 +3513,16 @@
         "vg": "Verwaltungsgericht"
       },
       "institution-entire": {
-        "arbg": "ArbG Hamburg",
-        "fg": "FG Hamburg",
-        "lag": "LAG Hamburg",
-        "lg": "LG Hamburg",
-        "lsg": "LSG Hamburg",
-        "olg": "OLG Hamburg",
-        "ovg": "OVG Hamburg",
-        "sg": "SG Hamburg",
-        "verfg": "VerfG Hamburg",
-        "vg": "VG Hamburg"
+        "arbg": "ArbG Hmb",
+        "fg": "FG Hmb",
+        "lag": "LAG Hmb",
+        "lg": "LG Hmb",
+        "lsg": "LSG Hmb",
+        "olg": "OLG Hmb",
+        "ovg": "HmbOVG",
+        "sg": "SG Hmb",
+        "verfg": "HmbVerfG",
+        "vg": "VG Hmb"
       }
     },
     "de:hamburg:hamburg": {
@@ -3615,12 +3599,12 @@
         "vgh": "Verwaltungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Hessen",
-        "lag": "LAG Hessen",
-        "lsg": "LSG Hessen",
+        "fg": "HessFG",
+        "lag": "HessLAG",
+        "lsg": "HessLSG",
         "olg": "OLG Frankfurt a. M.",
-        "stgh": "StGH Hessen",
-        "vgh": "VGH Kassel"
+        "stgh": "StGH Hess",
+        "vgh": "HessVGH"
       }
     },
     "de:hessen:darmstadt": {
@@ -4077,12 +4061,12 @@
         "ovg": "Oberverwaltungsgericht"
       },
       "institution-entire": {
-        "fg": "FG Mecklenburg-Vorpommern",
-        "lag": "LAG Mecklenburg-Vorpommern",
-        "lsg": "LSG Mecklenburg-Vorpommern",
-        "lverfg": "LVerfG Mecklenburg-Vorpommern",
+        "fg": "FG MV",
+        "lag": "LAG MV",
+        "lsg": "LSG MV",
+        "lverfg": "LVerfG MV",
         "olg": "OLG Rostock",
-        "ovg": "OVG Greifswald"
+        "ovg": "OVG MV"
       }
     },
     "de:mecklenburg.vorpommern:greifswald": {
@@ -4230,11 +4214,11 @@
         "stgh": "Staatsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Niedersachsen",
-        "lag": "LAG Niedersachsen",
-        "lsg": "LSG Niedersachsen",
-        "ovg": "OVG Lüneburg",
-        "stgh": "StGH Niedersachsen"
+        "fg": "NdsFG",
+        "lag": "LAG Nds",
+        "lsg": "LSG Nds",
+        "ovg": "NdsOVG",
+        "stgh": "NdsStGH"
       }
     },
     "de:niedersachsen.bremen": {
@@ -4242,7 +4226,7 @@
         "lsg": "Landessozialgericht"
       },
       "institution-entire": {
-        "lsg": "LSG Niedersachsen-Bremen"
+        "lsg": "LSG Nds-Brem"
       }
     },
     "de:niedersachsen.bremen:aurich": {
@@ -5192,9 +5176,9 @@
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
-        "lsg": "LSG Nordrhein-Westfalen",
-        "ovg": "OVG Münster",
-        "verfgh": "VerfGH Nordrhein-Westfalen"
+        "lsg": "LSG NRW",
+        "ovg": "OVG NRW",
+        "verfgh": "VerfGH NRW"
       }
     },
     "de:nordrhein.westfalen:aachen": {
@@ -6642,11 +6626,11 @@
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Rheinland-Pfalz",
-        "lag": "LAG Rheinland-Pfalz",
-        "lsg": "LSG Rheinland-Pfalz",
-        "ovg": "OVG Koblenz",
-        "verfgh": "VerfGH Rheinland-Pfalz"
+        "fg": "FG RhPf",
+        "lag": "LAG RhPf",
+        "lsg": "LSG RhPf",
+        "ovg": "OVG RhPf",
+        "verfgh": "VerfGH RhPf"
       }
     },
     "de:rheinland.pfalz:kaiserslautern": {
@@ -7169,12 +7153,12 @@
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Saarland",
-        "lag": "LAG Saarland",
-        "lsg": "LSG Saarland",
+        "fg": "FG Saarl",
+        "lag": "LAG Saarl",
+        "lsg": "LSG Saarl",
         "olg": "OLG Saarbrücken",
-        "ovg": "OVG Saarlouis",
-        "verfgh": "VerfGH Saarland"
+        "ovg": "OVG Saarl",
+        "verfgh": "VerfGH Saarl"
       }
     },
     "de:saarland:saarbrucken": {
@@ -7281,12 +7265,12 @@
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Sachsen",
-        "lag": "LAG Sachsen",
-        "lsg": "LSG Sachsen",
+        "fg": "SächsFG",
+        "lag": "SächsLAG",
+        "lsg": "SächsLSG",
         "olg": "OLG Dresden",
-        "ovg": "OVG Bautzen",
-        "verfgh": "VerfGH Sachsen"
+        "ovg": "SächsOVG",
+        "verfgh": "VerfGH Sachs"
       }
     },
     "de:sachsen.anhalt": {
@@ -7299,12 +7283,12 @@
         "ovg": "Oberverwaltungsgericht"
       },
       "institution-entire": {
-        "fg": "FG Sachsen-Anhalt",
-        "lag": "LAG Sachsen-Anhalt",
-        "lsg": "LSG Sachsen-Anhalt",
-        "lverfg": "LVerfG Sachsen-Anhalt",
+        "fg": "FG LSA",
+        "lag": "LAG LSA",
+        "lsg": "LSG LSA",
+        "lverfg": "LVerfG LSA",
         "olg": "OLG Naumburg",
-        "ovg": "OVG Magdeburg"
+        "ovg": "OVG LSA"
       }
     },
     "de:sachsen.anhalt:dessau.rosslau": {
@@ -7835,12 +7819,12 @@
         "ovg": "Oberverwaltungsgericht"
       },
       "institution-entire": {
-        "fg": "FG Schleswig-Holstein",
-        "lag": "LAG Schleswig-Holstein",
-        "lsg": "LSG Schleswig-Holstein",
-        "lverfg": "LVerfG Schleswig-Holstein",
+        "fg": "SchlHFG",
+        "lag": "LAG SchlH",
+        "lsg": "SchlHLSG",
+        "lverfg": "SchlHLVerfG",
         "olg": "OLG Schleswig",
-        "ovg": "OVG Schleswig"
+        "ovg": "SchlHOVG"
       }
     },
     "de:schleswig.holstein:elmshorn": {
@@ -8099,12 +8083,12 @@
         "verfgh": "Verfassungsgerichtshof"
       },
       "institution-entire": {
-        "fg": "FG Thüringen",
-        "lag": "LAG Thüringen",
-        "lsg": "LSG Thüringen",
+        "fg": "ThürFG",
+        "lag": "ThürLAG",
+        "lsg": "ThürLSG",
         "olg": "OLG Jena",
-        "ovg": "OVG Weimar",
-        "verfgh": "VerfGH Thüringen"
+        "ovg": "ThürOVG",
+        "verfgh": "ThürVerfGH"
       }
     },
     "de:thuringen:altenburg": {
