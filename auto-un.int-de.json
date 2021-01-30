@@ -1,11 +1,12 @@
 {
   "filename": "auto-un.int-de.json",
   "name": "United Nations",
-  "version": "2020-10-15 22:01:48 UTC",
+  "version": "2021-01-28 09:55:01 UTC",
   "xdata": {
     "default": {
       "place": {
-        "UN.INT": "United Nations"
+        "UN.INT": "United Nations",
+        "UN.INT:UNHRC": "Human Rights Committee"
       }
     },
     "un.int": {
@@ -15,6 +16,11 @@
         "icty": "International Criminal Tribunal for the Former Yugoslavia",
         "itlos": "ISGH",
         "pca": "PCA"
+      }
+    },
+    "un.int:unhrc": {
+      "institution-part": {
+        "unhrc": "UNHRC"
       }
     }
   }
