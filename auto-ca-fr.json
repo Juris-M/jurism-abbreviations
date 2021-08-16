@@ -173,7 +173,7 @@
         "superior.court": "CS Qc",
         "court.quebec": "Qc CQ",
         "tribunal.professions": "TP Qc",
-        "quebec.admin.tribunal": "TAQ",
+        "quebec.admin.tribunal": "Qc TAQ",
         "human.rights.tribunal": "TDP Qc",
         "municipal.courts": "CM Qc"
       },
@@ -182,7 +182,7 @@
         "superior.court": "QCCS",
         "court.quebec": "QCCQ",
         "tribunal.professions": "QCTP",
-        "quebec.admin.tribunal": "TAQ",
+        "quebec.admin.tribunal": "QCTAQ",
         "human.rights.tribunal": "TDP",
         "municipal.courts": "QCCM"
       }
