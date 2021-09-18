@@ -1,7 +1,7 @@
 {
   "filename": "auto-it-enIBFD.json",
   "name": "Italy",
-  "version": "2020-10-30 01:03:27 UTC",
+  "version": "2021-09-18 10:26:52 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -202,7 +202,8 @@
         "csdc": " Cass. [Supreme Court]",
         "cs": "Consiglio di Stato",
         "cc": "C. Cost. [Constitutional Court]",
-        "ctc": "CTC [Central Tax Court]"
+        "ctc": "CTC [Central Tax Court]",
+        "scsprar": "Protection System for Refugees and Asylum Seekers Central Services"
       }
     },
     "it:abruzzo": {
@@ -951,7 +952,8 @@
         "tpm": "Tribunale per i minorenni di Perugia",
         "tds": "Tribunale di Sorveglianza di Perugia",
         "cdass": "Corte d’Assise di Perugia",
-        "cdadapp": "Corte d’Assise d’Appello di Perugia"
+        "cdadapp": "Corte d’Assise d’Appello di Perugia",
+        "ct": "Commissione Territoriale di Perugia"
       }
     },
     "it:perugia:perugia": {

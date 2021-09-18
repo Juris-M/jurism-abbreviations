@@ -1,7 +1,7 @@
 {
   "filename": "auto-fr.json",
   "name": "France",
-  "version": "2020-10-30 01:03:27 UTC",
+  "version": "2021-09-18 10:26:52 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -63,18 +63,16 @@
     "fr": {
       "institution-part": {
         "cass": "Cass.",
-        "cass~civ.1": "France civ. 1re",
-        "cass~civ.2": "France civ. 2e",
-        "cass~civ.3": "civ. 2e",
-        "cass~crim": "crim.",
-        "cass~com": "com.",
-        "cass~soc": "soc.",
-        "cass~plen": "Ass. plen.",
+        "cass~civ.1": "Cour de cassation, civ. 1re",
+        "cass~civ.2": "Cour de cassation, civ. 2e",
+        "cass~civ.3": "Cour de cassation, civ. 3e",
+        "cass~crim": "Cour de cassation, crim.",
+        "cass~com": "Cour de cassation, com.",
+        "cass~soc": "Cour de cassation, soc.",
+        "cass~plen": "Cour de cassation, ass. plen.",
         "cc": "Conseil constitutionnel",
         "ce": "Conseil d'État",
-        "ce~reunies": "France Ch. réunies",
-        "ce~sect": "France Sect.",
-        "ce~ass": "France Ass.",
+        "ce~reunies": "Conseil d'État, ch. réunies",
         "cnda": "C.N.D.A.",
         "ca": "C.A. France",
         "tsa": "T.S.A.",
