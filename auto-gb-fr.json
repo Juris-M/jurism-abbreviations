@@ -1,11 +1,11 @@
 {
-  "filename": "auto-gb.json",
+  "filename": "auto-gb-fr.json",
   "name": "United Kingdom",
   "version": "2021-09-28 19:24:09 UTC",
   "xdata": {
     "default": {
       "place": {
-        "GB": "UK",
+        "GB": "R-U",
         "GB:BERMUDA": "Bermuda",
         "GB:ENGLAND.AND.WALES": "England and Wales",
         "GB:FALKLAND.ISLANDS": "Falkland Islands",

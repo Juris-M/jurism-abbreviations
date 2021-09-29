@@ -501,8 +501,11 @@
   {
     "filename": "auto-gb.json",
     "name": "Abbreviations: United Kingdom legal",
-    "version": "2020-11-01 09:32:50 UTC",
-    "jurisdiction": "gb"
+    "version": "2021-09-28 19:24:09 UTC",
+    "jurisdiction": "gb",
+    "variants": {
+      "fr": "2021-09-28 19:24:09 UTC"
+    }
   },
   {
     "filename": "auto-gd.json",
