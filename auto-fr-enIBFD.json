@@ -1,7 +1,7 @@
 {
   "filename": "auto-fr-enIBFD.json",
   "name": "France",
-  "version": "2021-09-18 10:26:52 UTC",
+  "version": "2021-10-31 14:34:58 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -76,7 +76,8 @@
         "cnda": "C.N.D.A.",
         "ca": "C.A. France",
         "tsa": "T.S.A.",
-        "caa": "CAA France [Administrative Court of Appeals]"
+        "caa": "CAA France [Administrative Court of Appeals]",
+        "ofpra": "Office Français de Protection des Réfugiés et Apatrides"
       }
     },
     "fr:agen": {
@@ -139,7 +140,8 @@
     "fr:cayenne": {
       "institution-part": {
         "ca": "C.A. Cayenne",
-        "ta": "TA Cayenne [Administrative Tribunal]"
+        "ta": "TA Cayenne [Administrative Tribunal]",
+        "tgi": "T.G.I. de Cayenne"
       }
     },
     "fr:cergy.pontoise": {
@@ -292,7 +294,9 @@
       "institution-part": {
         "ca": "C.A. Paris",
         "caa": "CAA Paris [Administrative Court of Appeals]",
-        "ta": "TA Paris [Administrative Tribunal]"
+        "ta": "TA Paris [Administrative Tribunal]",
+        "tgi": "T.G.I. de Paris",
+        "cassises": "Cour d'Assises de Paris"
       }
     },
     "fr:pau": {
