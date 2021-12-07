@@ -1,7 +1,7 @@
 {
   "filename": "auto-es-enIBFD.json",
   "name": "Spain",
-  "version": "2021-01-25 11:17:57 UTC",
+  "version": "2021-12-07 13:51:40 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -524,7 +524,8 @@
     },
     "es:andalucia": {
       "institution-part": {
-        "tsj": "TSJ Andalucía [High Court of Justice]"
+        "tsj": "TSJ Andalucía [High Court of Justice]",
+        "tmt": "Tribunal Militar Territorial de Andalucía"
       },
       "institution-entire": {
         "tsj": "TSJ Andalucía"
@@ -532,7 +533,9 @@
     },
     "es:andalucia:almeria": {
       "institution-part": {
-        "ap": "AP Almería [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Almería",
+        "ap": "AP Almería [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Almería"
       },
       "institution-entire": {
         "ap": "AP Almería"
@@ -541,6 +544,7 @@
     "es:andalucia:almeria:almeria": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Almería",
+        "ji": "Juzgado de Instrucction de Almería",
         "jpi": "Juzgado de 1ª Instancia de Almería"
       },
       "institution-entire": {
@@ -550,6 +554,7 @@
     },
     "es:andalucia:almeria:berja": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Berja",
         "jpi": "Juzgado de 1ª Instancia de Berja"
       },
       "institution-entire": {
@@ -558,6 +563,7 @@
     },
     "es:andalucia:almeria:purchena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Purchena",
         "jpi": "Juzgado de 1ª Instancia de Purchena"
       },
       "institution-entire": {
@@ -566,6 +572,7 @@
     },
     "es:andalucia:almeria:vera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vera",
         "jpi": "Juzgado de 1ª Instancia de Vera"
       },
       "institution-entire": {
@@ -574,6 +581,7 @@
     },
     "es:andalucia:almeria:ejido": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de El Ejido",
         "jpi": "Juzgado de 1ª Instancia de El Ejido"
       },
       "institution-entire": {
@@ -582,6 +590,7 @@
     },
     "es:andalucia:almeria:roquetas.mar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Roquetas de Mar",
         "jpi": "Juzgado de 1ª Instancia de Roquetas de Mar"
       },
       "institution-entire": {
@@ -590,6 +599,7 @@
     },
     "es:andalucia:almeria:huercal.overa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Huercal Overa",
         "jpi": "Juzgado de 1ª Instancia de Huercal Overa"
       },
       "institution-entire": {
@@ -598,6 +608,7 @@
     },
     "es:andalucia:almeria:velez.rubio": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vélez Rubio",
         "jpi": "Juzgado de 1ª Instancia de Vélez Rubio"
       },
       "institution-entire": {
@@ -606,7 +617,9 @@
     },
     "es:andalucia:cadiz": {
       "institution-part": {
-        "ap": "AP Cádiz [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Cádiz",
+        "ap": "AP Cádiz [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Cádiz"
       },
       "institution-entire": {
         "ap": "AP Cádiz"
@@ -614,6 +627,7 @@
     },
     "es:andalucia:cadiz:algeciras": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Algeciras",
         "jpi": "Juzgado de 1ª Instancia de Algeciras"
       },
       "institution-entire": {
@@ -622,6 +636,7 @@
     },
     "es:andalucia:cadiz:jerez.frontera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Jeréz de la Frontera",
         "jpi": "Juzgado de 1ª Instancia de Jeréz de la Frontera"
       },
       "institution-entire": {
@@ -630,6 +645,7 @@
     },
     "es:andalucia:cadiz:puerto.santa.maria": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de El puerto de Santa María",
         "jpi": "Juzgado de 1ª Instancia de El puerto de Santa María"
       },
       "institution-entire": {
@@ -638,6 +654,7 @@
     },
     "es:andalucia:cadiz:arcos.frontera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arcos de la Frontera",
         "jpi": "Juzgado de 1ª Instancia de Arcos de la Frontera"
       },
       "institution-entire": {
@@ -646,6 +663,7 @@
     },
     "es:andalucia:cadiz:barbate": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Barbate",
         "jpi": "Juzgado de 1ª Instancia de Barbate"
       },
       "institution-entire": {
@@ -654,6 +672,7 @@
     },
     "es:andalucia:cadiz:puerto.real": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puerto Real",
         "jpi": "Juzgado de 1ª Instancia de Puerto Real"
       },
       "institution-entire": {
@@ -662,6 +681,7 @@
     },
     "es:andalucia:cadiz:san.roque": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Roque",
         "jpi": "Juzgado de 1ª Instancia de San Roque"
       },
       "institution-entire": {
@@ -670,6 +690,7 @@
     },
     "es:andalucia:cadiz:chiclana.frontera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Chiclana de la Frontera",
         "jpi": "Juzgado de 1ª Instancia de Chiclana de la Frontera"
       },
       "institution-entire": {
@@ -678,6 +699,7 @@
     },
     "es:andalucia:cadiz:rota": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Rota",
         "jpi": "Juzgado de 1ª Instancia de Rota"
       },
       "institution-entire": {
@@ -686,6 +708,7 @@
     },
     "es:andalucia:cadiz:sanlucar.barrameda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sanlúcar de Barrameda",
         "jpi": "Juzgado de 1ª Instancia de Sanlúcar de Barrameda"
       },
       "institution-entire": {
@@ -694,6 +717,7 @@
     },
     "es:andalucia:cadiz:linea.concepcion": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La línea de la Concepción",
         "jpi": "Juzgado de 1ª Instancia de La línea de la Concepción"
       },
       "institution-entire": {
@@ -702,6 +726,7 @@
     },
     "es:andalucia:cadiz:san.fernando": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Fernándo",
         "jpi": "Juzgado de 1ª Instancia de San Fernándo"
       },
       "institution-entire": {
@@ -710,6 +735,7 @@
     },
     "es:andalucia:cadiz:ubrique": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ubrique",
         "jpi": "Juzgado de 1ª Instancia de Ubrique"
       },
       "institution-entire": {
@@ -718,7 +744,9 @@
     },
     "es:andalucia:cordoba": {
       "institution-part": {
-        "ap": "AP Córdoba [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Córdoba",
+        "ap": "AP Córdoba [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Córdoba"
       },
       "institution-entire": {
         "ap": "AP Córdoba"
@@ -727,6 +755,7 @@
     "es:andalucia:cordoba:cordoba": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Córdoba",
+        "ji": "Juzgado de Instrucction de Córdoba",
         "jpi": "Juzgado de 1ª Instancia de Córdoba"
       },
       "institution-entire": {
@@ -736,6 +765,7 @@
     },
     "es:andalucia:cordoba:aguilar.frontera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Aguilar de la Frontera",
         "jpi": "Juzgado de 1ª Instancia de Aguilar de la Frontera"
       },
       "institution-entire": {
@@ -744,6 +774,7 @@
     },
     "es:andalucia:cordoba:lucena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lucena",
         "jpi": "Juzgado de 1ª Instancia de Lucena"
       },
       "institution-entire": {
@@ -752,6 +783,7 @@
     },
     "es:andalucia:cordoba:penarroya.pueblonuevo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Peñarroya Pueblonuevo",
         "jpi": "Juzgado de 1ª Instancia de Peñarroya Pueblonuevo"
       },
       "institution-entire": {
@@ -760,6 +792,7 @@
     },
     "es:andalucia:cordoba:priego.cordoba": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Priego de Córdoba",
         "jpi": "Juzgado de 1ª Instancia de Priego de Córdoba"
       },
       "institution-entire": {
@@ -768,6 +801,7 @@
     },
     "es:andalucia:cordoba:baena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Baena",
         "jpi": "Juzgado de 1ª Instancia de Baena"
       },
       "institution-entire": {
@@ -776,6 +810,7 @@
     },
     "es:andalucia:cordoba:montilla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Montilla",
         "jpi": "Juzgado de 1ª Instancia de Montilla"
       },
       "institution-entire": {
@@ -784,6 +819,7 @@
     },
     "es:andalucia:cordoba:posadas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Posadas",
         "jpi": "Juzgado de 1ª Instancia de Posadas"
       },
       "institution-entire": {
@@ -792,6 +828,7 @@
     },
     "es:andalucia:cordoba:puente.genil": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puente Genil",
         "jpi": "Juzgado de 1ª Instancia de Puente Genil"
       },
       "institution-entire": {
@@ -800,6 +837,7 @@
     },
     "es:andalucia:cordoba:cabra": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cabra",
         "jpi": "Juzgado de 1ª Instancia de Cabra"
       },
       "institution-entire": {
@@ -808,6 +846,7 @@
     },
     "es:andalucia:cordoba:montoro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Montoro",
         "jpi": "Juzgado de 1ª Instancia de Montoro"
       },
       "institution-entire": {
@@ -816,6 +855,7 @@
     },
     "es:andalucia:cordoba:pozoblanco": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Pozoblanco",
         "jpi": "Juzgado de 1ª Instancia de Pozoblanco"
       },
       "institution-entire": {
@@ -824,7 +864,9 @@
     },
     "es:andalucia:granada": {
       "institution-part": {
-        "ap": "AP Granada [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Granada",
+        "ap": "AP Granada [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Granada"
       },
       "institution-entire": {
         "ap": "AP Granada"
@@ -833,6 +875,7 @@
     "es:andalucia:granada:granada": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Granada",
+        "ji": "Juzgado de Instrucction de Granada",
         "jpi": "Juzgado de 1ª Instancia de Granada"
       },
       "institution-entire": {
@@ -842,6 +885,7 @@
     },
     "es:andalucia:granada:motril": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Motril",
         "jpi": "Juzgado de 1ª Instancia de Motril"
       },
       "institution-entire": {
@@ -850,6 +894,7 @@
     },
     "es:andalucia:granada:almunecar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Almuñecar",
         "jpi": "Juzgado de 1ª Instancia de Almuñecar"
       },
       "institution-entire": {
@@ -858,6 +903,7 @@
     },
     "es:andalucia:granada:baza": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Baza",
         "jpi": "Juzgado de 1ª Instancia de Baza"
       },
       "institution-entire": {
@@ -866,6 +912,7 @@
     },
     "es:andalucia:granada:loja": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Loja",
         "jpi": "Juzgado de 1ª Instancia de Loja"
       },
       "institution-entire": {
@@ -874,6 +921,7 @@
     },
     "es:andalucia:granada:guadix": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Guadix",
         "jpi": "Juzgado de 1ª Instancia de Guadix"
       },
       "institution-entire": {
@@ -882,6 +930,7 @@
     },
     "es:andalucia:granada:orgiva": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Orgiva",
         "jpi": "Juzgado de 1ª Instancia de Orgiva"
       },
       "institution-entire": {
@@ -890,6 +939,7 @@
     },
     "es:andalucia:granada:huescar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Huéscar",
         "jpi": "Juzgado de 1ª Instancia de Huéscar"
       },
       "institution-entire": {
@@ -898,6 +948,7 @@
     },
     "es:andalucia:granada:santa.fe": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santa Fé",
         "jpi": "Juzgado de 1ª Instancia de Santa Fé"
       },
       "institution-entire": {
@@ -906,7 +957,9 @@
     },
     "es:andalucia:huelva": {
       "institution-part": {
-        "ap": "AP Huelva [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Huelva",
+        "ap": "AP Huelva [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Huelva"
       },
       "institution-entire": {
         "ap": "AP Huelva"
@@ -914,6 +967,7 @@
     },
     "es:andalucia:huelva:huelva": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Huelva",
         "jpi": "Juzgado de 1ª Instancia de Huelva"
       },
       "institution-entire": {
@@ -922,6 +976,7 @@
     },
     "es:andalucia:huelva:aracena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Aracena",
         "jpi": "Juzgado de 1ª Instancia de Aracena"
       },
       "institution-entire": {
@@ -930,6 +985,7 @@
     },
     "es:andalucia:huelva:moguer": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Moguer",
         "jpi": "Juzgado de 1ª Instancia de Moguer"
       },
       "institution-entire": {
@@ -938,6 +994,7 @@
     },
     "es:andalucia:huelva:ayamonte": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ayamonte",
         "jpi": "Juzgado de 1ª Instancia de Ayamonte"
       },
       "institution-entire": {
@@ -946,6 +1003,7 @@
     },
     "es:andalucia:huelva:valverde.camino": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valverde del Camino",
         "jpi": "Juzgado de 1ª Instancia de Valverde del Camino"
       },
       "institution-entire": {
@@ -954,6 +1012,7 @@
     },
     "es:andalucia:huelva:palma.condado": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Palma del Condado",
         "jpi": "Juzgado de 1ª Instancia de La Palma del Condado"
       },
       "institution-entire": {
@@ -962,7 +1021,9 @@
     },
     "es:andalucia:jaen": {
       "institution-part": {
-        "ap": "AP Jaén [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Jaén",
+        "ap": "AP Jaén [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Jaén"
       },
       "institution-entire": {
         "ap": "AP Jaén"
@@ -970,6 +1031,7 @@
     },
     "es:andalucia:jaen:jaen": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Jaén",
         "jpi": "Juzgado de 1ª Instancia de Jaén"
       },
       "institution-entire": {
@@ -978,6 +1040,7 @@
     },
     "es:andalucia:jaen:alcala.real": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcalá la Real",
         "jpi": "Juzgado de 1ª Instancia de Alcalá la Real"
       },
       "institution-entire": {
@@ -986,6 +1049,7 @@
     },
     "es:andalucia:jaen:cazorla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cazorla",
         "jpi": "Juzgado de 1ª Instancia de Cazorla"
       },
       "institution-entire": {
@@ -994,6 +1058,7 @@
     },
     "es:andalucia:jaen:martos": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Martos",
         "jpi": "Juzgado de 1ª Instancia de Martos"
       },
       "institution-entire": {
@@ -1002,6 +1067,7 @@
     },
     "es:andalucia:jaen:andujar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Andújar",
         "jpi": "Juzgado de 1ª Instancia de Andújar"
       },
       "institution-entire": {
@@ -1010,6 +1076,7 @@
     },
     "es:andalucia:jaen:carolina": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Carolina",
         "jpi": "Juzgado de 1ª Instancia de La Carolina"
       },
       "institution-entire": {
@@ -1018,6 +1085,7 @@
     },
     "es:andalucia:jaen:ubeda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Úbeda ",
         "jpi": "Juzgado de 1ª Instancia de Úbeda "
       },
       "institution-entire": {
@@ -1026,6 +1094,7 @@
     },
     "es:andalucia:jaen:baeza": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Baeza",
         "jpi": "Juzgado de 1ª Instancia de Baeza"
       },
       "institution-entire": {
@@ -1034,6 +1103,7 @@
     },
     "es:andalucia:jaen:linares": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Linares",
         "jpi": "Juzgado de 1ª Instancia de Linares"
       },
       "institution-entire": {
@@ -1042,6 +1112,7 @@
     },
     "es:andalucia:jaen:villacarrillo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villacarrillo ",
         "jpi": "Juzgado de 1ª Instancia de Villacarrillo "
       },
       "institution-entire": {
@@ -1050,7 +1121,9 @@
     },
     "es:andalucia:malaga": {
       "institution-part": {
-        "ap": "AP Málaga [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Málaga",
+        "ap": "AP Málaga [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Málaga"
       },
       "institution-entire": {
         "ap": "AP Málaga"
@@ -1059,6 +1132,7 @@
     "es:andalucia:malaga:malaga": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Málaga",
+        "ji": "Juzgado de Instrucction de Málaga",
         "jpi": "Juzgado de 1ª Instancia de Málaga"
       },
       "institution-entire": {
@@ -1068,6 +1142,7 @@
     },
     "es:andalucia:malaga:fuengirola": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Fuengirola",
         "jpi": "Juzgado de 1ª Instancia de Fuengirola"
       },
       "institution-entire": {
@@ -1076,6 +1151,7 @@
     },
     "es:andalucia:malaga:marbella": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Marbella",
         "jpi": "Juzgado de 1ª Instancia de Marbella"
       },
       "institution-entire": {
@@ -1084,6 +1160,7 @@
     },
     "es:andalucia:malaga:torremolinos": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torremolinos",
         "jpi": "Juzgado de 1ª Instancia de Torremolinos"
       },
       "institution-entire": {
@@ -1092,6 +1169,7 @@
     },
     "es:andalucia:malaga:antequerra": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Antequerra",
         "jpi": "Juzgado de 1ª Instancia de Antequerra"
       },
       "institution-entire": {
@@ -1100,6 +1178,7 @@
     },
     "es:andalucia:malaga:estepona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Estepona",
         "jpi": "Juzgado de 1ª Instancia de Estepona"
       },
       "institution-entire": {
@@ -1108,6 +1187,7 @@
     },
     "es:andalucia:malaga:velez.malaga": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vélez Málaga",
         "jpi": "Juzgado de 1ª Instancia de Vélez Málaga"
       },
       "institution-entire": {
@@ -1116,6 +1196,7 @@
     },
     "es:andalucia:malaga:archidona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Archidona",
         "jpi": "Juzgado de 1ª Instancia de Archidona"
       },
       "institution-entire": {
@@ -1124,6 +1205,7 @@
     },
     "es:andalucia:malaga:ronda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ronda",
         "jpi": "Juzgado de 1ª Instancia de Ronda"
       },
       "institution-entire": {
@@ -1132,6 +1214,7 @@
     },
     "es:andalucia:malaga:coin": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Coín",
         "jpi": "Juzgado de 1ª Instancia de Coín"
       },
       "institution-entire": {
@@ -1140,6 +1223,7 @@
     },
     "es:andalucia:malaga:torrox": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrox",
         "jpi": "Juzgado de 1ª Instancia de Torrox"
       },
       "institution-entire": {
@@ -1148,7 +1232,9 @@
     },
     "es:andalucia:sevilla": {
       "institution-part": {
-        "ap": "AP Sevilla [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Sevilla",
+        "ap": "AP Sevilla [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Sevilla"
       },
       "institution-entire": {
         "ap": "AP Sevilla"
@@ -1157,6 +1243,7 @@
     "es:andalucia:sevilla:sevilla": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Sevilla",
+        "ji": "Juzgado de Instrucction de Sevilla",
         "jpi": "Juzgado de 1ª Instancia de Sevilla"
       },
       "institution-entire": {
@@ -1166,6 +1253,7 @@
     },
     "es:andalucia:sevilla:alcala.guadaira": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcalá de Guadaíra",
         "jpi": "Juzgado de 1ª Instancia de Alcalá de Guadaíra"
       },
       "institution-entire": {
@@ -1174,6 +1262,7 @@
     },
     "es:andalucia:sevilla:coria.rio": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Coria del Río",
         "jpi": "Juzgado de 1ª Instancia de Coria del Río"
       },
       "institution-entire": {
@@ -1182,6 +1271,7 @@
     },
     "es:andalucia:sevilla:carmona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Carmona",
         "jpi": "Juzgado de 1ª Instancia de Carmona"
       },
       "institution-entire": {
@@ -1190,6 +1280,7 @@
     },
     "es:andalucia:sevilla:dos.hermanas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Dos Hermanas",
         "jpi": "Juzgado de 1ª Instancia de Dos Hermanas"
       },
       "institution-entire": {
@@ -1198,6 +1289,7 @@
     },
     "es:andalucia:sevilla:cazalla.sierra": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cazalla de la Sierra",
         "jpi": "Juzgado de 1ª Instancia de Cazalla de la Sierra"
       },
       "institution-entire": {
@@ -1206,6 +1298,7 @@
     },
     "es:andalucia:sevilla:ezija": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ézija",
         "jpi": "Juzgado de 1ª Instancia de Ézija"
       },
       "institution-entire": {
@@ -1214,6 +1307,7 @@
     },
     "es:andalucia:sevilla:estepa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Estepa",
         "jpi": "Juzgado de 1ª Instancia de Estepa"
       },
       "institution-entire": {
@@ -1222,6 +1316,7 @@
     },
     "es:andalucia:sevilla:marchena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Marchena",
         "jpi": "Juzgado de 1ª Instancia de Marchena"
       },
       "institution-entire": {
@@ -1230,6 +1325,7 @@
     },
     "es:andalucia:sevilla:sanlucar.mayor": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sanlúcar la Mayor",
         "jpi": "Juzgado de 1ª Instancia de Sanlúcar la Mayor"
       },
       "institution-entire": {
@@ -1238,6 +1334,7 @@
     },
     "es:andalucia:sevilla:lebrija": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lebrija",
         "jpi": "Juzgado de 1ª Instancia de Lebrija"
       },
       "institution-entire": {
@@ -1246,6 +1343,7 @@
     },
     "es:andalucia:sevilla:moron.frontera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Morón de la Frontera",
         "jpi": "Juzgado de 1ª Instancia de Morón de la Frontera"
       },
       "institution-entire": {
@@ -1254,6 +1352,7 @@
     },
     "es:andalucia:sevilla:utrera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Utrera",
         "jpi": "Juzgado de 1ª Instancia de Utrera"
       },
       "institution-entire": {
@@ -1262,6 +1361,7 @@
     },
     "es:andalucia:sevilla:lora.rio": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lora del Río",
         "jpi": "Juzgado de 1ª Instancia de Lora del Río"
       },
       "institution-entire": {
@@ -1270,6 +1370,7 @@
     },
     "es:andalucia:sevilla:ceuta": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ceuta",
         "jpi": "Juzgado de 1ª Instancia de Ceuta"
       },
       "institution-entire": {
@@ -1278,6 +1379,7 @@
     },
     "es:andalucia:sevilla:melilla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Melilla",
         "jpi": "Juzgado de 1ª Instancia de Melilla"
       },
       "institution-entire": {
@@ -1294,7 +1396,9 @@
     },
     "es:zaragoza:huesca": {
       "institution-part": {
-        "ap": "AP Huesca [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Huesca",
+        "ap": "AP Huesca [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Huesca"
       },
       "institution-entire": {
         "ap": "AP Huesca"
@@ -1302,6 +1406,7 @@
     },
     "es:zaragoza:huesca:huesca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Huesca",
         "jpi": "Juzgado de 1ª Instancia de Huesca"
       },
       "institution-entire": {
@@ -1310,6 +1415,7 @@
     },
     "es:zaragoza:huesca:barbastro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Barbastro",
         "jpi": "Juzgado de 1ª Instancia de Barbastro"
       },
       "institution-entire": {
@@ -1318,6 +1424,7 @@
     },
     "es:zaragoza:huesca:jaca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Jaca",
         "jpi": "Juzgado de 1ª Instancia de Jaca"
       },
       "institution-entire": {
@@ -1326,6 +1433,7 @@
     },
     "es:zaragoza:huesca:boltana": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Boltaña",
         "jpi": "Juzgado de 1ª Instancia de Boltaña"
       },
       "institution-entire": {
@@ -1334,6 +1442,7 @@
     },
     "es:zaragoza:huesca:monzon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Monzón",
         "jpi": "Juzgado de 1ª Instancia de Monzón"
       },
       "institution-entire": {
@@ -1342,6 +1451,7 @@
     },
     "es:zaragoza:huesca:fraga": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Fraga",
         "jpi": "Juzgado de 1ª Instancia de Fraga"
       },
       "institution-entire": {
@@ -1350,7 +1460,9 @@
     },
     "es:zaragoza:teruel": {
       "institution-part": {
-        "ap": "AP Teruel [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Teruel",
+        "ap": "AP Teruel [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Teruel"
       },
       "institution-entire": {
         "ap": "AP Teruel"
@@ -1358,6 +1470,7 @@
     },
     "es:zaragoza:teruel:teruel": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Teruel",
         "jpi": "Juzgado de 1ª Instancia de Teruel"
       },
       "institution-entire": {
@@ -1366,6 +1479,7 @@
     },
     "es:zaragoza:teruel:alcaniz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcañiz",
         "jpi": "Juzgado de 1ª Instancia de Alcañiz"
       },
       "institution-entire": {
@@ -1374,6 +1488,7 @@
     },
     "es:zaragoza:teruel:calamocha": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Calamocha",
         "jpi": "Juzgado de 1ª Instancia de Calamocha"
       },
       "institution-entire": {
@@ -1382,7 +1497,9 @@
     },
     "es:zaragoza:zaragoza": {
       "institution-part": {
-        "ap": "AP Zaragoza [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Zaragoza",
+        "ap": "AP Zaragoza [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Zaragoza"
       },
       "institution-entire": {
         "ap": "AP Zaragoza"
@@ -1391,6 +1508,7 @@
     "es:zaragoza:zaragoza:zaragoza": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Zaragoza",
+        "ji": "Juzgado de Instrucction de Zaragoza",
         "jpi": "Juzgado de 1ª Instancia de Zaragoza"
       },
       "institution-entire": {
@@ -1400,6 +1518,7 @@
     },
     "es:zaragoza:zaragoza:calatayud": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Calatayud",
         "jpi": "Juzgado de 1ª Instancia de Calatayud"
       },
       "institution-entire": {
@@ -1408,6 +1527,7 @@
     },
     "es:zaragoza:zaragoza:ejea.caballeros": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ejea de los Caballeros",
         "jpi": "Juzgado de 1ª Instancia de Ejea de los Caballeros"
       },
       "institution-entire": {
@@ -1416,6 +1536,7 @@
     },
     "es:zaragoza:zaragoza:caspe": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Caspe",
         "jpi": "Juzgado de 1ª Instancia de Caspe"
       },
       "institution-entire": {
@@ -1424,6 +1545,7 @@
     },
     "es:zaragoza:zaragoza:almunia.dona.godina": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Almunia de Doña Godina",
         "jpi": "Juzgado de 1ª Instancia de La Almunia de Doña Godina"
       },
       "institution-entire": {
@@ -1432,6 +1554,7 @@
     },
     "es:zaragoza:zaragoza:daroca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Daroca",
         "jpi": "Juzgado de 1ª Instancia de Daroca"
       },
       "institution-entire": {
@@ -1440,6 +1563,7 @@
     },
     "es:zaragoza:zaragoza:tarazona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tarazona",
         "jpi": "Juzgado de 1ª Instancia de Tarazona"
       },
       "institution-entire": {
@@ -1456,7 +1580,9 @@
     },
     "es:asturias:oviedo": {
       "institution-part": {
-        "ap": "AP Oviedo [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Oviedo",
+        "ap": "AP Oviedo [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Oviedo"
       },
       "institution-entire": {
         "ap": "AP Oviedo"
@@ -1465,6 +1591,7 @@
     "es:asturias:oviedo:oviedo": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Oviedo",
+        "ji": "Juzgado de Instrucction de Oviedo",
         "jpi": "Juzgado de 1ª Instancia de Oviedo"
       },
       "institution-entire": {
@@ -1474,6 +1601,7 @@
     },
     "es:asturias:oviedo:gijon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Gijón",
         "jpi": "Juzgado de 1ª Instancia de Gijón"
       },
       "institution-entire": {
@@ -1482,6 +1610,7 @@
     },
     "es:asturias:oviedo:aviles": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Avilés",
         "jpi": "Juzgado de 1ª Instancia de Avilés"
       },
       "institution-entire": {
@@ -1490,6 +1619,7 @@
     },
     "es:asturias:oviedo:langreo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Langreo",
         "jpi": "Juzgado de 1ª Instancia de Langreo"
       },
       "institution-entire": {
@@ -1498,6 +1628,7 @@
     },
     "es:asturias:oviedo:mieres": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mieres",
         "jpi": "Juzgado de 1ª Instancia de Mieres"
       },
       "institution-entire": {
@@ -1506,6 +1637,7 @@
     },
     "es:asturias:oviedo:cangas.onis": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cangas de Onís",
         "jpi": "Juzgado de 1ª Instancia de Cangas de Onís"
       },
       "institution-entire": {
@@ -1514,6 +1646,7 @@
     },
     "es:asturias:oviedo:grado": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Grado",
         "jpi": "Juzgado de 1ª Instancia de Grado"
       },
       "institution-entire": {
@@ -1522,6 +1655,7 @@
     },
     "es:asturias:oviedo:llanes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Llanes",
         "jpi": "Juzgado de 1ª Instancia de Llanes"
       },
       "institution-entire": {
@@ -1530,6 +1664,7 @@
     },
     "es:asturias:oviedo:siero": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Siero",
         "jpi": "Juzgado de 1ª Instancia de Siero"
       },
       "institution-entire": {
@@ -1538,6 +1673,7 @@
     },
     "es:asturias:oviedo:villaviciosa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villaviciosa",
         "jpi": "Juzgado de 1ª Instancia de Villaviciosa"
       },
       "institution-entire": {
@@ -1546,6 +1682,7 @@
     },
     "es:asturias:oviedo:cangas.narcea": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cangas del Narcea",
         "jpi": "Juzgado de 1ª Instancia de Cangas del Narcea"
       },
       "institution-entire": {
@@ -1554,6 +1691,7 @@
     },
     "es:asturias:oviedo:laviana": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Laviana",
         "jpi": "Juzgado de 1ª Instancia de Laviana"
       },
       "institution-entire": {
@@ -1562,6 +1700,7 @@
     },
     "es:asturias:oviedo:pilona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Piloña",
         "jpi": "Juzgado de 1ª Instancia de Piloña"
       },
       "institution-entire": {
@@ -1570,6 +1709,7 @@
     },
     "es:asturias:oviedo:tineo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tineo",
         "jpi": "Juzgado de 1ª Instancia de Tineo"
       },
       "institution-entire": {
@@ -1578,6 +1718,7 @@
     },
     "es:asturias:oviedo:castropol": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Castropol",
         "jpi": "Juzgado de 1ª Instancia de Castropol"
       },
       "institution-entire": {
@@ -1586,6 +1727,7 @@
     },
     "es:asturias:oviedo:lena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lena",
         "jpi": "Juzgado de 1ª Instancia de Lena"
       },
       "institution-entire": {
@@ -1594,6 +1736,7 @@
     },
     "es:asturias:oviedo:pravia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Pravia",
         "jpi": "Juzgado de 1ª Instancia de Pravia"
       },
       "institution-entire": {
@@ -1602,6 +1745,7 @@
     },
     "es:asturias:oviedo:valdes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valdés",
         "jpi": "Juzgado de 1ª Instancia de Valdés"
       },
       "institution-entire": {
@@ -1611,7 +1755,9 @@
     "es:islas.baleares": {
       "institution-part": {
         "tsj": "TSJ Islas Baleares [High Court of Justice]",
-        "ap": "AP Islas Baleares [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Islas Baleares",
+        "ap": "AP Islas Baleares [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Islas Baleares"
       },
       "institution-entire": {
         "tsj": "TSJ Islas Baleares",
@@ -1621,6 +1767,8 @@
     "es:islas.baleares:palma.mallorca": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Palma de Mallorca",
+        "js": "Juzgado de lo Social de Palma de Mallorca",
+        "ji": "Juzgado de Instrucction de Palma de Mallorca",
         "jpi": "Juzgado de 1ª Instancia de Palma de Mallorca"
       },
       "institution-entire": {
@@ -1630,6 +1778,7 @@
     },
     "es:islas.baleares:eivissa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Eivissa",
         "jpi": "Juzgado de 1ª Instancia de Eivissa"
       },
       "institution-entire": {
@@ -1638,6 +1787,7 @@
     },
     "es:islas.baleares:ciutadella.menorca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ciutadella de Menorca",
         "jpi": "Juzgado de 1ª Instancia de Ciutadella de Menorca"
       },
       "institution-entire": {
@@ -1646,6 +1796,7 @@
     },
     "es:islas.baleares:inca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Inca",
         "jpi": "Juzgado de 1ª Instancia de Inca"
       },
       "institution-entire": {
@@ -1654,6 +1805,7 @@
     },
     "es:islas.baleares:manacor": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Manacor",
         "jpi": "Juzgado de 1ª Instancia de Manacor"
       },
       "institution-entire": {
@@ -1662,6 +1814,7 @@
     },
     "es:islas.baleares:mao.mahon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Maó-Mahón",
         "jpi": "Juzgado de 1ª Instancia de Maó-Mahón"
       },
       "institution-entire": {
@@ -1670,7 +1823,8 @@
     },
     "es:canarias": {
       "institution-part": {
-        "tsj": "TSJ Canarias [High Court of Justice]"
+        "tsj": "TSJ Canarias [High Court of Justice]",
+        "tmt": "Tribunal Militar Territorial de Canarias"
       },
       "institution-entire": {
         "tsj": "TSJ Canarias"
@@ -1678,7 +1832,9 @@
     },
     "es:canarias:palmas": {
       "institution-part": {
-        "ap": "AP Las Palmas [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Las Palmas",
+        "ap": "AP Las Palmas [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Las Palmas"
       },
       "institution-entire": {
         "ap": "AP Las Palmas"
@@ -1687,6 +1843,8 @@
     "es:canarias:palmas:palmas": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Las Palmas",
+        "js": "Juzgado de lo Social de Las Palmas",
+        "ji": "Juzgado de Instrucction de Las Palmas",
         "jpi": "Juzgado de 1ª Instancia de Las Palmas"
       },
       "institution-entire": {
@@ -1696,6 +1854,7 @@
     },
     "es:canarias:palmas:arrecife": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arrecife",
         "jpi": "Juzgado de 1ª Instancia de Arrecife"
       },
       "institution-entire": {
@@ -1704,6 +1863,7 @@
     },
     "es:canarias:palmas:telde": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Telde",
         "jpi": "Juzgado de 1ª Instancia de Telde"
       },
       "institution-entire": {
@@ -1712,6 +1872,7 @@
     },
     "es:canarias:palmas:puerto.rosario": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puerto del Rosario",
         "jpi": "Juzgado de 1ª Instancia de Puerto del Rosario"
       },
       "institution-entire": {
@@ -1720,6 +1881,7 @@
     },
     "es:canarias:palmas:san.bartolome.tirajana": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Bartolomé de Tirajana",
         "jpi": "Juzgado de 1ª Instancia de San Bartolomé de Tirajana"
       },
       "institution-entire": {
@@ -1728,6 +1890,7 @@
     },
     "es:canarias:palmas:galdar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Gáldar",
         "jpi": "Juzgado de 1ª Instancia de Gáldar"
       },
       "institution-entire": {
@@ -1736,6 +1899,7 @@
     },
     "es:canarias:palmas:santa.maria.guia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santa María de Guía de Gran Canaria",
         "jpi": "Juzgado de 1ª Instancia de Santa María de Guía de Gran Canaria"
       },
       "institution-entire": {
@@ -1744,6 +1908,7 @@
     },
     "es:canarias:palmas:arucas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arucas",
         "jpi": "Juzgado de 1ª Instancia de Arucas"
       },
       "institution-entire": {
@@ -1752,7 +1917,9 @@
     },
     "es:canarias:santa.cruz.tenerife": {
       "institution-part": {
-        "ap": "AP Santa Cruz de Tenerife [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Santa Cruz de Tenerife",
+        "ap": "AP Santa Cruz de Tenerife [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Santa Cruz de Tenerife"
       },
       "institution-entire": {
         "ap": "AP Santa Cruz de Tenerife"
@@ -1761,6 +1928,8 @@
     "es:canarias:santa.cruz.tenerife:santa.cruz.tenerife": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Santa Cruz de Tenerife",
+        "js": "Juzgado de lo Social de Santa Cruz de Tenerife",
+        "ji": "Juzgado de Instrucction de Santa Cruz de Tenerife",
         "jpi": "Juzgado de 1ª Instancia de Santa Cruz de Tenerife"
       },
       "institution-entire": {
@@ -1770,6 +1939,7 @@
     },
     "es:canarias:santa.cruz.tenerife:arona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arona",
         "jpi": "Juzgado de 1ª Instancia de Arona"
       },
       "institution-entire": {
@@ -1778,6 +1948,7 @@
     },
     "es:canarias:santa.cruz.tenerife:san.cristobal.laguna": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Cristóbal de La Laguna",
         "jpi": "Juzgado de 1ª Instancia de San Cristóbal de La Laguna"
       },
       "institution-entire": {
@@ -1786,6 +1957,7 @@
     },
     "es:canarias:santa.cruz.tenerife:granadilla.abona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Granadilla de Abona",
         "jpi": "Juzgado de 1ª Instancia de Granadilla de Abona"
       },
       "institution-entire": {
@@ -1794,6 +1966,7 @@
     },
     "es:canarias:santa.cruz.tenerife:guimar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Güimar",
         "jpi": "Juzgado de 1ª Instancia de Güimar"
       },
       "institution-entire": {
@@ -1802,6 +1975,7 @@
     },
     "es:canarias:santa.cruz.tenerife:icod.vinos": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Icod de los Vinos",
         "jpi": "Juzgado de 1ª Instancia de Icod de los Vinos"
       },
       "institution-entire": {
@@ -1810,6 +1984,7 @@
     },
     "es:canarias:santa.cruz.tenerife:orotafa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Orotafa",
         "jpi": "Juzgado de 1ª Instancia de La Orotafa"
       },
       "institution-entire": {
@@ -1818,6 +1993,7 @@
     },
     "es:canarias:santa.cruz.tenerife:llanos.aridane": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Los Llanos de Aridane",
         "jpi": "Juzgado de 1ª Instancia de Los Llanos de Aridane"
       },
       "institution-entire": {
@@ -1826,6 +2002,7 @@
     },
     "es:canarias:santa.cruz.tenerife:puerto.cruz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puerto de la Cruz",
         "jpi": "Juzgado de 1ª Instancia de Puerto de la Cruz"
       },
       "institution-entire": {
@@ -1834,6 +2011,7 @@
     },
     "es:canarias:santa.cruz.tenerife:san.sebastian.gomera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Sebastián de La Gomera",
         "jpi": "Juzgado de 1ª Instancia de San Sebastián de La Gomera"
       },
       "institution-entire": {
@@ -1842,6 +2020,7 @@
     },
     "es:canarias:santa.cruz.tenerife:valverde": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valverde",
         "jpi": "Juzgado de 1ª Instancia de Valverde"
       },
       "institution-entire": {
@@ -1858,7 +2037,9 @@
     },
     "es:cantabria:santander": {
       "institution-part": {
-        "ap": "AP Santander [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Santander",
+        "ap": "AP Santander [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Santander"
       },
       "institution-entire": {
         "ap": "AP Santander"
@@ -1867,6 +2048,8 @@
     "es:cantabria:santander:santander": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Santander",
+        "js": "Juzgado de lo Social de Santander",
+        "ji": "Juzgado de Instrucction de Santander",
         "jpi": "Juzgado de 1ª Instancia de Santander"
       },
       "institution-entire": {
@@ -1876,6 +2059,7 @@
     },
     "es:cantabria:santander:castro.urdiales": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Castro Urdiales",
         "jpi": "Juzgado de 1ª Instancia de Castro Urdiales"
       },
       "institution-entire": {
@@ -1884,6 +2068,7 @@
     },
     "es:cantabria:santander:reinosa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Reinosa",
         "jpi": "Juzgado de 1ª Instancia de Reinosa"
       },
       "institution-entire": {
@@ -1892,6 +2077,7 @@
     },
     "es:cantabria:santander:torrelavega": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrelavega",
         "jpi": "Juzgado de 1ª Instancia de Torrelavega"
       },
       "institution-entire": {
@@ -1900,6 +2086,7 @@
     },
     "es:cantabria:santander:laredo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Laredo",
         "jpi": "Juzgado de 1ª Instancia de Laredo"
       },
       "institution-entire": {
@@ -1908,6 +2095,7 @@
     },
     "es:cantabria:santander:san.vicente.barquera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Vicente de la Barquera",
         "jpi": "Juzgado de 1ª Instancia de San Vicente de la Barquera"
       },
       "institution-entire": {
@@ -1916,6 +2104,7 @@
     },
     "es:cantabria:santander:medio.cudeyo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Medio Cudeyo",
         "jpi": "Juzgado de 1ª Instancia de Medio Cudeyo"
       },
       "institution-entire": {
@@ -1924,6 +2113,7 @@
     },
     "es:cantabria:santander:santona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santoña",
         "jpi": "Juzgado de 1ª Instancia de Santoña"
       },
       "institution-entire": {
@@ -1940,7 +2130,9 @@
     },
     "es:castilla.y.leon:avila": {
       "institution-part": {
-        "ap": "AP Ávila [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Ávila",
+        "ap": "AP Ávila [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Ávila"
       },
       "institution-entire": {
         "ap": "AP Ávila"
@@ -1948,6 +2140,7 @@
     },
     "es:castilla.y.leon:avila:arenas.san.pedro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arenas de San Pedro",
         "jpi": "Juzgado de 1ª Instancia de Arenas de San Pedro"
       },
       "institution-entire": {
@@ -1956,6 +2149,7 @@
     },
     "es:castilla.y.leon:avila:arevalo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arévalo",
         "jpi": "Juzgado de 1ª Instancia de Arévalo"
       },
       "institution-entire": {
@@ -1964,6 +2158,7 @@
     },
     "es:castilla.y.leon:avila:piedrahita": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Piedrahita",
         "jpi": "Juzgado de 1ª Instancia de Piedrahita"
       },
       "institution-entire": {
@@ -1972,7 +2167,9 @@
     },
     "es:castilla.y.leon:burgos": {
       "institution-part": {
-        "ap": "AP Burgos [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Burgos",
+        "ap": "AP Burgos [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Burgos"
       },
       "institution-entire": {
         "ap": "AP Burgos"
@@ -1981,6 +2178,8 @@
     "es:castilla.y.leon:burgos:burgos": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Burgos",
+        "js": "Juzgado de lo Social de Burgos",
+        "ji": "Juzgado de Instrucction de Burgos",
         "jpi": "Juzgado de 1ª Instancia de Burgos"
       },
       "institution-entire": {
@@ -1990,6 +2189,7 @@
     },
     "es:castilla.y.leon:burgos:aranda.duero": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Aranda de Duero",
         "jpi": "Juzgado de 1ª Instancia de Aranda de Duero"
       },
       "institution-entire": {
@@ -1998,6 +2198,7 @@
     },
     "es:castilla.y.leon:burgos:miranda.ebro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Miranda de Ebro",
         "jpi": "Juzgado de 1ª Instancia de Miranda de Ebro"
       },
       "institution-entire": {
@@ -2006,6 +2207,7 @@
     },
     "es:castilla.y.leon:burgos:briviesca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Briviesca",
         "jpi": "Juzgado de 1ª Instancia de Briviesca"
       },
       "institution-entire": {
@@ -2014,6 +2216,7 @@
     },
     "es:castilla.y.leon:burgos:salas.infantes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Salas de los Infantes",
         "jpi": "Juzgado de 1ª Instancia de Salas de los Infantes"
       },
       "institution-entire": {
@@ -2022,6 +2225,7 @@
     },
     "es:castilla.y.leon:burgos:lerma": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lerma",
         "jpi": "Juzgado de 1ª Instancia de Lerma"
       },
       "institution-entire": {
@@ -2030,6 +2234,7 @@
     },
     "es:castilla.y.leon:burgos:villarcayo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villarcayo",
         "jpi": "Juzgado de 1ª Instancia de Villarcayo"
       },
       "institution-entire": {
@@ -2038,7 +2243,9 @@
     },
     "es:castilla.y.leon:leon": {
       "institution-part": {
-        "ap": "AP León [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de León",
+        "ap": "AP León [Provincial Court]",
+        "jp": "Juzgado de lo Penal de León"
       },
       "institution-entire": {
         "ap": "AP León"
@@ -2046,6 +2253,7 @@
     },
     "es:castilla.y.leon:leon:leon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de León",
         "jpi": "Juzgado de 1ª Instancia de León"
       },
       "institution-entire": {
@@ -2054,6 +2262,7 @@
     },
     "es:castilla.y.leon:leon:ponferrada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ponferrada",
         "jpi": "Juzgado de 1ª Instancia de Ponferrada"
       },
       "institution-entire": {
@@ -2062,6 +2271,7 @@
     },
     "es:castilla.y.leon:leon:astorga": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Astorga",
         "jpi": "Juzgado de 1ª Instancia de Astorga"
       },
       "institution-entire": {
@@ -2070,6 +2280,7 @@
     },
     "es:castilla.y.leon:leon:sahagun": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sahagún",
         "jpi": "Juzgado de 1ª Instancia de Sahagún"
       },
       "institution-entire": {
@@ -2078,6 +2289,7 @@
     },
     "es:castilla.y.leon:leon:cistierna": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cistierna",
         "jpi": "Juzgado de 1ª Instancia de Cistierna"
       },
       "institution-entire": {
@@ -2086,6 +2298,7 @@
     },
     "es:castilla.y.leon:leon:villablino": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villablino",
         "jpi": "Juzgado de 1ª Instancia de Villablino"
       },
       "institution-entire": {
@@ -2094,6 +2307,7 @@
     },
     "es:castilla.y.leon:leon:baneza": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Bañeza",
         "jpi": "Juzgado de 1ª Instancia de La Bañeza"
       },
       "institution-entire": {
@@ -2102,7 +2316,9 @@
     },
     "es:castilla.y.leon:palencia": {
       "institution-part": {
-        "ap": "AP Palencia [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Palencia",
+        "ap": "AP Palencia [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Palencia"
       },
       "institution-entire": {
         "ap": "AP Palencia"
@@ -2110,6 +2326,7 @@
     },
     "es:castilla.y.leon:palencia:palencia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Palencia",
         "jpi": "Juzgado de 1ª Instancia de Palencia"
       },
       "institution-entire": {
@@ -2118,6 +2335,7 @@
     },
     "es:castilla.y.leon:palencia:carrion.condes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Carrión de los Condes",
         "jpi": "Juzgado de 1ª Instancia de Carrión de los Condes"
       },
       "institution-entire": {
@@ -2126,6 +2344,7 @@
     },
     "es:castilla.y.leon:palencia:cervera.pisuerga": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cervera de Pisuerga",
         "jpi": "Juzgado de 1ª Instancia de Cervera de Pisuerga"
       },
       "institution-entire": {
@@ -2134,7 +2353,9 @@
     },
     "es:castilla.y.leon:salamanca": {
       "institution-part": {
-        "ap": "AP Salamanca [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Salamanca",
+        "ap": "AP Salamanca [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Salamanca"
       },
       "institution-entire": {
         "ap": "AP Salamanca"
@@ -2142,6 +2363,7 @@
     },
     "es:castilla.y.leon:salamanca:salamanca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Salamanca",
         "jpi": "Juzgado de 1ª Instancia de Salamanca"
       },
       "institution-entire": {
@@ -2150,6 +2372,7 @@
     },
     "es:castilla.y.leon:salamanca:bejar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Béjar",
         "jpi": "Juzgado de 1ª Instancia de Béjar"
       },
       "institution-entire": {
@@ -2158,6 +2381,7 @@
     },
     "es:castilla.y.leon:salamanca:penaranda.bracamonte": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Peñaranda de Bracamonte",
         "jpi": "Juzgado de 1ª Instancia de Peñaranda de Bracamonte"
       },
       "institution-entire": {
@@ -2166,6 +2390,7 @@
     },
     "es:castilla.y.leon:salamanca:ciudad.rodrigo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ciudad Rodrigo",
         "jpi": "Juzgado de 1ª Instancia de Ciudad Rodrigo"
       },
       "institution-entire": {
@@ -2174,6 +2399,7 @@
     },
     "es:castilla.y.leon:salamanca:vitigudino": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vitigudino",
         "jpi": "Juzgado de 1ª Instancia de Vitigudino"
       },
       "institution-entire": {
@@ -2182,7 +2408,9 @@
     },
     "es:castilla.y.leon:segovia": {
       "institution-part": {
-        "ap": "AP Segovia [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Segovia",
+        "ap": "AP Segovia [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Segovia"
       },
       "institution-entire": {
         "ap": "AP Segovia"
@@ -2190,6 +2418,7 @@
     },
     "es:castilla.y.leon:segovia:segovia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Segovia",
         "jpi": "Juzgado de 1ª Instancia de Segovia"
       },
       "institution-entire": {
@@ -2198,6 +2427,7 @@
     },
     "es:castilla.y.leon:segovia:cuellar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cuéllar",
         "jpi": "Juzgado de 1ª Instancia de Cuéllar"
       },
       "institution-entire": {
@@ -2206,6 +2436,7 @@
     },
     "es:castilla.y.leon:segovia:santa.maria.real.nieva": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santa María la Real de Nieva",
         "jpi": "Juzgado de 1ª Instancia de Santa María la Real de Nieva"
       },
       "institution-entire": {
@@ -2214,6 +2445,7 @@
     },
     "es:castilla.y.leon:segovia:sepulveda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sepúlveda",
         "jpi": "Juzgado de 1ª Instancia de Sepúlveda"
       },
       "institution-entire": {
@@ -2222,7 +2454,9 @@
     },
     "es:castilla.y.leon:soria": {
       "institution-part": {
-        "ap": "AP Soria [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Soria",
+        "ap": "AP Soria [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Soria"
       },
       "institution-entire": {
         "ap": "AP Soria"
@@ -2230,6 +2464,7 @@
     },
     "es:castilla.y.leon:soria:soria": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Soria",
         "jpi": "Juzgado de 1ª Instancia de Soria"
       },
       "institution-entire": {
@@ -2238,6 +2473,7 @@
     },
     "es:castilla.y.leon:soria:almazan": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Almazán",
         "jpi": "Juzgado de 1ª Instancia de Almazán"
       },
       "institution-entire": {
@@ -2246,6 +2482,7 @@
     },
     "es:castilla.y.leon:soria:burgo.osma": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Burgo de Osma",
         "jpi": "Juzgado de 1ª Instancia de Burgo de Osma"
       },
       "institution-entire": {
@@ -2254,7 +2491,9 @@
     },
     "es:castilla.y.leon:valladolid": {
       "institution-part": {
-        "ap": "AP Valladolid [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Valladolid",
+        "ap": "AP Valladolid [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Valladolid"
       },
       "institution-entire": {
         "ap": "AP Valladolid"
@@ -2263,6 +2502,8 @@
     "es:castilla.y.leon:valladolid:valladolid": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Valladolid",
+        "js": "Juzgado de lo Social de Valladolid",
+        "ji": "Juzgado de Instrucction de Valladolid",
         "jpi": "Juzgado de 1ª Instancia de Valladolid"
       },
       "institution-entire": {
@@ -2272,6 +2513,7 @@
     },
     "es:castilla.y.leon:valladolid:medina.rioseco": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Medina de Ríoseco",
         "jpi": "Juzgado de 1ª Instancia de Medina de Ríoseco"
       },
       "institution-entire": {
@@ -2280,6 +2522,7 @@
     },
     "es:castilla.y.leon:valladolid:medina.campo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Medina del campo",
         "jpi": "Juzgado de 1ª Instancia de Medina del campo"
       },
       "institution-entire": {
@@ -2288,7 +2531,9 @@
     },
     "es:castilla.y.leon:zamora": {
       "institution-part": {
-        "ap": "AP Zamora [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Zamora",
+        "ap": "AP Zamora [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Zamora"
       },
       "institution-entire": {
         "ap": "AP Zamora"
@@ -2296,6 +2541,7 @@
     },
     "es:castilla.y.leon:zamora:zamora": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Zamora",
         "jpi": "Juzgado de 1ª Instancia de Zamora"
       },
       "institution-entire": {
@@ -2304,6 +2550,7 @@
     },
     "es:castilla.y.leon:zamora:benavente": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Benavente",
         "jpi": "Juzgado de 1ª Instancia de Benavente"
       },
       "institution-entire": {
@@ -2312,6 +2559,7 @@
     },
     "es:castilla.y.leon:zamora:toro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Toro",
         "jpi": "Juzgado de 1ª Instancia de Toro"
       },
       "institution-entire": {
@@ -2320,6 +2568,7 @@
     },
     "es:castilla.y.leon:zamora:puebla.sanabria": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puebla de Sanabria",
         "jpi": "Juzgado de 1ª Instancia de Puebla de Sanabria"
       },
       "institution-entire": {
@@ -2328,6 +2577,7 @@
     },
     "es:castilla.y.leon:zamora:villalpando": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villalpando",
         "jpi": "Juzgado de 1ª Instancia de Villalpando"
       },
       "institution-entire": {
@@ -2344,7 +2594,9 @@
     },
     "es:castilla.la.mancha:albacete": {
       "institution-part": {
-        "ap": "AP Albacete [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Albacete",
+        "ap": "AP Albacete [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Albacete"
       },
       "institution-entire": {
         "ap": "AP Albacete"
@@ -2352,6 +2604,7 @@
     },
     "es:castilla.la.mancha:albacete:albacete": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Albacete",
         "jpi": "Juzgado de 1ª Instancia de Albacete"
       },
       "institution-entire": {
@@ -2360,6 +2613,7 @@
     },
     "es:castilla.la.mancha:albacete:alcaraz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcaraz",
         "jpi": "Juzgado de 1ª Instancia de Alcaraz"
       },
       "institution-entire": {
@@ -2368,6 +2622,7 @@
     },
     "es:castilla.la.mancha:albacete:hellin": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Hellín",
         "jpi": "Juzgado de 1ª Instancia de Hellín"
       },
       "institution-entire": {
@@ -2376,6 +2631,7 @@
     },
     "es:castilla.la.mancha:albacete:almansa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Almansa",
         "jpi": "Juzgado de 1ª Instancia de Almansa"
       },
       "institution-entire": {
@@ -2384,6 +2640,7 @@
     },
     "es:castilla.la.mancha:albacete:roda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Roda",
         "jpi": "Juzgado de 1ª Instancia de La Roda"
       },
       "institution-entire": {
@@ -2392,6 +2649,7 @@
     },
     "es:castilla.la.mancha:albacete:casas.ibanez": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Casas-Ibáñez",
         "jpi": "Juzgado de 1ª Instancia de Casas-Ibáñez"
       },
       "institution-entire": {
@@ -2400,6 +2658,7 @@
     },
     "es:castilla.la.mancha:albacete:villarrobledo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villarrobledo",
         "jpi": "Juzgado de 1ª Instancia de Villarrobledo"
       },
       "institution-entire": {
@@ -2408,7 +2667,9 @@
     },
     "es:castilla.la.mancha:ciudad.real": {
       "institution-part": {
-        "ap": "AP Ciudad Real [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Ciudad Real",
+        "ap": "AP Ciudad Real [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Ciudad Real"
       },
       "institution-entire": {
         "ap": "AP Ciudad Real"
@@ -2416,6 +2677,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:ciudad.real": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ciudad Real",
         "jpi": "Juzgado de 1ª Instancia de Ciudad Real"
       },
       "institution-entire": {
@@ -2424,6 +2686,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:alcazar.san.juan": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcázar de San Juan",
         "jpi": "Juzgado de 1ª Instancia de Alcázar de San Juan"
       },
       "institution-entire": {
@@ -2432,6 +2695,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:daimiel": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Daimiel",
         "jpi": "Juzgado de 1ª Instancia de Daimiel"
       },
       "institution-entire": {
@@ -2440,6 +2704,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:tomelloso": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tomelloso",
         "jpi": "Juzgado de 1ª Instancia de Tomelloso"
       },
       "institution-entire": {
@@ -2448,6 +2713,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:almaden": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Almadén",
         "jpi": "Juzgado de 1ª Instancia de Almadén"
       },
       "institution-entire": {
@@ -2456,6 +2722,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:manzanares": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Manzanares",
         "jpi": "Juzgado de 1ª Instancia de Manzanares"
       },
       "institution-entire": {
@@ -2464,6 +2731,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:valdepenas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valdepeñas",
         "jpi": "Juzgado de 1ª Instancia de Valdepeñas"
       },
       "institution-entire": {
@@ -2472,6 +2740,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:almagro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Almagro",
         "jpi": "Juzgado de 1ª Instancia de Almagro"
       },
       "institution-entire": {
@@ -2480,6 +2749,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:puertollano": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puertollano",
         "jpi": "Juzgado de 1ª Instancia de Puertollano"
       },
       "institution-entire": {
@@ -2488,6 +2758,7 @@
     },
     "es:castilla.la.mancha:ciudad.real:villanueva.infantes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villanueva de los Infantes",
         "jpi": "Juzgado de 1ª Instancia de Villanueva de los Infantes"
       },
       "institution-entire": {
@@ -2496,7 +2767,9 @@
     },
     "es:castilla.la.mancha:cuenca": {
       "institution-part": {
-        "ap": "AP Cuenca [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Cuenca",
+        "ap": "AP Cuenca [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Cuenca"
       },
       "institution-entire": {
         "ap": "AP Cuenca"
@@ -2504,6 +2777,7 @@
     },
     "es:castilla.la.mancha:cuenca:cuenca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cuenca",
         "jpi": "Juzgado de 1ª Instancia de Cuenca"
       },
       "institution-entire": {
@@ -2512,6 +2786,7 @@
     },
     "es:castilla.la.mancha:cuenca:motilla.palancar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Motilla del Palancar",
         "jpi": "Juzgado de 1ª Instancia de Motilla del Palancar"
       },
       "institution-entire": {
@@ -2520,6 +2795,7 @@
     },
     "es:castilla.la.mancha:cuenca:san.clemente": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Clemente",
         "jpi": "Juzgado de 1ª Instancia de San Clemente"
       },
       "institution-entire": {
@@ -2528,6 +2804,7 @@
     },
     "es:castilla.la.mancha:cuenca:tarancon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tarancón",
         "jpi": "Juzgado de 1ª Instancia de Tarancón"
       },
       "institution-entire": {
@@ -2536,7 +2813,9 @@
     },
     "es:castilla.la.mancha:guadalaraja": {
       "institution-part": {
-        "ap": "AP Guadalaraja [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Guadalaraja",
+        "ap": "AP Guadalaraja [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Guadalaraja"
       },
       "institution-entire": {
         "ap": "AP Guadalaraja"
@@ -2544,6 +2823,7 @@
     },
     "es:castilla.la.mancha:guadalaraja:guadalaraja": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Guadalaraja",
         "jpi": "Juzgado de 1ª Instancia de Guadalaraja"
       },
       "institution-entire": {
@@ -2552,6 +2832,7 @@
     },
     "es:castilla.la.mancha:guadalaraja:molina.aragon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Molina de Aragón",
         "jpi": "Juzgado de 1ª Instancia de Molina de Aragón"
       },
       "institution-entire": {
@@ -2560,6 +2841,7 @@
     },
     "es:castilla.la.mancha:guadalaraja:siguenza": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sigüenza",
         "jpi": "Juzgado de 1ª Instancia de Sigüenza"
       },
       "institution-entire": {
@@ -2568,7 +2850,9 @@
     },
     "es:castilla.la.mancha:toledo": {
       "institution-part": {
-        "ap": "AP Toledo [Provincial Court]"
+        "jca": "Juzgado de lo Contencioso-Administrativo de Toledo",
+        "ap": "AP Toledo [Provincial Court]",
+        "jp": "Juzgado de lo Penal de Toledo"
       },
       "institution-entire": {
         "ap": "AP Toledo"
@@ -2576,6 +2860,7 @@
     },
     "es:castilla.la.mancha:toledo:toledo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Toledo",
         "jpi": "Juzgado de 1ª Instancia de Toledo"
       },
       "institution-entire": {
@@ -2584,6 +2869,7 @@
     },
     "es:castilla.la.mancha:toledo:talavera.reina": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Talavera de la Reina",
         "jpi": "Juzgado de 1ª Instancia de Talavera de la Reina"
       },
       "institution-entire": {
@@ -2592,6 +2878,7 @@
     },
     "es:castilla.la.mancha:toledo:ocana": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ocaña",
         "jpi": "Juzgado de 1ª Instancia de Ocaña"
       },
       "institution-entire": {
@@ -2600,6 +2887,7 @@
     },
     "es:castilla.la.mancha:toledo:illescas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Illescas",
         "jpi": "Juzgado de 1ª Instancia de Illescas"
       },
       "institution-entire": {
@@ -2608,6 +2896,7 @@
     },
     "es:castilla.la.mancha:toledo:quintanar.orden": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Quintanar de la Orden",
         "jpi": "Juzgado de 1ª Instancia de Quintanar de la Orden"
       },
       "institution-entire": {
@@ -2616,6 +2905,7 @@
     },
     "es:castilla.la.mancha:toledo:orgaz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Orgaz",
         "jpi": "Juzgado de 1ª Instancia de Orgaz"
       },
       "institution-entire": {
@@ -2624,6 +2914,7 @@
     },
     "es:castilla.la.mancha:toledo:torrijos": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrijos",
         "jpi": "Juzgado de 1ª Instancia de Torrijos"
       },
       "institution-entire": {
@@ -2632,7 +2923,8 @@
     },
     "es:cataluna": {
       "institution-part": {
-        "tsj": "TSJ Cataluña [High Court of Justice]"
+        "tsj": "TSJ Cataluña [High Court of Justice]",
+        "tmt": "Tribunal Militar Territorial de Cataluña"
       },
       "institution-entire": {
         "tsj": "TSJ Cataluña"
@@ -2640,6 +2932,7 @@
     },
     "es:cataluna:barcelona": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Barcelona",
         "ap": "AP Barcelona [Provincial Court]"
       },
       "institution-entire": {
@@ -2649,6 +2942,9 @@
     "es:cataluna:barcelona:barcelona": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Barcelona",
+        "js": "Juzgado de lo Social de Barcelona",
+        "ji": "Juzgado de Instrucction de Barcelona",
+        "jp": "Juzgado de lo Penal de Barcelona",
         "jpi": "Juzgado de 1ª Instancia de Barcelona"
       },
       "institution-entire": {
@@ -2658,6 +2954,7 @@
     },
     "es:cataluna:barcelona:granollers": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Granollers",
         "jpi": "Juzgado de 1ª Instancia de Granollers"
       },
       "institution-entire": {
@@ -2666,6 +2963,7 @@
     },
     "es:cataluna:barcelona:mataro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mataró",
         "jpi": "Juzgado de 1ª Instancia de Mataró"
       },
       "institution-entire": {
@@ -2674,6 +2972,7 @@
     },
     "es:cataluna:barcelona:sabadell": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sabadell",
         "jpi": "Juzgado de 1ª Instancia de Sabadell"
       },
       "institution-entire": {
@@ -2682,6 +2981,7 @@
     },
     "es:cataluna:barcelona:terrassa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Terrassa",
         "jpi": "Juzgado de 1ª Instancia de Terrassa"
       },
       "institution-entire": {
@@ -2690,6 +2990,7 @@
     },
     "es:cataluna:barcelona:manresa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Manresa",
         "jpi": "Juzgado de 1ª Instancia de Manresa"
       },
       "institution-entire": {
@@ -2698,6 +2999,7 @@
     },
     "es:cataluna:barcelona:badalona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Badalona",
         "jpi": "Juzgado de 1ª Instancia de Badalona"
       },
       "institution-entire": {
@@ -2706,6 +3008,7 @@
     },
     "es:cataluna:barcelona:hospitalet.llobregat": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Hospitalet de Llobregat",
         "jpi": "Juzgado de 1ª Instancia de Hospitalet de Llobregat"
       },
       "institution-entire": {
@@ -2714,6 +3017,7 @@
     },
     "es:cataluna:barcelona:arenys.mar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arenys de Mar",
         "jpi": "Juzgado de 1ª Instancia de Arenys de Mar"
       },
       "institution-entire": {
@@ -2722,6 +3026,7 @@
     },
     "es:cataluna:barcelona:vilanova.geltru": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vilanova i la Geltrú",
         "jpi": "Juzgado de 1ª Instancia de Vilanova i la Geltrú"
       },
       "institution-entire": {
@@ -2730,6 +3035,7 @@
     },
     "es:cataluna:barcelona:san.feliu.llobregat": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Feliú de Llobregat",
         "jpi": "Juzgado de 1ª Instancia de San Feliú de Llobregat"
       },
       "institution-entire": {
@@ -2738,6 +3044,7 @@
     },
     "es:cataluna:barcelona:gava": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Gavà",
         "jpi": "Juzgado de 1ª Instancia de Gavà"
       },
       "institution-entire": {
@@ -2746,6 +3053,7 @@
     },
     "es:cataluna:barcelona:berga": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Berga",
         "jpi": "Juzgado de 1ª Instancia de Berga"
       },
       "institution-entire": {
@@ -2754,6 +3062,7 @@
     },
     "es:cataluna:barcelona:cerdanyola.valles": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cerdanyola del Vallès",
         "jpi": "Juzgado de 1ª Instancia de Cerdanyola del Vallès"
       },
       "institution-entire": {
@@ -2762,6 +3071,7 @@
     },
     "es:cataluna:barcelona:cornella.llobregat": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cornellá de Llobregat",
         "jpi": "Juzgado de 1ª Instancia de Cornellá de Llobregat"
       },
       "institution-entire": {
@@ -2770,6 +3080,7 @@
     },
     "es:cataluna:barcelona:prat.llobregat": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de El Prat de Llobregat",
         "jpi": "Juzgado de 1ª Instancia de El Prat de Llobregat"
       },
       "institution-entire": {
@@ -2778,6 +3089,7 @@
     },
     "es:cataluna:barcelona:martorell": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Martorell",
         "jpi": "Juzgado de 1ª Instancia de Martorell"
       },
       "institution-entire": {
@@ -2786,6 +3098,7 @@
     },
     "es:cataluna:barcelona:sant.boi.llobregat": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sant Boi de Llobregat",
         "jpi": "Juzgado de 1ª Instancia de Sant Boi de Llobregat"
       },
       "institution-entire": {
@@ -2794,6 +3107,7 @@
     },
     "es:cataluna:barcelona:vilafranca.penedes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vilafranca del Penedés",
         "jpi": "Juzgado de 1ª Instancia de Vilafranca del Penedés"
       },
       "institution-entire": {
@@ -2802,6 +3116,7 @@
     },
     "es:cataluna:barcelona:esplugues.llobregat": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Esplugues de Llobregat",
         "jpi": "Juzgado de 1ª Instancia de Esplugues de Llobregat"
       },
       "institution-entire": {
@@ -2810,6 +3125,7 @@
     },
     "es:cataluna:barcelona:mollet.valles": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mollet del Vallés",
         "jpi": "Juzgado de 1ª Instancia de Mollet del Vallés"
       },
       "institution-entire": {
@@ -2818,6 +3134,7 @@
     },
     "es:cataluna:barcelona:santa.coloma.gramanet": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santa Coloma de Gramanet",
         "jpi": "Juzgado de 1ª Instancia de Santa Coloma de Gramanet"
       },
       "institution-entire": {
@@ -2826,6 +3143,7 @@
     },
     "es:cataluna:barcelona:igualada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Igualada",
         "jpi": "Juzgado de 1ª Instancia de Igualada"
       },
       "institution-entire": {
@@ -2834,6 +3152,7 @@
     },
     "es:cataluna:barcelona:rubi": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Rubí",
         "jpi": "Juzgado de 1ª Instancia de Rubí"
       },
       "institution-entire": {
@@ -2842,6 +3161,7 @@
     },
     "es:cataluna:barcelona:vic": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vic",
         "jpi": "Juzgado de 1ª Instancia de Vic"
       },
       "institution-entire": {
@@ -2850,6 +3170,7 @@
     },
     "es:cataluna:girona": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Girona",
         "ap": "AP Girona [Provincial Court]"
       },
       "institution-entire": {
@@ -2859,6 +3180,8 @@
     "es:cataluna:girona:girona": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Girona",
+        "js": "Juzgado de lo Social de Girona",
+        "ji": "Juzgado de Instrucction de Girona",
         "jpi": "Juzgado de 1ª Instancia de Girona"
       },
       "institution-entire": {
@@ -2868,6 +3191,7 @@
     },
     "es:cataluna:girona:figueres": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Figueres",
         "jpi": "Juzgado de 1ª Instancia de Figueres"
       },
       "institution-entire": {
@@ -2876,6 +3200,7 @@
     },
     "es:cataluna:girona:blanes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Blanes",
         "jpi": "Juzgado de 1ª Instancia de Blanes"
       },
       "institution-entire": {
@@ -2884,6 +3209,7 @@
     },
     "es:cataluna:girona:bisbal.emporda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Bisbal d'Empordà",
         "jpi": "Juzgado de 1ª Instancia de La Bisbal d'Empordà"
       },
       "institution-entire": {
@@ -2892,6 +3218,7 @@
     },
     "es:cataluna:girona:ripoll": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ripoll",
         "jpi": "Juzgado de 1ª Instancia de Ripoll"
       },
       "institution-entire": {
@@ -2900,6 +3227,7 @@
     },
     "es:cataluna:girona:olot": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Olot",
         "jpi": "Juzgado de 1ª Instancia de Olot"
       },
       "institution-entire": {
@@ -2908,6 +3236,7 @@
     },
     "es:cataluna:girona:sant.feliu.guixols": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sant Feliu de Guíxols",
         "jpi": "Juzgado de 1ª Instancia de Sant Feliu de Guíxols"
       },
       "institution-entire": {
@@ -2916,6 +3245,7 @@
     },
     "es:cataluna:girona:puigcerda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Puigcerdá",
         "jpi": "Juzgado de 1ª Instancia de Puigcerdá"
       },
       "institution-entire": {
@@ -2924,6 +3254,7 @@
     },
     "es:cataluna:girona:santa.coloma.farners": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santa Coloma de Farners",
         "jpi": "Juzgado de 1ª Instancia de Santa Coloma de Farners"
       },
       "institution-entire": {
@@ -2932,6 +3263,7 @@
     },
     "es:cataluna:lleida": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Lleida",
         "ap": "AP Lleida [Provincial Court]"
       },
       "institution-entire": {
@@ -2940,6 +3272,7 @@
     },
     "es:cataluna:lleida:lleida": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lleida",
         "jpi": "Juzgado de 1ª Instancia de Lleida"
       },
       "institution-entire": {
@@ -2948,6 +3281,7 @@
     },
     "es:cataluna:lleida:balaguer": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Balaguer",
         "jpi": "Juzgado de 1ª Instancia de Balaguer"
       },
       "institution-entire": {
@@ -2956,6 +3290,7 @@
     },
     "es:cataluna:lleida:solsona": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Solsona",
         "jpi": "Juzgado de 1ª Instancia de Solsona"
       },
       "institution-entire": {
@@ -2964,6 +3299,7 @@
     },
     "es:cataluna:lleida:cervera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cervera",
         "jpi": "Juzgado de 1ª Instancia de Cervera"
       },
       "institution-entire": {
@@ -2972,6 +3308,7 @@
     },
     "es:cataluna:lleida:tremp": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tremp",
         "jpi": "Juzgado de 1ª Instancia de Tremp"
       },
       "institution-entire": {
@@ -2980,6 +3317,7 @@
     },
     "es:cataluna:lleida:seu.urgell": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de La Seu d'Urgell",
         "jpi": "Juzgado de 1ª Instancia de La Seu d'Urgell"
       },
       "institution-entire": {
@@ -2988,6 +3326,7 @@
     },
     "es:cataluna:lleida:vielha.e.mijaran": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vielha e Mijaran",
         "jpi": "Juzgado de 1ª Instancia de Vielha e Mijaran"
       },
       "institution-entire": {
@@ -2996,6 +3335,7 @@
     },
     "es:cataluna:tarragona": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Tarragona",
         "ap": "AP Tarragona [Provincial Court]"
       },
       "institution-entire": {
@@ -3005,6 +3345,8 @@
     "es:cataluna:tarragona:tarragona": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Tarragona",
+        "js": "Juzgado de lo Social de Tarragona",
+        "ji": "Juzgado de Instrucction de Tarragona",
         "jpi": "Juzgado de 1ª Instancia de Tarragona"
       },
       "institution-entire": {
@@ -3014,6 +3356,7 @@
     },
     "es:cataluna:tarragona:reus": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Reus",
         "jpi": "Juzgado de 1ª Instancia de Reus"
       },
       "institution-entire": {
@@ -3022,6 +3365,7 @@
     },
     "es:cataluna:tarragona:tortosa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tortosa",
         "jpi": "Juzgado de 1ª Instancia de Tortosa"
       },
       "institution-entire": {
@@ -3030,6 +3374,7 @@
     },
     "es:cataluna:tarragona:vendrell": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de El Vendrell",
         "jpi": "Juzgado de 1ª Instancia de El Vendrell"
       },
       "institution-entire": {
@@ -3038,6 +3383,7 @@
     },
     "es:cataluna:tarragona:amposta": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Amposta",
         "jpi": "Juzgado de 1ª Instancia de Amposta"
       },
       "institution-entire": {
@@ -3046,6 +3392,7 @@
     },
     "es:cataluna:tarragona:falset": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Falset",
         "jpi": "Juzgado de 1ª Instancia de Falset"
       },
       "institution-entire": {
@@ -3054,6 +3401,7 @@
     },
     "es:cataluna:tarragona:gandesa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Gandesa",
         "jpi": "Juzgado de 1ª Instancia de Gandesa"
       },
       "institution-entire": {
@@ -3062,6 +3410,7 @@
     },
     "es:cataluna:tarragona:valls": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valls",
         "jpi": "Juzgado de 1ª Instancia de Valls"
       },
       "institution-entire": {
@@ -3078,6 +3427,7 @@
     },
     "es:valencia:alicante": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Alicante",
         "ap": "AP Alicante [Provincial Court]"
       },
       "institution-entire": {
@@ -3087,6 +3437,8 @@
     "es:valencia:alicante:alicante": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Alicante",
+        "js": "Juzgado de lo Social de Alicante",
+        "ji": "Juzgado de Instrucction de Alicante",
         "jpi": "Juzgado de 1ª Instancia de Alicante"
       },
       "institution-entire": {
@@ -3096,6 +3448,7 @@
     },
     "es:valencia:alicante:elche": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Elche",
         "jpi": "Juzgado de 1ª Instancia de Elche"
       },
       "institution-entire": {
@@ -3104,6 +3457,7 @@
     },
     "es:valencia:alicante:benidorm": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Benidorm",
         "jpi": "Juzgado de 1ª Instancia de Benidorm"
       },
       "institution-entire": {
@@ -3112,6 +3466,7 @@
     },
     "es:valencia:alicante:orihuela": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Orihuela",
         "jpi": "Juzgado de 1ª Instancia de Orihuela"
       },
       "institution-entire": {
@@ -3120,6 +3475,7 @@
     },
     "es:valencia:alicante:torrevieja": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrevieja",
         "jpi": "Juzgado de 1ª Instancia de Torrevieja"
       },
       "institution-entire": {
@@ -3128,6 +3484,7 @@
     },
     "es:valencia:alicante:denia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Denia",
         "jpi": "Juzgado de 1ª Instancia de Denia"
       },
       "institution-entire": {
@@ -3136,6 +3493,7 @@
     },
     "es:valencia:alicante:villena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villena",
         "jpi": "Juzgado de 1ª Instancia de Villena"
       },
       "institution-entire": {
@@ -3144,6 +3502,7 @@
     },
     "es:valencia:alicante:alcoy": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcoy",
         "jpi": "Juzgado de 1ª Instancia de Alcoy"
       },
       "institution-entire": {
@@ -3152,6 +3511,7 @@
     },
     "es:valencia:alicante:novelda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Novelda",
         "jpi": "Juzgado de 1ª Instancia de Novelda"
       },
       "institution-entire": {
@@ -3160,6 +3520,7 @@
     },
     "es:valencia:alicante:elda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Elda",
         "jpi": "Juzgado de 1ª Instancia de Elda"
       },
       "institution-entire": {
@@ -3168,6 +3529,7 @@
     },
     "es:valencia:alicante:san.vicente.raspeig": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Vicente del Raspeig",
         "jpi": "Juzgado de 1ª Instancia de San Vicente del Raspeig"
       },
       "institution-entire": {
@@ -3176,6 +3538,7 @@
     },
     "es:valencia:alicante:ibi": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ibi",
         "jpi": "Juzgado de 1ª Instancia de Ibi"
       },
       "institution-entire": {
@@ -3184,6 +3547,7 @@
     },
     "es:valencia:alicante:villajoyosa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villajoyosa",
         "jpi": "Juzgado de 1ª Instancia de Villajoyosa"
       },
       "institution-entire": {
@@ -3192,6 +3556,7 @@
     },
     "es:valencia:castellon": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Castellón",
         "ap": "AP Castellón [Provincial Court]"
       },
       "institution-entire": {
@@ -3201,6 +3566,8 @@
     "es:valencia:castellon:castellon": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Castellón",
+        "js": "Juzgado de lo Social de Castellón",
+        "ji": "Juzgado de Instrucction de Castellón",
         "jpi": "Juzgado de 1ª Instancia de Castellón"
       },
       "institution-entire": {
@@ -3210,6 +3577,7 @@
     },
     "es:valencia:castellon:vila.real": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vila-real",
         "jpi": "Juzgado de 1ª Instancia de Vila-real"
       },
       "institution-entire": {
@@ -3218,6 +3586,7 @@
     },
     "es:valencia:castellon:vinaros": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vinarós",
         "jpi": "Juzgado de 1ª Instancia de Vinarós"
       },
       "institution-entire": {
@@ -3226,6 +3595,7 @@
     },
     "es:valencia:castellon:nules": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Nules",
         "jpi": "Juzgado de 1ª Instancia de Nules"
       },
       "institution-entire": {
@@ -3234,6 +3604,7 @@
     },
     "es:valencia:castellon:segorbe": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Segorbe",
         "jpi": "Juzgado de 1ª Instancia de Segorbe"
       },
       "institution-entire": {
@@ -3242,6 +3613,7 @@
     },
     "es:valencia:valencia": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Valencia",
         "ap": "AP Valencia [Provincial Court]"
       },
       "institution-entire": {
@@ -3251,6 +3623,8 @@
     "es:valencia:valencia:valencia": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Valencia",
+        "js": "Juzgado de lo Social de Valencia",
+        "ji": "Juzgado de Instrucction de Valencia",
         "jpi": "Juzgado de 1ª Instancia de Valencia"
       },
       "institution-entire": {
@@ -3260,6 +3634,7 @@
     },
     "es:valencia:valencia:gandia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Gandía",
         "jpi": "Juzgado de 1ª Instancia de Gandía"
       },
       "institution-entire": {
@@ -3268,6 +3643,7 @@
     },
     "es:valencia:valencia:torrent": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrent",
         "jpi": "Juzgado de 1ª Instancia de Torrent"
       },
       "institution-entire": {
@@ -3276,6 +3652,7 @@
     },
     "es:valencia:valencia:paterna": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Paterna",
         "jpi": "Juzgado de 1ª Instancia de Paterna"
       },
       "institution-entire": {
@@ -3284,6 +3661,7 @@
     },
     "es:valencia:valencia:alzira": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alzira",
         "jpi": "Juzgado de 1ª Instancia de Alzira"
       },
       "institution-entire": {
@@ -3292,6 +3670,7 @@
     },
     "es:valencia:valencia:lliria": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Llíria",
         "jpi": "Juzgado de 1ª Instancia de Llíria"
       },
       "institution-entire": {
@@ -3300,6 +3679,7 @@
     },
     "es:valencia:valencia:moncada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Moncada",
         "jpi": "Juzgado de 1ª Instancia de Moncada"
       },
       "institution-entire": {
@@ -3308,6 +3688,7 @@
     },
     "es:valencia:valencia:quart.poblet": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Quart de Poblet",
         "jpi": "Juzgado de 1ª Instancia de Quart de Poblet"
       },
       "institution-entire": {
@@ -3316,6 +3697,7 @@
     },
     "es:valencia:valencia:sueca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sueca",
         "jpi": "Juzgado de 1ª Instancia de Sueca"
       },
       "institution-entire": {
@@ -3324,6 +3706,7 @@
     },
     "es:valencia:valencia:carlet": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Carlet",
         "jpi": "Juzgado de 1ª Instancia de Carlet"
       },
       "institution-entire": {
@@ -3332,6 +3715,7 @@
     },
     "es:valencia:valencia:massamagrell": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Massamagrell",
         "jpi": "Juzgado de 1ª Instancia de Massamagrell"
       },
       "institution-entire": {
@@ -3340,6 +3724,7 @@
     },
     "es:valencia:valencia:ontinyent": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ontinyent",
         "jpi": "Juzgado de 1ª Instancia de Ontinyent"
       },
       "institution-entire": {
@@ -3348,6 +3733,7 @@
     },
     "es:valencia:valencia:requena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Requena",
         "jpi": "Juzgado de 1ª Instancia de Requena"
       },
       "institution-entire": {
@@ -3356,6 +3742,7 @@
     },
     "es:valencia:valencia:xativa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Xátiva",
         "jpi": "Juzgado de 1ª Instancia de Xátiva"
       },
       "institution-entire": {
@@ -3364,6 +3751,7 @@
     },
     "es:valencia:valencia:catarroja": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Catarroja",
         "jpi": "Juzgado de 1ª Instancia de Catarroja"
       },
       "institution-entire": {
@@ -3372,6 +3760,7 @@
     },
     "es:valencia:valencia:mislata": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mislata",
         "jpi": "Juzgado de 1ª Instancia de Mislata"
       },
       "institution-entire": {
@@ -3380,6 +3769,7 @@
     },
     "es:valencia:valencia:picassent": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Picassent",
         "jpi": "Juzgado de 1ª Instancia de Picassent"
       },
       "institution-entire": {
@@ -3388,6 +3778,7 @@
     },
     "es:valencia:valencia:sagunto": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sagunto",
         "jpi": "Juzgado de 1ª Instancia de Sagunto"
       },
       "institution-entire": {
@@ -3404,6 +3795,7 @@
     },
     "es:extremadura:badajoz": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Badajoz",
         "ap": "AP Badajoz [Provincial Court]"
       },
       "institution-entire": {
@@ -3413,6 +3805,8 @@
     "es:extremadura:badajoz:badajoz": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Badajoz",
+        "js": "Juzgado de lo Social de Badajoz",
+        "ji": "Juzgado de Instrucction de Badajoz",
         "jpi": "Juzgado de 1ª Instancia de Badajoz"
       },
       "institution-entire": {
@@ -3422,6 +3816,7 @@
     },
     "es:extremadura:badajoz:merida": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mérida",
         "jpi": "Juzgado de 1ª Instancia de Mérida"
       },
       "institution-entire": {
@@ -3430,6 +3825,7 @@
     },
     "es:extremadura:badajoz:don.benito": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Don Benito",
         "jpi": "Juzgado de 1ª Instancia de Don Benito"
       },
       "institution-entire": {
@@ -3438,6 +3834,7 @@
     },
     "es:extremadura:badajoz:almendralejo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Almendralejo",
         "jpi": "Juzgado de 1ª Instancia de Almendralejo"
       },
       "institution-entire": {
@@ -3446,6 +3843,7 @@
     },
     "es:extremadura:badajoz:herrera.duque": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Herrera del Duque",
         "jpi": "Juzgado de 1ª Instancia de Herrera del Duque"
       },
       "institution-entire": {
@@ -3454,6 +3852,7 @@
     },
     "es:extremadura:badajoz:montijo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Montijo",
         "jpi": "Juzgado de 1ª Instancia de Montijo"
       },
       "institution-entire": {
@@ -3462,6 +3861,7 @@
     },
     "es:extremadura:badajoz:villanueva.serena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villanueva de la Serena",
         "jpi": "Juzgado de 1ª Instancia de Villanueva de la Serena"
       },
       "institution-entire": {
@@ -3470,6 +3870,7 @@
     },
     "es:extremadura:badajoz:castuera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Castuera",
         "jpi": "Juzgado de 1ª Instancia de Castuera"
       },
       "institution-entire": {
@@ -3478,6 +3879,7 @@
     },
     "es:extremadura:badajoz:jerez.caballeros": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Jerez de los Caballeros",
         "jpi": "Juzgado de 1ª Instancia de Jerez de los Caballeros"
       },
       "institution-entire": {
@@ -3486,6 +3888,7 @@
     },
     "es:extremadura:badajoz:olivenza": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Olivenza",
         "jpi": "Juzgado de 1ª Instancia de Olivenza"
       },
       "institution-entire": {
@@ -3494,6 +3897,7 @@
     },
     "es:extremadura:badajoz:zafra": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Zafra",
         "jpi": "Juzgado de 1ª Instancia de Zafra"
       },
       "institution-entire": {
@@ -3502,6 +3906,7 @@
     },
     "es:extremadura:badajoz:fregenal.sierra": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Fregenal de la Sierra",
         "jpi": "Juzgado de 1ª Instancia de Fregenal de la Sierra"
       },
       "institution-entire": {
@@ -3510,6 +3915,7 @@
     },
     "es:extremadura:badajoz:llerena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Llerena",
         "jpi": "Juzgado de 1ª Instancia de Llerena"
       },
       "institution-entire": {
@@ -3518,6 +3924,7 @@
     },
     "es:extremadura:badajoz:villafranca.barros": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Villafranca de los Barros",
         "jpi": "Juzgado de 1ª Instancia de Villafranca de los Barros"
       },
       "institution-entire": {
@@ -3526,6 +3933,7 @@
     },
     "es:extremadura:caceres": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Cáceres",
         "ap": "AP Cáceres [Provincial Court]"
       },
       "institution-entire": {
@@ -3534,6 +3942,7 @@
     },
     "es:extremadura:caceres:caceres": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cáceres",
         "jpi": "Juzgado de 1ª Instancia de Cáceres"
       },
       "institution-entire": {
@@ -3542,6 +3951,7 @@
     },
     "es:extremadura:caceres:plasencia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Plasencia",
         "jpi": "Juzgado de 1ª Instancia de Plasencia"
       },
       "institution-entire": {
@@ -3550,6 +3960,7 @@
     },
     "es:extremadura:caceres:coria": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Coria",
         "jpi": "Juzgado de 1ª Instancia de Coria"
       },
       "institution-entire": {
@@ -3558,6 +3969,7 @@
     },
     "es:extremadura:caceres:trujillo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Trujillo",
         "jpi": "Juzgado de 1ª Instancia de Trujillo"
       },
       "institution-entire": {
@@ -3566,6 +3978,7 @@
     },
     "es:extremadura:caceres:logrosan": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Logrosán",
         "jpi": "Juzgado de 1ª Instancia de Logrosán"
       },
       "institution-entire": {
@@ -3574,6 +3987,7 @@
     },
     "es:extremadura:caceres:valencia.alcantara": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valencia de Alcántara",
         "jpi": "Juzgado de 1ª Instancia de Valencia de Alcántara"
       },
       "institution-entire": {
@@ -3582,6 +3996,7 @@
     },
     "es:extremadura:caceres:navalmoral.mata": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Navalmoral de la Mata",
         "jpi": "Juzgado de 1ª Instancia de Navalmoral de la Mata"
       },
       "institution-entire": {
@@ -3590,7 +4005,8 @@
     },
     "es:galicia": {
       "institution-part": {
-        "tsj": "TSJ Galicia [High Court of Justice]"
+        "tsj": "TSJ Galicia [High Court of Justice]",
+        "tmt": "Tribunal Militar Territorial de Galicia"
       },
       "institution-entire": {
         "tsj": "TSJ Galicia"
@@ -3598,6 +4014,7 @@
     },
     "es:galicia:coruna": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de A Coruña",
         "ap": "AP A Coruña [Provincial Court]"
       },
       "institution-entire": {
@@ -3607,6 +4024,8 @@
     "es:galicia:coruna:coruna": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de A Coruña",
+        "js": "Juzgado de lo Social de A Coruña",
+        "ji": "Juzgado de Instrucction de A Coruña",
         "jpi": "Juzgado de 1ª Instancia de A Coruña"
       },
       "institution-entire": {
@@ -3616,6 +4035,7 @@
     },
     "es:galicia:coruna:santiago.compostela": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Santiago de Compostela",
         "jpi": "Juzgado de 1ª Instancia de Santiago de Compostela"
       },
       "institution-entire": {
@@ -3624,6 +4044,7 @@
     },
     "es:galicia:coruna:ferrol": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ferrol",
         "jpi": "Juzgado de 1ª Instancia de Ferrol"
       },
       "institution-entire": {
@@ -3632,6 +4053,7 @@
     },
     "es:galicia:coruna:arzua": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arzua",
         "jpi": "Juzgado de 1ª Instancia de Arzua"
       },
       "institution-entire": {
@@ -3640,6 +4062,7 @@
     },
     "es:galicia:coruna:corcubion": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Corcubión",
         "jpi": "Juzgado de 1ª Instancia de Corcubión"
       },
       "institution-entire": {
@@ -3648,6 +4071,7 @@
     },
     "es:galicia:coruna:noia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Noia",
         "jpi": "Juzgado de 1ª Instancia de Noia"
       },
       "institution-entire": {
@@ -3656,6 +4080,7 @@
     },
     "es:galicia:coruna:padron": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Padrón",
         "jpi": "Juzgado de 1ª Instancia de Padrón"
       },
       "institution-entire": {
@@ -3664,6 +4089,7 @@
     },
     "es:galicia:coruna:betanzos": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Betanzos",
         "jpi": "Juzgado de 1ª Instancia de Betanzos"
       },
       "institution-entire": {
@@ -3672,6 +4098,7 @@
     },
     "es:galicia:coruna:muros": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Muros",
         "jpi": "Juzgado de 1ª Instancia de Muros"
       },
       "institution-entire": {
@@ -3680,6 +4107,7 @@
     },
     "es:galicia:coruna:ordes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ordes",
         "jpi": "Juzgado de 1ª Instancia de Ordes"
       },
       "institution-entire": {
@@ -3688,6 +4116,7 @@
     },
     "es:galicia:coruna:ribeira": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ribeira",
         "jpi": "Juzgado de 1ª Instancia de Ribeira"
       },
       "institution-entire": {
@@ -3696,6 +4125,7 @@
     },
     "es:galicia:coruna:carballo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Carballo",
         "jpi": "Juzgado de 1ª Instancia de Carballo"
       },
       "institution-entire": {
@@ -3704,6 +4134,7 @@
     },
     "es:galicia:coruna:negreira": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Negreira",
         "jpi": "Juzgado de 1ª Instancia de Negreira"
       },
       "institution-entire": {
@@ -3712,6 +4143,7 @@
     },
     "es:galicia:coruna:ortiguiera": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ortiguiera",
         "jpi": "Juzgado de 1ª Instancia de Ortiguiera"
       },
       "institution-entire": {
@@ -3720,6 +4152,7 @@
     },
     "es:galicia:lugo": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Lugo",
         "ap": "AP Lugo [Provincial Court]"
       },
       "institution-entire": {
@@ -3728,6 +4161,7 @@
     },
     "es:galicia:lugo:lugo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lugo",
         "jpi": "Juzgado de 1ª Instancia de Lugo"
       },
       "institution-entire": {
@@ -3736,6 +4170,7 @@
     },
     "es:galicia:lugo:a.fonsagrada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de A Fonsagrada",
         "jpi": "Juzgado de 1ª Instancia de A Fonsagrada"
       },
       "institution-entire": {
@@ -3744,6 +4179,7 @@
     },
     "es:galicia:lugo:mondonedo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mondoñedo",
         "jpi": "Juzgado de 1ª Instancia de Mondoñedo"
       },
       "institution-entire": {
@@ -3752,6 +4188,7 @@
     },
     "es:galicia:lugo:vilalba": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vilalba",
         "jpi": "Juzgado de 1ª Instancia de Vilalba"
       },
       "institution-entire": {
@@ -3760,6 +4197,7 @@
     },
     "es:galicia:lugo:becerrea": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Becerreá",
         "jpi": "Juzgado de 1ª Instancia de Becerreá"
       },
       "institution-entire": {
@@ -3768,6 +4206,7 @@
     },
     "es:galicia:lugo:monforte.lemos": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Monforte de Lemos",
         "jpi": "Juzgado de 1ª Instancia de Monforte de Lemos"
       },
       "institution-entire": {
@@ -3776,6 +4215,7 @@
     },
     "es:galicia:lugo:viveiro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Viveiro",
         "jpi": "Juzgado de 1ª Instancia de Viveiro"
       },
       "institution-entire": {
@@ -3784,6 +4224,7 @@
     },
     "es:galicia:lugo:chantada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Chantada",
         "jpi": "Juzgado de 1ª Instancia de Chantada"
       },
       "institution-entire": {
@@ -3792,6 +4233,7 @@
     },
     "es:galicia:lugo:sarria": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Sarria",
         "jpi": "Juzgado de 1ª Instancia de Sarria"
       },
       "institution-entire": {
@@ -3800,6 +4242,7 @@
     },
     "es:galicia:ourense": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Ourense",
         "ap": "AP Ourense [Provincial Court]"
       },
       "institution-entire": {
@@ -3808,6 +4251,7 @@
     },
     "es:galicia:ourense:ourense": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ourense",
         "jpi": "Juzgado de 1ª Instancia de Ourense"
       },
       "institution-entire": {
@@ -3816,6 +4260,7 @@
     },
     "es:galicia:ourense:proba.trives": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de A Proba de Trives",
         "jpi": "Juzgado de 1ª Instancia de A Proba de Trives"
       },
       "institution-entire": {
@@ -3824,6 +4269,7 @@
     },
     "es:galicia:ourense:barco.valdeorras": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de O Barco de Valdeorras",
         "jpi": "Juzgado de 1ª Instancia de O Barco de Valdeorras"
       },
       "institution-entire": {
@@ -3832,6 +4278,7 @@
     },
     "es:galicia:ourense:verin": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Verín",
         "jpi": "Juzgado de 1ª Instancia de Verín"
       },
       "institution-entire": {
@@ -3840,6 +4287,7 @@
     },
     "es:galicia:ourense:bande": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Bande",
         "jpi": "Juzgado de 1ª Instancia de Bande"
       },
       "institution-entire": {
@@ -3848,6 +4296,7 @@
     },
     "es:galicia:ourense:carballino": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de O Carballiño",
         "jpi": "Juzgado de 1ª Instancia de O Carballiño"
       },
       "institution-entire": {
@@ -3856,6 +4305,7 @@
     },
     "es:galicia:ourense:xinzo.limia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Xinzo de Limia",
         "jpi": "Juzgado de 1ª Instancia de Xinzo de Limia"
       },
       "institution-entire": {
@@ -3864,6 +4314,7 @@
     },
     "es:galicia:ourense:celanova": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Celanova",
         "jpi": "Juzgado de 1ª Instancia de Celanova"
       },
       "institution-entire": {
@@ -3872,6 +4323,7 @@
     },
     "es:galicia:ourense:ribadavia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ribadavia",
         "jpi": "Juzgado de 1ª Instancia de Ribadavia"
       },
       "institution-entire": {
@@ -3880,6 +4332,7 @@
     },
     "es:galicia:pontevedra": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Pontevedra",
         "ap": "AP Pontevedra [Provincial Court]"
       },
       "institution-entire": {
@@ -3889,6 +4342,8 @@
     "es:galicia:pontevedra:pontevedra": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Pontevedra",
+        "js": "Juzgado de lo Social de Pontevedra",
+        "ji": "Juzgado de Instrucction de Pontevedra",
         "jpi": "Juzgado de 1ª Instancia de Pontevedra"
       },
       "institution-entire": {
@@ -3898,8 +4353,10 @@
     },
     "es:galicia:pontevedra:vigo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vigo",
         "jpi": "Juzgado de 1ª Instancia de Vigo",
-        "jm": "Juzgado de lo Mercantil de Vigo"
+        "jm": "Juzgado de lo Mercantil de Vigo",
+        "js": "Juzgado de lo Social de Vigo"
       },
       "institution-entire": {
         "jpi": "JPI Vigo",
@@ -3908,6 +4365,7 @@
     },
     "es:galicia:pontevedra:estrada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de A Estrada",
         "jpi": "Juzgado de 1ª Instancia de A Estrada"
       },
       "institution-entire": {
@@ -3916,6 +4374,7 @@
     },
     "es:galicia:pontevedra:cangas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cangas",
         "jpi": "Juzgado de 1ª Instancia de Cangas"
       },
       "institution-entire": {
@@ -3924,6 +4383,7 @@
     },
     "es:galicia:pontevedra:porrino": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de O Porriño",
         "jpi": "Juzgado de 1ª Instancia de O Porriño"
       },
       "institution-entire": {
@@ -3932,6 +4392,7 @@
     },
     "es:galicia:pontevedra:tui": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tui",
         "jpi": "Juzgado de 1ª Instancia de Tui"
       },
       "institution-entire": {
@@ -3940,6 +4401,7 @@
     },
     "es:galicia:pontevedra:caldas.reis": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Caldas de Reis",
         "jpi": "Juzgado de 1ª Instancia de Caldas de Reis"
       },
       "institution-entire": {
@@ -3948,6 +4410,7 @@
     },
     "es:galicia:pontevedra:lalin": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lalín",
         "jpi": "Juzgado de 1ª Instancia de Lalín"
       },
       "institution-entire": {
@@ -3956,6 +4419,7 @@
     },
     "es:galicia:pontevedra:ponteareas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Ponteareas",
         "jpi": "Juzgado de 1ª Instancia de Ponteareas"
       },
       "institution-entire": {
@@ -3964,6 +4428,7 @@
     },
     "es:galicia:pontevedra:vilagarcia.arousa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vilagarcía de Arousa",
         "jpi": "Juzgado de 1ª Instancia de Vilagarcía de Arousa"
       },
       "institution-entire": {
@@ -3972,6 +4437,7 @@
     },
     "es:galicia:pontevedra:cambados": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cambados",
         "jpi": "Juzgado de 1ª Instancia de Cambados"
       },
       "institution-entire": {
@@ -3980,6 +4446,7 @@
     },
     "es:galicia:pontevedra:marin": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Marín",
         "jpi": "Juzgado de 1ª Instancia de Marín"
       },
       "institution-entire": {
@@ -3988,6 +4455,7 @@
     },
     "es:galicia:pontevedra:redondela": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Redondela",
         "jpi": "Juzgado de 1ª Instancia de Redondela"
       },
       "institution-entire": {
@@ -3996,7 +4464,8 @@
     },
     "es:madrid": {
       "institution-part": {
-        "tsj": "TSJ Madrid [High Court of Justice]"
+        "tsj": "TSJ Madrid [High Court of Justice]",
+        "tmt": "Tribunal Militar Territorial de Madrid"
       },
       "institution-entire": {
         "tsj": "TSJ Madrid"
@@ -4004,6 +4473,8 @@
     },
     "es:madrid:madrid": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Madrid",
+        "jp": "Juzgado de lo Penal de Madrid",
         "ap": "AP Madrid [Provincial Court]"
       },
       "institution-entire": {
@@ -4012,8 +4483,10 @@
     },
     "es:madrid:madrid:madrid": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Madrid",
         "jpi": "Juzgado de 1ª Instancia de Madrid",
-        "jm": "Juzgado de lo Mercantil de Madrid"
+        "jm": "Juzgado de lo Mercantil de Madrid",
+        "js": "Juzgado de lo Social de Madrid"
       },
       "institution-entire": {
         "jpi": "JPI Madrid",
@@ -4022,6 +4495,7 @@
     },
     "es:madrid:madrid:mostoles": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Móstoles",
         "jpi": "Juzgado de 1ª Instancia de Móstoles"
       },
       "institution-entire": {
@@ -4030,6 +4504,7 @@
     },
     "es:madrid:madrid:alcala.henares": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcalá de Henares",
         "jpi": "Juzgado de 1ª Instancia de Alcalá de Henares"
       },
       "institution-entire": {
@@ -4038,6 +4513,7 @@
     },
     "es:madrid:madrid:alcobendas": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcobendas",
         "jpi": "Juzgado de 1ª Instancia de Alcobendas"
       },
       "institution-entire": {
@@ -4046,6 +4522,7 @@
     },
     "es:madrid:madrid:fuenlabrada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Fuenlabrada",
         "jpi": "Juzgado de 1ª Instancia de Fuenlabrada"
       },
       "institution-entire": {
@@ -4054,6 +4531,7 @@
     },
     "es:madrid:madrid:getafe": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Getafe",
         "jpi": "Juzgado de 1ª Instancia de Getafe"
       },
       "institution-entire": {
@@ -4062,6 +4540,7 @@
     },
     "es:madrid:madrid:alcorcon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Alcorcón",
         "jpi": "Juzgado de 1ª Instancia de Alcorcón"
       },
       "institution-entire": {
@@ -4070,6 +4549,7 @@
     },
     "es:madrid:madrid:arganda.rey": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Arganda del Rey",
         "jpi": "Juzgado de 1ª Instancia de Arganda del Rey"
       },
       "institution-entire": {
@@ -4078,6 +4558,7 @@
     },
     "es:madrid:madrid:coslada": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Coslada",
         "jpi": "Juzgado de 1ª Instancia de Coslada"
       },
       "institution-entire": {
@@ -4086,6 +4567,7 @@
     },
     "es:madrid:madrid:collado.villalba": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Collado Villalba",
         "jpi": "Juzgado de 1ª Instancia de Collado Villalba"
       },
       "institution-entire": {
@@ -4094,6 +4576,7 @@
     },
     "es:madrid:madrid:leganes": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Leganés",
         "jpi": "Juzgado de 1ª Instancia de Leganés"
       },
       "institution-entire": {
@@ -4102,6 +4585,7 @@
     },
     "es:madrid:madrid:parla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Parla",
         "jpi": "Juzgado de 1ª Instancia de Parla"
       },
       "institution-entire": {
@@ -4110,6 +4594,7 @@
     },
     "es:madrid:madrid:torrejon.ardoz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrejón de Ardoz",
         "jpi": "Juzgado de 1ª Instancia de Torrejón de Ardoz"
       },
       "institution-entire": {
@@ -4118,6 +4603,7 @@
     },
     "es:madrid:madrid:aranjuez": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Aranjuez",
         "jpi": "Juzgado de 1ª Instancia de Aranjuez"
       },
       "institution-entire": {
@@ -4126,6 +4612,7 @@
     },
     "es:madrid:madrid:navalcarnero": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Navalcarnero",
         "jpi": "Juzgado de 1ª Instancia de Navalcarnero"
       },
       "institution-entire": {
@@ -4134,6 +4621,7 @@
     },
     "es:madrid:madrid:torrelaguna": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Torrelaguna",
         "jpi": "Juzgado de 1ª Instancia de Torrelaguna"
       },
       "institution-entire": {
@@ -4142,6 +4630,7 @@
     },
     "es:madrid:madrid:colmenar.viejo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Colmenar Viejo",
         "jpi": "Juzgado de 1ª Instancia de Colmenar Viejo"
       },
       "institution-entire": {
@@ -4150,6 +4639,7 @@
     },
     "es:madrid:madrid:pozuelo.alarcon": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Pozuelo de Alarcón",
         "jpi": "Juzgado de 1ª Instancia de Pozuelo de Alarcón"
       },
       "institution-entire": {
@@ -4158,6 +4648,7 @@
     },
     "es:madrid:madrid:valdemoro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Valdemoro",
         "jpi": "Juzgado de 1ª Instancia de Valdemoro"
       },
       "institution-entire": {
@@ -4166,6 +4657,7 @@
     },
     "es:madrid:madrid:majadahonda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Majadahonda",
         "jpi": "Juzgado de 1ª Instancia de Majadahonda"
       },
       "institution-entire": {
@@ -4174,6 +4666,7 @@
     },
     "es:madrid:madrid:san.lorenzo.escorial": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Lorenzo de El Escorial",
         "jpi": "Juzgado de 1ª Instancia de San Lorenzo de El Escorial"
       },
       "institution-entire": {
@@ -4190,6 +4683,7 @@
     },
     "es:murcia:murcia": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Murcia",
         "ap": "AP Murcia [Provincial Court]"
       },
       "institution-entire": {
@@ -4199,6 +4693,8 @@
     "es:murcia:murcia:murcia": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Murcia",
+        "js": "Juzgado de lo Social de Murcia",
+        "ji": "Juzgado de Instrucction de Murcia",
         "jpi": "Juzgado de 1ª Instancia de Murcia"
       },
       "institution-entire": {
@@ -4208,6 +4704,7 @@
     },
     "es:murcia:murcia:cartagena": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cartagena",
         "jpi": "Juzgado de 1ª Instancia de Cartagena"
       },
       "institution-entire": {
@@ -4216,6 +4713,7 @@
     },
     "es:murcia:murcia:lorca": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Lorca",
         "jpi": "Juzgado de 1ª Instancia de Lorca"
       },
       "institution-entire": {
@@ -4224,6 +4722,7 @@
     },
     "es:murcia:murcia:caravaca.cruz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Caravaca de la Cruz",
         "jpi": "Juzgado de 1ª Instancia de Caravaca de la Cruz"
       },
       "institution-entire": {
@@ -4232,6 +4731,7 @@
     },
     "es:murcia:murcia:molina.segura": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Molina de Segura",
         "jpi": "Juzgado de 1ª Instancia de Molina de Segura"
       },
       "institution-entire": {
@@ -4240,6 +4740,7 @@
     },
     "es:murcia:murcia:totana": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Totana",
         "jpi": "Juzgado de 1ª Instancia de Totana"
       },
       "institution-entire": {
@@ -4248,6 +4749,7 @@
     },
     "es:murcia:murcia:cieza": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Cieza",
         "jpi": "Juzgado de 1ª Instancia de Cieza"
       },
       "institution-entire": {
@@ -4256,6 +4758,7 @@
     },
     "es:murcia:murcia:mula": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Mula",
         "jpi": "Juzgado de 1ª Instancia de Mula"
       },
       "institution-entire": {
@@ -4264,6 +4767,7 @@
     },
     "es:murcia:murcia:yecla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Yecla",
         "jpi": "Juzgado de 1ª Instancia de Yecla"
       },
       "institution-entire": {
@@ -4272,6 +4776,7 @@
     },
     "es:murcia:murcia:jumilla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Jumilla",
         "jpi": "Juzgado de 1ª Instancia de Jumilla"
       },
       "institution-entire": {
@@ -4280,6 +4785,7 @@
     },
     "es:murcia:murcia:san.javier": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de San Javier",
         "jpi": "Juzgado de 1ª Instancia de San Javier"
       },
       "institution-entire": {
@@ -4296,6 +4802,7 @@
     },
     "es:navarra:pamplona": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Pamplona",
         "ap": "AP Pamplona [Provincial Court]"
       },
       "institution-entire": {
@@ -4305,6 +4812,8 @@
     "es:navarra:pamplona:pamplona": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Pamplona",
+        "js": "Juzgado de lo Social de Pamplona",
+        "ji": "Juzgado de Instrucction de Pamplona",
         "jpi": "Juzgado de 1ª Instancia de Pamplona"
       },
       "institution-entire": {
@@ -4314,6 +4823,7 @@
     },
     "es:navarra:pamplona:aoiz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Aoiz",
         "jpi": "Juzgado de 1ª Instancia de Aoiz"
       },
       "institution-entire": {
@@ -4322,6 +4832,7 @@
     },
     "es:navarra:pamplona:tudela": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tudela",
         "jpi": "Juzgado de 1ª Instancia de Tudela"
       },
       "institution-entire": {
@@ -4330,6 +4841,7 @@
     },
     "es:navarra:pamplona:estella": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Estella",
         "jpi": "Juzgado de 1ª Instancia de Estella"
       },
       "institution-entire": {
@@ -4338,6 +4850,7 @@
     },
     "es:navarra:pamplona:tafalla": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tafalla",
         "jpi": "Juzgado de 1ª Instancia de Tafalla"
       },
       "institution-entire": {
@@ -4354,6 +4867,7 @@
     },
     "es:pais.vasco:araba.alava": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Vitoria Gasteiz",
         "ap": "AP Vitoria Gasteiz [Provincial Court]"
       },
       "institution-entire": {
@@ -4362,6 +4876,7 @@
     },
     "es:pais.vasco:araba.alava:vitoria.gasteiz": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Vitoria Gasteiz",
         "jpi": "Juzgado de 1ª Instancia de Vitoria Gasteiz"
       },
       "institution-entire": {
@@ -4370,6 +4885,7 @@
     },
     "es:pais.vasco:araba.alava:amurrio": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Amurrio",
         "jpi": "Juzgado de 1ª Instancia de Amurrio"
       },
       "institution-entire": {
@@ -4378,6 +4894,7 @@
     },
     "es:pais.vasco:bizkaia": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Bilbao",
         "ap": "AP Bilbao [Provincial Court]"
       },
       "institution-entire": {
@@ -4387,6 +4904,8 @@
     "es:pais.vasco:bizkaia:bilbao": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de Bilbao",
+        "js": "Juzgado de lo Social de Bilbao",
+        "ji": "Juzgado de Instrucction de Bilbao",
         "jpi": "Juzgado de 1ª Instancia de Bilbao"
       },
       "institution-entire": {
@@ -4396,6 +4915,7 @@
     },
     "es:pais.vasco:bizkaia:barakaldo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Barakaldo",
         "jpi": "Juzgado de 1ª Instancia de Barakaldo"
       },
       "institution-entire": {
@@ -4404,6 +4924,7 @@
     },
     "es:pais.vasco:bizkaia:balmaseda": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Balmaseda",
         "jpi": "Juzgado de 1ª Instancia de Balmaseda"
       },
       "institution-entire": {
@@ -4412,6 +4933,7 @@
     },
     "es:pais.vasco:bizkaia:durango": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Durango",
         "jpi": "Juzgado de 1ª Instancia de Durango"
       },
       "institution-entire": {
@@ -4420,6 +4942,7 @@
     },
     "es:pais.vasco:bizkaia:gernika.lumo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Gernika-Lumo",
         "jpi": "Juzgado de 1ª Instancia de Gernika-Lumo"
       },
       "institution-entire": {
@@ -4428,6 +4951,7 @@
     },
     "es:pais.vasco:bizkaia:getxo": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Getxo",
         "jpi": "Juzgado de 1ª Instancia de Getxo"
       },
       "institution-entire": {
@@ -4436,6 +4960,7 @@
     },
     "es:pais.vasco:gipuzkoa": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de San Sebastián",
         "ap": "AP San Sebastián [Provincial Court]"
       },
       "institution-entire": {
@@ -4445,6 +4970,8 @@
     "es:pais.vasco:gipuzkoa:san.sebastian": {
       "institution-part": {
         "jm": "Juzgado de lo Mercantil de San Sebastián",
+        "js": "Juzgado de lo Social de San Sebastián",
+        "ji": "Juzgado de Instrucction de San Sebastián",
         "jpi": "Juzgado de 1ª Instancia de San Sebastián"
       },
       "institution-entire": {
@@ -4454,6 +4981,7 @@
     },
     "es:pais.vasco:gipuzkoa:eibar": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Eibar",
         "jpi": "Juzgado de 1ª Instancia de Eibar"
       },
       "institution-entire": {
@@ -4462,6 +4990,7 @@
     },
     "es:pais.vasco:gipuzkoa:azpeitia": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Azpeitia",
         "jpi": "Juzgado de 1ª Instancia de Azpeitia"
       },
       "institution-entire": {
@@ -4470,6 +4999,7 @@
     },
     "es:pais.vasco:gipuzkoa:bergara": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Bergara",
         "jpi": "Juzgado de 1ª Instancia de Bergara"
       },
       "institution-entire": {
@@ -4478,6 +5008,7 @@
     },
     "es:pais.vasco:gipuzkoa:irun": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Irun",
         "jpi": "Juzgado de 1ª Instancia de Irun"
       },
       "institution-entire": {
@@ -4486,6 +5017,7 @@
     },
     "es:pais.vasco:gipuzkoa:tolosa": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Tolosa",
         "jpi": "Juzgado de 1ª Instancia de Tolosa"
       },
       "institution-entire": {
@@ -4502,6 +5034,7 @@
     },
     "es:rioja:logrono": {
       "institution-part": {
+        "jca": "Juzgado de lo Contencioso-Administrativo de Logroño",
         "ap": "AP Logroño [Provincial Court]"
       },
       "institution-entire": {
@@ -4510,6 +5043,7 @@
     },
     "es:rioja:logrono:logrono": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Logroño",
         "jpi": "Juzgado de 1ª Instancia de Logroño"
       },
       "institution-entire": {
@@ -4518,6 +5052,7 @@
     },
     "es:rioja:logrono:calahorra": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Calahorra",
         "jpi": "Juzgado de 1ª Instancia de Calahorra"
       },
       "institution-entire": {
@@ -4526,6 +5061,7 @@
     },
     "es:rioja:logrono:haro": {
       "institution-part": {
+        "ji": "Juzgado de Instrucction de Haro",
         "jpi": "Juzgado de 1ª Instancia de Haro"
       },
       "institution-entire": {
