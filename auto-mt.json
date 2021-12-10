@@ -1,11 +1,12 @@
 {
   "filename": "auto-mt.json",
   "name": "Malta",
-  "version": "2021-12-10 00:40:54 UTC",
+  "version": "2021-12-10 05:37:14 UTC",
   "xdata": {
     "default": {
       "place": {
-        "MT": "Malta"
+        "MT": "Malta",
+        "MT:GOZO": "Gozo"
       }
     },
     "mt": {
@@ -19,6 +20,11 @@
         "tgtz": "Tribunal Ghal Talbiet Zghar",
         "tgii": "Tribunal Ghall-Investigazzjoni ta' Ingustizzji",
         "qk": "Qorti Kostituzzjonali"
+      }
+    },
+    "mt:gozo": {
+      "institution-part": {
+        "qc": "Qorti Civili"
       }
     }
   }
