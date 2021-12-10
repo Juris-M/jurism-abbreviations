@@ -1,11 +1,24 @@
 {
   "filename": "auto-mt.json",
   "name": "Malta",
-  "version": "2020-09-07 21:01:30 UTC",
+  "version": "2021-12-10 00:40:54 UTC",
   "xdata": {
     "default": {
       "place": {
         "MT": "Malta"
+      }
+    },
+    "mt": {
+      "institution-part": {
+        "qcpa": "Qorti Civili Prim' Awla",
+        "kgr": "Kummissarju għar-Refuġjati",
+        "qc": "Qorti Civili",
+        "qm": "Qorti tal-Magistrati",
+        "qa": "Qorti tal-Appell",
+        "bar": "Bord tal-Appelli dwar ir-Refuġjati",
+        "tgtz": "Tribunal Ghal Talbiet Zghar",
+        "tgii": "Tribunal Ghall-Investigazzjoni ta' Ingustizzji",
+        "qk": "Qorti Kostituzzjonali"
       }
     }
   }
