@@ -440,11 +440,11 @@
   {
     "filename": "auto-es.json",
     "name": "Abbreviations: Spain legal",
-    "version": "2021-01-25 11:17:57 UTC",
+    "version": "2021-12-07 13:51:40 UTC",
     "jurisdiction": "es",
     "variants": {
-      "en": "2021-01-25 11:17:57 UTC",
-      "enIBFD": "2021-01-25 11:17:57 UTC"
+      "en": "2021-12-07 13:51:40 UTC",
+      "enIBFD": "2021-12-07 13:51:40 UTC"
     }
   },
   {
@@ -915,7 +915,7 @@
   {
     "filename": "auto-mt.json",
     "name": "Abbreviations: Malta legal",
-    "version": "2020-09-07 21:01:30 UTC",
+    "version": "2021-12-10 05:37:14 UTC",
     "jurisdiction": "mt"
   },
   {
