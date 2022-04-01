@@ -4,6 +4,10 @@
     "name": "Abbreviations: EMPTY (importing with \"replace local list\" disables abbreviations)"
   },
   {
+    "filename": "secondary-ca-mcgill.json",
+    "name": "Abbreviations: Law Reporters"
+  },
+  {
     "filename": "secondary-commonwealth-commonwealth.json",
     "name": "Abbreviations: Secondary materials for Commonwealth jurisdictions (Commonwealth styles)"
   },
@@ -214,10 +218,10 @@
   {
     "filename": "auto-ca.json",
     "name": "Abbreviations: Canada legal",
-    "version": "2020-11-27 02:47:36 UTC",
+    "version": "2022-04-01 15:40:07 UTC",
     "jurisdiction": "ca",
     "variants": {
-      "fr": "2020-11-27 02:47:36 UTC"
+      "fr": "2022-04-01 15:40:07 UTC"
     }
   },
   {
