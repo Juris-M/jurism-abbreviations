@@ -1,7 +1,7 @@
 {
   "filename": "auto-fr.json",
   "name": "France",
-  "version": "2021-10-31 14:34:58 UTC",
+  "version": "2022-06-13 00:47:15 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -44,6 +44,8 @@
         "FR:ORLEANS": "Orléans",
         "FR:PAPEETE": "Papeete",
         "FR:PARIS": "Paris",
+        "FR:PARIS:BOBIGNY": "Bobigny",
+        "FR:PARIS:NANTERRE": "Nanterre",
         "FR:PAU": "Pau",
         "FR:POITIERS": "Poitiers",
         "FR:REIMS": "Reims",
@@ -297,6 +299,17 @@
         "ta": "TA Paris",
         "tgi": "T.G.I. de Paris",
         "cassises": "Cour d'Assises de Paris"
+      }
+    },
+    "fr:paris:bobigny": {
+      "institution-part": {
+        "te": "Tribunal pour Enfants",
+        "tgi": "T.G.I. de Bobigny"
+      }
+    },
+    "fr:paris:nanterre": {
+      "institution-part": {
+        "tgi": "T.G.I. de Nanterre"
       }
     },
     "fr:pau": {

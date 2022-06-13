@@ -1,14 +1,14 @@
 {
   "filename": "auto-pt.json",
   "name": "Portugal",
-  "version": "2020-10-15 22:01:48 UTC",
+  "version": "2022-06-13 00:47:18 UTC",
   "xdata": {
     "default": {
       "place": {
         "PT": "Portugal",
         "PT:LISBOA": "de Lisboa",
         "PT:LISBOA:LISBOA": "Lisboa",
-        "PT:LISBOA:LISBOA.NORTE": "Lisboa Norte",
+        "PT:LISBOA:LISBOA.NORTE": "de Torres Vedras",
         "PT:LISBOA:LISBOA.OESTE": "Lisboa Oeste",
         "PT:LISBOA:ACORES": "Açores",
         "PT:LISBOA:ACORES:PONTA.DELGADA": "Ponta Delgada",
@@ -32,7 +32,7 @@
         "PT:COIMBRA:LEIRIA": "Leiria",
         "PT:COIMBRA:VISEU": "Viseu",
         "PT:PORTO": "do Porto",
-        "PT:PORTO:PORTO": "Porto",
+        "PT:PORTO:PORTO": "do Porto",
         "PT:PORTO:TRAS.OS.MONTES": " Trás-os-Montes",
         "PT:PORTO:ENTRE.DOURO.E.MINHO": "Entre Douro e Minho",
         "PT:PORTO:BEIRA": "Beira",
@@ -41,6 +41,7 @@
         "PT:PORTO:PENAFIEL": "Penafiel",
         "PT:PORTO:LEIXOES": "Leixões",
         "PT:GUIMARAES": "de Guimarães",
+        "PT:GUIMARAES:GUIMARAES": "de Guimarães",
         "PT:GUIMARAES:BRAGA": "Braga",
         "PT:GUIMARAES:BRAGANCA": "Bragança",
         "PT:GUIMARAES:BRAGANCA:MIRANDELA": "Mirandela",
@@ -273,11 +274,15 @@
     },
     "pt:guimaraes": {
       "institution-part": {
-        "relacao": "Tribunal da Relação de Guimarães",
-        "comarca": "Tribunal Judicial da Comarca"
+        "relacao": "Tribunal da Relação de Guimarães"
       },
       "institution-entire": {
         "relacao": "TRG"
+      }
+    },
+    "pt:guimaraes:guimaraes": {
+      "institution-part": {
+        "comarca": "Tribunal Judicial da Comarca"
       }
     },
     "pt:guimaraes:braga": {

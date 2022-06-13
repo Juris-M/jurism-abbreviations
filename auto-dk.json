@@ -1,7 +1,7 @@
 {
   "filename": "auto-dk.json",
   "name": "Denmark",
-  "version": "2020-10-15 22:01:46 UTC",
+  "version": "2022-06-13 00:47:10 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -60,72 +60,72 @@
     },
     "dk:copenhagen:bornholm": {
       "institution-part": {
-        "dc": "Byret Bornholm"
+        "dc": "Bornholm Byret"
       }
     },
     "dk:copenhagen:copenhagen": {
       "institution-part": {
-        "dc": "Byret Copenhagen"
+        "dc": "Copenhagen Byret"
       }
     },
     "dk:copenhagen:elsinore": {
       "institution-part": {
-        "dc": "Byret Elsinore"
+        "dc": "Elsinore Byret"
       }
     },
     "dk:copenhagen:frederiksberg": {
       "institution-part": {
-        "dc": "Byret Frederiksberg"
+        "dc": "Frederiksberg Byret"
       }
     },
     "dk:copenhagen:glostrup": {
       "institution-part": {
-        "dc": "Byret Glostrup"
+        "dc": "Glostrup Byret"
       }
     },
     "dk:copenhagen:hillerod": {
       "institution-part": {
-        "dc": "Byret Hillerød"
+        "dc": "Hillerød Byret"
       }
     },
     "dk:copenhagen:holbaek": {
       "institution-part": {
-        "dc": "Byret Holbæk"
+        "dc": "Holbæk Byret"
       }
     },
     "dk:copenhagen:lyngby": {
       "institution-part": {
-        "dc": "Byret Lyngby"
+        "dc": "Lyngby Byret"
       }
     },
     "dk:copenhagen:nykobing.falster": {
       "institution-part": {
-        "dc": "Byret Nykøbing Falster"
+        "dc": "Nykøbing Falster Byret"
       }
     },
     "dk:copenhagen:odense": {
       "institution-part": {
-        "dc": "Byret Odense"
+        "dc": "Odense Byret"
       }
     },
     "dk:copenhagen:roskilde": {
       "institution-part": {
-        "dc": "Byret Roskilde"
+        "dc": "Roskilde Byret"
       }
     },
     "dk:copenhagen:svendborg": {
       "institution-part": {
-        "dc": "Byret Svendborg"
+        "dc": "Svendborg Byret"
       }
     },
     "dk:copenhagen:torshaven": {
       "institution-part": {
-        "dc": "Byret Tórshaven"
+        "dc": "Tórshaven Byret"
       }
     },
     "dk:nuuk": {
       "institution-part": {
-        "dc": "Byret Nuuk",
+        "dc": "Nuuk Byret",
         "ghc": "Grønlands Landsret"
       }
     },
@@ -156,32 +156,32 @@
     },
     "dk:viborg:aalborg": {
       "institution-part": {
-        "dc": "Byret Aalborg"
+        "dc": "Aalborg Byret"
       }
     },
     "dk:viborg:aarhus": {
       "institution-part": {
-        "dc": "Byret Aarhus"
+        "dc": "Aarhus Byret"
       }
     },
     "dk:viborg:grenaa": {
       "institution-part": {
-        "dc": "Byret Grenaa"
+        "dc": "Grenaa Byret"
       }
     },
     "dk:viborg:haderslev": {
       "institution-part": {
-        "dc": "Byret Haderslev"
+        "dc": "Haderslev Byret"
       }
     },
     "dk:viborg:herning": {
       "institution-part": {
-        "dc": "Byret Herning"
+        "dc": "Herning Byret"
       }
     },
     "dk:viborg:hjorring": {
       "institution-part": {
-        "dc": "Byret Hjørring"
+        "dc": "Hjørring Byret"
       }
     },
     "dk:viborg:hobro": {
@@ -191,37 +191,37 @@
     },
     "dk:viborg:holstebro": {
       "institution-part": {
-        "dc": "Byret Holstebro"
+        "dc": "Holstebro Byret"
       }
     },
     "dk:viborg:horsens": {
       "institution-part": {
-        "dc": "Byret Horsens"
+        "dc": "Horsens Byret"
       }
     },
     "dk:viborg:randers": {
       "institution-part": {
-        "dc": "Byret Randers"
+        "dc": "Randers Byret"
       }
     },
     "dk:viborg:sonderborg": {
       "institution-part": {
-        "dc": "Byret Sønderborg"
+        "dc": "Sønderborg Byret"
       }
     },
     "dk:viborg:thisted": {
       "institution-part": {
-        "dc": "Byret Thisted"
+        "dc": "Thisted Byret"
       }
     },
     "dk:viborg:tonder": {
       "institution-part": {
-        "dc": "Byret Tønder"
+        "dc": "Tønder Byret"
       }
     },
     "dk:viborg:viborg": {
       "institution-part": {
-        "dc": "Byret Viborg"
+        "dc": "Viborg Byret"
       }
     }
   }

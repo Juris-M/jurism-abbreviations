@@ -369,7 +369,7 @@
   {
     "filename": "auto-dk.json",
     "name": "Abbreviations: Denmark legal",
-    "version": "2020-10-15 22:01:46 UTC",
+    "version": "2022-06-13 00:47:10 UTC",
     "jurisdiction": "dk",
     "variants": {
       "enIBFD": "2020-10-30 01:03:27 UTC"
@@ -490,10 +490,10 @@
   {
     "filename": "auto-fr.json",
     "name": "Abbreviations: France legal",
-    "version": "2021-10-31 14:34:58 UTC",
+    "version": "2022-06-13 00:47:15 UTC",
     "jurisdiction": "fr",
     "variants": {
-      "enIBFD": "2021-10-31 14:34:58 UTC"
+      "enIBFD": "2022-06-13 00:47:15 UTC"
     }
   },
   {
@@ -1090,10 +1090,10 @@
   {
     "filename": "auto-pt.json",
     "name": "Abbreviations: Portugal legal",
-    "version": "2020-10-15 22:01:48 UTC",
+    "version": "2022-06-13 00:47:18 UTC",
     "jurisdiction": "pt",
     "variants": {
-      "enIBFD": "2020-10-30 01:03:27 UTC"
+      "enIBFD": "2022-06-13 00:47:18 UTC"
     }
   },
   {
