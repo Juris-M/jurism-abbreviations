@@ -329,10 +329,11 @@
   {
     "filename": "auto-cy.json",
     "name": "Abbreviations: Cyprus legal",
-    "version": "2020-10-15 22:01:46 UTC",
+    "version": "2022-06-15 12:22:07 UTC",
     "jurisdiction": "cy",
     "variants": {
-      "enIBFD": "2020-10-30 01:03:27 UTC"
+      "en": "2022-06-15 12:22:07 UTC",
+      "enIBFD": "2022-06-15 12:22:07 UTC"
     }
   },
   {
