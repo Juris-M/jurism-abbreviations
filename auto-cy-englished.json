@@ -1,0 +1,87 @@
+{
+  "filename": "auto-cy-englished.json",
+  "name": "Cyprus",
+  "version": "2022-06-15 23:46:48 UTC",
+  "xdata": {
+    "default": {
+      "place": {
+        "CY": "Cyprus",
+        "CY:FAMAGUSTA": "Famagusta",
+        "CY:KYRENIA": "Kyrenia",
+        "CY:LARNACA": "Larnaka",
+        "CY:LARNACA.FAMAGUSTA": "Larnaka-Famagusta",
+        "CY:LIMASSOL": "Limassol",
+        "CY:LIMASSOL.PAPHOS.": "Limassol-Paphos",
+        "CY:NICOSIA": "Nicosia",
+        "CY:NICOSIA.KYRENIA": "Nicosia-Kyrenia",
+        "CY:PAPHOS": "Paphos"
+      }
+    },
+    "cy": {
+      "institution-part": {
+        "ac": "Administrative Court",
+        "afc": "Adjunct Family Court",
+        "fcrg": "Family Courts for Religious Groups",
+        "mc": "Military Court",
+        "sc": "Supreme Court",
+        "asylum": "Asylum Tribunal"
+      }
+    },
+    "cy:famagusta": {
+      "institution-part": {
+        "dc": "Famagusta District Court"
+      }
+    },
+    "cy:kyrenia": {
+      "institution-part": {
+        "dc": "Kyrenia District Court"
+      }
+    },
+    "cy:larnaca": {
+      "institution-part": {
+        "assize": "Larnaka Assizes",
+        "dc": "Larnaka District Court",
+        "lc": "Larnaka Labor Court",
+        "rcc": "Larnaka Rent Control Court"
+      }
+    },
+    "cy:larnaca.famagusta": {
+      "institution-part": {
+        "fc": "Larnaka-Famagusta Family Court"
+      }
+    },
+    "cy:limassol": {
+      "institution-part": {
+        "assize": "Limassol Assizes",
+        "dc": "Limassol District Court",
+        "lc": "Limassol Labor Court",
+        "rcc": "Limassol Rent Control Court"
+      }
+    },
+    "cy:limassol.paphos.": {
+      "institution-part": {
+        "fc": "Limassol-Paphos Family Court"
+      }
+    },
+    "cy:nicosia": {
+      "institution-part": {
+        "assize": "Nicosia Assizes",
+        "dc": "Nicosia District Court",
+        "lc": "Nicosia Labor Court",
+        "rcc": "Nicosia Rent Control Court"
+      }
+    },
+    "cy:nicosia.kyrenia": {
+      "institution-part": {
+        "fc": "Nicosia-Kyrenia Family Court"
+      }
+    },
+    "cy:paphos": {
+      "institution-part": {
+        "assize": "Paphos Assizes",
+        "dc": "Paphos District Court",
+        "rcc": "Paphos Rent Control Court"
+      }
+    }
+  }
+}

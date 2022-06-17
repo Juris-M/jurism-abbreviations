@@ -329,11 +329,12 @@
   {
     "filename": "auto-cy.json",
     "name": "Abbreviations: Cyprus legal",
-    "version": "2022-06-15 12:22:07 UTC",
+    "version": "2022-06-17 13:11:15 UTC",
     "jurisdiction": "cy",
     "variants": {
       "en": "2022-06-15 12:22:07 UTC",
-      "enIBFD": "2022-06-15 12:22:07 UTC"
+      "enIBFD": "2022-06-17 13:11:15 UTC",
+      "englished": "2022-06-15 23:46:48 UTC"
     }
   },
   {
@@ -554,10 +555,11 @@
   {
     "filename": "auto-gr.json",
     "name": "Abbreviations: Greece legal",
-    "version": "2020-10-15 22:01:47 UTC",
+    "version": "2022-06-17 13:15:49 UTC",
     "jurisdiction": "gr",
     "variants": {
-      "enIBFD": "2020-10-30 01:03:27 UTC"
+      "enIBFD": "2022-06-17 13:15:49 UTC",
+      "englished": "2022-06-17 13:15:49 UTC"
     }
   },
   {
