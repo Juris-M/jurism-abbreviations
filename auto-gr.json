@@ -1,7 +1,7 @@
 {
   "filename": "auto-gr.json",
   "name": "Greece",
-  "version": "2022-06-17 13:15:49 UTC",
+  "version": "2022-06-21 08:54:42 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -118,58 +118,71 @@
         "coc": "Άρειος Πάγος",
         "cos": "Συμβούλιο της Επικρατείας",
         "ssc": "Ανώτατο Ειδικό Δικαστήριο",
-        "asylum": "Υπηρεσία Ασύλου"
+        "asylum": "Υπηρεσία Ασύλου Greece",
+        "lcs": "Νομικό Συμβούλιο του Κράτους"
       }
     },
     "gr:aegean": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Αιγαιου (Σύρος)",
         "oca": "Εφετειο Αιγαιου (Σύρος)"
       }
     },
     "gr:aegean:chios": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Χίου",
         "otc": "Πρωτοδικειο Χίου"
       }
     },
     "gr:aegean:mytilene": {
       "institution-part": {
-        "otc": "Πρωτοδικειο Μυτιλήνης"
+        "otcc": "Πλημμελειοδικείο Μυτιλήνης",
+        "otc": "Πρωτοδικειο Μυτιλήνης",
+        "magis": "Ειρηνοδικείο Μυτιλήνης"
       }
     },
     "gr:aegean:naxos": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Νάξου",
         "otc": "Πρωτοδικειο Νάξου"
       }
     },
     "gr:aegean:samou": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Σάμου",
         "otc": "Πρωτοδικειο Σάμου"
       }
     },
     "gr:aegean:syros": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Σύρου",
         "otc": "Πρωτοδικειο Σύρου"
       }
     },
     "gr:athens": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Αθηνων",
         "aca": "Διοικητικα Εφετεια Αθηνων",
-        "oca": "Εφετειο Αθηνων"
+        "oca": "Εφετειο Αθηνων",
+        "rao": "Περιφερειακό Γραφείο Ασύλου Αθηνων"
       }
     },
     "gr:athens:athens": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Αθηνών",
         "atc": "Διοικητικα Πρωτοδικεια Αθηνών",
         "otc": "Πρωτοδικειο Αθηνών"
       }
     },
     "gr:athens:chalkis": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Χαλκίδας",
         "otc": "Πρωτοδικειο Χαλκίδας"
       }
     },
     "gr:athens:thebes": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Θηβών",
         "otc": "Πρωτοδικειο Θηβών"
       }
     },
@@ -190,92 +203,110 @@
     },
     "gr:corfu": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Κερκυρασ",
         "oca": "Εφετειο Κερκυρασ"
       }
     },
     "gr:corfu:corfu": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κερκύρας",
         "otc": "Πρωτοδικειο Κερκύρας"
       }
     },
     "gr:corfu:thesprotia": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Θεσπρωτίας",
         "otc": "Πρωτοδικειο Θεσπρωτίας"
       }
     },
     "gr:crete": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Κρητησ (Χανιά)",
         "oca": "Εφετειο Κρητησ (Χανιά)"
       }
     },
     "gr:crete:chania": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Χανίων",
         "otc": "Πρωτοδικειο Χανίων"
       }
     },
     "gr:crete:heraklion": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ηρακλείου",
         "otc": "Πρωτοδικειο Ηρακλείου"
       }
     },
     "gr:crete:lasithi": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Λασιθίου (Νεάπολη)",
         "otc": "Πρωτοδικειο Λασιθίου (Νεάπολη)"
       }
     },
     "gr:crete:rethymnon": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ρεθύμνου",
         "otc": "Πρωτοδικειο Ρεθύμνου"
       }
     },
     "gr:dodecanese": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Δωδεκανησου (Ρόδος)",
         "oca": "Εφετειο Δωδεκανησου (Ρόδος)"
       }
     },
     "gr:dodecanese:kos": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κω",
         "otc": "Πρωτοδικειο Κω"
       }
     },
     "gr:dodecanese:rhodes": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ρόδου",
         "otc": "Πρωτοδικειο Ρόδου"
       }
     },
     "gr:dyt.macedonia": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Δυτ. Μακεδονιασ (Κοζάνη)",
         "oca": "Εφετειο Δυτ. Μακεδονιασ (Κοζάνη)"
       }
     },
     "gr:dyt.macedonia:florina": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Φλωρίνης",
         "otc": "Πρωτοδικειο Φλωρίνης"
       }
     },
     "gr:dyt.macedonia:grevena": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Γρεβενών",
         "otc": "Πρωτοδικειο Γρεβενών"
       }
     },
     "gr:dyt.macedonia:kastoria": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Καστοριάς",
         "otc": "Πρωτοδικειο Καστοριάς"
       }
     },
     "gr:dyt.macedonia:kozani": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κοζάνης",
         "otc": "Πρωτοδικειο Κοζάνης"
       }
     },
     "gr:ioannina": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Ιωαννινων",
         "aca": "Διοικητικα Εφετεια Ιωαννινων",
         "oca": "Εφετειο Ιωαννινων"
       }
     },
     "gr:ioannina:arta": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Άρτας",
         "otc": "Πρωτοδικειο Άρτας"
       }
     },
@@ -286,37 +317,44 @@
     },
     "gr:ioannina:ioannina": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ιωαννίνων",
         "atc": "Διοικητικα Πρωτοδικεια Ιωαννίνων",
         "otc": "Πρωτοδικειο Ιωαννίνων"
       }
     },
     "gr:ioannina:preveza": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Πρέβεζας",
         "otc": "Πρωτοδικειο Πρέβεζας"
       }
     },
     "gr:kalamata": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Καλαματασ",
         "oca": "Εφετειο Καλαματασ"
       }
     },
     "gr:kalamata:corinth": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κορίνθου",
         "otc": "Πρωτοδικειο Κορίνθου"
       }
     },
     "gr:kalamata:gytheion": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Γυθείου",
         "otc": "Πρωτοδικειο Γυθείου"
       }
     },
     "gr:kalamata:kalamata": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Καλαμάτας",
         "otc": "Πρωτοδικειο Καλαμάτας"
       }
     },
     "gr:kalamata:kyparissia": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κυπαρισσίας",
         "otc": "Πρωτοδικειο Κυπαρισσίας"
       }
     },
@@ -327,7 +365,8 @@
     },
     "gr:komotinis:alex.city": {
       "institution-part": {
-        "atc": "Διοικητικα Πρωτοδικεια Αλεξ/πόλεως"
+        "atc": "Διοικητικα Πρωτοδικεια Αλεξ/πόλεως",
+        "otc": "Πρωτοδικειο Αλεξ/πόλεως"
       }
     },
     "gr:komotinis:kavala": {
@@ -342,26 +381,31 @@
     },
     "gr:lamia": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Λαμιασ",
         "oca": "Εφετειο Λαμιασ"
       }
     },
     "gr:lamia:amfissa": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Άμφισσας",
         "otc": "Πρωτοδικειο Άμφισσας"
       }
     },
     "gr:lamia:evrytania": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ευρυτανίας",
         "otc": "Πρωτοδικειο Ευρυτανίας"
       }
     },
     "gr:lamia:lamia": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Λαμίας",
         "otc": "Πρωτοδικειο Λαμίας"
       }
     },
     "gr:lamia:livadia": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Λιβαδειάς",
         "otc": "Πρωτοδικειο Λιβαδειάς"
       }
     },
@@ -382,98 +426,117 @@
     },
     "gr:larissa": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Λαρισασ",
         "oca": "Εφετειο Λαρισασ"
       }
     },
     "gr:larissa:karditsa": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Καρδίτσας",
         "otc": "Πρωτοδικειο Καρδίτσας"
       }
     },
     "gr:larissa:larissa": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Λάρισας",
         "otc": "Πρωτοδικειο Λάρισας"
       }
     },
     "gr:larissa:trikala": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Τρικάλων",
         "otc": "Πρωτοδικειο Τρικάλων"
       }
     },
     "gr:larissa:volos": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Βόλου",
         "otc": "Πρωτοδικειο Βόλου"
       }
     },
     "gr:nafplio": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Ναυπλιου",
         "oca": "Εφετειο Ναυπλιου"
       }
     },
     "gr:nafplio:corinth": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κορίνθου",
         "otc": "Πρωτοδικειο Κορίνθου"
       }
     },
     "gr:nafplio:nafplion": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ναυπλίου",
         "otc": "Πρωτοδικειο Ναυπλίου"
       }
     },
     "gr:nafplio:sparta": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Σπάρτης",
         "otc": "Πρωτοδικειο Σπάρτης"
       }
     },
     "gr:nafplio:tripoli": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Τριπόλεως",
         "otc": "Πρωτοδικειο Τριπόλεως"
       }
     },
     "gr:patron": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Πατρων",
         "aca": "Διοικητικα Εφετεια Πατρων",
         "oca": "Εφετειο Πατρων"
       }
     },
     "gr:patron:agrinion": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Αγρινίου",
         "atc": "Διοικητικα Πρωτοδικεια Αγρινίου",
         "otc": "Πρωτοδικειο Αγρινίου"
       }
     },
     "gr:patron:aigion": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Αιγίου",
         "otc": "Πρωτοδικειο Αιγίου"
       }
     },
     "gr:patron:amaliada": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Αμαλιάδας",
         "otc": "Πρωτοδικειο Αμαλιάδας"
       }
     },
     "gr:patron:ilia": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ηλείας",
         "otc": "Πρωτοδικειο Ηλείας"
       }
     },
     "gr:patron:kalavryta": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Καλαβρύτων",
         "otc": "Πρωτοδικειο Καλαβρύτων"
       }
     },
     "gr:patron:kefallinias": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κεφαλληνίας",
         "otc": "Πρωτοδικειο Κεφαλληνίας"
       }
     },
     "gr:patron:lefkada": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Λευκάδας",
         "otc": "Πρωτοδικειο Λευκάδας"
       }
     },
     "gr:patron:mesolongi": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Μεσολογγίου",
         "otc": "Πρωτοδικειο Μεσολογγίου"
       }
     },
@@ -484,6 +547,7 @@
     },
     "gr:patron:patras": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Πατρών",
         "atc": "Διοικητικα Πρωτοδικεια Πατρών",
         "otc": "Πρωτοδικειο Πατρών"
       }
@@ -495,11 +559,13 @@
     },
     "gr:patron:zakynthos": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ζακύνθου",
         "otc": "Πρωτοδικειο Ζακύνθου"
       }
     },
     "gr:piraeus": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Πειραιωσ",
         "aca": "Διοικητικα Εφετεια Πειραιωσ",
         "oca": "Εφετειο Πειραιωσ"
       }
@@ -526,6 +592,7 @@
     },
     "gr:piraeus:piraeus": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Πειραιώς",
         "atc": "Διοικητικα Πρωτοδικεια Πειραιώς",
         "otc": "Πρωτοδικειο Πειραιώς"
       }
@@ -542,32 +609,38 @@
     },
     "gr:thessaloniki": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Θεσσαλονικησ",
         "aca": "Διοικητικα Εφετεια Θεσσαλονικησ",
         "oca": "Εφετειο Θεσσαλονικησ"
       }
     },
     "gr:thessaloniki:chalkidiki": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Χαλκιδικής",
         "otc": "Πρωτοδικειο Χαλκιδικής"
       }
     },
     "gr:thessaloniki:edessa": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Έδεσσας",
         "otc": "Πρωτοδικειο Έδεσσας"
       }
     },
     "gr:thessaloniki:giannitson": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Γιαννιτσών",
         "otc": "Πρωτοδικειο Γιαννιτσών"
       }
     },
     "gr:thessaloniki:katerini": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κατερίνης",
         "otc": "Πρωτοδικειο Κατερίνης"
       }
     },
     "gr:thessaloniki:kilkis": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Κιλκίς",
         "otc": "Πρωτοδικειο Κιλκίς"
       }
     },
@@ -578,54 +651,64 @@
     },
     "gr:thessaloniki:serres": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Σερρών",
         "atc": "Διοικητικα Πρωτοδικεια Σερρών",
         "otc": "Πρωτοδικειο Σερρών"
       }
     },
     "gr:thessaloniki:thessaloniki": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Θεσσαλονίκης",
         "atc": "Διοικητικα Πρωτοδικεια Θεσσαλονίκης",
         "otc": "Πρωτοδικειο Θεσσαλονίκης"
       }
     },
     "gr:thessaloniki:veria": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Βέροιας",
         "atc": "Διοικητικα Πρωτοδικεια Βέροιας",
         "otc": "Πρωτοδικειο Βέροιας"
       }
     },
     "gr:thrace": {
       "institution-part": {
+        "mc": "Ναυτοδικείο Θρακησ (Κομοτηνή)",
         "oca": "Εφετειο Θρακησ (Κομοτηνή)"
       }
     },
     "gr:thrace:drama": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Δράμας",
         "otc": "Πρωτοδικειο Δράμας"
       }
     },
     "gr:thrace:evros": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Έβρου",
         "otc": "Πρωτοδικειο Έβρου"
       }
     },
     "gr:thrace:kavala": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Καβάλας",
         "otc": "Πρωτοδικειο Καβάλας"
       }
     },
     "gr:thrace:orestiada": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ορεστιάδας",
         "otc": "Πρωτοδικειο Ορεστιάδας"
       }
     },
     "gr:thrace:rodopi": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ροδόπης",
         "otc": "Πρωτοδικειο Ροδόπης"
       }
     },
     "gr:thrace:xanthi": {
       "institution-part": {
+        "otcc": "Πλημμελειοδικείο Ξάνθης",
         "otc": "Πρωτοδικειο Ξάνθης"
       }
     },

@@ -1,7 +1,7 @@
 {
   "filename": "auto-dk-enIBFD.json",
   "name": "Denmark",
-  "version": "2020-10-30 01:03:27 UTC",
+  "version": "2022-06-21 08:54:38 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -49,7 +49,8 @@
         "sc": "HR [Supreme Court]",
         "om": "Ombudsmanden",
         "neab": "Natur-og Miljøklagenævnet",
-        "tc": "LSR [National Tax Tribunal]"
+        "tc": "LSR [National Tax Tribunal]",
+        "rab": "Refugee Appeals Board"
       }
     },
     "dk:copenhagen": {

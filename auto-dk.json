@@ -1,7 +1,7 @@
 {
   "filename": "auto-dk.json",
   "name": "Denmark",
-  "version": "2022-06-13 00:47:10 UTC",
+  "version": "2022-06-21 08:54:38 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -49,7 +49,8 @@
         "sc": "H",
         "om": "Ombudsmanden",
         "neab": "Natur-og Miljøklagenævnet",
-        "tc": "Landsskatteretten"
+        "tc": "Landsskatteretten",
+        "rab": "Refugee Appeals Board"
       }
     },
     "dk:copenhagen": {

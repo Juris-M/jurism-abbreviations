@@ -1,7 +1,7 @@
 {
   "filename": "auto-gr-englished.json",
   "name": "Greece",
-  "version": "2022-06-17 13:15:49 UTC",
+  "version": "2022-06-21 08:54:42 UTC",
   "xdata": {
     "default": {
       "place": {}
@@ -12,58 +12,71 @@
         "coc": "Supreme Court",
         "cos": "Supreme Administrative Court",
         "ssc": "Supreme Special Court",
-        "asylum": "Asylum Tribunal"
+        "asylum": "Greece Asylum Tribunal",
+        "lcs": "Legal Council of the State"
       }
     },
     "gr:aegean": {
       "institution-part": {
+        "mc": "Αιγαιου (Σύρος) Martime Court",
         "oca": "Αιγαιου (Σύρος) Court of Appeal"
       }
     },
     "gr:aegean:chios": {
       "institution-part": {
+        "otcc": "Χίου Criminal Court",
         "otc": "Χίου Court of First Instance"
       }
     },
     "gr:aegean:mytilene": {
       "institution-part": {
-        "otc": "Μυτιλήνης Court of First Instance"
+        "otcc": "Μυτιλήνης Criminal Court",
+        "otc": "Μυτιλήνης Court of First Instance",
+        "magis": "Μυτιλήνης Magistrate's Court"
       }
     },
     "gr:aegean:naxos": {
       "institution-part": {
+        "otcc": "Νάξου Criminal Court",
         "otc": "Νάξου Court of First Instance"
       }
     },
     "gr:aegean:samou": {
       "institution-part": {
+        "otcc": "Σάμου Criminal Court",
         "otc": "Σάμου Court of First Instance"
       }
     },
     "gr:aegean:syros": {
       "institution-part": {
+        "otcc": "Σύρου Criminal Court",
         "otc": "Σύρου Court of First Instance"
       }
     },
     "gr:athens": {
       "institution-part": {
+        "mc": "Αθηνων Martime Court",
         "aca": "Αθηνων Administrative Court of Appeal",
-        "oca": "Αθηνων Court of Appeal"
+        "oca": "Αθηνων Court of Appeal",
+        "rao": "Αθηνων Regional Asylum Office"
       }
     },
     "gr:athens:athens": {
       "institution-part": {
+        "otcc": "Αθηνών Criminal Court",
         "atc": "Αθηνών Administrative Court of First Instance",
         "otc": "Αθηνών Court of First Instance"
       }
     },
     "gr:athens:chalkis": {
       "institution-part": {
+        "otcc": "Χαλκίδας Criminal Court",
         "otc": "Χαλκίδας Court of First Instance"
       }
     },
     "gr:athens:thebes": {
       "institution-part": {
+        "otcc": "Θηβών Criminal Court",
         "otc": "Θηβών Court of First Instance"
       }
     },
@@ -84,92 +97,110 @@
     },
     "gr:corfu": {
       "institution-part": {
+        "mc": "Κερκυρασ Martime Court",
         "oca": "Κερκυρασ Court of Appeal"
       }
     },
     "gr:corfu:corfu": {
       "institution-part": {
+        "otcc": "Κερκύρας Criminal Court",
         "otc": "Κερκύρας Court of First Instance"
       }
     },
     "gr:corfu:thesprotia": {
       "institution-part": {
+        "otcc": "Θεσπρωτίας Criminal Court",
         "otc": "Θεσπρωτίας Court of First Instance"
       }
     },
     "gr:crete": {
       "institution-part": {
+        "mc": "Κρητησ (Χανιά) Martime Court",
         "oca": "Κρητησ (Χανιά) Court of Appeal"
       }
     },
     "gr:crete:chania": {
       "institution-part": {
+        "otcc": "Χανίων Criminal Court",
         "otc": "Χανίων Court of First Instance"
       }
     },
     "gr:crete:heraklion": {
       "institution-part": {
+        "otcc": "Ηρακλείου Criminal Court",
         "otc": "Ηρακλείου Court of First Instance"
       }
     },
     "gr:crete:lasithi": {
       "institution-part": {
+        "otcc": "Λασιθίου (Νεάπολη) Criminal Court",
         "otc": "Λασιθίου (Νεάπολη) Court of First Instance"
       }
     },
     "gr:crete:rethymnon": {
       "institution-part": {
+        "otcc": "Ρεθύμνου Criminal Court",
         "otc": "Ρεθύμνου Court of First Instance"
       }
     },
     "gr:dodecanese": {
       "institution-part": {
+        "mc": "Δωδεκανησου (Ρόδος) Martime Court",
         "oca": "Δωδεκανησου (Ρόδος) Court of Appeal"
       }
     },
     "gr:dodecanese:kos": {
       "institution-part": {
+        "otcc": "Κω Criminal Court",
         "otc": "Κω Court of First Instance"
       }
     },
     "gr:dodecanese:rhodes": {
       "institution-part": {
+        "otcc": "Ρόδου Criminal Court",
         "otc": "Ρόδου Court of First Instance"
       }
     },
     "gr:dyt.macedonia": {
       "institution-part": {
+        "mc": "Δυτ. Μακεδονιασ (Κοζάνη) Martime Court",
         "oca": "Δυτ. Μακεδονιασ (Κοζάνη) Court of Appeal"
       }
     },
     "gr:dyt.macedonia:florina": {
       "institution-part": {
+        "otcc": "Φλωρίνης Criminal Court",
         "otc": "Φλωρίνης Court of First Instance"
       }
     },
     "gr:dyt.macedonia:grevena": {
       "institution-part": {
+        "otcc": "Γρεβενών Criminal Court",
         "otc": "Γρεβενών Court of First Instance"
       }
     },
     "gr:dyt.macedonia:kastoria": {
       "institution-part": {
+        "otcc": "Καστοριάς Criminal Court",
         "otc": "Καστοριάς Court of First Instance"
       }
     },
     "gr:dyt.macedonia:kozani": {
       "institution-part": {
+        "otcc": "Κοζάνης Criminal Court",
         "otc": "Κοζάνης Court of First Instance"
       }
     },
     "gr:ioannina": {
       "institution-part": {
+        "mc": "Ιωαννινων Martime Court",
         "aca": "Ιωαννινων Administrative Court of Appeal",
         "oca": "Ιωαννινων Court of Appeal"
       }
     },
     "gr:ioannina:arta": {
       "institution-part": {
+        "otcc": "Άρτας Criminal Court",
         "otc": "Άρτας Court of First Instance"
       }
     },
@@ -180,37 +211,44 @@
     },
     "gr:ioannina:ioannina": {
       "institution-part": {
+        "otcc": "Ιωαννίνων Criminal Court",
         "atc": "Ιωαννίνων Administrative Court of First Instance",
         "otc": "Ιωαννίνων Court of First Instance"
       }
     },
     "gr:ioannina:preveza": {
       "institution-part": {
+        "otcc": "Πρέβεζας Criminal Court",
         "otc": "Πρέβεζας Court of First Instance"
       }
     },
     "gr:kalamata": {
       "institution-part": {
+        "mc": "Καλαματασ Martime Court",
         "oca": "Καλαματασ Court of Appeal"
       }
     },
     "gr:kalamata:corinth": {
       "institution-part": {
+        "otcc": "Κορίνθου Criminal Court",
         "otc": "Κορίνθου Court of First Instance"
       }
     },
     "gr:kalamata:gytheion": {
       "institution-part": {
+        "otcc": "Γυθείου Criminal Court",
         "otc": "Γυθείου Court of First Instance"
       }
     },
     "gr:kalamata:kalamata": {
       "institution-part": {
+        "otcc": "Καλαμάτας Criminal Court",
         "otc": "Καλαμάτας Court of First Instance"
       }
     },
     "gr:kalamata:kyparissia": {
       "institution-part": {
+        "otcc": "Κυπαρισσίας Criminal Court",
         "otc": "Κυπαρισσίας Court of First Instance"
       }
     },
@@ -221,7 +259,8 @@
     },
     "gr:komotinis:alex.city": {
       "institution-part": {
-        "atc": "Αλεξ/πόλεως Administrative Court of First Instance"
+        "atc": "Αλεξ/πόλεως Administrative Court of First Instance",
+        "otc": "Αλεξ/πόλεως Court of First Instance"
       }
     },
     "gr:komotinis:kavala": {
@@ -236,26 +275,31 @@
     },
     "gr:lamia": {
       "institution-part": {
+        "mc": "Λαμιασ Martime Court",
         "oca": "Λαμιασ Court of Appeal"
       }
     },
     "gr:lamia:amfissa": {
       "institution-part": {
+        "otcc": "Άμφισσας Criminal Court",
         "otc": "Άμφισσας Court of First Instance"
       }
     },
     "gr:lamia:evrytania": {
       "institution-part": {
+        "otcc": "Ευρυτανίας Criminal Court",
         "otc": "Ευρυτανίας Court of First Instance"
       }
     },
     "gr:lamia:lamia": {
       "institution-part": {
+        "otcc": "Λαμίας Criminal Court",
         "otc": "Λαμίας Court of First Instance"
       }
     },
     "gr:lamia:livadia": {
       "institution-part": {
+        "otcc": "Λιβαδειάς Criminal Court",
         "otc": "Λιβαδειάς Court of First Instance"
       }
     },
@@ -276,98 +320,117 @@
     },
     "gr:larissa": {
       "institution-part": {
+        "mc": "Λαρισασ Martime Court",
         "oca": "Λαρισασ Court of Appeal"
       }
     },
     "gr:larissa:karditsa": {
       "institution-part": {
+        "otcc": "Καρδίτσας Criminal Court",
         "otc": "Καρδίτσας Court of First Instance"
       }
     },
     "gr:larissa:larissa": {
       "institution-part": {
+        "otcc": "Λάρισας Criminal Court",
         "otc": "Λάρισας Court of First Instance"
       }
     },
     "gr:larissa:trikala": {
       "institution-part": {
+        "otcc": "Τρικάλων Criminal Court",
         "otc": "Τρικάλων Court of First Instance"
       }
     },
     "gr:larissa:volos": {
       "institution-part": {
+        "otcc": "Βόλου Criminal Court",
         "otc": "Βόλου Court of First Instance"
       }
     },
     "gr:nafplio": {
       "institution-part": {
+        "mc": "Ναυπλιου Martime Court",
         "oca": "Ναυπλιου Court of Appeal"
       }
     },
     "gr:nafplio:corinth": {
       "institution-part": {
+        "otcc": "Κορίνθου Criminal Court",
         "otc": "Κορίνθου Court of First Instance"
       }
     },
     "gr:nafplio:nafplion": {
       "institution-part": {
+        "otcc": "Ναυπλίου Criminal Court",
         "otc": "Ναυπλίου Court of First Instance"
       }
     },
     "gr:nafplio:sparta": {
       "institution-part": {
+        "otcc": "Σπάρτης Criminal Court",
         "otc": "Σπάρτης Court of First Instance"
       }
     },
     "gr:nafplio:tripoli": {
       "institution-part": {
+        "otcc": "Τριπόλεως Criminal Court",
         "otc": "Τριπόλεως Court of First Instance"
       }
     },
     "gr:patron": {
       "institution-part": {
+        "mc": "Πατρων Martime Court",
         "aca": "Πατρων Administrative Court of Appeal",
         "oca": "Πατρων Court of Appeal"
       }
     },
     "gr:patron:agrinion": {
       "institution-part": {
+        "otcc": "Αγρινίου Criminal Court",
         "atc": "Αγρινίου Administrative Court of First Instance",
         "otc": "Αγρινίου Court of First Instance"
       }
     },
     "gr:patron:aigion": {
       "institution-part": {
+        "otcc": "Αιγίου Criminal Court",
         "otc": "Αιγίου Court of First Instance"
       }
     },
     "gr:patron:amaliada": {
       "institution-part": {
+        "otcc": "Αμαλιάδας Criminal Court",
         "otc": "Αμαλιάδας Court of First Instance"
       }
     },
     "gr:patron:ilia": {
       "institution-part": {
+        "otcc": "Ηλείας Criminal Court",
         "otc": "Ηλείας Court of First Instance"
       }
     },
     "gr:patron:kalavryta": {
       "institution-part": {
+        "otcc": "Καλαβρύτων Criminal Court",
         "otc": "Καλαβρύτων Court of First Instance"
       }
     },
     "gr:patron:kefallinias": {
       "institution-part": {
+        "otcc": "Κεφαλληνίας Criminal Court",
         "otc": "Κεφαλληνίας Court of First Instance"
       }
     },
     "gr:patron:lefkada": {
       "institution-part": {
+        "otcc": "Λευκάδας Criminal Court",
         "otc": "Λευκάδας Court of First Instance"
       }
     },
     "gr:patron:mesolongi": {
       "institution-part": {
+        "otcc": "Μεσολογγίου Criminal Court",
         "otc": "Μεσολογγίου Court of First Instance"
       }
     },
@@ -378,6 +441,7 @@
     },
     "gr:patron:patras": {
       "institution-part": {
+        "otcc": "Πατρών Criminal Court",
         "atc": "Πατρών Administrative Court of First Instance",
         "otc": "Πατρών Court of First Instance"
       }
@@ -389,11 +453,13 @@
     },
     "gr:patron:zakynthos": {
       "institution-part": {
+        "otcc": "Ζακύνθου Criminal Court",
         "otc": "Ζακύνθου Court of First Instance"
       }
     },
     "gr:piraeus": {
       "institution-part": {
+        "mc": "Πειραιωσ Martime Court",
         "aca": "Πειραιωσ Administrative Court of Appeal",
         "oca": "Πειραιωσ Court of Appeal"
       }
@@ -420,6 +486,7 @@
     },
     "gr:piraeus:piraeus": {
       "institution-part": {
+        "otcc": "Πειραιώς Criminal Court",
         "atc": "Πειραιώς Administrative Court of First Instance",
         "otc": "Πειραιώς Court of First Instance"
       }
@@ -436,32 +503,38 @@
     },
     "gr:thessaloniki": {
       "institution-part": {
+        "mc": "Θεσσαλονικησ Martime Court",
         "aca": "Θεσσαλονικησ Administrative Court of Appeal",
         "oca": "Θεσσαλονικησ Court of Appeal"
       }
     },
     "gr:thessaloniki:chalkidiki": {
       "institution-part": {
+        "otcc": "Χαλκιδικής Criminal Court",
         "otc": "Χαλκιδικής Court of First Instance"
       }
     },
     "gr:thessaloniki:edessa": {
       "institution-part": {
+        "otcc": "Έδεσσας Criminal Court",
         "otc": "Έδεσσας Court of First Instance"
       }
     },
     "gr:thessaloniki:giannitson": {
       "institution-part": {
+        "otcc": "Γιαννιτσών Criminal Court",
         "otc": "Γιαννιτσών Court of First Instance"
       }
     },
     "gr:thessaloniki:katerini": {
       "institution-part": {
+        "otcc": "Κατερίνης Criminal Court",
         "otc": "Κατερίνης Court of First Instance"
       }
     },
     "gr:thessaloniki:kilkis": {
       "institution-part": {
+        "otcc": "Κιλκίς Criminal Court",
         "otc": "Κιλκίς Court of First Instance"
       }
     },
@@ -472,54 +545,64 @@
     },
     "gr:thessaloniki:serres": {
       "institution-part": {
+        "otcc": "Σερρών Criminal Court",
         "atc": "Σερρών Administrative Court of First Instance",
         "otc": "Σερρών Court of First Instance"
       }
     },
     "gr:thessaloniki:thessaloniki": {
       "institution-part": {
+        "otcc": "Θεσσαλονίκης Criminal Court",
         "atc": "Θεσσαλονίκης Administrative Court of First Instance",
         "otc": "Θεσσαλονίκης Court of First Instance"
       }
     },
     "gr:thessaloniki:veria": {
       "institution-part": {
+        "otcc": "Βέροιας Criminal Court",
         "atc": "Βέροιας Administrative Court of First Instance",
         "otc": "Βέροιας Court of First Instance"
       }
     },
     "gr:thrace": {
       "institution-part": {
+        "mc": "Θρακησ (Κομοτηνή) Martime Court",
         "oca": "Θρακησ (Κομοτηνή) Court of Appeal"
       }
     },
     "gr:thrace:drama": {
       "institution-part": {
+        "otcc": "Δράμας Criminal Court",
         "otc": "Δράμας Court of First Instance"
       }
     },
     "gr:thrace:evros": {
       "institution-part": {
+        "otcc": "Έβρου Criminal Court",
         "otc": "Έβρου Court of First Instance"
       }
     },
     "gr:thrace:kavala": {
       "institution-part": {
+        "otcc": "Καβάλας Criminal Court",
         "otc": "Καβάλας Court of First Instance"
       }
     },
     "gr:thrace:orestiada": {
       "institution-part": {
+        "otcc": "Ορεστιάδας Criminal Court",
         "otc": "Ορεστιάδας Court of First Instance"
       }
     },
     "gr:thrace:rodopi": {
       "institution-part": {
+        "otcc": "Ροδόπης Criminal Court",
         "otc": "Ροδόπης Court of First Instance"
       }
     },
     "gr:thrace:xanthi": {
       "institution-part": {
+        "otcc": "Ξάνθης Criminal Court",
         "otc": "Ξάνθης Court of First Instance"
       }
     },
