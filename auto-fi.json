@@ -1,11 +1,12 @@
 {
   "filename": "auto-fi.json",
   "name": "Finland",
-  "version": "2020-10-15 22:01:47 UTC",
+  "version": "2022-07-28 09:33:37 UTC",
   "xdata": {
     "default": {
       "place": {
         "FI": "Finland",
+        "FI:UNKNOWN": "Unknown Jurisdiction",
         "FI:AHVENANMAA": "Ahvenanmaan",
         "FI:HAMEENLINNA": "Hämeenlinnan",
         "FI:HELSINKI": "Helsingin",
@@ -36,6 +37,9 @@
         "FI:TURKU:AHVENANMAA": "Ahvenanmaan",
         "FI:POHJANMAA": "Vaasan",
         "FI:VAASA": "Vaasan",
+        "FI:VAASA:OSTROBOTHNIA": "Ostrobothnia",
+        "FI:VAASA:CENTRAL.OSTROBOTHNIA": "Central Ostrobothnia",
+        "FI:VAASA:SOUTH.OSTROBOTHNIA": "South Ostrobothnia",
         "FI:VAASA:ETELA.POHJANMAA": "Etelä-Pohjanmaan",
         "FI:VAASA:KESKI.SUOMI": "Keski-Suomen",
         "FI:VAASA:POHJANMAA": "Pohjanmaan",
@@ -60,12 +64,26 @@
         "kko": "KKO"
       }
     },
-    "fi:ahvenanmaa": {
+    "fi:unknown": {
       "institution-part": {
-        "hao": "Ahvenanmaan hallinto-oikeus"
+        "hao": "Unknown Jurisdiction hallinto-oikeus",
+        "ko": "Unknown Jurisdiction käräjäoikeus",
+        "ho": "Unknown Jurisdiction hovioikeus"
       },
       "institution-entire": {
-        "hao": "HAO"
+        "hao": "HAO",
+        "ko": "KO",
+        "ho": "HO"
+      }
+    },
+    "fi:ahvenanmaa": {
+      "institution-part": {
+        "hao": "Ahvenanmaan hallinto-oikeus",
+        "ko": "Ahvenanmaan käräjäoikeus"
+      },
+      "institution-entire": {
+        "hao": "HAO",
+        "ko": "KO"
       }
     },
     "fi:hameenlinna": {
@@ -304,6 +322,30 @@
       },
       "institution-entire": {
         "ho": "HO"
+      }
+    },
+    "fi:vaasa:ostrobothnia": {
+      "institution-part": {
+        "ko": "Ostrobothnia käräjäoikeus"
+      },
+      "institution-entire": {
+        "ko": "KO"
+      }
+    },
+    "fi:vaasa:central.ostrobothnia": {
+      "institution-part": {
+        "ko": "Central Ostrobothnia käräjäoikeus"
+      },
+      "institution-entire": {
+        "ko": "KO"
+      }
+    },
+    "fi:vaasa:south.ostrobothnia": {
+      "institution-part": {
+        "ko": "South Ostrobothnia käräjäoikeus"
+      },
+      "institution-entire": {
+        "ko": "KO"
       }
     },
     "fi:vaasa:etela.pohjanmaa": {
