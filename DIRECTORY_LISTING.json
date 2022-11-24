@@ -218,10 +218,10 @@
   {
     "filename": "auto-ca.json",
     "name": "Abbreviations: Canada legal",
-    "version": "2022-04-01 15:40:07 UTC",
+    "version": "2022-11-24 19:10:24 UTC",
     "jurisdiction": "ca",
     "variants": {
-      "fr": "2022-04-01 15:40:07 UTC"
+      "fr": "2022-11-24 19:10:24 UTC"
     }
   },
   {
@@ -333,8 +333,8 @@
     "jurisdiction": "cy",
     "variants": {
       "en": "2022-06-15 12:22:07 UTC",
-      "enIBFD": "2022-06-17 13:11:15 UTC",
-      "englished": "2022-06-15 23:46:48 UTC"
+      "englished": "2022-06-15 23:46:48 UTC",
+      "enIBFD": "2022-06-17 13:11:15 UTC"
     }
   },
   {
@@ -558,8 +558,8 @@
     "version": "2022-06-21 08:54:42 UTC",
     "jurisdiction": "gr",
     "variants": {
-      "enIBFD": "2022-06-21 08:54:42 UTC",
-      "englished": "2022-06-21 08:54:42 UTC"
+      "englished": "2022-06-21 08:54:42 UTC",
+      "enIBFD": "2022-06-21 08:54:42 UTC"
     }
   },
   {
