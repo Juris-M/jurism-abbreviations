@@ -1,7 +1,7 @@
 {
   "filename": "auto-ca-fr.json",
   "name": "Canada",
-  "version": "2022-04-01 15:40:07 UTC",
+  "version": "2023-03-20 22:10:21 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -239,11 +239,13 @@
     "ca:ab": {
       "institution-part": {
         "court.appeal": "Alta CA",
+        "court.kings.bench": "Alta KB",
         "court.queens.bench": "Alta QB",
         "provincial.court": "Alta CP"
       },
       "institution-entire": {
         "court.appeal": "ABCA",
+        "court.kings.bench": "ABKB",
         "court.queens.bench": "ABQB",
         "provincial.court": "ABPC"
       },
@@ -298,11 +300,13 @@
       "institution-part": {
         "court.appeal": "Man CA",
         "court.queens.bench": "Man QB",
+        "court.kings.bench": "Man KB",
         "provincial.court": "Man CP"
       },
       "institution-entire": {
         "court.appeal": "MBCA",
         "court.queens.bench": "MBQB",
+        "court.kings.bench": "MBKB",
         "provincial.court": "MBPC"
       },
       "container-title": {
@@ -319,13 +323,15 @@
     },
     "ca:nb": {
       "institution-part": {
-        "court.appeal": "CA N-B",
-        "court.queens.bench": "BR N-B",
-        "provincial.court": "CP N-B"
+        "court.appeal": "N-B CA",
+        "court.queens.bench": "N-B BR",
+        "court.kings.bench": "N-B BR",
+        "provincial.court": "N-B CP"
       },
       "institution-entire": {
         "court.appeal": "NBCA",
         "court.queens.bench": "NBBR",
+        "court.kings.bench": "NBBR",
         "provincial.court": "NBCP"
       },
       "container-title": {
@@ -661,11 +667,13 @@
       "institution-part": {
         "court.appeal": "Sask CA",
         "court.queens.bench": "Sask QB",
+        "court.kings.bench": "Sask KB",
         "provincial.court": "Sask CP"
       },
       "institution-entire": {
         "court.appeal": "SKCA",
         "court.queens.bench": "SKQB",
+        "court.kings.bench": "SKKB",
         "provincial.court": "SKPC"
       },
       "container-title": {
