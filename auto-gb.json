@@ -1,7 +1,7 @@
 {
   "filename": "auto-gb.json",
   "name": "United Kingdom",
-  "version": "2022-08-07 09:48:43 UTC",
+  "version": "2023-04-16 09:16:29 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -78,10 +78,16 @@
     "gb": {
       "institution-part": {
         "house.of.lords": "House of Lords",
-        "privy.council": "Privy Council",
+        "privy.council": "PC",
         "supreme.court": "UKSC",
         "uksiac": "UKSIAC",
-        "ukut.iac": "UKUT|IAC"
+        "ukut.iac": "UKUT|IAC",
+        "ukft.iac": "UKFT|IAC",
+        "ait": "AIT"
+      },
+      "institution-entire": {
+        "house.of.lords": "UKHL",
+        "privy.council": "UKPC"
       }
     },
     "gb:england.and.wales": {

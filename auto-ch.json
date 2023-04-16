@@ -1,7 +1,7 @@
 {
   "filename": "auto-ch.json",
   "name": "Switzerland",
-  "version": "2021-01-27 04:48:22 UTC",
+  "version": "2023-04-16 09:16:29 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -35,7 +35,7 @@
     "ch": {
       "institution-part": {
         "fcc": "Bundesstrafgericht",
-        "fsc": "Schweizerisches Bundesgericht"
+        "fsc": "Sweizerisches Bundesgericht"
       }
     },
     "ch:aargau": {

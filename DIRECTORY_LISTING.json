@@ -245,7 +245,7 @@
   {
     "filename": "auto-ch.json",
     "name": "Abbreviations: Switzerland legal",
-    "version": "2021-01-27 04:48:22 UTC",
+    "version": "2023-04-16 09:16:29 UTC",
     "jurisdiction": "ch"
   },
   {
@@ -507,10 +507,10 @@
   {
     "filename": "auto-gb.json",
     "name": "Abbreviations: United Kingdom legal",
-    "version": "2022-08-07 09:48:43 UTC",
+    "version": "2023-04-16 09:16:29 UTC",
     "jurisdiction": "gb",
     "variants": {
-      "fr": "2021-09-28 19:24:09 UTC"
+      "fr": "2023-04-16 09:16:29 UTC"
     }
   },
   {

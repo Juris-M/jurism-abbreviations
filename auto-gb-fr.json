@@ -1,7 +1,7 @@
 {
   "filename": "auto-gb-fr.json",
   "name": "United Kingdom",
-  "version": "2021-09-28 19:24:09 UTC",
+  "version": "2023-04-16 09:16:29 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -81,7 +81,9 @@
         "privy.council": "PC",
         "supreme.court": "UKSC",
         "uksiac": "UKSIAC",
-        "ukut.iac": "UKUT|IAC"
+        "ukut.iac": "UKUT|IAC",
+        "ukft.iac": "UKFT|IAC",
+        "ait": "AIT"
       },
       "institution-entire": {
         "house.of.lords": "UKHL",
