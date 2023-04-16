@@ -1,7 +1,7 @@
 {
   "filename": "auto-us.json",
   "name": "United States",
-  "version": "2021-01-03 01:17:27 UTC",
+  "version": "2023-04-16 01:51:43 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -150,6 +150,7 @@
         "US:CA.D": "D. Cal.",
         "US:CO": "Colo.",
         "US:CT": "Conn.",
+        "US:CZ": "C.Z",
         "US:DC": "D.C.",
         "US:DE": "Del.",
         "US:DE.D": "D. Del.",
