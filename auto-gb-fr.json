@@ -1,7 +1,7 @@
 {
   "filename": "auto-gb-fr.json",
   "name": "United Kingdom",
-  "version": "2023-04-16 09:16:29 UTC",
+  "version": "2023-11-08 04:07:06 UTC",
   "xdata": {
     "default": {
       "place": {
@@ -83,7 +83,8 @@
         "uksiac": "UKSIAC",
         "ukut.iac": "UKUT|IAC",
         "ukft.iac": "UKFT|IAC",
-        "ait": "AIT"
+        "ait": "AIT",
+        "ssat.osscsc": "SSAT|OSSCSC"
       },
       "institution-entire": {
         "house.of.lords": "UKHL",
